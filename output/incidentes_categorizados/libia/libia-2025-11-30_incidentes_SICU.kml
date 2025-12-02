@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-30_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-30 16:48:00</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-30 16:48:00<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> - La diplomacia es la primera línea de defensa de nuestra seguridad nacional, la armadura que protege a nuestra soberanía y el instrumento que protege nuestros intereses y protege sus intereses. - La personalidad libia siempre es capaz de impresionar al mundo con su habilidad para navegar en medio de tormentas de política internacional.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-30 16:51:12</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-30 16:51:12<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El observador de Libia El observador de Libia El jefe de la Guardia Costera de Libia y la Autoridad de Seguridad Portuaria encabezó una delegación, a la séptima y última reunión del comité directivo del Secu de Fronteras Integradas Un equipo del Centro de Medicina y Apoyo de Emergencia (EMSC) llevó a cabo inspecciones el lunes de varios valles, caminos de inundación y presas como parte de su monit de campo en curso La Embajada de Libia en los Países Bajos ha suspendido temporalmente sus servicios consulares, citando arreglos administrativos y técnicos urgentes.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-30 18:57:45</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-30 18:57:45<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El observador de Libia El observador de Libia El jefe de la Guardia Costera de Libia y la Autoridad de Seguridad Portuaria encabezó una delegación, a la séptima y última reunión del comité directivo del Secu de Fronteras Integradas Un equipo del Centro de Medicina y Apoyo de Emergencia (EMSC) llevó a cabo inspecciones el lunes de varios valles, caminos de inundación y presas como parte de su monit de campo en curso La Embajada de Libia en los Países Bajos ha suspendido temporalmente sus servicios consulares, citando arreglos administrativos y técnicos urgentes.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-30 20:34:26</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-30 20:34:26<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El jefe de la Guardia Costera de Libia y la Autoridad de Seguridad Portuaria encabezaron una delegación, a la séptima y última reunión del comité directivo de la Junta de Defensa de la Frontera Integrada Un equipo del Centro de Defensa de Emergencia y Apoyo (EMSC) llevó a cabo inspecciones el lunes de varios valles, caminos de inundación y presas como parte de su monit de campo en curso La Embajada de Libia en los Países Bajos ha suspendido temporalmente sus servicios consulares, citando arreglos administrativos y técnicos urgentes.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-30 16:48:00</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-30 16:48:00<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La Liga de Pacientes de Atrofia en Libia pide una protesta el martes 2 de diciembre, frente a la Oficina del Primer Ministro, en Trípoli, bajo el lema &quot;Basta de silencio&quot;.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-30 16:48:00</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-30 16:48:00<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> Fotografías de protesta de varios propietarios de bienes inmuebles en la calle Benghazi de Misrata, después de cerrar sus comercios sin recibir indemnización alguna. - Los propietarios de bienes inmuebles formaron escudos humanos frente a los vehículos de la policía, para impedir que pasaran, en contra de la ejecución de la decisión de expropiar sus propiedades.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-30 16:48:22</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-30 16:48:22<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Decenas de personas salieron a la salida de la sede del gobierno en el camino de la senda para participar en una manifestación en apoyo del gobierno de Abdulhamid, a cambio de 500 dinares en efectivo por participante, según las mismas fuentes.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-30 18:30:55</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-30 18:30:55<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> Una protesta contra los propietarios de bienes inmuebles de la calle Benghazi, Misrata, después del cierre de sus comercios. - Una protesta contra varios propietarios de bienes inmuebles de la calle Benghazi, en Misrata, después de que se cerraran sus comercios sin recibir indemnización alguna.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-30 16:48:02</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-30 16:48:02<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Tribunal Penal de Trípoli condenó al acusado a siete años y siete meses de prisión y le condenó a 3.000 dinares. El Tribunal también ordenó la confiscación de la sustancia incautada para garantizar su no circulación y la protección de la sociedad contra las drogas.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:48:02</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:48:02<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Una fuente militar del ejército libio dijo que la fuerza de disuasión había violado oficialmente el Acuerdo de Armisticio firmado en Trípoli la semana pasada llevando a cabo repetidos secuestros y ataques verbales y físicos contra soldados del ejército, así como confiscando sus teléfonos y robando sus datos. La fuente explicó en declaraciones que las violaciones continuaron hasta esta mañana, cuando la fuerza de disuasión secuestró y torturó al Jefe de Estado Mayor de la Brigada 444 combates de Mohamed Bogar antes de que fuera trasladado al hospital para recibir tratamiento.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:48:02</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:48:02<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Un avión teledirigido probablemente de origen ucraniano fue detectado volando en gran escala sobre el cielo de los cielos de la ciudad de Grean, con noticias de que esos vehículos habían entrado en Trípoli a través de Argelia. Viturí explicó en su página de la plataforma X que la información indicaba una coordinación entre el Subsecretario de Defensa del Gobierno de Dubai, Abdussalam Zubey, y el agregado militar de Ucrania en Argelia, Andre Baiuk, con el fin de facilitar la entrada de estos vehículos.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:48:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:48:22<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Como hemos señalado en publicaciones anteriores, la reciente campaña de los medios de comunicación contra el dispositivo de disuasión se produjo en el marco de la preparación de la opinión pública para poner fin al armisticio y preparar el terreno para una acción militar encaminada a poner fin total y enérgicamente a la fuerza de disuasión.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:48:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:48:22<br><b>Localización:</b> Tripoli International Airport<br><b>Descripción:</b> Tras un acuerdo para llevar a cabo el despliegue de vehículos aéreos no tripulados de Ucrania a través del Agregado Militar de Ucrania en Argelia, el Coronel Andrey Baiuk, un investigador especializado libio, advirtió a Jalal Harshaoui del peligro de una rápida proliferación de tipos avanzados de aeronaves no tripuladas en Libia, en el contexto de una carrera de armamentos cada vez más intensa entre el Este y el Oeste. Harshawi afirmó que esos vehículos contaban con sistemas de fibra óptica capaces de derribar varios tipos de explosivos, y señaló que en los últimos meses se disponía de ello...]]></description>
+      <Point>
+        <coordinates>13.157000,32.676000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 17:02:53</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 17:02:53<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Según fuentes bien informadas, el paso de estas marchas se llevó a cabo en coordinación sin previo aviso entre el Subsecretario de Defensa del Gobierno de Dubai, Abdussalam Zubey, y el agregado militar de Ucrania en Argelia, Andre Baiuk.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 19:21:26</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 19:21:26<br><b>Localización:</b> Tajoura<br><b>Descripción:</b> Libia, periódico a las 24 horas del Consejo de Estado: Takala visitó la Facultad de Ingeniería Militar de Tagoura, donde el Presidente del Consejo Consultivo Superior del Estado, Mohamed Tekala, junto con el Asesor del Comité de Seguridad Nacional del Consejo, Adil Abdelkafi y el Director de la Oficina de Seguimiento, el Gobierno de Unidad, Dabba, siguió los resultados de la visita de la delegación de su Gobierno a los Estados Unidos, que estuvo a cargo de Abdulhamid Al Dabba, Presidente del Gobierno de Unidad Provisional, el domingo, los resultados de la visita oficial del Director General...]]></description>
+      <Point>
+        <coordinates>13.385000,32.883000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 18:30:55</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 18:30:55<br><b>Localización:</b> Misrata<br><b>Descripción:</b> Las Naciones Unidas e Italia examinan los progresos realizados en las operaciones de limpieza del lugar de la explosión de Misrata (Libia) (c_blos)  [Enlace: https://n9.cl/yv71do]]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 20:16:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 20:16:36<br><b>Localización:</b> Misrata<br><b>Descripción:</b> Libia, periódico a las 24 horas, Misión de las Naciones Unidas y Embajador de Italia, donde se examinan los progresos realizados en la limpieza del lugar de la explosión de Misrata, la Misión de Apoyo de las Naciones Unidas en Libia (UNSMIL) reveló los detalles de la visita de la Representante Especial Adjunta del Secretario General de las Naciones Unidas y Coordinadora Residente, Ulrika Richardson, y el Embajador ...]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

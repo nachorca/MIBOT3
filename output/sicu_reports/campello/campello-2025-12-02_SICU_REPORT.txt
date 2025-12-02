@@ -1,0 +1,168 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-12-02
+	•	Hora de edición: 2025-12-02 13:44:44
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-02 – total incidentes SICU: 10)
+
+• Criminalidad: 7 incidente(s) registrado(s).
+• Hazards: 3 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (7)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Dete...
+		Fecha/Hora: 2025-12-02 07:00:35
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Un jardinero se cae de tres metros de altura mientras trabajaba en Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón Torrevieja licita de nuevo el servicio de bus urbano después de que lo tumbara un tribunal "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela Orihuela abre las puertas del centro ocupacional Oriol, mientras el AMPA advierte de que...
+		Fecha/Hora: 2025-12-02 07:00:41
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Dete...
+		Fecha/Hora: 2025-12-02 09:06:35
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Un jardinero se cae de tres metros de altura mientras trabajaba en Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón Torrevieja licita de nuevo el servicio de bus urbano después de que lo tumbara un tribunal "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela Orihuela abre las puertas del centro ocupacional Oriol, mientras el AMPA advierte de que...
+		Fecha/Hora: 2025-12-02 09:06:41
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Dete...
+		Fecha/Hora: 2025-12-02 11:09:01
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Un jardinero se cae de tres metros de altura mientras trabajaba en Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón Torrevieja licita de nuevo el servicio de bus urbano después de que lo tumbara un tribunal "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela El tiempo en Alicante: 5°C al amanecer en el interior y hasta 20°C en la costa Orihuela a...
+		Fecha/Hora: 2025-12-02 11:09:10
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Un jardinero se cae de tres metros de altura mientras trabajaba en Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón Torrevieja licita de nuevo el servicio de bus urbano después de que lo tumbara un tribunal "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela Orihuela licita ahora la redacción de la Zona de Bajas Emisiones para restringir el tráfi...
+		Fecha/Hora: 2025-12-02 13:44:39
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un conductor "ebrio" que provocó un accidente es absuelto tras conseguir anular la prueba del alcoholímetro Secta sexual de Vistabella: las dos principales acusadas responsabilizan al fallecido Tío Toni de los abusos a menores Muere una mujer en el incendio de una vivienda en Fuengirola (Málaga) Tragedia en Vila-real: Fallece una niña de 12 años en la piscina del centro de tecnificación deportiva El técnico de Aguas de Calp admite que solo controlaba aspectos formales del contrato y no le tocaba fiscalizar Fallece un hombre al quedar atrapado...
+		Fecha/Hora: 2025-12-02 07:00:34
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN La Policía de Jaén reconstruye con los WhatsApp las últimas horas de las jóvenes antes de suicidarse: "Gracias por ser mi refugio, mi hermana elegida" Un conductor "ebrio" que provocó un accidente es absuelto tras conseguir anular la prueba del alcoholímetro Secta sexual de Vistabella: las dos principales acusadas responsabilizan al fallecido Tío Toni de los abusos a menores Muere una mujer en el incendio de una vivienda en Fuengirola (Málaga) Tragedia en Vila-real: Fallece una niña de 12 años en la piscina del centro de tecnificación deportiv...
+		Fecha/Hora: 2025-12-02 09:06:34
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN La Policía de Jaén reconstruye con los WhatsApp las últimas horas de las jóvenes antes de suicidarse: "Gracias por ser mi refugio, mi hermana elegida" Un conductor "ebrio" que provocó un accidente es absuelto tras conseguir anular la prueba del alcoholímetro Secta sexual de Vistabella: las dos principales acusadas responsabilizan al fallecido Tío Toni de los abusos a menores Muere una mujer en el incendio de una vivienda en Fuengirola (Málaga) Tragedia en Vila-real: Fallece una niña de 12 años en la piscina del centro de tecnificación deportiv...
+		Fecha/Hora: 2025-12-02 11:09:01
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Criminalidad: 7 foco(s) – principales áreas: localización no especificada
+	• Hazards: 3 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

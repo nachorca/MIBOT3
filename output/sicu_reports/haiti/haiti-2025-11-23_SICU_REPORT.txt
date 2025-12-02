@@ -1,0 +1,138 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: HAITÍ / Haiti
+	•	Fecha (día operativo): 2025-11-23
+	•	Hora de edición: 2025-11-24 00:10:36
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-23 – total incidentes SICU: 4)
+
+• Conflicto Armado: 1 incidente(s) registrado(s).
+• Criminalidad: 3 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Kenscoff (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Kenscoff
+		Breve descripción analítica: En Kenscoff se escuchan muchos disparos.
+		Fecha/Hora: 2025-11-23 17:27:15
+		Fuente: @soidensinfoplus
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (2), Port-au-Prince (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: La PNH golpea 400 Mawozo: varios miembros de bandas muertas y un fusil Barrrett confiscado - Haiti Gazette Daily Haiti News  400-mawozo-varon-miembros de pandillas-tu y un fusil-barrett-saisi/La PNH golpea 400 Mawozo: varios miembros de pandillas muertos y un fusil Barrett incautado La Policía Nacional de Haití (PNH) llevó a cabo este viernes una serie de operaciones de seguridad reforzadas en el municipio de Cruz de Bouquets, bas de la banda criminal 400 Mawozo.  [Enlace: https://haitigazette.com/la-pnh-frappe-400-mawozo-plusieurs-membres-de-gangs-tues-et-un-fusil-barrett-saisi/]
+		Fecha/Hora: 2025-11-23 13:08:23
+		Fuente: WEB haitigazette.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sonje si w abite nan Plèn nan, svp pridan pridan pridan AK gwoup WhatsApp ak chèn WhatsApp k ap bay enfòmasyon yo. Gen plizyè moun gang yo pran telefòn yo menm rive touye yo inosamman koz yo jwenn sijè ki pa nan enterè yo.
+		Fecha/Hora: 2025-11-23 17:27:15
+		Fuente: @soidensinfoplus
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Dimanche 23 Novembre 2025 12:32 pm Bandi viv ansanm atake zòn bèsi , bèsi se fontyè antre kabarè ak akayè, Brigad nan zòn akayè ak lapolis pral frape ak gang yo. Rete konekte avèk *camera lakay enfo* pou plis detay
+		Fecha/Hora: 2025-11-23 19:49:07
+		Fuente: @soidensinfoplus
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Conflicto Armado: 1 foco(s) – principales áreas: Kenscoff
+	• Criminalidad: 3 foco(s) – principales áreas: localización no especificada, Port-au-Prince
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

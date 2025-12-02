@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-29_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-29 07:04:23</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-29 07:04:23<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> Inicio X El Primer Ministro libio Osama Hammad apoya el llamamiento de los ciudadanos a elecciones presidenciales rápidas Egipto repatria a 131 ciudadanos de Libia La delegación libia mantiene conversaciones parlamentarias de alto nivel en Rusia Libyan Airlines en Benghazi respalda la demanda pública de elecciones presidenciales Autoridades benghazis aseguran plazas públicas antes de las protestas Washington reafirma su compromiso de liderar Libia Paz Esfuerzo de Libia GNU se enfrenta a presiones después de acusaciones contra el ministro interino del Interior Autoridades suizas congelan vis...]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-29 09:09:07</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-29 09:09:07<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> Inicio X El Primer Ministro libio Osama Hammad apoya el llamamiento de los ciudadanos a elecciones presidenciales rápidas Egipto repatria a 131 ciudadanos de Libia La delegación libia mantiene conversaciones parlamentarias de alto nivel en Rusia Libyan Airlines en Benghazi respalda la demanda pública de elecciones presidenciales Autoridades benghazis aseguran plazas públicas antes de las protestas Washington reafirma su compromiso de liderar Libia Paz Esfuerzo de Libia GNU se enfrenta a presiones después de acusaciones contra el ministro interino del Interior Autoridades suizas congelan vis...]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

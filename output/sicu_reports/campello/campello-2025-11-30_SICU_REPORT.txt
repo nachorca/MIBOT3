@@ -1,0 +1,182 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-11-30
+	•	Hora de edición: 2025-11-30 22:29:08
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-30 – total incidentes SICU: 12)
+
+• Terrorismo: 3 incidente(s) registrado(s).
+• Conflicto Armado: 3 incidente(s) registrado(s).
+• Disturbios Civiles: 6 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Navidad se enciende en Elche entre coronas reales La Fiesta del Palmeral de Elche pone el foco en que Europa valore la trepa tradicional Tres detenidos en Elche por desviar 45.000 euros de su empresa revendiendo coches Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans Polémica suspensión: "Un atentado contra la libertad" Aquí tienes todo lo que debes saber sobre la programación de Navidad en Elche Aceituneros por un mes: La UMH se suma a la campaña de oliva y recoge 5.000 ki...
+		Fecha/Hora: 2025-11-30 16:48:23
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Navidad se enciende en Elche entre coronas reales La Fiesta del Palmeral de Elche pone el foco en que Europa valore la trepa tradicional Tres detenidos en Elche por desviar 45.000 euros de su empresa revendiendo coches Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans Polémica suspensión: "Un atentado contra la libertad" Aquí tienes todo lo que debes saber sobre la programación de Navidad en Elche Aceituneros por un mes: La UMH se suma a la campaña de oliva y recoge 5.000 ki...
+		Fecha/Hora: 2025-11-30 18:54:57
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Navidad se enciende en Elche entre coronas reales La Fiesta del Palmeral de Elche pone el foco en que Europa valore la trepa tradicional Tres detenidos en Elche por desviar 45.000 euros de su empresa revendiendo coches Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans Polémica suspensión: "Un atentado contra la libertad" Aquí tienes todo lo que debes saber sobre la programación de Navidad en Elche Barcala y Ruz apuestan por la continuidad de la Maratón Elche-Alicante Aceitun...
+		Fecha/Hora: 2025-11-30 20:55:54
+		Fuente: WEB https://www.informacion.es/elche/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de violaciones a menores Capturan en Benidorm a un exmilitar colombiano condenado en su país por robar 200.000 € Desmantelan desde Alicante una granja de móviles que enviaba 2,5 millones de SMS al día para ciberestafas INFORMACIÓN lanza su campaña ‘Súper Black Friday’ con descuentos de hasta el 60% en sus planes de suscripción Dos heridos en un accidente en la CV-80 e...
+		Fecha/Hora: 2025-11-30 16:48:23
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de violaciones a menores Capturan en Benidorm a un exmilitar colombiano condenado en su país por robar 200.000 € Desmantelan desde Alicante una granja de móviles que enviaba 2,5 millones de SMS al día para ciberestafas INFORMACIÓN lanza su campaña ‘Súper Black Friday’ con descuento...
+		Fecha/Hora: 2025-11-30 18:54:57
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de violaciones a menores Capturan en Benidorm a un exmilitar colombiano condenado en su país por robar 200.000 € Desmantelan desde Alicante una granja de móviles que enviaba 2,5 millones de SMS al día para ciberestafas INFORMACIÓN lanza su campaña ‘Súper Black Friday’ con descuento...
+		Fecha/Hora: 2025-11-30 20:55:54
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+⸻
+2.3. CRIMINALIDAD
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 6
+	• Principales áreas afectadas: Localización no especificada (6)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora y actualidad Comunidad Valenciana - Levante-EMV Muere el expresidente de la Generalitat, José Luis Olivas Un alto cargo de Mazón desaconsejó a Pradas el confinamiento por Forata por ser un “lío jurídico” Sira Rego (ministra de Juventud e Infancia): "Pérez Llorca ha asumido el negacionismo de la dana de Vox" Perfil: José Luis Olivas, el jefe del Consell que se convirtió en banquero Una nueva manifestación tras la dana pide que Mazón deje las Corts Levante-EMV refuerza su estructura directiva para consolidar la estrategia digital La lucha contra la "incertidumbre" de pacientes con...
+		Fecha/Hora: 2025-11-30 16:48:30
+		Fuente: WEB https://www.levante-emv.com/comunitat-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Muere en Monóvar un hombre de 46 años atropellado por su tractor Ha ocurrido hacia las 14:00 horas de este sábado Se han instalado tambié...
+		Fecha/Hora: 2025-11-30 16:48:38
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora y actualidad Comunidad Valenciana - Levante-EMV Muere el expresidente de la Generalitat, José Luis Olivas Un alto cargo de Mazón desaconsejó a Pradas el confinamiento por Forata por ser un “lío jurídico” Sira Rego (ministra de Juventud e Infancia): "Pérez Llorca ha asumido el negacionismo de la dana de Vox" Perfil: José Luis Olivas, el jefe del Consell que se convirtió en banquero Una nueva manifestación tras la dana pide que Mazón deje las Corts Levante-EMV refuerza su estructura directiva para consolidar la estrategia digital La lucha contra la "incertidumbre" de pacientes con...
+		Fecha/Hora: 2025-11-30 18:49:05
+		Fuente: WEB https://www.levante-emv.com/comunitat-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Muere en Monóvar un hombre de 46 años atropellado por su tractor Ha ocurrido hacia las 14:00 horas de este sábado Se han instalado tambié...
+		Fecha/Hora: 2025-11-30 18:49:12
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora y actualidad Comunidad Valenciana - Levante-EMV Muere el expresidente de la Generalitat, José Luis Olivas Un alto cargo de Mazón desaconsejó a Pradas el confinamiento por Forata por ser un “lío jurídico” Sira Rego (ministra de Juventud e Infancia): "Pérez Llorca ha asumido el negacionismo de la dana de Vox" Perfil: José Luis Olivas, el jefe del Consell que se convirtió en banquero Una nueva manifestación tras la dana pide que Mazón deje las Corts Levante-EMV refuerza su estructura directiva para consolidar la estrategia digital La lucha contra la "incertidumbre" de pacientes con...
+		Fecha/Hora: 2025-11-30 20:50:02
+		Fuente: WEB https://www.levante-emv.com/comunitat-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Muere en Monóvar un hombre de 46 años atropellado por su tractor Ha ocurrido hacia las 14:00 horas de este sábado Se han instalado tambié...
+		Fecha/Hora: 2025-11-30 20:50:11
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 3 foco(s) – principales áreas: localización no especificada
+	• Conflicto Armado: 3 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 6 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

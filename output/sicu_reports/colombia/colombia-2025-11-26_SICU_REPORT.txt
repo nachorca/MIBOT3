@@ -1,0 +1,119 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: COLOMBIA / Colombia
+	•	Fecha (día operativo): 2025-11-26
+	•	Hora de edición: 2025-11-26 22:59:57
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-26 – total incidentes SICU: 1)
+
+• Disturbios Civiles: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Movilidad en Bogotá hoy miércoles 26 de noviembre: camiones se estrellan en Kennedy y generan trancón; hay protestas en la Agencia Nacional de Tierras  En este portal utilizamos datos de navegación / cookies propias y de terceros para gestionar el portal, elaborar información estadística, optimizar la funcionalidad del sitio y mostrar publicidad relacionada con sus preferencias a través del análisis de la navegación.  [Enlace: https://www.eltiempo.com/bogota/movilidad-en-bogota-hoy-miercoles-26-de-noviembre-manifestaciones-bloqueos-y-actualizaciones-de-transito-en-la-ciudad-3511873]
+		Fecha/Hora: 2025-11-26 17:20:20
+		Fuente: WEB www.eltiempo.com
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

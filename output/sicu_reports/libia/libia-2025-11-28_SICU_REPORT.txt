@@ -1,0 +1,251 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-11-28
+	•	Hora de edición: 2025-11-28 18:39:09
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-28 – total incidentes SICU: 25)
+
+• Terrorismo: 1 incidente(s) registrado(s).
+• Conflicto Armado: 13 incidente(s) registrado(s).
+• Criminalidad: 4 incidente(s) registrado(s).
+• Disturbios Civiles: 7 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ucrania ha declarado el estado de alerta aérea en la capital de Ucrania, Kiev, y en las distintas regiones del país debido a los bombardeos aéreos rusos y a las noticias de que Rusia ha utilizado un cisne bombardero.
+		Fecha/Hora: 2025-11-28 16:09:57
+		Fuente: @Tkyroogklshy
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 13
+	• Principales áreas afectadas: Localización no especificada (8), Tripoli International Airport (3), Tripoli (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli International Airport
+		Breve descripción analítica: Inicio X Autoridades suizas Congelan Visas Diplomáticas Libianas Las Fuerzas Armadas Libianas inician 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia y HCS Finaliza el Trato para Nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a Al-Kufra EgyptAir Expande la Red con Nueva Ruta Conectando Alejandría y Libia Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejercer la máxima precaución 550 estudiantes libios a unirse a la Academia Nacional de P...
+		Fecha/Hora: 2025-11-28 07:08:05
+		Fuente: WEB https://libyareview.com/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-28 07:08:17
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-28 09:09:12
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli International Airport
+		Breve descripción analítica: Inicio X Autoridades suizas Congelan Visas Diplomáticas Libianas Las Fuerzas Armadas Libianas inician 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia y HCS Finaliza el Trato para Nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a Al-Kufra EgyptAir Expande la Red con Nueva Ruta Conectando Alejandría y Libia Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejercer la máxima precaución 550 estudiantes libios a unirse a la Academia Nacional de P...
+		Fecha/Hora: 2025-11-28 09:15:01
+		Fuente: WEB https://libyareview.com/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un ex director de la empresa de viviendas fue detenido con documentos de café por valor de 3 millones de dólares por el canal 14 israelí: Washington, a mediados de enero, para iniciar el despliegue de una fuerza internacional voluntaria en Gaza del ejército israelí, anunciando un grave acto de seguridad en el Monte del Cheikh y en el Golán sirio una declaración militar iraquí oficial sobre el vuelo de aviones de combate en el espacio aéreo meridional de Maduro ordenando a la Fuerza Aérea Venezolana “preparado” de 3 millones de dólares.
+		Fecha/Hora: 2025-11-28 10:44:28
+		Fuente: WEB https://almarsad.co/
+
+	• Localización: Tripoli International Airport
+		Breve descripción analítica: Inicio X Autoridades suizas Congelan Visas Diplomáticas Libianas Las Fuerzas Armadas Libianas inician 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia y HCS Finaliza el Trato para Nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a Al-Kufra EgyptAir Expande la Red con Nueva Ruta Conectando Alejandría y Libia Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejercer la máxima precaución 550 estudiantes libios a unirse a la Academia Nacional de P...
+		Fecha/Hora: 2025-11-28 11:39:29
+		Fuente: WEB https://libyareview.com/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-28 11:54:53
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La Unión no tolerará ningún cambio de gobierno que no sea el Presidente de la Comisión de la Unión Africana, Mahmoud Ali Youssef, condena el golpe militar en Guinea-Bissau y pide la liberación inmediata e incondicional del Presidente Amr Sisuko y de altos funcionarios y dirigentes políticos.
+		Fecha/Hora: 2025-11-28 11:55:48
+		Fuente: @sefr0ly
+
+	• Localización: Tripoli
+		Breve descripción analítica: Inicio X El GNU de Libia se enfrenta a presiones después de acusaciones contra el Ministro del Interior interino Autoridades suizas Congelan Visas Diplomáticas Libian Military Comienza 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia & HCS Finaliza Acuerdo para Nombrar Comisiones Electorales Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a la red de Al-Kufra EgyptAir de Libia con una nueva ruta que conecta Alejandría y Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejer...
+		Fecha/Hora: 2025-11-28 13:28:44
+		Fuente: WEB https://libyareview.com/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-28 13:55:03
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Ministro de Defensa de Turquía afirma que, a pesar de las tensiones en materia de seguridad en Libia, Guler afirmó que Libia, su vecino mediterráneo con fuertes vínculos con Turquía, estaba experimentando una gran calma sobre el terreno, haciendo hincapié en el apoyo al ejército libio mediante actividades de adiestramiento, asesoramiento y desarrollo de la cooperación militar bilateral. El Ministro explicó que los progresos logrados con las diversas partes libias forman parte de una política de “una Libia” que mantiene su integridad territorial y su cohesión nacional.
+		Fecha/Hora: 2025-11-28 16:09:56
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-28 16:48:01
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: En la reunión de expertos en tecnología de la información y la comunicación, el presidente del Gobierno de Unidad Nacional, Abdul Hamid Dbeibah, el ministro del Interior interino, Emad Al-Trabelsi y el viceministro de Defensa, Abdulsalam Al-Zubi, para discutir la situación de los refugiados sudaneses, Ibrahim Ahmed, para evaluar el nivel de preparación de las agencias militares y de seguridad, y en los mecanismos de coordinación entre los ministerios de Interior y Defensa para mejorar las operaciones de campo y garantizar la rápida respuesta a las amenazas o infracciones de la compañía de t...
+		Fecha/Hora: 2025-11-28 16:49:24
+		Fuente: WEB https://libyaobserver.ly/
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Localización no especificada (3), Tripoli (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Servicio de Lucha contra los Estupefacientes y las Sustancias Psicotrópicas de la División Blanca dijo que sus agentes habían logrado capturar a un traficante de drogas con antecedentes penales después de que fuera atraído a una venta bien vigilada.
+		Fecha/Hora: 2025-11-28 09:27:47
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En un momento en que el servicio de aduanas se quejó un mes antes de la falta de sellos y advirtió de que los envíos se retrasarían como consecuencia de ello, el departamento de lucha contra el contrabando y las drogas de la "cariño" frustraba la venta de unos 3.000 sellos Krishm de contenedores de carga que una mujer tenía y propuse para vender a través de Facebook.
+		Fecha/Hora: 2025-11-28 13:13:00
+		Fuente: @sefr0ly
+
+	• Localización: Tripoli
+		Breve descripción analítica: Libia, periódico de las 24 horas “Al-Aradi”: Los asesinatos como consecuencia natural de la interrupción de la función de la mezquita, la escuela, los medios de comunicación y la familia fueron recibidos por Adal Razaq Al-Aradi, miembro del Foro para el Diálogo Político en Ginebra, y por la violencia callejera y los asesinatos; por la interrupción de la función de la mezquita y la escuela... la Embajadora del exilio de México, la Embajadora del Pueblo de México, que investigaba con el parlamentario Jorge, las cuestiones de interés común, recibió a la ex mujer de Mansuri de Libia, la Embajad...
+		Fecha/Hora: 2025-11-28 13:55:01
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Según una declaración de la brigada, el acusado fue remitido al Fiscal General para que adoptara medidas judiciales contra él, afirmando que seguía persiguiendo a los restos de esta banda, que había cometido crímenes atroces, de asesinato, ejecución en masa y enterramiento de cientos de personas en fosas comunes.
+		Fecha/Hora: 2025-11-28 17:34:59
+		Fuente: @gplusss
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Tobruk (3), Misrata (1), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Misrata
+		Breve descripción analítica: □ Una nueva filtración dentro de los grupos de Watsab, calculados por los partidarios del gobierno de Dabba en Misrata , parece que algunos grupos cerrados no tienen secretos, y las cartas que llegan a ellos ilustran la magnitud de los disturbios en las filas de los partidarios de Dabba. @libyabriaking
+		Fecha/Hora: 2025-11-28 16:09:56
+		Fuente: @libyabreaking
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas en varias ciudades libias para exigir la celebración de elecciones presidenciales, en medio de crecientes llamamientos populares para acelerar la transición y la estabilización política del país.
+		Fecha/Hora: 2025-11-28 16:09:57
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Tobruk
+		Breve descripción analítica: □ Una protesta en "Tibbuc" para pedir elecciones generales en "Libia TV " : horizontal HD: H11373
+		Fecha/Hora: 2025-11-28 17:31:01
+		Fuente: @almasartvlibya
+
+	• Localización: Tobruk
+		Breve descripción analítica: Declaración de protesta popular en la ciudad de Tabaq para las elecciones en Libia.
+		Fecha/Hora: 2025-11-28 17:31:01
+		Fuente: @almasartvlibya
+
+	• Localización: Derna
+		Breve descripción analítica: Una manifestación frente a la mezquita del Sahara en la ciudad de Drina, pidiendo la celebración de elecciones simultáneas de televisión por la ruta de la frecuencia:
+		Fecha/Hora: 2025-11-28 17:52:59
+		Fuente: @almasartvlibya
+
+	• Localización: Tripoli
+		Breve descripción analítica: Inicio X Autoridades de Bengasi Aseguran Plazas Públicas Antes de Protestas Washington reafirma su compromiso de liderar Libia Esfuerzo de Paz La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento Libia & HCS Finaliza acuerdo para nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a la aerolínea nacional de Libia Al-Kufra Egipto, EgyptAir, ha anunciado el lanzamiento de una nueva ruta de vuelo directa y regular que une Alejandría con Bengasi... Los comités responsables de las posiciones soberanas en el Parlamento libio y el Al...
+		Fecha/Hora: 2025-11-28 17:56:29
+		Fuente: WEB https://libyareview.com/
+
+	• Localización: Tobruk
+		Breve descripción analítica: • En una declaración formulada durante la protesta, el Presidente de la Asamblea Municipal, Sr. Boualba, pidió a la comunidad internacional que respetara la voluntad de los libios y sus legítimas exigencias de celebrar elecciones presidenciales y parlamentarias.
+		Fecha/Hora: 2025-11-28 17:59:00
+		Fuente: @gplusss
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 1 foco(s) – principales áreas: localización no especificada
+	• Conflicto Armado: 13 foco(s) – principales áreas: localización no especificada, Tripoli, Tripoli International Airport
+	• Criminalidad: 4 foco(s) – principales áreas: localización no especificada, Tripoli
+	• Disturbios Civiles: 7 foco(s) – principales áreas: Misrata, localización no especificada, Tripoli, Derna, Tobruk
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

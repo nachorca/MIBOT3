@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <style>
+                #map_9777383bfa71126aa9a6afc2416ff289 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9777383bfa71126aa9a6afc2416ff289" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9777383bfa71126aa9a6afc2416ff289 = L.map(
+                "map_9777383bfa71126aa9a6afc2416ff289",
+                {
+                    center: [32.8872, 13.1913],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_8b1eb6c3a3346ff9e6f4f7bdf94ce5de = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_8b1eb6c3a3346ff9e6f4f7bdf94ce5de.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var feature_group_19b438f85fcd8e93f9a40512ac44383b = L.featureGroup(
+                {}
+            );
+        
+    
+            var marker_bb792058dc4b663d63ab606444636021 = L.marker(
+                [32.7585104, 12.5732089],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_f1acfc8c5917acd055e129fbc8c412cf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_bb792058dc4b663d63ab606444636021.setIcon(icon_f1acfc8c5917acd055e129fbc8c412cf);
+        
+    
+        var popup_d7ff2ab7dc6fb251f197d54b2b9f8a25 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_034221b51f3bc833c3e6c2867144cb50 = $(`<div id="html_034221b51f3bc833c3e6c2867144cb50" style="width: 100.0%; height: 100.0%;"><b>Conflicto Armado</b><br>اشتباكات مسلحة فجر اليوم على الطريق الساحلي بمحيط المصفاة في الزاوية.<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 10:12</small><br><small><b>Severity:</b> Alta</small><br><small><b>Subcategory:</b> Enfrentamientos armados</small></div>`)[0];
+                popup_d7ff2ab7dc6fb251f197d54b2b9f8a25.setContent(html_034221b51f3bc833c3e6c2867144cb50);
+            
+        
+
+        marker_bb792058dc4b663d63ab606444636021.bindPopup(popup_d7ff2ab7dc6fb251f197d54b2b9f8a25)
+        ;
+
+        
+    
+    
+            marker_bb792058dc4b663d63ab606444636021.bindTooltip(
+                `<div>
+                     Zawiya (الزاوية)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_844420a1432d119c5e2a13a0ad181ae3 = L.marker(
+                [30.5864665, 18.4283423],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_da51136da05b5df34bb630c08409c0e1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_844420a1432d119c5e2a13a0ad181ae3.setIcon(icon_da51136da05b5df34bb630c08409c0e1);
+        
+    
+        var popup_1f1865d8c51f90a110775e9f85cc075d = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_dd8623eb7790ce89b38610e1fc9ea5ad = $(`<div id="html_dd8623eb7790ce89b38610e1fc9ea5ad" style="width: 100.0%; height: 100.0%;"><b>Conflicto Armado</b><br>وينر: مناورات فلينتلوك في ليبيا تحمل مخاطر وقد تستغلها موسكو لتقويض الدور الأمريكي . المبعوث الأمريكي الخاص السابق إلى ليبيا، جوناثان وينر، قال إن تمرين “فلينتلوك 2026” العسكري الذي تنظمه الولايات الم<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 15:50</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Movimientos/Logística militar</small></div>`)[0];
+                popup_1f1865d8c51f90a110775e9f85cc075d.setContent(html_dd8623eb7790ce89b38610e1fc9ea5ad);
+            
+        
+
+        marker_844420a1432d119c5e2a13a0ad181ae3.bindPopup(popup_1f1865d8c51f90a110775e9f85cc075d)
+        ;
+
+        
+    
+    
+            marker_844420a1432d119c5e2a13a0ad181ae3.bindTooltip(
+                `<div>
+                     Sirte (سرت)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_77947c8bd5de613d7f32dfbe49b5253f = L.marker(
+                [32.7585104, 12.5732089],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_8b220a2a5acafaf2c498e42a14ed033e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_77947c8bd5de613d7f32dfbe49b5253f.setIcon(icon_8b220a2a5acafaf2c498e42a14ed033e);
+        
+    
+        var popup_d8ea7c385659eb168b3456c1fe408773 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_5a087b02176ee5295a8be9efa43cc7a2 = $(`<div id="html_5a087b02176ee5295a8be9efa43cc7a2" style="width: 100.0%; height: 100.0%;"><b>Conflicto Armado</b><br>بقيادة القوة المشتركة مصراتة، و ألوية 111 و444 و222 و52 و53 ستتحرك لتأمين الزاوية ويأتي ذلك ضمن تحركات الدبيبة لتجهيز قوة عسكرية مشتركة تهدف إلى بسط الأمن والسيطرة على المدينة بعد تصاعد حدة التوترات ا<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 16:15</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Movimientos/Logística militar</small></div>`)[0];
+                popup_d8ea7c385659eb168b3456c1fe408773.setContent(html_5a087b02176ee5295a8be9efa43cc7a2);
+            
+        
+
+        marker_77947c8bd5de613d7f32dfbe49b5253f.bindPopup(popup_d8ea7c385659eb168b3456c1fe408773)
+        ;
+
+        
+    
+    
+            marker_77947c8bd5de613d7f32dfbe49b5253f.bindTooltip(
+                `<div>
+                     Zawiya (الزاوية)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_203264c190a26541d8a8029cda69b240 = L.marker(
+                [24.1698921, 24.8766349],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_53165599f4ea13da9821ea271687e04b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_203264c190a26541d8a8029cda69b240.setIcon(icon_53165599f4ea13da9821ea271687e04b);
+        
+    
+        var popup_6807a39f49980cfab8c31130cb0ec334 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_2471c974be23028df9556244192c384b = $(`<div id="html_2471c974be23028df9556244192c384b" style="width: 100.0%; height: 100.0%;"><b>Conflicto Armado</b><br>رصد 37 رحلة شحن مشبوهة من الإمارات إلى شرق ليبيا خلال سبتمبر . حساب مختص بتتبع حركة الطيران كشف عن رصده نحو 37 رحلة شحن جوية وُصفت بالمشبوهة من الإمارات إلى شرق ليبيا خلال شهر سبتمبر 2025. . الحساب أو<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 16:34</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Movimientos/Logística militar</small></div>`)[0];
+                popup_6807a39f49980cfab8c31130cb0ec334.setContent(html_2471c974be23028df9556244192c384b);
+            
+        
+
+        marker_203264c190a26541d8a8029cda69b240.bindPopup(popup_6807a39f49980cfab8c31130cb0ec334)
+        ;
+
+        
+    
+    
+            marker_203264c190a26541d8a8029cda69b240.bindTooltip(
+                `<div>
+                     Kufra (الكفرة)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a948829ffde819de10a7daef27e6488c = L.marker(
+                [26.8234472, 18.1236723],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_1754f71c079686feec73aae920633340 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_a948829ffde819de10a7daef27e6488c.setIcon(icon_1754f71c079686feec73aae920633340);
+        
+    
+        var popup_4b25fecfce72f61bde0d6896a90eed9d = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_34fafb1acc139164050f144e0bfe36a8 = $(`<div id="html_34fafb1acc139164050f144e0bfe36a8" style="width: 100.0%; height: 100.0%;"><b>Conflicto Armado</b><br>خريج الكلية العسكرية في باتّه، بين زملائه اللي آباءهم علّقوا لهم الرتب، ما لقى غير أمه واقفة تبكي فخرًا ووجعًا، وبعد التخرج، مشى لقبر والده، وقف قدّامه وأدّى له التحية العسكرية، كأنه يقول له: &quot;ها قد و<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 17:53</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Movimientos/Logística militar</small></div>`)[0];
+                popup_4b25fecfce72f61bde0d6896a90eed9d.setContent(html_34fafb1acc139164050f144e0bfe36a8);
+            
+        
+
+        marker_a948829ffde819de10a7daef27e6488c.bindPopup(popup_4b25fecfce72f61bde0d6896a90eed9d)
+        ;
+
+        
+    
+    
+            marker_a948829ffde819de10a7daef27e6488c.bindTooltip(
+                `<div>
+                     Libia
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_af2b6b4c34ebad1614ac417dfda95640 = L.marker(
+                [24.1698921, 24.8766349],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_81080008f26bb214a348337c078050dc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_af2b6b4c34ebad1614ac417dfda95640.setIcon(icon_81080008f26bb214a348337c078050dc);
+        
+    
+        var popup_77b5e64812f6969e2c6e4563afa11f06 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_c5e45b3218e6d9d49726b58345635dbf = $(`<div id="html_c5e45b3218e6d9d49726b58345635dbf" style="width: 100.0%; height: 100.0%;"><b>Conflicto Armado</b><br>ناشرا تفاصيل بياناتها وأنواع طائراتها وتواريخها.. المحلل العسكري &quot;ريتش تيد&quot; يرصد 37 رحلة شحن عسكرية مشبوهة من إلى شرق مباشرة في شهر الماضي وحده، منها 4 إلى مطار كاشفًا أنّ إجمالي الرحلات بلغ 144 رحلة<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 17:53</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Movimientos/Logística militar</small></div>`)[0];
+                popup_77b5e64812f6969e2c6e4563afa11f06.setContent(html_c5e45b3218e6d9d49726b58345635dbf);
+            
+        
+
+        marker_af2b6b4c34ebad1614ac417dfda95640.bindPopup(popup_77b5e64812f6969e2c6e4563afa11f06)
+        ;
+
+        
+    
+    
+            marker_af2b6b4c34ebad1614ac417dfda95640.bindTooltip(
+                `<div>
+                     Kufra (الكفرة)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            feature_group_19b438f85fcd8e93f9a40512ac44383b.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var feature_group_902cb0858e96cb4c04b7b7a4c7f79aba = L.featureGroup(
+                {}
+            );
+        
+    
+            feature_group_902cb0858e96cb4c04b7b7a4c7f79aba.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var feature_group_1adb06aa728e222f101567afc97a7242 = L.featureGroup(
+                {}
+            );
+        
+    
+            var marker_3f733af28e70643131431c002049c16b = L.marker(
+                [32.5390015, 20.5675909],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_2146224d83b4f6ad0e9b25a9010b63ba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_3f733af28e70643131431c002049c16b.setIcon(icon_2146224d83b4f6ad0e9b25a9010b63ba);
+        
+    
+        var popup_8403b1d4541517dd79e89c59aae24994 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_f2b85d3bfa40c567a090c145e498052b = $(`<div id="html_f2b85d3bfa40c567a090c145e498052b" style="width: 100.0%; height: 100.0%;"><b>Delincuencia</b><br>مكافحة المخدرات ببنغازي يضبط موظفًا عامًا بحوزته حشيش ومصنع خمور محلية . جهاز مكافحة المخدرات والمؤثرات العقلية في بنغازي أعلن ضبط شخص ليبي الجنسية بعد تنفيذ كمين محكم أسفر عن العثور بحوزته على كميات<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 11:44</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Drogas/Alcohol ilegal</small></div>`)[0];
+                popup_8403b1d4541517dd79e89c59aae24994.setContent(html_f2b85d3bfa40c567a090c145e498052b);
+            
+        
+
+        marker_3f733af28e70643131431c002049c16b.bindPopup(popup_8403b1d4541517dd79e89c59aae24994)
+        ;
+
+        
+    
+    
+            marker_3f733af28e70643131431c002049c16b.bindTooltip(
+                `<div>
+                     Benghazi (بنغازي)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_63963b6ddb0eb606936e9304c18a5861 = L.marker(
+                [32.8762697, 13.1360119],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_8f203de3d7bce34ddacf8b4301dd03c2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_63963b6ddb0eb606936e9304c18a5861.setIcon(icon_8f203de3d7bce34ddacf8b4301dd03c2);
+        
+    
+        var popup_00ba4611b0edbf45c540e822264f607d = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_efbed22441a64553043766eebde67502 = $(`<div id="html_efbed22441a64553043766eebde67502" style="width: 100.0%; height: 100.0%;"><b>Delincuencia</b><br>🔴 | إصابة المليشياوي فاضل الأشتر التابع لعصابة الأمن العام بجروح بليغة إثر تعرضه لإطلاق نار في منطقة الريقاطة، حيث أصيب بثلاث طلقات نارية ونُقل على إثرها إلى العناية الفائقة بمستشفى غوط الشعال. وتعود<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 16:15</small><br><small><b>Severity:</b> Media</small><br><small><b>Subcategory:</b> Violencia armada</small></div>`)[0];
+                popup_00ba4611b0edbf45c540e822264f607d.setContent(html_efbed22441a64553043766eebde67502);
+            
+        
+
+        marker_63963b6ddb0eb606936e9304c18a5861.bindPopup(popup_00ba4611b0edbf45c540e822264f607d)
+        ;
+
+        
+    
+    
+            marker_63963b6ddb0eb606936e9304c18a5861.bindTooltip(
+                `<div>
+                     Tripoli (طرابلس)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8e0961786757de80e80ac00c04896b38 = L.marker(
+                [32.8762697, 13.1360119],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_24e6436c39bfdb70df576564464aa32b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_8e0961786757de80e80ac00c04896b38.setIcon(icon_24e6436c39bfdb70df576564464aa32b);
+        
+    
+        var popup_c09cef55a367a03dd7b0897a02e924d8 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_4bb83d76ba6dab368d0ec26dc0bd9c52 = $(`<div id="html_4bb83d76ba6dab368d0ec26dc0bd9c52" style="width: 100.0%; height: 100.0%;"><b>Delincuencia</b><br>فريق الهلال الأحمر بطرابلس ينتشل جثة رضيع في منطقة عين زارة • متطوعو فريق إدارة الجثث بجمعية الهلال الأحمر الليبي فرع طرابلس، ينتشلون اليوم الجمعة، جثة رضيع بمنطقة عين زارة – زويته. • وبحسب بيان للهلا<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 19:30</small><br><small><b>Severity:</b> Alta</small><br><small><b>Subcategory:</b> Hallazgo de cadáver</small></div>`)[0];
+                popup_c09cef55a367a03dd7b0897a02e924d8.setContent(html_4bb83d76ba6dab368d0ec26dc0bd9c52);
+            
+        
+
+        marker_8e0961786757de80e80ac00c04896b38.bindPopup(popup_c09cef55a367a03dd7b0897a02e924d8)
+        ;
+
+        
+    
+    
+            marker_8e0961786757de80e80ac00c04896b38.bindTooltip(
+                `<div>
+                     Tripoli (طرابلس)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            feature_group_1adb06aa728e222f101567afc97a7242.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var feature_group_fcb9afca4cbf5008fe9ceb0a65704422 = L.featureGroup(
+                {}
+            );
+        
+    
+            feature_group_fcb9afca4cbf5008fe9ceb0a65704422.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var feature_group_44225d642777cd70d4588c1dfeab7ccc = L.featureGroup(
+                {}
+            );
+        
+    
+            var marker_b8605a00de064509a585a58e3283331b = L.marker(
+                [32.5390015, 20.5675909],
+                {}
+            ).addTo(marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6);
+        
+    
+            var icon_16202f848e792bc9621e97b2df113322 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_b8605a00de064509a585a58e3283331b.setIcon(icon_16202f848e792bc9621e97b2df113322);
+        
+    
+        var popup_b919bba6d31dd404be0977c0679a1c26 = L.popup({"maxWidth": 350});
+
+        
+            
+                var html_bba24c2924f28d4d32527891c5b7a7d1 = $(`<div id="html_bba24c2924f28d4d32527891c5b7a7d1" style="width: 100.0%; height: 100.0%;"><b>Hazards</b><br>الأرصاد: تقلبات في الطقس ورياح نشطة على مناطق الشمال أصدر مركز الأرصاد الجوية، نشرة تفصيلية حول الأحوال الجوية المتوقعة في ليبيا خلال الأيام الثلاثة المقبلة ابتداءً من اليوم الجمعة 17 أكتوبر 2025، مشي<br><small><b>Date:</b> 2025-10-17</small><br><small><b>Time:</b> 10:12</small><br><small><b>Severity:</b> Baja</small><br><small><b>Subcategory:</b> Meteorología adversa</small></div>`)[0];
+                popup_b919bba6d31dd404be0977c0679a1c26.setContent(html_bba24c2924f28d4d32527891c5b7a7d1);
+            
+        
+
+        marker_b8605a00de064509a585a58e3283331b.bindPopup(popup_b919bba6d31dd404be0977c0679a1c26)
+        ;
+
+        
+    
+    
+            marker_b8605a00de064509a585a58e3283331b.bindTooltip(
+                `<div>
+                     Benghazi (بنغازي)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            feature_group_44225d642777cd70d4588c1dfeab7ccc.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6 = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6.addTo(map_9777383bfa71126aa9a6afc2416ff289);
+        
+    
+            var layer_control_a453bddb57cdc7374ef266998d98397a_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_8b1eb6c3a3346ff9e6f4f7bdf94ce5de,
+                },
+                overlays :  {
+                    "Conflicto Armado" : feature_group_19b438f85fcd8e93f9a40512ac44383b,
+                    "Terrorismo" : feature_group_902cb0858e96cb4c04b7b7a4c7f79aba,
+                    "Delincuencia" : feature_group_1adb06aa728e222f101567afc97a7242,
+                    "Disturbios Civiles" : feature_group_fcb9afca4cbf5008fe9ceb0a65704422,
+                    "Hazards" : feature_group_44225d642777cd70d4588c1dfeab7ccc,
+                    "Eventos (cluster)" : marker_cluster_2a7e95bccef6d6c8dda1d2922355c2a6,
+                },
+            };
+            let layer_control_a453bddb57cdc7374ef266998d98397a = L.control.layers(
+                layer_control_a453bddb57cdc7374ef266998d98397a_layers.base_layers,
+                layer_control_a453bddb57cdc7374ef266998d98397a_layers.overlays,
+                {"autoZIndex": true, "collapsed": false, "position": "topright"}
+            ).addTo(map_9777383bfa71126aa9a6afc2416ff289);
+
+        
+</script>
+</html>

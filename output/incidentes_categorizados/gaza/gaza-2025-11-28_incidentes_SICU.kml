@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-11-28_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 07:06:28</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 07:06:28<br><b>Localización:</b> Rafah<br><b>Descripción:</b> El jueves por la noche, las autoridades de ocupación israelíes liberaron a la enfermera palestina Tasim Al-Hams y a cuatro prisioneros palestinos, todos ellos llegados al hospital de los mártires de Al-Aqsa. La ocupación obstaculiza la labor de las tripulaciones de la prensa durante la incursión de Tubas en la Ribera Occidental durante los dos últimos años, es decir, una imagen de la resistencia de la fuerza de ocupación israelí contra los combatientes de Al-Qassam en la zona de Al-Quds y otro grupo palestino que protesta por la crisis de los militantes de Rafah en la capital de Túnez.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 09:07:35</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 09:07:35<br><b>Localización:</b> Rafah<br><b>Descripción:</b> El jueves por la noche, las autoridades de ocupación israelíes liberaron a la enfermera palestina Tasim Al-Hams y a cuatro prisioneros palestinos, todos ellos llegados al hospital de los mártires de Al-Aqsa. La ocupación obstaculiza la labor de las tripulaciones de la prensa durante la incursión de Tubas en la Ribera Occidental durante los dos últimos años, es decir, una imagen de la resistencia de la fuerza de ocupación israelí contra los combatientes de Al-Qassam en la zona de Al-Quds y otro grupo palestino que protesta por la crisis de los militantes de Rafah en la capital de Túnez.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 07:41:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 07:41:24<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Israel libera a un niño estadounidense nueve meses después de su detención por el Club de Prisioneros Palestinos: las autoridades israelíes incitan a la muerte y al exterminio de Palestina. Se congratulan de la condena de cuatro países europeos por la escalada de la violencia de los colonos en la orilla de Ben Ghafir, que apoyan a los soldados que ejecutaron a los palestinos en Jenin y comentan: “Los terroristas deben morir”.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 07:49:45</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 07:49:45<br><b>Localización:</b> Rafah<br><b>Descripción:</b> He visto la noticia de que el ejército de ocupación bombardeó un túnel en el que el ejército de Dios estaba protegido de Qassam en [Rifah], puede ser cierto y puede ser sólo una falsa campaña de información del ejército de ocupación, pero les deseo a Dios que acepten y testifiquen que han ido por este camino para llegar a este fin.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 08:38:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 08:38:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * El portavoz de Hamas, Hazem Kassem: - La agresión israelí contra Siria, que continúa bombardeando Gaza, la Ribera Occidental y el Líbano, es una prueba de la continuación de la ocupación para ampliar su agresión en toda la región. El Gobierno de ocupación, con su comportamiento agresivo, es la verdadera causa de la inestabilidad en la región.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 08:45:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 08:45:46<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> Abdulla y Gedi Hamad fueron asesinados en un bombardeo desde un avión Kawad Kaptar contra la localidad de Beni Suhila, al este de Khan Younis.]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 09:20:45</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 09:20:45<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * La muerte de Abdullah y Gedi Riz Hamad se produjo en un bombardeo israelí contra la ciudad de Beni Suhila, al este de la ciudad de Khanyonis, al sur de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 09:22:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 09:22:46<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> El joven Abdullah y Gedi Rizq Hammad fueron asesinados en un bombardeo de una marcha de ocupación contra la ciudad de Beni Sihila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 09:28:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 09:28:28<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> &quot;El ejército de ocupación continúa bombardeando a un niño estadounidense nueve meses después de haber sido detenido. Israel libera a un niño estadounidense nueve meses después de haber sido detenido.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 09:42:47</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 09:42:47<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: El bombardeo de artillería cerca de la calle Salah al-Din, en Al-Qaima, al norte de la ciudad de Khan Younis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 09:43:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 09:43:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El grupo de ocupación sigue bombardeando a los israelíes que se infiltraron en Siria para construir un puesto de avanzada de la ciudad de Tamp para Europa en Ucrania: ¿las autoridades israelíes están incitando a matar y exterminar a Palestina? En la Ribera Occidental, cuatro países europeos condenan la escalada de la violencia de los colonos en la ribera de Ben Ghafir, apoyando a los soldados que ejecutaron a los palestinos en Jenin y colgando: “Los terroristas deben morir”.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 10:45:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 10:45:46<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Actualización de la situación sobre el terreno en las zonas orientales de Khanyonis: bombardeo de artillería y aire contra el centro de Bani Suhila, al este de Janjunis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 10:45:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 10:45:46<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Un joven resultó gravemente herido por una bomba lanzada desde un avión de Koad Capter en Beni Sihila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 11:55:47</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 11:55:47<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Bombardeo desde un avión de reconocimiento cerca de Gemezah Handal, al este de Beni Suhila, al este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 12:53:58</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 12:53:58<br><b>Localización:</b> European Hospital<br><b>Descripción:</b> El personal médico del Hospital Europeo está haciendo esfuerzos urgentes para salvar la vida de un joven que resultó gravemente herido por el bombardeo israelí contra las zonas orientales de Janjunis, en particular los alrededores de la ciudad de Beni Suhaila, que desde esta mañana ha sido testigo de un bombardeo continuo de artillería y aire.]]></description>
+      <Point>
+        <coordinates>34.285000,31.326000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 12:58:00</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 12:58:00<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> El mártir Abdullah, Yeddi Rizq Hamad, que recibió un bombardeo de la ocupación contra la ciudad de Beni Suhila, al este de la ciudad de Khanyonis, fue despedido.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 13:02:59</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 13:02:59<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> □ Bombardeo de cuadras en el barrio de Zeitoun, al este de la ciudad de Gaza □ Vuelos de reconocimiento en Mawasi Khanyonis]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 13:44:59</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 13:44:59<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * Seguimiento del bombardeo de la artillería israelí contra la ciudad de Rafah, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 13:57:57</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 13:57:57<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Nuevo periódico Al-Quds, que publicó sus artículos en el Foro Al-Quds, nos hizo una nueva asignación internacional: la reciente resolución del Consejo de Seguridad es un proyecto colonial en el oeste del ejército de ocupación en el que se denuncia el asesinato de nueve elementos de Hamas durante la destrucción de los túneles al este de Rafah (Siria): el bombardeo israelí de la casa de Jenin “crimen de guerra” es un mártir y una niña resultó herida por el fuego del ejército de ocupación en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 16:43:20</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 16:43:20<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Bombardeo de artillería israelí al este del barrio de Al-Qayziya, al este de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 16:47:59</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 16:47:59<br><b>Localización:</b> Rafah<br><b>Descripción:</b> El ejército de ocupación afirma que nueve elementos de Hamas fueron asesinados durante la destrucción de los túneles de Rafah al este de Siria: el bombardeo israelí de la casa de Jenin en la zona de Al-Tadam.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 16:50:56</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 16:50:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La artillería de la ocupación bombardea el este del barrio de Al-Qaiya, al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 17:31:00</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 17:31:00<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> El mártir Abdullah Hamad, que se levantó al bombardear la ocupación en Beni Suhila, al este de la ciudad de Khan Younis, fue despedida.]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 22:27:06</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 22:27:06<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El bombardeo de la artillería israelí al este de Jan Yunis al sur de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 22:27:07</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 22:27:07<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La artillería de ocupación bombardea las zonas orientales de la ciudad de Gaza y el campamento de Ŷabaliya, al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 22:27:07</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 22:27:07<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> *Aqra &#x27; , bombardeo de artillería israelí contra Ŷabaliya oriental, al norte de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 22:27:08</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 22:27:08<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército israelí está llevando a cabo operaciones de bombardeo al este de Khan Younis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 22:27:08</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 22:27:08<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes de la agencia de prensa francesa: La Fiscalía General de Francia contra el Terrorismo pide que se inicie una investigación sobre &quot;crímenes de guerra&quot; en el contexto del asesinato de dos niños de nacionalidad francesa en la Franja de Gaza, a saber, Jana Abu Dahir (6 años) y Abdul Rahim Abu Dahir (9 años), que fueron testigos de un bombardeo israelí el 24 de octubre de 2023.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 22:27:08</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 22:27:08<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> El cuerpo del mártir Abdullah Hammad, que fue bombardeado con bombas en la localidad de Beni Suhila, al este de Khan Younis.]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 23:21:05</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 23:21:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Bombardeo de artillería al este de Beit Lahiya, al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 23:25:06</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 23:25:06<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Bombardeo de artillería contra zonas orientales del campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-28 23:35:05</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-28 23:35:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Bombardeo de artillería israelí al este de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-29 00:30:06</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-29 00:30:06<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Bombardeo de artillería y fuego intenso de lanchas de ocupación en el mar de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-29 00:56:05</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-29 00:56:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Bombardeo de artillería contra zonas al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-29 01:00:04</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-29 01:00:04<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> # Apurado... otra vez un bombardeo de artillería hacia el este de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-29 06:34:05</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-29 06:34:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes de la Agencia de Prensa Francesa: ** La Fiscalía General de Francia contra el Terrorismo pide que se inicie una investigación sobre &quot;crímenes de guerra&quot; en el contexto del asesinato de dos niños de nacionalidad francesa en la Franja de Gaza, a saber, Jana Abu Dahir (6 años) y Abdul Rahim Abu Dahir (9 años), que fueron testigos de un bombardeo israelí el 24 de octubre de 2023.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 08:59:45</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 08:59:45<br><b>Localización:</b> Rafah<br><b>Descripción:</b> • El analista militar Yosi Josué: Israel repite los mismos errores. Las escenas de la detención de Hamas en Rafah refuerzan la idea que Hamas trata de sembrar en la mente de sus miembros: no rendirse y luchar hasta morir.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 09:48:46</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 09:48:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Una niña resultó herida por disparos de tanques de ocupación en la ciudad de Rafah, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 10:54:46</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 10:54:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Un joven resultó gravemente herido por disparos de artillería en el centro de Beni Suhila, al este de Jan Yunis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 12:42:27</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 12:42:27<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El sitio web de Middle East Aye del Ministro de Excombatientes de los Cannes: soldados británicos entrenados en academias militares de ocupación durante el genocidio de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 12:42:27</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 12:42:27<br><b>Localización:</b> Al-Quds Hospital<br><b>Descripción:</b> El mártir Youssef Ali Assaassa (37 años), comandante de la compañía Al-Quds, es desmentido, es decir, el batallón de la compañía de Al-Ŷubatiya, y el mártir Mujahid Allah Mahmoud Abdullah, de 26 años, de Mujahid Saria Al-Quds, del batallón de la compañía de Yenín Qabatiya, que llegaron a Al-Ala después de la marcha de un autobús de jihad y resistencia, a raíz de una ejecución sobre el terreno llevada a cabo por el ejército del enemigo nazi contra ellos después de que sus municiones se agotaran durante un enfrentamiento armado con las fuerzas enemigas que los rodearon ayer por la noche en un...]]></description>
+      <Point>
+        <coordinates>34.447000,31.496000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:14:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:14:59<br><b>Localización:</b> Rafah<br><b>Descripción:</b> El ejército de ocupación continúa sus operaciones en la zona oriental de Rafah. Durante las operaciones, nueve elementos de Hamas muertos en la zona del túnel de Hamas parecen haber sido resultado de una intensa actividad militar en la zona.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:35:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:35:59<br><b>Localización:</b> Rafah<br><b>Descripción:</b> Durante las operaciones, se encontró a nueve elementos de Hamas muertos en la zona del túnel de Hamas, aparentemente como resultado de una intensa actividad militar en la zona. Hasta la fecha, más de 30 miembros de Hamas han intentado huir en el túnel de la zona.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:42:01</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:42:01<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Al-Jazeera Al-Quds Al-Jadidah, que publicó sus artículos en el Foro Al-Quds, el ejército de ocupación afirma que nueve elementos de Hamas fueron asesinados durante la destrucción de los túneles al este de Rafah (Siria): el bombardeo israelí de Beit Jin &quot;crimen de guerra en pleno estado&quot; fue un mártir y una niña resultó herida por disparos del ejército de ocupación en Gaza &quot;Ha &#x27; aretz&quot;: las oportunidades de pasar a la segunda fase del Acuerdo de Gaza, bajo ocupación, penetraron en el campamento de Al-Fatah, al norte de la Ribera y obligaron a los palestinos a desplazarse.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:49:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:49:59<br><b>Localización:</b> Rafah<br><b>Descripción:</b> • Corresponsal de Al-Jazeera: bombardeo de artillería israelí contra la ciudad de Rafah y aterrizaje de aviones de combate israelíes]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:49:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:49:59<br><b>Localización:</b> Salah al-Din Road<br><b>Descripción:</b> Continuación: disparos de los mecanismos de ocupación en las casas de los ciudadanos del barrio de Al-Fajjam, en la calle Salah al-Din, al este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.350000,31.422000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:09:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:09:52<br><b>Localización:</b> Rafah<br><b>Descripción:</b> Se escucharon explosiones al este de Rafah, Jan Yunis y disparos israelíes en torno a la línea amarilla.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:09:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:09:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - La ejecución de palestinos indefensos en Yenín revela un patrón cada vez más &quot;israelí&quot; de ejecuciones extrajudiciales. La ocupación ha matado a unos 6.300 palestinos en Gaza en circunstancias que constituyen ejecuciones extrajudiciales deliberadas, con disparos y marchas y con tanques desde el 7 de octubre.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:09:53</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:09:53<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Comando Centroamericano: Centro de Coordinación Civil-Militar para Gaza se amplió para incluir a representantes de 50 Estados asociados y organizaciones internacionales]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:43:20</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:43:20<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Ampliación del Centro de Coordinación Civil-Militar de Gaza para incluir a representantes de 50 Estados]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:50:57</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:50:57<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Comando Central de los Estados Unidos: ampliación del Centro de Coordinación Civil-Militar de Gaza para incluir a representantes de 50 países y organizaciones internacionales. - El Centro de Coordinación facilitó la circulación de más de 24.000 camiones humanitarios y mercancías comerciales a Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 17:30:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 17:30:58<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La semana pasada, el Centro de Coordinación Civil-Militar anunció la introducción de técnicos en la Franja de Gaza para suministrar una línea de fibra óptica para restablecer la red de Internet.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 22:27:06</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 22:27:06<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Centro de Coordinación Civil-Militar de Kiryat Gat anunció la introducción de un equipo técnico para la Franja de Gaza con el fin de proporcionar una nueva línea de fibra óptica para la rehabilitación de la Internet en la Franja, cuyos representantes habían aumentado en 50 Estados]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 22:27:06</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 22:27:06<br><b>Localización:</b> Al-Daraj<br><b>Descripción:</b> &quot;El Jeque Qassim: La batalla de Ole Al-Bassam fue un enfrentamiento de una fuerza modesta que no se mide por la fuerza del enemigo, sino que tiene la voluntad, el valor y la confianza de la victoria del Líbano: el Jeque Kassem: el proyecto de Israel se rompió en el umbral de la batalla de Ole Qassam: el Jeque Kassem: ¿no hay agresión contra el Presidente de la República porque actúa con sabiduría y contra el comandante del ejército porque está actuando sobre la base de la protección de la paz civil?]]></description>
+      <Point>
+        <coordinates>34.465000,31.517000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 22:38:06</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 22:38:06<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Corresponsal del periódico Al-Ashib de Gaza: disparos del ejército de ocupación al este del campamento de Maghazi, en el centro del sector]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 22:52:06</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 22:52:06<br><b>Localización:</b> Maghazi<br><b>Descripción:</b> Rápido... fuego intenso desde la torre automática y disparos en las casas de los ciudadanos, el área de la clínica del gobierno al este del campamento de Maghazi.]]></description>
+      <Point>
+        <coordinates>34.398000,31.427000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 22:58:05</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 22:58:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * * *Acelerando los disparos desde los mecanismos israelíes al este de Khan Younis al sur de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-29 01:33:05</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-29 01:33:05<br><b>Localización:</b> Zaytoun<br><b>Descripción:</b> *Apurado: disparos de vehículos militares al este del barrio de Al-Zaitoun*]]></description>
+      <Point>
+        <coordinates>34.457000,31.492000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-29 02:11:05</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-29 02:11:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El objetivo de los aviones de combate es el este de Rafah, al sur de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-29 06:50:05</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-29 06:50:05<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Los intensos disparos de aviones de ocupación contra la localidad de Bani Suhila, al este de Khan Younis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-29 06:56:06</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-29 06:56:06<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Disparos urgentes desde la aviación de ocupación dirigidos contra el este de Al-Qaima, al noreste de Jan Yunis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 11:55:47</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 11:55:47<br><b>Localización:</b> Rafah<br><b>Descripción:</b> El ejército israelí anuncia el asesinato de nueve elementos Qassam de los túneles de Rafah, 30 de los cuales fueron atacados durante su huida, los nueve fueron encontrados en un túnel encontrado por las fuerzas de ingeniería y no en la salida del túnel.  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 16:09:52</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 16:09:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - El ejército de ocupación viola gravemente las normas del derecho internacional humanitario y las normas internacionales de derechos humanos y sus asesinatos equivale a crímenes de guerra que deben ser objeto de enjuiciamiento penal internacional. - En los últimos dos años, las fuerzas de ocupación israelíes han matado a decenas de palestinos en la Ribera Occidental mediante asesinatos directos cometidos tras el control o la detención de las víctimas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 22:27:54</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 22:27:54<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Ministerio de Justicia francés pide que se investigue el asesinato de dos niños franceses en Gaza por la Liga Árabe: la agresión israelí contra Damasco, en violación del derecho internacional, &quot;la masacre de los palestinos&quot;.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 22:28:01</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 22:28:01<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Israel sigue cometiendo genocidio en Gaza, a pesar de la cesación del fuego, y el modelo libanés continúa con los asesinatos en Gaza, que han violado el acuerdo de cesación del fuego.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 22:49:49</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 22:49:49<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La Liga de los Estados Árabes pide que se investigue el asesinato de dos niños franceses en Gaza que siguen demoliendo las viviendas de los desplazados en el campamento de refugiados de Yenín, la fiscalía francesa que está investigando los “crímenes de guerra” en Gaza después de que dos niños franceses hayan sido asesinados por el ejército israelí después de que Israel haya matado a dos niños franceses. La Liga de los Estados Árabes pide que se investigue la matanza de dos niños franceses en Gaza que siguen demoliendo las viviendas de los desplazados en el campamento de refugiados de Yenín.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 23:21:55</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 23:21:55<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El fiscal francés pide que se investigue el asesinato de dos niños franceses en la Franja de Gaza que siguen demoliendo las casas de los desplazados en el campamento de Jenin. El fiscal francés está investigando los “crímenes de guerra” en Gaza después de la muerte de dos niños franceses de la Liga Árabe de la Liga de los Estados Árabes: la agresión israelí contra la zona de Damasco de la Ribera Occidental “violación del derecho internacional”.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-29 00:04:44</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-29 00:04:44<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El fiscal francés pide que se investigue el asesinato de dos niños franceses en la Franja de Gaza que siguen demoliendo las casas de los desplazados en el campamento de Jenin. El fiscal francés está investigando los “crímenes de guerra” en Gaza después de la muerte de dos niños franceses de la Liga Árabe de la Liga de los Estados Árabes: la agresión israelí contra la zona de Damasco de la Ribera Occidental “violación del derecho internacional”.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-29 00:04:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-29 00:04:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Israel sigue cometiendo genocidio en Gaza, a pesar de la cesación del fuego, y el modelo libanés continúa con los asesinatos en Gaza, que han violado el acuerdo de cesación del fuego.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-29 02:56:43</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-29 02:56:43<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Consejo de Seguridad de las Naciones Unidas ha pedido a Israel que investigue el asesinato de dos niños franceses en la Franja de Gaza que siguen demoliendo viviendas en el campamento de refugiados israelíes en el campamento de refugiados de Jenin. El Consejo de Seguridad de las Naciones Unidas ha informado a los periodistas palestinos de que en la zona de ocupación de la Franja de Gaza se está llevando a cabo una investigación sobre los “crímenes de guerra” en Gaza después de la ocupación de dos niños franceses en la zona de separación de Damasco: la agresión israelí contra la zona de s...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

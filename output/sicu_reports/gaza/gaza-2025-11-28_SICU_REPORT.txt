@@ -1,0 +1,1360 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-28
+	•	Hora de edición: 2025-11-30 17:52:18
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-28 – total incidentes SICU: 246)
+
+• Terrorismo: 84 incidente(s) registrado(s).
+• Conflicto Armado: 139 incidente(s) registrado(s).
+• Criminalidad: 16 incidente(s) registrado(s).
+• Disturbios Civiles: 5 incidente(s) registrado(s).
+• Hazards: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 84
+	• Principales áreas afectadas: Localización no especificada (50), Gaza City (23), Bani Suheila (5)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Bombardeo de artillería contra zonas orientales de la ciudad de Khanyonis.
+		Fecha/Hora: 2025-11-28 07:08:46
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales de la isla: 3 muertos y otros heridos en un bombardeo de artillería y un misil israelí contra la ciudad de Beit Jin, en el campo de Damasco
+		Fecha/Hora: 2025-11-28 07:14:45
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se informó de que una fuerza israelí había sido asediada por un bombardeo en la aldea siria de Beit Jin.
+		Fecha/Hora: 2025-11-28 07:31:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El bombardeo de aviones causó la muerte de sirios y heridas a otros.
+		Fecha/Hora: 2025-11-28 07:31:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Televisión siria: 9 mártires muertos a causa de la agresión israelí contra Beit Jin y una familia que permanece bajo los escombros de Beit Jin como consecuencia del bombardeo de la ocupación.
+		Fecha/Hora: 2025-11-28 07:37:45
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí: los sospechosos trabajaron en la aldea de Beit Jin y participaron en la elaboración de planes terroristas contra los ciudadanos israelíes
+		Fecha/Hora: 2025-11-28 07:39:45
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Israel libera a un niño estadounidense nueve meses después de su detención por el Club de Prisioneros Palestinos: las autoridades israelíes incitan a la muerte y al exterminio de Palestina. Se congratulan de la condena de cuatro países europeos por la escalada de la violencia de los colonos en la orilla de Ben Ghafir, que apoyan a los soldados que ejecutaron a los palestinos en Jenin y comentan: “Los terroristas deben morir”.
+		Fecha/Hora: 2025-11-28 07:41:24
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Al amanecer del día de hoy, una marcha de ocupación lanzó bombas explosivas contra una casa en la ciudad de Hula, en el Líbano meridional, causando grandes daños.
+		Fecha/Hora: 2025-11-28 07:46:45
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: He visto la noticia de que el ejército de ocupación bombardeó un túnel en el que el ejército de Dios estaba protegido de Qassam en [Rifah], puede ser cierto y puede ser sólo una falsa campaña de información del ejército de ocupación, pero les deseo a Dios que acepten y testifiquen que han ido por este camino para llegar a este fin.
+		Fecha/Hora: 2025-11-28 07:49:45
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El blindaje israelí bombardeado por la fuerza aérea después de que los soldados de ocupación escaparan de la ciudad siria de Beit Jin tras una emboscada.
+		Fecha/Hora: 2025-11-28 07:50:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales sirias: 9 mártires en un recuento preliminar del bombardeo israelí de Beit Jin en Damasco Rural.
+		Fecha/Hora: 2025-11-28 07:51:47
+		Fuente: @GazaNewsNow | @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: * El portavoz de Hamas, Hazem Kassem: - La agresión israelí contra Siria, que continúa bombardeando Gaza, la Ribera Occidental y el Líbano, es una prueba de la continuación de la ocupación para ampliar su agresión en toda la región. El Gobierno de ocupación, con su comportamiento agresivo, es la verdadera causa de la inestabilidad en la región.
+		Fecha/Hora: 2025-11-28 08:38:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: A través de la frontera con la República Árabe Siria: el vehículo blindado “Israelí”, que fue bombardeado por la fuerza aérea tras la huida de los soldados israelíes de la localidad siria de Beit Jin tras una emboscada.
+		Fecha/Hora: 2025-11-28 08:44:46
+		Fuente: @EabriLive
+
+	• Localización: Khan Younis
+		Breve descripción analítica: Abdulla y Gedi Hamad fueron asesinados en un bombardeo desde un avión Kawad Kaptar contra la localidad de Beni Suhila, al este de Khan Younis.
+		Fecha/Hora: 2025-11-28 08:45:46
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal Hebreo: Un Hummer del ejército israelí resultó dañado durante la operación en la aldea de Beit Jin, y se decidió destruirlo después de que los soldados escaparan con un bombardeo de la fuerza aérea en Siria.
+		Fecha/Hora: 2025-11-28 09:10:46
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Apurado* *Renovando los bombardeos de artillería en la ciudad de Beit Jin*
+		Fecha/Hora: 2025-11-28 09:12:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Efectos de los bombardeos en la ciudad de Beit Jin, en Damasco Rural, que causaron graves daños a los bienes y viviendas de civiles
+		Fecha/Hora: 2025-11-28 09:15:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: * La muerte de Abdullah y Gedi Riz Hamad se produjo en un bombardeo israelí contra la ciudad de Beni Suhila, al este de la ciudad de Khanyonis, al sur de la Faja de Gaza.
+		Fecha/Hora: 2025-11-28 09:20:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: El joven Abdullah y Gedi Rizq Hammad fueron asesinados en un bombardeo de una marcha de ocupación contra la ciudad de Beni Sihila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-28 09:22:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: "El ejército de ocupación continúa bombardeando a un niño estadounidense nueve meses después de haber sido detenido. Israel libera a un niño estadounidense nueve meses después de haber sido detenido.
+		Fecha/Hora: 2025-11-28 09:28:28
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevas escenas, los efectos del bombardeo de la ocupación en la ciudad siria de Beit Jin y el impacto directo en los oídos de una mezquita, muestran el mecanismo de ocupación abandonado por los soldados y bombardeado por la ocupación.
+		Fecha/Hora: 2025-11-28 09:42:47
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: El bombardeo de artillería cerca de la calle Salah al-Din, en Al-Qaima, al norte de la ciudad de Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 09:42:47
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: El grupo de ocupación sigue bombardeando a los israelíes que se infiltraron en Siria para construir un puesto de avanzada de la ciudad de Tamp para Europa en Ucrania: ¿las autoridades israelíes están incitando a matar y exterminar a Palestina? En la Ribera Occidental, cuatro países europeos condenan la escalada de la violencia de los colonos en la ribera de Ben Ghafir, apoyando a los soldados que ejecutaron a los palestinos en Jenin y colgando: “Los terroristas deben morir”.
+		Fecha/Hora: 2025-11-28 09:43:31
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Una familia completa integrada por cinco personas, entre ellas una mujer y tres niños, murió como consecuencia del bombardeo de la artillería israelí contra la localidad de Beit Jin, en Damasco Rural occidental. Las víctimas de la agresión israelí en Beit Jin aumentaron a 13, 25 heridos y equipos de defensa civil entraron en la ciudad
+		Fecha/Hora: 2025-11-28 10:45:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Seguimiento por parte de la Agencia Sana del Director de Salud de Damasco Rural, Tawfiq, de una cuenta: - 10 muertos y decenas de heridos como resultado del bombardeo israelí de Beit Jin en Damasco Rural - 11 heridos fueron trasladados al Hospital de Consentimiento de Damasco y 3 heridos fueron trasladados al Hospital de Qatna en Damasco Rural, algunos de los cuales necesitaban ser operados - 6 mártires fueron trasladados al Hospital de Consolación y otros 4 fueron enterrados en la zona de Mazra ' at Bayt Jin por falta de acceso
+		Fecha/Hora: 2025-11-28 10:45:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal Hebreo: El Hummer del ejército israelí sufrió daños durante la operación en la aldea de Beit Jin, y se decidió destruirlo después de que los soldados escaparan de ella con un bombardeo de la fuerza aérea dentro de  □  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hemos estado persiguiendo al grupo después de intentar matar a Israel, bombardeándonos.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los padres de Beit Jin están matándole a sus hijos, que fueron asesinados por los bombardeos israelíes hoy al amanecer.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí por agentes de seguridad: preparamos la operación de Beit Jin hace un mes, con una amplia infraestructura terrorista
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están lanzando bombas de gas en la zona de Tarkomia para impedir que los agricultores palestinos lleguen a sus tierras al oeste de Hebrón
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Radio del ejército israelí: Nuestros cazas no bombardearon Beit Jin al comienzo de la operación para acercar a los soldados a los hombres armados por temor a que nuestras tropas resultaran heridas
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @AjaNews
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Actualización de la situación sobre el terreno en las zonas orientales de Khanyonis: bombardeo de artillería y aire contra el centro de Bani Suhila, al este de Janjunis.
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Un joven resultó gravemente herido por una bomba lanzada desde un avión de Koad Capter en Beni Sihila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Durante la retirada de la Fuerza, los habitantes de la ciudad atacaron a la Fuerza y la bombardearon a quemarropa. - Según la declaración de la ocupación, seis elementos de la Fuerza, entre ellos dos oficiales, y tres heridos graves, resultaron heridos en la emboscada.
+		Fecha/Hora: 2025-11-28 10:54:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí publica desde el aire documentación de la operación y muestra el bombardeo en Beit Jin.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación, al no haber logrado la incursión, bombardearon brutalmente la ciudad de Beit Jin
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @AjaNews
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Bombardeo desde un avión de reconocimiento cerca de Gemezah Handal, al este de Beni Suhila, al este de Khanyonis
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @yaseenpress2004
+
+	• Localización: European Hospital
+		Breve descripción analítica: El personal médico del Hospital Europeo está haciendo esfuerzos urgentes para salvar la vida de un joven que resultó gravemente herido por el bombardeo israelí contra las zonas orientales de Janjunis, en particular los alrededores de la ciudad de Beni Suhaila, que desde esta mañana ha sido testigo de un bombardeo continuo de artillería y aire.
+		Fecha/Hora: 2025-11-28 12:53:58
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Apurado... escuchar una explosión en la provincia central.
+		Fecha/Hora: 2025-11-28 12:57:58
+		Fuente: @hamza20300
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: El mártir Abdullah, Yeddi Rizq Hamad, que recibió un bombardeo de la ocupación contra la ciudad de Beni Suhila, al este de la ciudad de Khanyonis, fue despedido.
+		Fecha/Hora: 2025-11-28 12:58:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación lanzan bombas de gas contra los agricultores y activistas que trataron de llegar a sus tierras en la ciudad de Tarkomia, al oeste de Hebrón.
+		Fecha/Hora: 2025-11-28 13:02:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: □ Bombardeo de cuadras en el barrio de Zeitoun, al este de la ciudad de Gaza □ Vuelos de reconocimiento en Mawasi Khanyonis
+		Fecha/Hora: 2025-11-28 13:02:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Seguimiento del bombardeo de la artillería israelí contra la ciudad de Rafah, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 13:44:59
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Nuevo periódico Al-Quds, que publicó sus artículos en el Foro Al-Quds, nos hizo una nueva asignación internacional: la reciente resolución del Consejo de Seguridad es un proyecto colonial en el oeste del ejército de ocupación en el que se denuncia el asesinato de nueve elementos de Hamas durante la destrucción de los túneles al este de Rafah (Siria): el bombardeo israelí de la casa de Jenin “crimen de guerra” es un mártir y una niña resultó herida por el fuego del ejército de ocupación en Gaza.
+		Fecha/Hora: 2025-11-28 13:57:57
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Tres ciudadanos resultaron heridos por la bomba lanzada esta mañana en la zona de Al-Sakka, en la localidad de Al-Qaima, al noreste de la ciudad de Khanyonis.
+		Fecha/Hora: 2025-11-28 15:47:42
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación lanzan bombas de gas contra agricultores y activistas para impedirles el acceso a sus tierras en la ciudad de Tarcumia, al oeste de Hebrón.
+		Fecha/Hora: 2025-11-28 16:09:52
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Canal 12 hebreo: informes libaneses: un avión teledirigido israelí bombardeó un vehículo en la carretera de Tayyiba en el sur del Líbano.
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Autoridades ucranianas de Kharkev: 2 muertos y heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes del ejército sudanés de la isla: Babanosa está siendo bombardeada por la artillería y nuestras fuerzas siguen enfrentándose.
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El avión de ocupación bombardea un vehículo en Qantara, en el sur del Líbano.
+		Fecha/Hora: 2025-11-28 16:09:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: # Apresúrate a oír una explosión en el campamento de Fara ' a, al sur de Tubas
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Vídeo de las fuerzas de ocupación que lanzan bombas de gas contra los palestinos mientras se enfrentan a los colonos en la llanura de Beit Furik, al este de Naplusa
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Bombardeo de artillería israelí al este del barrio de Al-Qayziya, al este de Gaza
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La explosión en el Líbano meridional fue causada por un accidente de coche que provocó un incendio y una explosión, y no fue un bombardeo israelí.
+		Fecha/Hora: 2025-11-28 16:43:21
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: El ejército de ocupación afirma que nueve elementos de Hamas fueron asesinados durante la destrucción de los túneles de Rafah al este de Siria: el bombardeo israelí de la casa de Jenin en la zona de Al-Tadam.
+		Fecha/Hora: 2025-11-28 16:47:59
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: La artillería de la ocupación bombardea el este del barrio de Al-Qaiya, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-28 16:50:56
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La artillería de ocupación bombardea la zona de Al-Labbuna, en los alrededores de la aldea de An-Naqura, en el Líbano meridional.
+		Fecha/Hora: 2025-11-28 17:31:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Khan Younis
+		Breve descripción analítica: El mártir Abdullah Hamad, que se levantó al bombardear la ocupación en Beni Suhila, al este de la ciudad de Khan Younis, fue despedida.
+		Fecha/Hora: 2025-11-28 17:31:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación dispara bombas de sonido y balas vivas cerca de un salón de lujo en Sarda, al norte de Ramallah.
+		Fecha/Hora: 2025-11-28 17:39:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Condenamos en los términos más enérgicos el bombardeo por las fuerzas de ocupación israelíes de la ciudad de Beit Jin, en Damasco Rural.
+		Fecha/Hora: 2025-11-28 17:45:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación lanzan bombas de sonido y cierran tiendas comerciales en el cruce de Tayasir, en la ciudad de Tubas.
+		Fecha/Hora: 2025-11-28 17:50:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El bombardeo de la artillería israelí al este de Jan Yunis al sur de la Faja de Gaza
+		Fecha/Hora: 2025-11-28 22:27:06
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Organismo Bloomberg: una explosión en el buque petrolero ruso Kairos, al norte de Turquía, probablemente causada por una mina naval, y el porteador corre el riesgo de ahogarse a 50 millas del Estrecho de Bosfor.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Warlife3
+
+	• Localización: Gaza City
+		Breve descripción analítica: La artillería de ocupación bombardea las zonas orientales de la ciudad de Gaza y el campamento de Ŷabaliya, al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Aqra ' , bombardeo de artillería israelí contra Ŷabaliya oriental, al norte de la Franja de Gaza
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación lanzan bombas de gas y reprimen a los agricultores y activistas que tratan de llegar a sus tierras, en la ciudad de Tarkomia, al oeste de Hebrón.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un vehículo israelí que lanza bombas de gas en la ciudad de Silat al-Harthiya, al oeste de Jenin.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está llevando a cabo operaciones de bombardeo al este de Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes de la agencia de prensa francesa: La Fiscalía General de Francia contra el Terrorismo pide que se inicie una investigación sobre "crímenes de guerra" en el contexto del asesinato de dos niños de nacionalidad francesa en la Franja de Gaza, a saber, Jana Abu Dahir (6 años) y Abdul Rahim Abu Dahir (9 años), que fueron testigos de un bombardeo israelí el 24 de octubre de 2023.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Khan Younis
+		Breve descripción analítica: El cuerpo del mártir Abdullah Hammad, que fue bombardeado con bombas en la localidad de Beni Suhila, al este de Khan Younis.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación atacan casas en el campamento de Al-Arrub, al norte de Hebrón, disparando bombas de gas, sonido e iluminación.
+		Fecha/Hora: 2025-11-28 22:49:06
+		Fuente: @yaseenpress2004 | @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Reportero de Al-Jazeera: Las fuerzas de ocupación israelíes irrumpieron en el campamento de Al-Arrub al norte de Hebrón y lanzaron bombas de gas
+		Fecha/Hora: 2025-11-28 22:58:05
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una explosión en las alturas de Kafr Shuba, en el sur del Líbano, al mismo tiempo que se disparaban fuertes ráfagas de ametralladora hacia las afueras de la ciudad
+		Fecha/Hora: 2025-11-28 23:18:05
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Bombardeo de artillería al este de Beit Lahiya, al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 23:21:05
+		Fuente: @gazaalanar | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Bombardeo de artillería contra zonas orientales del campamento de Bureij, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 23:25:06
+		Fuente: @yaseenpress2004 | @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Bombardeo de artillería israelí al este de Gaza
+		Fecha/Hora: 2025-11-28 23:35:05
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: # Un golpe ruso con una bomba FB-3000 en las rutas de suministro en dirección a Pokerovski.
+		Fecha/Hora: 2025-11-29 00:02:05
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Bombardeo de artillería y fuego intenso de lanchas de ocupación en el mar de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-29 00:30:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Bombardeo de artillería contra zonas al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-29 00:56:05
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: # Apurado... otra vez un bombardeo de artillería hacia el este de Gaza.
+		Fecha/Hora: 2025-11-29 01:00:04
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Resumen de los ataques israelíes contra territorio libanés perpetrados el 28 de noviembre de 2025 desde la posición de Ruwaysat al-Alam, en dirección a las afueras de Kafr Shuba, un proyectil de artillería israelí en las afueras de la zona de Al-Labbuna. Un ataque israelí contra Rabid en Quntarah, sin causar heridas a un tanque israelí desde la posición de Bayyad Blida, bombardeó la zona de Kilo 9 entre Blida y Aytarun, sin causar heridas a Kodakobter israelí, que lanzó artefactos explosivos contra una casa en Hula después de la medianoche
+		Fecha/Hora: 2025-11-29 01:39:05
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgente ∙ Administración Federal de Aviación de los Estados Unidos: suspensión de vuelos con destino al Aeropuerto Internacional de Filadelfia debido a la amenaza de una bomba
+		Fecha/Hora: 2025-11-29 02:12:05
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La explosión en la ciudad de Tubas coincidió con la continua agresión.
+		Fecha/Hora: 2025-11-29 02:53:05
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes de la Agencia de Prensa Francesa: ** La Fiscalía General de Francia contra el Terrorismo pide que se inicie una investigación sobre "crímenes de guerra" en el contexto del asesinato de dos niños de nacionalidad francesa en la Franja de Gaza, a saber, Jana Abu Dahir (6 años) y Abdul Rahim Abu Dahir (9 años), que fueron testigos de un bombardeo israelí el 24 de octubre de 2023.
+		Fecha/Hora: 2025-11-29 06:34:05
+		Fuente: @GazaNewsNow
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 139
+	• Principales áreas afectadas: Localización no especificada (114), Gaza City (15), Rafah (5)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Desde las 3 de la mañana y durante unas dos horas, se han llevado a cabo evacuaciones de las fuerzas del ejército israelí de Siria. Se han producido bajas entre los soldados como consecuencia de un enfrentamiento armado entre soldados del ejército y la población de la aldea siria.
+		Fecha/Hora: 2025-11-28 07:04:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Fuentes de los medios de comunicación israelíes informaron de que dos soldados israelíes resultaron heridos en enfrentamientos en la localidad siria de Beit Jin
+		Fecha/Hora: 2025-11-28 07:14:45
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el momento en que los aviones de ocupación transportaron a soldados heridos después de enfrentamientos armados con los habitantes de Beit Jin en Siria, el día de la mañana.
+		Fecha/Hora: 2025-11-28 07:15:45
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación reconoce que dos oficiales y un soldado resultaron gravemente heridos en los enfrentamientos de la mañana de hoy en la casa siria de Jin.
+		Fecha/Hora: 2025-11-28 07:20:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La Autoridad de Radiodifusión de Israel: fuerzas del ejército irrumpieron en la ciudad de Beit Jin, en el sur de Siria, para llevar a cabo un arresto y recibieron disparos
+		Fecha/Hora: 2025-11-28 07:22:45
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación ha herido gravemente a cinco soldados, tres de los cuales resultaron heridos en los enfrentamientos de anoche en Beit Jin, en Damasco Rural.
+		Fecha/Hora: 2025-11-28 07:25:47
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Autoridad de radiodifusión israelí: el ejército israelí se retiró a las afueras de la ciudad siria de Beit Jin después de dos horas de enfrentamientos
+		Fecha/Hora: 2025-11-28 07:25:47
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La Autoridad de Radiodifusión de Israel: el ejército israelí utilizó artillería y marchas durante enfrentamientos en Beit Jin Siria
+		Fecha/Hora: 2025-11-28 07:25:47
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes hebreas: El número de heridos del ejército de ocupación aumentó a seis, entre ellos dos oficiales y tres heridos graves, como resultado de enfrentamientos armados durante la ofensiva de la población siria de Beit Jin contra una incursión de la ocupación al amanecer del día de hoy.
+		Fecha/Hora: 2025-11-28 07:26:45
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Autoridad de radiodifusión israelí: fuerzas del ejército irrumpieron en la localidad de Beit Jin, en el sur de Siria, para llevar a cabo un arresto y fueron objeto de disparos; el ejército israelí se retiró a las afueras de la localidad siria de Beit Jin después de dos horas de enfrentamientos; el ejército israelí utilizó artillería y marchas durante enfrentamientos en la localidad siria de Beit Jin
+		Fecha/Hora: 2025-11-28 07:31:46
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Radio israelí, según el ejército: 5 soldados israelíes, incluidos 2 oficiales, resultaron heridos en los enfrentamientos en la aldea de Beit Jin
+		Fecha/Hora: 2025-11-28 07:31:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ejército de Israel: 6 militares resultaron heridos, 3 de ellos de gravedad, durante los enfrentamientos en la casa siria de Jin
+		Fecha/Hora: 2025-11-28 07:32:45
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Sitio Hebreo Walla: soldados israelíes se vieron obligados a abandonar una maquinaria militar dañada en Beit Jin antes de ser bombardeada por la fuerza aérea
+		Fecha/Hora: 2025-11-28 07:34:45
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los soldados de ocupación huyeron de la ciudad siria de Beit Jin después de que la población se enfrentara a ellos y estallara un enfrentamiento armado, dejando tras de sí un mecanismo militar, lo que obligó a los aviones de ocupación a bombardearla.
+		Fecha/Hora: 2025-11-28 07:40:45
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Radio israelí: El ejército confirma el fin de la operación en Siria, 6 soldados heridos y varios saboteadores muertos durante los enfrentamientos
+		Fecha/Hora: 2025-11-28 07:44:46
+		Fuente: @AjaNews | @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una escena de enfrentamientos y explosiones que estalló hoy, después de que la población se enfrentara a la incursión de la ocupación en la aldea siria de Beit Jin.
+		Fecha/Hora: 2025-11-28 07:44:46
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Suri documenta los violentos enfrentamientos que tuvieron lugar hoy al amanecer entre los opositores y el ejército de ocupación en la aldea siria de Beit Jin.
+		Fecha/Hora: 2025-11-28 07:54:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí declara que seis soldados y oficiales de sus fuerzas han resultado heridos, algunos de ellos en peligro, a raíz de los enfrentamientos que tuvieron lugar tras la incursión en la ciudad de Beit Jin, en Damasco Rural, Siria, para detener a los que habían sido llamados por Jemaah Islamiyah.
+		Fecha/Hora: 2025-11-28 08:05:45
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La Autoridad de Radiodifusión de Israel, después de la detención y la salida de los soldados, abrió fuego desde 200 metros contra un vehículo militar
+		Fecha/Hora: 2025-11-28 08:11:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Varios oficiales y soldados de la Brigada de Reserva 55 de la División del Golán 210, entre ellos tres heridos graves, resultaron heridos como consecuencia de enfrentamientos con hombres armados sirios en la aldea de Beit Jin, en el sur de Siria.
+		Fecha/Hora: 2025-11-28 08:18:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí: fuerzas que se adentraron en Beit Jin se vieron obligadas a abandonar un vehículo blindado Hammer después de recibir disparos
+		Fecha/Hora: 2025-11-28 08:21:47
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación también se han retirado de la ciudad de Tamun después de haber causado una destrucción generalizada de la infraestructura, en particular en la región oriental, y han causado daños considerables a los bienes de la población. Las incursiones continúan en Tubas, Yaba y Taysar, en medio de la conversión de varias casas en cuarteles militares.
+		Fecha/Hora: 2025-11-28 08:22:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Disparos intensivos de los mecanismos de ocupación al este de la ciudad de Khanyonis.
+		Fecha/Hora: 2025-11-28 08:27:47
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ¿Cómo se convierte un soldado en un "mantenimiento de la paz"? El plan Trump trata de legitimar la presencia militar a través del portal de las Naciones Unidas.
+		Fecha/Hora: 2025-11-28 08:29:45
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La posición hebrea de Walah: Los mandos militares del frente norte criticaron duramente los preparativos previos a la operación en Beit Jin (Siria), después de que las tropas fueron sacudidas con una emboscada de fuego, lo que obligó a dejar un enclave militar Hammer en territorio sirio.
+		Fecha/Hora: 2025-11-28 08:32:45
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El mecanismo militar de ocupación que los soldados abandonaron y huyeron después de que la población siria de Beit Jin se enfrentara a una incursión en su ciudad al amanecer del día de hoy, después de lo cual fue bombardeada por aviones de ocupación.
+		Fecha/Hora: 2025-11-28 08:40:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - A las 2.52 horas de la noche, una fuerza de reserva de la Brigada de Paracaidistas entró en 55 para detener a "dos sospechosos" después de su detención, cuando las tropas salieron de la casa comenzaron a disparar contra las afueras de la aldea y, posteriormente, hombres armados abrieron fuego contra uno de los vehículos del hámster. - Las fuerzas respondieron disparando y participaron en la operación con una cubierta aérea de helicópteros de ataque y aviones de combate, así como con aviones de combate que bombardearon objetivos preparados de antemano dentro de la aldea, según el ejército.
+		Fecha/Hora: 2025-11-28 08:43:45
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Portavoz del ejército israelí: varios oficiales y soldados de la Brigada 55 de Reserva del Golán 210 del ejército israelí, incluidos tres heridos graves, resultaron heridos como consecuencia de enfrentamientos con hombres armados sirios en la aldea de Beit Jin, en el sur de Siria
+		Fecha/Hora: 2025-11-28 08:45:47
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las consecuencias de los violentos enfrentamientos que tuvieron lugar durante la oposición de la población siria de Beit Jin a una fuerza del ejército de ocupación esta mañana.
+		Fecha/Hora: 2025-11-28 08:54:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: • El analista militar Yosi Josué: Israel repite los mismos errores. Las escenas de la detención de Hamas en Rafah refuerzan la idea que Hamas trata de sembrar en la mente de sus miembros: no rendirse y luchar hasta morir.
+		Fecha/Hora: 2025-11-28 08:59:45
+		Fuente: @EabriLive | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Los medios de comunicación israelíes sobre fuentes militares: operación en Beit Jin, en la zona rural de Damasco, excepcional debido al número de bajas entre los soldados
+		Fecha/Hora: 2025-11-28 09:09:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Dos tanques y cuatro vehículos militares israelíes penetraron en los alrededores de la localidad de Beit Jin y los medios de comunicación israelíes sobre fuentes militares: la operación en Beit Jin, en Damasco Rural, fue excepcional debido a la magnitud de las bajas entre los soldados.
+		Fecha/Hora: 2025-11-28 09:25:47
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un periodista que documenta el lugar de los enfrentamientos violentos y los bombardeos después de que los habitantes sirios de Beit Jin se enfrentaran a una fuerza del ejército de ocupación resultaron heridos por las balas de la resistencia.
+		Fecha/Hora: 2025-11-28 09:32:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Corresponsal de la isla: las fuerzas de ocupación están empujando nuevos refuerzos militares hacia la ciudad de Tubas, al mismo tiempo que irrumpieron en el campamento de Fara ' a
+		Fecha/Hora: 2025-11-28 09:45:45
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes hebreas de fuentes militares: la operación en Beit Jin, en Damasco Rural, es excepcional debido a la magnitud de las bajas entre los soldados.
+		Fecha/Hora: 2025-11-28 09:47:47
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Una niña resultó herida por disparos de tanques de ocupación en la ciudad de Rafah, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-28 09:48:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes de prensa: El ejército de ocupación está empujando refuerzos militares hacia Tubas, al norte de la Ribera Occidental.
+		Fecha/Hora: 2025-11-28 10:45:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Comandante de las Fuerzas Armadas Libanesas del sur del Litani: Israel no ha presentado pruebas de contrabando de armas a Hezbollah
+		Fecha/Hora: 2025-11-28 10:45:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Ejército israelí: dos oficiales, un soldado y un soldado resultaron gravemente heridos de gravedad y otro sufrió heridas leves en un intercambio de disparos con hombres armados durante una misión de detención solicitada por el grupo islámico en la aldea de Beit Jin meridional (Siriastán)  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Suri documenta los violentos enfrentamientos que tuvieron lugar hoy al amanecer entre los opositores y el ejército de ocupación en la aldea siria de Beit Jin.
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Después de su detención, las tropas comenzaron a disparar en las afueras de la aldea y, posteriormente, los hombres armados abrieron fuego contra uno de los vehículos de Al-Hamar. - Las fuerzas respondieron disparando y participaron en la operación con una cubierta aérea de helicópteros de ataque y aviones de combate, así como con aviones de combate que habían bombardeado objetivos ya preparados dentro de la aldea.
+		Fecha/Hora: 2025-11-28 10:45:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Un joven resultó gravemente herido por disparos de artillería en el centro de Beni Suhila, al este de Jan Yunis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-28 10:54:46
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Vídeo de escenas que documentan las señales de enfrentamientos con soldados de ocupación en Beit Jin (Siria)
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Medios de comunicación israelíes sobre fuentes militares: la operación en Beit Jin, en Damasco Rural, es excepcional debido a la magnitud de las heridas sufridas por los soldados, 6 del ejército israelí, 2 oficiales gravemente heridos,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ídem: Condenamos la agresión criminal israelí en la ciudad de Beit Jin, que dio lugar a enfrentamientos como resultado de la respuesta de la población
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Ministro de Relaciones Exteriores de Bélgica: mientras Israel lanza un ataque en el norte, nos han sorprendido las imágenes de disparos de sus soldados contra civiles palestinos 2
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Los restos de un mecanismo militar israelí que fue bombardeado por la aviación israelí después de que sus soldados escaparan tras un enfrentamiento armado con la población de Beit Jin en Damasco Rural.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 11:59:47
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El incidente de disparos contra palestinos en Yenín abrió una investigación contra un soldado de la unidad de vigilancia fronteriza de la Ribera Occidental que disparó ayer.
+		Fecha/Hora: 2025-11-28 12:42:26
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: El sitio web de Middle East Aye del Ministro de Excombatientes de los Cannes: soldados británicos entrenados en academias militares de ocupación durante el genocidio de Gaza.
+		Fecha/Hora: 2025-11-28 12:42:27
+		Fuente: @yaseenpress2004
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: El mártir Youssef Ali Assaassa (37 años), comandante de la compañía Al-Quds, es desmentido, es decir, el batallón de la compañía de Al-Ŷubatiya, y el mártir Mujahid Allah Mahmoud Abdullah, de 26 años, de Mujahid Saria Al-Quds, del batallón de la compañía de Yenín Qabatiya, que llegaron a Al-Ala después de la marcha de un autobús de jihad y resistencia, a raíz de una ejecución sobre el terreno llevada a cabo por el ejército del enemigo nazi contra ellos después de que sus municiones se agotaran durante un enfrentamiento armado con las fuerzas enemigas que los rodearon ayer por la noche en un...
+		Fecha/Hora: 2025-11-28 12:42:27
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life - Yediot Ahronut: Desde el comienzo de la guerra, la sección libanesa de investigación de la División de Inteligencia Militar, dirigida por el Teniente Coronel “Y”, se ha visto abrumada por decenas de miembros permanentes y de reserva que trabajan las 24 horas del día. “Esas personas son centros de conocimiento que trabajan hasta la noche, y que se encuentran aquí los sábados y días festivos, ayudando a instalar un acertijo de un millón de piezas llamadas “Imagen de la inteligencia de Hezbolá”.
+		Fecha/Hora: 2025-11-28 12:51:59
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El mártir, el comandante de campaña Youssef Ali Assasa, de 37 años de edad, es un comandante de compañía en el batallón de Yenín, una compañía de Qabatiya, y el mártir Mujahid Allah Mahmoud Abdullah, de 26 años, un muyahid en el batallón secreto de Yenín, a raíz de una ejecución sobre el terreno llevada a cabo por el ejército en su contra después de que se agotaran sus municiones durante un enfrentamiento armado ayer por la noche, jueves 27-11-2025, en una casa en la región de Jabal Abu-Dahir, en Jenin.
+		Fecha/Hora: 2025-11-28 12:57:58
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El objetivo del ejército de la operación de Beit Jin es detener a dos hermanos que, según se afirma, habían colocado paquetes y participado en el lanzamiento de un cohete - después de la detención y la salida de los soldados, hombres armados dispararon desde 200 metros contra un vehículo militar- los soldados heridos fueron trasladados a un hospital de Rambam y Shiba para recibir tratamiento.
+		Fecha/Hora: 2025-11-28 13:07:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La Autoridad de Radiodifusión de Israel, a través de Harriy Life: - El objetivo del ejército de la operación de Beit Jin fue detener a dos hermanos que habían colocado paquetes y habían participado en el lanzamiento de un cohete, presuntamente después de la detención y de la partida de los soldados. Los soldados armados dispararon desde 200 metros contra un vehículo militar.
+		Fecha/Hora: 2025-11-28 13:08:59
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí acaba de distribuir secciones de las cámaras de los soldados de los enfrentamientos de Beit Jin. Los enfrentamientos son muy graves y los disparos son intensos.
+		Fecha/Hora: 2025-11-28 13:13:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: El ejército de ocupación continúa sus operaciones en la zona oriental de Rafah. Durante las operaciones, nueve elementos de Hamas muertos en la zona del túnel de Hamas parecen haber sido resultado de una intensa actividad militar en la zona.
+		Fecha/Hora: 2025-11-28 13:14:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La radio del ejército israelí cruzó la frontera con la República Árabe Siria: los enfrentamientos armados en Beit Jin se produjeron a una distancia cercana a los soldados del ejército israelí.
+		Fecha/Hora: 2025-11-28 13:18:59
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En la ciudad de Beit Jin, en el sur de Siria, la zona “sereno” se ha ido llenando gradualmente de militantes islamistas, que buscan entablar combate con los soldados del ejército israelí. -- Did la verdad, ¿cómo os sentís cuando los sirios pelearon entre ellos?
+		Fecha/Hora: 2025-11-28 13:18:59
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: # Video de los medios de comunicación hebreos, publicado en el momento en que estallaron los enfrentamientos en Beit Jin y el ejército enemigo fue emboscado.
+		Fecha/Hora: 2025-11-28 13:29:58
+		Fuente: @GazaNewsNow | @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los enfrentamientos en la ciudad siria de Beit Jin son los más violentos desde la caída del régimen de Bashar al-Assad hace un año.
+		Fecha/Hora: 2025-11-28 13:30:58
+		Fuente: @GazaNewsNow | @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un vídeo publicado por el ejército de ocupación documenta los enfrentamientos que tuvieron lugar esta noche en la aldea siria de Beit Jin y muestra que las fuerzas del ejército fueron blanco de disparos directos y a quemarropa.
+		Fecha/Hora: 2025-11-28 13:34:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: Durante las operaciones, se encontró a nueve elementos de Hamas muertos en la zona del túnel de Hamas, aparentemente como resultado de una intensa actividad militar en la zona. Hasta la fecha, más de 30 miembros de Hamas han intentado huir en el túnel de la zona.
+		Fecha/Hora: 2025-11-28 13:35:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Al-Jazeera Al-Quds Al-Jadidah, que publicó sus artículos en el Foro Al-Quds, el ejército de ocupación afirma que nueve elementos de Hamas fueron asesinados durante la destrucción de los túneles al este de Rafah (Siria): el bombardeo israelí de Beit Jin "crimen de guerra en pleno estado" fue un mártir y una niña resultó herida por disparos del ejército de ocupación en Gaza "Ha ' aretz": las oportunidades de pasar a la segunda fase del Acuerdo de Gaza, bajo ocupación, penetraron en el campamento de Al-Fatah, al norte de la Ribera y obligaron a los palestinos a desplazarse.
+		Fecha/Hora: 2025-11-28 13:42:01
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el pueblo de Tarcumia, al oeste de Hebrón, hubo enfrentamientos en protesta por la confiscación de sus tierras y por la negativa a establecer asentamientos.
+		Fecha/Hora: 2025-11-28 13:45:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las escenas de los enfrentamientos de esta noche en Siria con una fuerza del ejército israelí irrumpieron en la aldea de Beit Jin.
+		Fecha/Hora: 2025-11-28 13:45:58
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Actividad de un militar modificador en general en el sector
+		Fecha/Hora: 2025-11-28 13:45:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí: Los enfrentamientos armados en la casa siria de Jen se produjeron a quemarropa de los soldados del ejército israelí.
+		Fecha/Hora: 2025-11-28 13:49:58
+		Fuente: @hamza20300
+
+	• Localización: Rafah
+		Breve descripción analítica: • Corresponsal de Al-Jazeera: bombardeo de artillería israelí contra la ciudad de Rafah y aterrizaje de aviones de combate israelíes
+		Fecha/Hora: 2025-11-28 13:49:59
+		Fuente: @AjaNews
+
+	• Localización: Salah al-Din Road
+		Breve descripción analítica: Continuación: disparos de los mecanismos de ocupación en las casas de los ciudadanos del barrio de Al-Fajjam, en la calle Salah al-Din, al este de Khanyonis
+		Fecha/Hora: 2025-11-28 13:49:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Apresúrate a escuchar disparos dentro del campamento de Yenín, al mismo tiempo que las demoliciones que lleva a cabo la ocupación israelí*
+		Fecha/Hora: 2025-11-28 16:09:52
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Durante el tiroteo, seis soldados, entre ellos tres de gravedad, resultaron heridos. Un tercer sospechoso fue detenido y, según el ejército, varios hombres armados murieron en el enfrentamiento.
+		Fecha/Hora: 2025-11-28 16:09:52
+		Fuente: @Warlife3
+
+	• Localización: Rafah
+		Breve descripción analítica: Se escucharon explosiones al este de Rafah, Jan Yunis y disparos israelíes en torno a la línea amarilla.
+		Fecha/Hora: 2025-11-28 16:09:52
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - La ejecución de palestinos indefensos en Yenín revela un patrón cada vez más "israelí" de ejecuciones extrajudiciales. La ocupación ha matado a unos 6.300 palestinos en Gaza en circunstancias que constituyen ejecuciones extrajudiciales deliberadas, con disparos y marchas y con tanques desde el 7 de octubre.
+		Fecha/Hora: 2025-11-28 16:09:52
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hebrei Life y Yadiot Ahronut: Funcionarios de seguridad israelíes dijeron que el grave incidente ocurrido en Siria (enfrentamiento con el ejército en Beit Jin) demostraba que Israel no podía permitir el emplazamiento de partes hostiles cerca de ella y que no se podía llegar a un acuerdo en este momento, porque Siria era un país inestable.
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Urgentemente, ejército israelí: detención de más de 40 palestinos y confiscación de docenas de medios de combate durante la operación en la Ribera Occidental
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @EabriLive | @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Las escenas de los enfrentamientos que tuvieron lugar esta noche en Suriyastán con una fuerza del ejército israelí irrumpieron en la aldea de Beit Jin* *Siriastán*  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los oficiales de seguridad israelíes dijeron que el grave incidente ocurrido en Siria (enfrentamiento con el ejército en Beit Jin) demostraba que Israel no podía permitir el emplazamiento de elementos hostiles cerca de ella y que no se podía llegar a un acuerdo por el momento, porque Siria era un país inestable. “Lo que está claro es que no podemos retirarse de los territorios que controlamos, en particular de Jebel Sheikh”.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Comando Centroamericano: Centro de Coordinación Civil-Militar para Gaza se amplió para incluir a representantes de 50 Estados asociados y organizaciones internacionales
+		Fecha/Hora: 2025-11-28 16:09:53
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Enfrentamientos violentos, la población se enfrenta al ataque de las milicias de colonos entre las localidades de Kafr Kaddoum y Beit Lid y la huida de los colonos.
+		Fecha/Hora: 2025-11-28 16:09:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En la actualidad se están produciendo violentos enfrentamientos entre jóvenes y milicias de colonos en la zona de Gad al-Shami entre las localidades de Kafr Gaddoum y Beit Lid.
+		Fecha/Hora: 2025-11-28 16:09:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están expulsando a una familia de su casa y convirtiéndola en un cuartel militar en la zona de Al-Fawqa, en la ciudad de Tubas.
+		Fecha/Hora: 2025-11-28 16:09:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Las Fuerzas Armadas Libanesas llevaron a cabo amplias operaciones de excavación en el barrio de Sharaouna - Baalbek, detuvimos a dos ciudadanos y a dos sirios por disparar contra patrullas militares en fechas anteriores, traficaron con drogas y armas de guerra y confiscaron una cantidad de drogas y armas
+		Fecha/Hora: 2025-11-28 16:09:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, el ejército israelí: peinamos cientos de edificios durante la operación militar en la zona septentrional de la Ribera Occidental y confiscamos materiales destinados a la producción de explosivos
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Mensajera de  sonidos de disparos en el campamento de Yenín al tiempo que las fuerzas de ocupación seguían demoliendo 24 casas y edificios en el campamento
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Ampliación del Centro de Coordinación Civil-Militar de Gaza para incluir a representantes de 50 Estados
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación instalarán un puesto de control militar frente a la sala de bodas del prisionero liberado, Salama Qatawi, minutos antes del comienzo de su boda.
+		Fecha/Hora: 2025-11-28 16:43:21
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Zamir visita a los soldados heridos en los enfrentamientos de Beit Jin.
+		Fecha/Hora: 2025-11-28 16:43:21
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Incidencia inmediata de enfrentamientos durante la incursión en la ciudad de Siload, al noreste de Ramallah, y ocupación que dispara con fuego real contra los jóvenes.
+		Fecha/Hora: 2025-11-28 16:43:21
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Comando Central de los Estados Unidos: ampliación del Centro de Coordinación Civil-Militar de Gaza para incluir a representantes de 50 países y organizaciones internacionales. - El Centro de Coordinación facilitó la circulación de más de 24.000 camiones humanitarios y mercancías comerciales a Gaza.
+		Fecha/Hora: 2025-11-28 16:50:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La semana pasada, el Centro de Coordinación Civil-Militar anunció la introducción de técnicos en la Franja de Gaza para suministrar una línea de fibra óptica para restablecer la red de Internet.
+		Fecha/Hora: 2025-11-28 17:30:58
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos (ACNUDH) dijo que "se sorprendió por la muerte de palestinos por las fuerzas de seguridad israelíes en Cisjordania" y que eso parecía ser una "ejecución". Esto se produjo después de que se publicara ayer un vídeo que mostraba a soldados de la guardia fronteriza disparando a dos palestinos en Jenin después de su rendición, y los guardias fronterizos anunciaron hoy que habían abierto una investigación contra un soldado por disparos.
+		Fecha/Hora: 2025-11-28 17:31:00
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se produjeron enfrentamientos urgentes entre jóvenes y fuerzas de ocupación durante su incursión en la ciudad de Beit Amr, al norte de Hebrón.
+		Fecha/Hora: 2025-11-28 17:39:57
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los colonos cultivan tierras para los palestinos en la ciudad de Yabed al sur de Jenin, al tiempo que el ejército de ocupación continúa invadiendo viviendas en la ciudad y convirtiéndolas en cuarteles militares.
+		Fecha/Hora: 2025-11-28 17:45:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgente y no militar: investigación preliminar que confirma que los hombres armados que murieron en Jenin salieron desarmados del edificio para entregarse.
+		Fecha/Hora: 2025-11-28 17:51:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevos refuerzos militares están entrando en la provincia de Tubas.
+		Fecha/Hora: 2025-11-28 17:57:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 hebreo: Los enfrentamientos en la casa siria de Jin han sido los más violentos desde la caída del régimen de Bashar al-Assad hace un año.
+		Fecha/Hora: 2025-11-28 22:27:06
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Centro de Coordinación Civil-Militar de Kiryat Gat anunció la introducción de un equipo técnico para la Franja de Gaza con el fin de proporcionar una nueva línea de fibra óptica para la rehabilitación de la Internet en la Franja, cuyos representantes habían aumentado en 50 Estados
+		Fecha/Hora: 2025-11-28 22:27:06
+		Fuente: @hamza20300
+
+	• Localización: Al-Daraj
+		Breve descripción analítica: "El Jeque Qassim: La batalla de Ole Al-Bassam fue un enfrentamiento de una fuerza modesta que no se mide por la fuerza del enemigo, sino que tiene la voluntad, el valor y la confianza de la victoria del Líbano: el Jeque Kassem: el proyecto de Israel se rompió en el umbral de la batalla de Ole Qassam: el Jeque Kassem: ¿no hay agresión contra el Presidente de la República porque actúa con sabiduría y contra el comandante del ejército porque está actuando sobre la base de la protección de la paz civil?
+		Fecha/Hora: 2025-11-28 22:27:06
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El periodista de Radio Militar Dorun Kadush: Omer Dostri, ex portavoz de Netanyahu, revela: "El Primer Ministro y el Ministro del Ejército Kats han dicho una y otra vez por sus tuits y le han pedido que se calme".
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuestros combatientes de la compañía de la corriente de Al-Harithiya han podido detonar un artefacto explosivo terrestre de tipo diluido en un enclave militar en el eje Zioud, y nuestros héroes siguen luchando contra las fuerzas enemigas que entran en la ciudad en varios ejes, según las circunstancias y los datos del campo.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Las compañías de Jerusalén y el batallón de Yenín: Nuestros combatientes de la compañía Al-Saylah Al-Harithiya han podido detonar un artefacto explosivo dirigido a un vehículo militar de tipo Tiger en el eje Al-Bir, investigando una lesión directa en el mecanismo objetivo. Nuestros héroes también siguen atacando a las fuerzas enemigas que entran en la ciudad en varios ejes, según las circunstancias y los datos del campo.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Duron Kadush - Radio del ejército de ocupación: reconocimiento de inteligencia en el ejército israelí: en la aldea de Beit Jin, donde tuvo lugar el enfrentamiento. Hay una estructura de unos 15 activistas asociados con Hamas y Jemaah Islamiyah.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow | @EabriLive | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal israelí sobre fuentes: el debate militar tras la operación de Beit Jin tiende a reducir las detenciones y a trabajar en asesinatos aéreos
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow | @AjaNews | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life: Analista Militar Avi Ashkenazy: "Las críticas en el seno del ejército israelí al Ministro del ejército, Sr. Israel Kats, aumentan día tras día, y la decisión de Kats de congelar los nombramientos afecta la capacidad del ejército para gestionar las operaciones y hacer frente a los desafíos y las necesidades; especialmente porque se encuentran en una etapa muy delicada después de dos años de guerra, y el ejército está trabajando sin una dirección clara ni una comprensión profunda de los acontecimientos futuros".
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Según fuentes militares, una investigación preliminar confirma que los hombres armados que murieron en Jenin salieron desarmados del edificio para entregarse.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - En el canal i24news, el Centro de Coordinación Civil-Militar (CMCC), dirigido por los Estados Unidos, anunció la inclusión de representantes de 50 Estados y organizaciones internacionales.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal Hebreo: Tras grandes presiones estadounidenses y descontentos por la actuación de las Fuerzas Armadas Libanesas en el desarme de Hizbollah, las Fuerzas Armadas Libanesas publican por primera vez un documento que documenta el gasto de Hizbollah al sur del Litani en presencia de varios periodistas en el túnel.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Israel está preparándose para una reacción mucho más fuerte a Irán, en comparación con las anteriores rondas de ataques, las estimaciones en Israel indican que el próximo enfrentamiento podría prolongarse mucho más allá de los 12 días que hemos visto antes, el sistema de seguridad está en estado de alerta, entendiendo que esta vez la batalla es completamente diferente.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La Autoridad de Radiodifusión de Israel ha identificado a algunos de los organizadores de los ataques en Siria que trabajan en el servicio de inteligencia sirio. El canal hebreo 13: Israel está estudiando una respuesta contra el Gobierno sirio si resulta que los agentes de la seguridad pública siria están detrás del enfrentamiento de la mañana.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Gran filtración de aviones de combate israelíes que entran en el mar Mediterráneo, submarinos y vehículos navales israelíes para reforzar los campos de gas israelíes en el medio y el norte del mar Mediterráneo. La amenaza se toma en serio hace tres días.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Irán está probando el primer sistema de defensa aérea del mundo contra los drones, conocido como Gilgala, que puede ser lanzado con láser hasta 350 metros para derribar cualquier avión espía y un avión de combate estadounidense-israelí que viole el territorio iraní.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *La fuerza aérea iraní inició una maniobra en gran escala en la frontera con el Iraq y aviones de combate iraníes sobrevolaron la ciudad iraquí de Guman, en la provincia de Arbil, bajo control del Kurdistán, cerca de la frontera con el Irán.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí ha atacado al comandante del estado mayor de Hizbollah después de observar sus repetidos intentos de reconstruir la fuerza del partido militar.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un vídeo publicado por el ejército de ocupación documenta los enfrentamientos que tuvieron lugar esta noche en la aldea siria de Beit Jin y muestra que las fuerzas del ejército fueron blanco de disparos directos y a quemarropa.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una escena de violentos enfrentamientos entre jóvenes y colonos entre la aldea de Kafr Qaddoum (al este de Qalqilya) y la aldea de Beit Lid (al este de Tulkarm).
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la ciudad de Silat al-Harithiya, al oeste de Jenin.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En la ciudad de Sila al-Harithiya, al oeste de Jenin, continúan los enfrentamientos. Las fuerzas de ocupación disparan contra los jóvenes.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El padre del mártir, el Sr. Hassan Al-Saadi, habló de él y de su muerte en un enfrentamiento armado en la aldea siria de Beit Jin.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación detuvieron a un joven durante los enfrentamientos en la zona de la calle Naplusa, en la ciudad de Qalqilya.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 13 hebreo: "Israel" está estudiando una respuesta contra el gobierno sirio si resulta que elementos de la seguridad pública siria están detrás del enfrentamiento que tuvo lugar al amanecer.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Incidencia de enfrentamientos en la ciudad de Ni ' lin, al oeste de Ramallah, y ocupación de gran densidad de disparos en directo.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Corresponsal del periódico Al-Ashib de Gaza: disparos del ejército de ocupación al este del campamento de Maghazi, en el centro del sector
+		Fecha/Hora: 2025-11-28 22:38:06
+		Fuente: @muthanapress84
+
+	• Localización: Maghazi
+		Breve descripción analítica: Rápido... fuego intenso desde la torre automática y disparos en las casas de los ciudadanos, el área de la clínica del gobierno al este del campamento de Maghazi.
+		Fecha/Hora: 2025-11-28 22:52:06
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: * * *Acelerando los disparos desde los mecanismos israelíes al este de Khan Younis al sur de la Faja de Gaza.
+		Fecha/Hora: 2025-11-28 22:58:05
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hubo una explosión en las alturas de Kafr Shuba, en el sur del Líbano, que coincidió con fuertes disparos de ametralladoras en dirección a las afueras de la ciudad.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 23:13:05
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Embajador de Siria ante las Naciones Unidas en la isla: Siria se ha liberado militarmente y dice que no quiere la guerra, que es autocontrol.
+		Fecha/Hora: 2025-11-28 23:20:06
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se produjeron enfrentamientos urgentes entre los jóvenes y las fuerzas de ocupación durante la incursión en la ciudad de Beta, al sur de Tubas.
+		Fecha/Hora: 2025-11-28 23:35:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Jóvenes que atacan a las fuerzas de ocupación con botellas incendiarias durante los enfrentamientos en la ciudad de Beta, al sur de Naplusa.
+		Fecha/Hora: 2025-11-28 23:41:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Sana, por el Ministro de Información de Siria: los ataques israelíes contra *Siria son intentos provocadores de arrastrarlos a un enfrentamiento militar
+		Fecha/Hora: 2025-11-29 00:30:05
+		Fuente: @AjaNews
+
+	• Localización: Zaytoun
+		Breve descripción analítica: *Apurado: disparos de vehículos militares al este del barrio de Al-Zaitoun*
+		Fecha/Hora: 2025-11-29 01:33:05
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Reuters, por el Jefe de la Administración Militar de Kiev: aviones teledirigidos rusos dirigidos contra dos zonas de la capital
+		Fecha/Hora: 2025-11-29 01:37:06
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: El objetivo de los aviones de combate es el este de Rafah, al sur de la Faja de Gaza.
+		Fecha/Hora: 2025-11-29 02:11:05
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Secretario de Guerra de los Estados Unidos: ataques militares en el Caribe con el objetivo de eliminar a los terroristas vinculados a las drogas y detener su contrabando
+		Fecha/Hora: 2025-11-29 02:42:05
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgente: Hegsith: Todas las operaciones del ejército se ajustan al derecho de los conflictos armados y han sido aprobadas por los mejores abogados militares y civiles.
+		Fecha/Hora: 2025-11-29 02:44:05
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Jefe del Departamento Militar de Kiev: un civil resultó muerto y otros siete heridos en un ataque ruso contra la capital
+		Fecha/Hora: 2025-11-29 04:29:05
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El sospechoso del tiroteo en Washington fue sometido a varias rondas de escrutinio que comenzaron en 2011.
+		Fecha/Hora: 2025-11-29 04:46:05
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Jefe del Departamento Militar de Kiev: el ataque ruso contra la capital continúa
+		Fecha/Hora: 2025-11-29 06:22:05
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Los intensos disparos de aviones de ocupación contra la localidad de Bani Suhila, al este de Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-29 06:50:05
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Disparos urgentes desde la aviación de ocupación dirigidos contra el este de Al-Qaima, al noreste de Jan Yunis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-29 06:56:06
+		Fuente: @yaseenpress2004
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 16
+	• Principales áreas afectadas: Gaza City (8), Localización no especificada (7), Rafah (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Rafah
+		Breve descripción analítica: El ejército israelí anuncia el asesinato de nueve elementos Qassam de los túneles de Rafah, 30 de los cuales fueron atacados durante su huida, los nueve fueron encontrados en un túnel encontrado por las fuerzas de ingeniería y no en la salida del túnel.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-28 11:55:47
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Apurado por la Oficina de Derechos Humanos de las Naciones Unidas: Expresamos nuestra consternación por el asesinato flagrante de dos palestinos por las fuerzas israelíes en la Ribera Occidental.
+		Fecha/Hora: 2025-11-28 12:51:58
+		Fuente: @gazaalanar | @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - El ejército de ocupación viola gravemente las normas del derecho internacional humanitario y las normas internacionales de derechos humanos y sus asesinatos equivale a crímenes de guerra que deben ser objeto de enjuiciamiento penal internacional. - En los últimos dos años, las fuerzas de ocupación israelíes han matado a decenas de palestinos en la Ribera Occidental mediante asesinatos directos cometidos tras el control o la detención de las víctimas.
+		Fecha/Hora: 2025-11-28 16:09:52
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Seguimiento de la Oficina de Derechos Humanos de las Naciones Unidas: Expresamos nuestra consternación por el asesinato flagrante de dos palestinos por las fuerzas israelíes en la Ribera Occidental
+		Fecha/Hora: 2025-11-28 16:43:20
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Secretario General de Hezbolá, Jeque Naim Qassem: el partido está unido y tiene sus raíces y raíces y el objetivo del asesinato israelí no se ha materializado. Le digo al enemigo israelí que seguimos resistiéndonos.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sheikh Naim Kassem: El mártir de la Templatura es el maestro de la batalla de Ole Al-Bass. El objetivo del asesinato es golpear la moral, la administración y la distribución de las tareas del ejército libanés, organizando una gira de los medios de comunicación en los lugares y túneles de la resistencia al sur de Litani, y entregándolos de conformidad con la resolución 1701 (2006).
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 Hebreo, Secretario General de Hezbollah, Naim Qassem, sobre el asesinato de los médicos: "Tenemos derecho a contestar y fijaremos el momento".
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Secretario General de Hezbollah: tenemos derecho a responder y fijaremos el momento y el asesinato de un médico es un ataque flagrante.
+		Fecha/Hora: 2025-11-28 22:27:07
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El objetivo de su asesinato no se ha materializado y no se logrará. Yo digo: "El israelí": hay hermanos de Abu Ali, el tibetano, el asesinato es un ataque flagrante y un crimen descrito, y tenemos derecho a responder, y determinaremos el momento oportuno.
+		Fecha/Hora: 2025-11-28 22:27:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Ministerio de Justicia francés pide que se investigue el asesinato de dos niños franceses en Gaza por la Liga Árabe: la agresión israelí contra Damasco, en violación del derecho internacional, "la masacre de los palestinos".
+		Fecha/Hora: 2025-11-28 22:27:54
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Israel sigue cometiendo genocidio en Gaza, a pesar de la cesación del fuego, y el modelo libanés continúa con los asesinatos en Gaza, que han violado el acuerdo de cesación del fuego.
+		Fecha/Hora: 2025-11-28 22:28:01
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La Liga de los Estados Árabes pide que se investigue el asesinato de dos niños franceses en Gaza que siguen demoliendo las viviendas de los desplazados en el campamento de refugiados de Yenín, la fiscalía francesa que está investigando los “crímenes de guerra” en Gaza después de que dos niños franceses hayan sido asesinados por el ejército israelí después de que Israel haya matado a dos niños franceses. La Liga de los Estados Árabes pide que se investigue la matanza de dos niños franceses en Gaza que siguen demoliendo las viviendas de los desplazados en el campamento de refugiados de Yenín.
+		Fecha/Hora: 2025-11-28 22:49:49
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El fiscal francés pide que se investigue el asesinato de dos niños franceses en la Franja de Gaza que siguen demoliendo las casas de los desplazados en el campamento de Jenin. El fiscal francés está investigando los “crímenes de guerra” en Gaza después de la muerte de dos niños franceses de la Liga Árabe de la Liga de los Estados Árabes: la agresión israelí contra la zona de Damasco de la Ribera Occidental “violación del derecho internacional”.
+		Fecha/Hora: 2025-11-28 23:21:55
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El fiscal francés pide que se investigue el asesinato de dos niños franceses en la Franja de Gaza que siguen demoliendo las casas de los desplazados en el campamento de Jenin. El fiscal francés está investigando los “crímenes de guerra” en Gaza después de la muerte de dos niños franceses de la Liga Árabe de la Liga de los Estados Árabes: la agresión israelí contra la zona de Damasco de la Ribera Occidental “violación del derecho internacional”.
+		Fecha/Hora: 2025-11-29 00:04:44
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Israel sigue cometiendo genocidio en Gaza, a pesar de la cesación del fuego, y el modelo libanés continúa con los asesinatos en Gaza, que han violado el acuerdo de cesación del fuego.
+		Fecha/Hora: 2025-11-29 00:04:46
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Consejo de Seguridad de las Naciones Unidas ha pedido a Israel que investigue el asesinato de dos niños franceses en la Franja de Gaza que siguen demoliendo viviendas en el campamento de refugiados israelíes en el campamento de refugiados de Jenin. El Consejo de Seguridad de las Naciones Unidas ha informado a los periodistas palestinos de que en la zona de ocupación de la Franja de Gaza se está llevando a cabo una investigación sobre los “crímenes de guerra” en Gaza después de la ocupación de dos niños franceses en la zona de separación de Damasco: la agresión israelí contra la zona de s...
+		Fecha/Hora: 2025-11-29 02:56:43
+		Fuente: WEB https://www.alquds.com/ar/home
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 5
+	• Principales áreas afectadas: Localización no especificada (3), Rafah (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Rafah
+		Breve descripción analítica: El jueves por la noche, las autoridades de ocupación israelíes liberaron a la enfermera palestina Tasim Al-Hams y a cuatro prisioneros palestinos, todos ellos llegados al hospital de los mártires de Al-Aqsa. La ocupación obstaculiza la labor de las tripulaciones de la prensa durante la incursión de Tubas en la Ribera Occidental durante los dos últimos años, es decir, una imagen de la resistencia de la fuerza de ocupación israelí contra los combatientes de Al-Qassam en la zona de Al-Quds y otro grupo palestino que protesta por la crisis de los militantes de Rafah en la capital de Túnez.
+		Fecha/Hora: 2025-11-28 07:06:28
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Rafah
+		Breve descripción analítica: El jueves por la noche, las autoridades de ocupación israelíes liberaron a la enfermera palestina Tasim Al-Hams y a cuatro prisioneros palestinos, todos ellos llegados al hospital de los mártires de Al-Aqsa. La ocupación obstaculiza la labor de las tripulaciones de la prensa durante la incursión de Tubas en la Ribera Occidental durante los dos últimos años, es decir, una imagen de la resistencia de la fuerza de ocupación israelí contra los combatientes de Al-Qassam en la zona de Al-Quds y otro grupo palestino que protesta por la crisis de los militantes de Rafah en la capital de Túnez.
+		Fecha/Hora: 2025-11-28 09:07:35
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas masivas en Damasco, en apoyo de la aldea de Beit Jin, al sur de Siria, después de una emboscada de resistencia contra la ocupación israelí en la aldea.
+		Fecha/Hora: 2025-11-28 16:43:21
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Ministro de Seguridad Nacional, Itmar Ben Gfir, llegó a la base de la Unidad Antidisturbios, donde tres de sus soldados están siendo investigados bajo sospecha de haber disparado ilegalmente contra dos palestinos.
+		Fecha/Hora: 2025-11-28 17:30:58
+		Fuente: @muthanapress84 | @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Durante el noveno día, las familias de los presos políticos de Salfit, los hermanos Abdurrahman y Massab al-Husrab y Abdullah Younis, protestaron por la continuación de la detención de sus hijos hace un año y medio en las cárceles del poder.
+		Fecha/Hora: 2025-11-28 17:31:00
+		Fuente: @yaseenpress2004
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: Los efectos del deslizamiento de la infraestructura durante su agresión contra la ciudad de Tumun, al sur de Tubas.
+		Fecha/Hora: 2025-11-28 08:12:46
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un terremoto de 5,8 grados en la escala de Richter golpea la frontera entre México y Guatemala
+		Fecha/Hora: 2025-11-28 22:52:06
+		Fuente: @yaseenpress2004
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 84 foco(s) – principales áreas: Rafah, localización no especificada, European Hospital, Bani Suheila, Khan Younis, Gaza City
+	• Conflicto Armado: 139 foco(s) – principales áreas: Salah al-Din Road, Rafah, localización no especificada, Maghazi, Al-Quds Hospital, Zaytoun, Al-Daraj, Gaza City
+	• Criminalidad: 16 foco(s) – principales áreas: Rafah, Gaza City, localización no especificada
+	• Disturbios Civiles: 5 foco(s) – principales áreas: Rafah, localización no especificada
+	• Hazards: 2 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

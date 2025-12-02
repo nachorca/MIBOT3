@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-23_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-23 07:09:10</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 07:09:10<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> La gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud: un modelo de gestión de la salud.  [Enlace: https://libyaobserver.ly/cdn-cgi/content?id=Wq3JFR2qfQmUD1suBx_LzSaBXZW2YNIB82D8jZAuz8w-1763874547.9189548-1.0.1.1-u5P1hKrxKoCjCTSvcItQ1d2YeyO.1I0Lp7QbYhhYrHo]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 14:43:29</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 14:43:29<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Realidad virtual: A Deep Dive into the Realm of Immersive Simulation  Virtual Reality: A Deep Dive into the Realm of Immersive Simulation Virtual real reality (VR) ha revolucionado la forma en que experimentamos e interactuamos con las tecnologías digitales de la información, la educación y la salud.  [Enlace: https://libyaobserver.ly/cdn-cgi/content?id=M5YSAGz4VBdQrFyACdyNyDMxGuLCBK70VKELJe9eU7Y-1763901808.1832862-1.0.1.1-FVoaDXDLn7BJdWcIU3AJD.DZ3DnJ_J9KepIsz7sMIpA]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 17:27:16</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 17:27:16<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El Ministerio Público revela el uso de un producto médico (fraude) para esterilizar el equipo médico en las instituciones de salud. El nombre del producto (Instru Zym) en el mercado local y la empresa de fabricación alemana DR.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 17:27:36</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 17:27:36<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El Ministerio de Salud de Palestina anuncia la reactivación del Laboratorio de Salud Pública tras su destrucción por las fuerzas de ocupación, y la realización de pruebas de laboratorio de agua potable y saneamiento y de análisis de alimentos, como leche infantil y suplementos alimentarios, para reducir el riesgo de propagación de enfermedades infecciosas y epidemias.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 17:27:36</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 17:27:36<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El control de la educación en el municipio de Al-Bayar prohíbe la expulsión en masa de los estudiantes del aula, el castigo corporal severo de los estudiantes, que tiene graves consecuencias o daños para la salud, y establece una pena de un año de despido para los estudiantes que destruyan y destruyan los bienes de las instituciones de enseñanza o hablen mal.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 19:29:53</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 19:29:53<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El Ministerio de Salud del Gobierno de la Unidad Nacional niega que se hayan emitido declaraciones oficiales que demuestren la existencia de indicadores epidemiológicos que exijan la separación física, la suspensión de los estudios o la adopción de medidas preventivas y precauciones adicionales, e insta a los sectores público y privado y a los particulares a que adopten medidas únicamente sobre la base de un boletín del Ministerio y de lo publicado por el Centro Nacional para la Lucha contra las Enfermedades.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 20:47:51</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 20:47:51<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> • En una declaración, el General de División confirmó que todos los ejercicios de sus miembros se llevaban a cabo fuera de la capital, de conformidad con los planes aprobados y para garantizar que no afectaran a la vida de los ciudadanos. • En la declaración se denunciaba que en Trípoli se habían producido lesiones como resultado de un entrenamiento totalmente desprovisto de salud y que no había ninguna actividad de capacitación en la ciudad.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 09:30:38</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 09:30:38<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> La Fuerza Aérea Sudanesa atacó convoyes logísticos de apoyo rápido procedentes del este de Libia y destruyó docenas de vehículos de combate, vehículos de combustible y municiones. – Las Fuerzas Armadas Sudanesas destruyeron la sala de mando y control de las Fuerzas de Apoyo Rápido en la región de Kordofán.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 10:30:38</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 10:30:38<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El Grably, presidente de la junta militar de lo que se denomina una revolución de Sabratha, dijo que el asesinato de la joven, conocida como “la mujer”, con la que se mató a la mujer, causó la muerte de la mujer, señalando que no había ninguna razón para matar a una mujer que había intentado escapar y ocultarse. El Grably añadió en su página de Facebook que, incluso si su marido era el objetivo, había sido asesinado por Haram, aunque fuera culpable, sin que se le hubiera dado la espalda, no había motivo para disparar.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 11:42:38</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 11:42:38<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Después de que los egipcios advirtieran acerca de la utilización de la zona del Triángulo para transportar armas a Hammeti, el periódico &quot; revela en un informe un movimiento de fuentes militares en el sudeste de Libia y otro egipcio responsable: &quot;Las fuerzas de Hafter, con un mayor escrutinio de las líneas de abastecimiento de Hamidetti, comenzaron a modificar las líneas de suministro y a encargarse de ellas.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:16<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> La derrota de Ucrania es el plan más importante para poner fin a la lucha entre Rusia y Ucrania, que incluye la renuncia de Ucrania a más del 20% de su superficie de facto para Rusia, la renuncia de Ucrania a Crimea, la renuncia de Ucrania a la mitad de su riqueza mineral para Rusia y América, la reducción a la mitad del ejército ucraniano, la no entrada de Ucrania en la OTAN y la desmilitarización del ejército ucraniano de las armas estratégicas. Si Ucrania no está de acuerdo, se pondrá fin al apoyo de los Estados Unidos y se reanudará la guerra contra Ucrania, que será muy difícil debido...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:19</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:19<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El análisis militar, Mohamed Al-Tahraouni: Los dedos de la acusación se dirigen a las milicias de seguridad pública de Abdulla al-Trabelsi, en el caso de la muerte de la Sra. Mujahid, la fuerza más generalizada e influyente en la zona que va desde el Saraj hasta Gunzour, donde se produjo el crimen.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:29:50</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:29:50<br><b>Localización:</b> Ain Zara<br><b>Descripción:</b> - Fuentes médicas y de seguridad confirman que hubo heridos entre los ciudadanos tras la caída de fragmentos en la zona del diplomático, a partir de los ejercicios de la 444a brigada, dirigida por Mahmoud Hamza, en una zona cercana. - Las fuentes han demostrado que los disparos que se han escuchado no son enfrentamientos, sino disparos al aire con 23 disparos producidos por el entrenamiento continuo de la 444a brigada en la última hora.]]></description>
+      <Point>
+        <coordinates>13.232000,32.788000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:29:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:29:51<br><b>Localización:</b> As Sidra<br><b>Descripción:</b> * El estallido de enfrentamientos armados en la zona de Al-Sudara, que se produjo hace poco, se caracterizó por un intenso intercambio de disparos con armas pesadas y de mediano calibre entre grupos armados. El incidente causó pánico y temor entre la población, y persistieron las voces violentas en toda la región.]]></description>
+      <Point>
+        <coordinates>18.262000,30.645000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:29:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:29:52<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Fotografías de testigos presenciales: La llegada de varios ciudadanos a la clínica de Al-Khali con metralla en la zona de &#x27;diploma&#x27; de Ba&#x27;in-Zara. Las heridas se originaron en el entrenamiento de los elementos de la 444a brigada de combate dirigido por Mahmoud Hamza en una zona cercana.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:49:09</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:49:09<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> En una declaración de la &quot;Televisión&quot; de Trayectoria se niega la existencia de ejercicios militares de la brigada en el área metropolitana de Trípoli y se afirma que todos nuestros ejercicios militares se llevan a cabo fuera de Trípoli.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 20:47:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 20:47:51<br><b>Localización:</b> Ain Zara<br><b>Descripción:</b> • En una declaración, la Fundación afirmó que esos fragmentos se originaron en ejercicios realizados en el interior de una unidad militar de la región, según fuentes médicas y de seguridad de la región. • La Fundación pidió a los generales y al fiscal militar que investigaran las circunstancias del incidente y velaran por que los acusados fueran detenidos y llevados ante la justicia.]]></description>
+      <Point>
+        <coordinates>13.232000,32.788000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 09:40:38</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 09:40:38<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Aisha Muammar al-Qadhafi critica el silencio de la sociedad sobre los asesinatos de mujeres en Libia. Aisha Muammar al-Qadhafi dice que el silencio de la sociedad sobre los &quot;delitos atroces&quot; que sufren las mujeres libias en el este y el oeste del país es una &quot;asociación en el crimen y no neutral&quot;, considerando que el silencio constante alienta a los autores a cometer más violaciones.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 11:16:38</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 11:16:38<br><b>Localización:</b> N/D<br><b>Descripción:</b> Equipo de gestión de cadáveres de la Sociedad de la Media Luna Roja, sección de Trípoli, recupera un cadáver no identificado de la costa de Tajoura y lo entrega a las autoridades competentes por televisión de la ruta de frecuencia HD: H11373]]></description>
+      <Point>
+        <coordinates>13.385000,32.883000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 11:55:38</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 11:55:38<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Fotografías de Mukhtar al-Jahawi, ordeno a la División de Reserva de la Fuerza Antiterrorista que ordene a los destacamentos de la Fuerza que se dirijan a la zona de Abugren y sus alrededores.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:17</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:17<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Mukhtar al-Jahawi ordena que los destacamentos de la Fuerza de Lucha contra el Terrorismo se dirijan a Abu Qarine. Mukhtar al-Jahawi, comandante de la División de Reserva de la Fuerza de Lucha contra el Terrorismo, ha dado instrucciones para que los destacamentos de la Fuerza se dirijan a la zona de Abu Qarin y sus alrededores.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:17</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:17<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Los medios de comunicación afirman que el agotamiento se llevó a cabo sin proyectos claros, sin transparencia en los detalles de los desembolsos y sin un control real de los gastos. Los medios de comunicación han indicado que las propiedades de los habices son suficientes para pagar los sueldos de los empleados de la organización con un excedente de dinero en la caja fuerte del Estado.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 19:29:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 19:29:50<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Voy a clasificar a los hermanos como una organización terrorista extranjera en Libia.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 10:41:38</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 10:41:38<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Después de una persecución con armas después de escapar de una emboscada, la Dirección de Seguridad de la Tonelada declara que está involucrado en el tráfico de drogas en la zona de la puerta de las aceitunas al este de Taprq, señalando que el acusado está trayendo contrabando de la zona de &quot;Auxiliar&quot; y vendiéndola en &quot;Libia&quot;.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 11:06:39</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 11:06:39<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El presidente de la institución nacional de derechos humanos, Ahmed Hamza: El gobierno de Trípoli y su Ministro del Interior han asumido plena responsabilidad por el asesinato y asesinato de mujeres mujahid. – Este incidente representa un grave avance en la situación de seguridad en la capital y revela el aumento de la delincuencia y los asesinatos políticos desde hace un año.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 12:08:19</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 12:08:19<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Sky News: El asesinato de una mujer que pone de relieve los delitos de género y los conflictos de las milicias en Libia occidental - CBS:  %d9%d9%d89%d8%d8%d8%d9%d9%d8%d8%d8%d8a -%d9%d8a -%d89%d8a -%d8%dh%dh%d8%d8%d%d8%d8%d8%d8%d8%d8%d8%d8%d8%d8%d8%d8a. El informe de la Misión de Observación de las Naciones Unidas para la Defensa de los Derechos Humanos (UNOB) muestra los resultados de la investigación independiente %d8%d%d%d%d%d%d.  [Enlace: https://gplusss.com/2025/11/23/%d8%b3%d9%83%d8%a7%d9%8a-%d9%86%d9%8a%d9%88%d8%b2-%d9%85%d9%82%d8%aa%d9%84-%d8%ae%d9%86%d8%b3%d8%a7%d8%a1-%d9%8a%d8%b3%d9%84%d8%b7-%d8%a7%d9%84%d8%b6%d9%88%d8%a1-%d8%b9%d9%84%d9%89-%d8%ac%d8%b1%d8%a7/]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:17<br><b>Localización:</b> Zawiya<br><b>Descripción:</b> El tercer boletín de noticias de la televisión de la ruta del Comandante en Jefe destaca el derecho del pueblo en su informe sobre las tribus de Al-Adahi, en el que se pide que se revelen las circunstancias del asesinato de una mujer de la calle Mujad.  [Enlace: https://youtube.com/live/lrmYVK8u2GQ]]]></description>
+      <Point>
+        <coordinates>12.727000,32.757000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:17<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Sky News: El asesinato de una mujer es un ejemplo de delitos de género y conflictos de milicias en el oeste de Libia:  [Enlace: https://gplusss.com/2025/11/23/%d8%b3%d9%83%d8%a7%d9%8a-%d9%86%d9%8a%d9%88%d8%b2-%d9%85%d9%82%d8%aa%d9%84-%d8%ae%d9%86%d8%b3%d8%a7%d8%a1-%d9%8a%d8%b3%d9%84%d8%b7-%d8%a7%d9%84%d8%b6%d9%88%d8%a1-%d8%b9%d9%84%d9%89-%d8%ac%d8%b1%d8%a7/]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:17<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El Ministerio Público, en colaboración con la Dirección General de Lucha contra el Contrabando y las Drogas de la Administración de Aduanas, llevó a cabo una investigación que llevó a cabo en colaboración con la Dirección General de Lucha contra el Contrabando y las Drogas de la Administración de Aduanas, con el resultado de que se había identificado el lugar de la falsificación de la marca. Se incautó una cantidad de material que había sido falsificado y se detuvo a uno de los directores de la empresa de importación de suministros médicos.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:17<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El interior del oso se niega a fijar una fecha para la identificación de los asesinos de traidores y confirma: no somos responsables de su asesinato:  %d8a9%d8%d9%d8a%d8%d9%d8%d9%d8a%d8a%d8a%d8%d8a%d8a%d8%d8a%d8%d8%d8%d9%d8%d8%d8%d8%d8%d8a%d8%d8a%d8%8a%d8a%d8a%d8%d8a%d8%d8a%d8aq8%d8%d8%d8aq8%d9%f%d9%d8%8%d8%d9%%d9%d9%8%%d9%8%%d9%d9%%%%d9%d9%d9%%%dovffffff%8%dov%d9%d9%d9%d9%d9%d9%%d9%9%d9%d9%8%8%8%8%8%d%d%d9%d9%d9%d9%d9%8%8%8%d%d%d%d%d9%d9%d%d%d%d9%d9%d%d%%%%kd%d%d%d%d%d%kd%d%d%d%d%d%d%d9%d9%d9%d9%d9%d9%d9%d9%d9%d9%d9%d%kd%d%d%d%d%d%%%k%k%k%k%d%d%d%d%d%d%d%d%%%%%%%%%%%%%%d9%%%kd9%d9%  [Enlace: https://gplusss.com/2025/11/23/%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d8%a8%d9%8a%d8%a8%d8%a9-%d8%aa%d8%b1%d9%81%d8%b6-%d8%aa%d8%ad%d8%af%d9%8a%d8%af-%d9%85%d9%88%d8%b9%d8%af-%d9%84%d8%a8%d9%8a%d8%a7%d9%86-%d9%83/]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:18</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:18<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Como señalamos anteriormente, tras el asesinato de Bluger (Khannah-Mujahid) en el distrito de Al-Saraj, fuentes locales intercambiaron información sobre la desaparición de un miembro del SSG en circunstancias misteriosas. Una grabación de audio en la que se escuchaba a dos miembros del SNS que hablaban de su colega desaparecido, con la probabilidad de que su desaparición estuviera directamente relacionada con el hecho o con los movimientos y circunstancias que lo precedieron.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:19</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:19<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> - El asesinato de mujeres por ser mujeres es una violación grave de los derechos humanos y debe enfrentarse con una legislación estricta y reformas sociales. - Debe haber una investigación independiente y transparente del asesinato de mujeres, con la necesidad de detener a los autores y mostrar los resultados de las investigaciones a la opinión pública.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:19</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:19<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> – Las mujeres han sido asesinadas bajo el control del Servicio de Seguridad General, dirigido por Abdullah al-Trabelsi, hermano del Ministro del Interior, Imad al-Tarablissi. – Algunas acusaciones indican que Mahamat Bahroun, alias Al-Farr, estaba liderando el grupo que persiguió a la víctima hasta el lugar del asesinato.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:36</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:36<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> Vigilancia de los Crímenes en Libia exige al Fiscal General que inicie una investigación rápida y transparente sobre el asesinato de las mujeres y los muyahidines, vele por que los responsables rindan cuentas de sus actos y tome medidas serias para poner fin a la impunidad que fomenta la repetición de esos crímenes.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:36</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:36<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Los oficiales del interior del país están deseosos de demostrar la verdad sobre este atroz crimen que afecta a una ciudadana libia para evitar que se repita. Estamos en una encrucijada, y el ciudadano debe desempeñar un papel positivo, ya que la policía comunitaria debe apoyar al interior para detectar y denunciar todo lo que afecte a la seguridad del ciudadano.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 19:29:49</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 19:29:49<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> El boletín de noticias No 6 de la televisión de la ruta del Comandante General hace hincapié en el derecho del pueblo en el informe de su pueblo a la investigación del asesinato de una mujer de Mujahid.  [Enlace: https://youtube.com/live/1aAvV52GDaQ]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 19:29:50</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 19:29:50<br><b>Localización:</b> Tripoli (estimado)<br><b>Descripción:</b> • La institución pidió que se iniciara una investigación exhaustiva de las circunstancias del incidente, que se garantizara el enjuiciamiento y el enjuiciamiento de los acusados y que se pusiera fin a la impunidad por esos delitos y graves violaciones de los derechos humanos. • Según la declaración de la institución, en la nota de denuncia se aclaraba que las circunstancias del caso constituían un delito penado por la ley y constituían una grave violación de las facultades, funciones y competencias de los servicios de seguridad, así como un abuso de poder.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 20:20:16</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 20:20:16<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Un periódico italiano: el asesinato de mujeres damnificadas en Trípoli y Zawia, y puede acabar con el taraplisse (Libia) (c_blos  [Enlace: https://n9.cl/ym3hyk]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 20:28:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 20:28:31<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El asesinato de mujeres incendia el clima en Trípoli y Zawia, y el ataque podría ser derribado por el Tarablussy-Gests  %d8%d8%d9%d9%d9%d9%d9%d9%d8%d8%d8%d8%d8%d8%d8a%d9%d8%d8%d8%d8%d8%d8%d8a%d8%d8a%d8%d8a%d8%d8a%d8%d8%d8a%d8%d8%d%d8%d%d8aq. El incidente se produjo en el Peld9 %%d8a.  [Enlace: https://gplusss.com/2025/11/23/%d8%b5%d8%ad%d9%8a%d9%81%d8%a9-%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d8%ba%d8%aa%d9%8a%d8%a7%d9%84-%d8%a7%d9%84%d8%ae%d9%86%d8%b3%d8%a7%d8%a1-%d9%8a%d8%b4%d8%b9%d9%84-%d8%a7%d9%84%d8%a3/]]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-11-24_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:22</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:22<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Corresponsal de # Al-Jazeera: incursiones israelíes y bombardeos de artillería dentro de la línea amarilla, al este y al sur de la ciudad de Khan Younis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> *Aqla &#x27; , mártir del bombardeo de la artillería israelí contra la zona de Shu &#x27; af, en el barrio de Tuffah, cerca de la línea amarilla, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> ** Nuevas violaciones de la cesación del fuego: bombardeo aéreo y de artillería israelí contra varias zonas de Gaza, con detalles:]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Heridas de bala en un bombardeo de artillería contra la zona de Al-Shaab en el barrio de Taffah, cerca de la línea amarilla al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> *Aqla &#x27; , mártir del bombardeo de la artillería israelí contra la zona de Shu &#x27; af, en el barrio de Tuffah, cerca de la línea amarilla, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:23<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Fuentes de prensa: Dos personas resultaron heridas por el bombardeo de un avión que se dirigía a la zona de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:24<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Shahid fue bombardeado por la artillería israelí en la zona de Shufa, en el barrio de Taffah, cerca de la línea amarilla, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:24<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Una herida de bala en el bombardeo de la artillería de ocupación en la zona de Shu &#x27; af, en el barrio de Tuffah, cerca de la línea amarilla, al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:48:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:48:24<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Nuestro corresponsal: Dos personas resultaron heridas por el bombardeo de una marcha de ocupación en una reunión de la población de la región de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:51:19</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:51:19<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Israel bombardeó Beirut y asesinó a un comandante de Hezbollah en una nueva violación del acuerdo de cesación del fuego. Israel lanzó un ataque contra el barrio meridional de Beirut, que dio lugar al asesinato del comandante del Estado Mayor de Hizbollah Haitham Ali al-Tababi.  [Enlace: https://www.alquds.com/ar/posts/211299]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:52:16</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:52:16<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> Heridas en un bombardeo israelí contra una concentración de ciudadanos cerca de una casa en la zona de Rumeida, en la localidad de Beni Suhila, al este de Khan Younis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 08:54:16</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 08:54:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> *Mashhad fue herido en el bombardeo de un vehículo israelí por ciudadanos de la localidad de Beni Suhila, al este de Khanyonis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 09:05:16</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 09:05:16<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Alaa Mazen Hamdi Abu Rida, de 20 años de edad, llegó al hospital Nasir Khanyonis, a raíz de un bombardeo israelí en la zona de Armeida, en la localidad de Beni Suhila, al este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 09:23:16</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 09:23:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Corresponsal del periódico Al-Assah, Gaza: Shahidan y heridos por el bombardeo israelí de un avión Kaud Kaptar contra ciudadanos de la zona de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 09:33:16</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 09:33:16<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Nuestro corresponsal: Los jóvenes Ahmed Abderrahim Suhamud y Alaa Mazen Abu Rida fueron asesinados por el bombardeo de una marcha de ocupación en la zona de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 10:45:57</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 10:45:57<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército israelí está matando a dos palestinos con incursiones y bombardeando Gaza (  [Enlace: https://www.alquds.com/ar/posts/211339]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 10:45:59</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 10:45:59<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Consejo de Seguridad de las Naciones Unidas bombardeó tres palestinos y otros dos resultaron heridos en un bombardeo realizado por las fuerzas de ocupación al este de las ciudades de Gaza y Janjuns, mientras que el bombardeo continuó en la zona meridional y septentrional de la Franja de Gaza, en violación del acuerdo de cesación del fuego. Fuentes locales informaron de que, tras el bombardeo de la zona de Al-Sha &#x27; af en la zona de Al-Tuffah, en la zona oriental de la ciudad de Gaza, el ejército de ocupación seguía disparando fuego de artillería contra el cuartel general de la Franja de G...  [Enlace: https://www.alquds.com/ar/posts/211338]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:04:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:04:32<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Imágenes del último bombardeo israelí de Shi &#x27; iya Shahida contra una concentración de ciudadanos de la localidad de Beni Suhila, al este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:04:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:04:32<br><b>Localización:</b> Nuseirat<br><b>Descripción:</b> La niña murió hace dos días como consecuencia de las heridas sufridas al bombardear el campamento de Nuseirat.]]></description>
+      <Point>
+        <coordinates>34.392000,31.448000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:05:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:05:32<br><b>Localización:</b> Nuseirat<br><b>Descripción:</b> La niña ayma Abu Amuneh murió a consecuencia de las heridas sufridas al bombardear el campamento de Nuseirat hace dos días.]]></description>
+      <Point>
+        <coordinates>34.392000,31.448000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:36:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:36:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Estado de Azerbaiyán se negó a participar en el bombardeo de la Fuerza Internacional en Gaza (FIAS) ( Sus artículos se publicaron en el Foro Al-Quds el lunes 24 de noviembre de 2025 a las 11.24 horas, hora de Al-Quds, periódico hebreo: Azerbaiyán se negó a participar en el bombardeo de la Fuerza Internacional en Gaza.  [Enlace: https://www.alquds.com/ar/posts/211381]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:39:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:39:36<br><b>Localización:</b> Nuseirat<br><b>Descripción:</b> La niña murió hace dos días como consecuencia de las heridas que sufrió al bombardear el campamento de Nuseirat.]]></description>
+      <Point>
+        <coordinates>34.392000,31.448000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:39:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:39:36<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * Seguimiento de fuentes locales: 8 mártires fueron sacados de la parte inferior de los escombros de una casa perteneciente a la familia Abu Hamada que había sido bombardeada por la guerra “israelí” en el campamento de Maghazi, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 11:39:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 11:39:36<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La Defensa Civil sacó a ocho mártires de la parte inferior de los escombros de una casa perteneciente a la familia Abu Hamada que había sido bombardeada por la guerra israelí en el campamento de Maghazi, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 12:16:55</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 12:16:55<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> A pesar de las heridas, los bombardeos y las constantes detenciones en la Franja de Gaza para apoyar y apoyar a los prisioneros en las cárceles de ocupación que viven en condiciones difíciles.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 13:09:40</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 13:09:40<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Nuestro corresponsal: una explosión de restos del ejército de ocupación al noroeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 13:14:45</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 13:14:45<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * Actualizar fuentes locales: heridos en la explosión de restos de guerra en el noroeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 13:21:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 13:21:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Los postes de humo aumentaron considerablemente después de una explosión de residuos de la ocupación al noroeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 13:24:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 13:24:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Explosión de un misil RMEG en la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 13:28:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 13:28:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La explosión al oeste de la ciudad de Gaza, cerca de la entrada del campamento de Beach septentrional, y los detalles de las bajas en el lugar]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 14:23:33</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 14:23:33<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Los restos de 14 mártires de mi familia, Abu Hamida y Haj Youssef fueron recuperados de los escombros de una casa bombardeada por aviones de ocupación en el campamento de Maghazi, en el centro de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 15:25:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 15:25:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Declaración de prensa emitida por la Dirección General de Policía: un niño resultó herido moderadamente por la explosión de un objeto de ocupación en la zona de la costa septentrional de la ciudad de Gaza esta tarde. La policía exhorta a los ciudadanos a que sensibilicen a sus hijos para que no jueguen con misiles de guerra sin detonar ni con objetos sospechosos de haber quedado fuera de la ocupación y, en caso de que se encuentren, a que informen rápidamente a las autoridades competentes a través del número 100 de la policía o del número 109 de las operaciones centrales del Ministerio d...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 16:11:03</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 16:11:03<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dos niños resultaron heridos por la explosión de un objeto sospechoso en el barrio de Tuffa, al noreste de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 16:11:04</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 16:11:04<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La foto de la casa del Dr. Majid Abu Ramadan en la zona de arena de Gaza, en la que vivían más de 100 víctimas de la familia Salem, fue bombardeada al comienzo de la agresión israelí.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 16:11:04</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 16:11:04<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dos niños resultaron heridos como consecuencia de la explosión de restos de la ocupación en la zona de Al-Alam, en el barrio de Al-Tuffah de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 16:11:04</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 16:11:04<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dirección General de Policía: Un niño resultó herido moderadamente por la explosión de un objeto de la ocupación en la zona de la costa septentrional de la ciudad de Gaza esta tarde. La policía exhorta a los ciudadanos a que sensibilicen a sus hijos para que no jueguen con misiles de guerra sin detonar ni con objetos sospechosos de los restos de la ocupación y, en caso de que se encuentren rápidamente, a que informen a las autoridades competentes a través del número 100 de la policía o del número 109 de las operaciones centrales del Ministerio del Interior.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 16:24:27</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 16:24:27<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Defensa civil en Gaza: dos niños resultaron heridos en la explosión de un objeto sospechoso en el barrio de Tuffa, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:49</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:49<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Corresponsal de # Al-Jazeera: heridos en el bombardeo de la artillería israelí contra la ciudad de Beit Lahiya, frente a la línea amarilla al norte de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:49</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:49<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes de emergencia y ambulancias: un niño murió y varias personas resultaron heridas en una explosión en una casa del barrio de Al-Nasser, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Movimiento de Resistencia Islámica, Hamas, afirmó que los daños causados por los restos del enemigo sionista como consecuencia de la agresión y la guerra genocida en la Franja de Gaza ponen de relieve la magnitud de los peligros cada vez mayores para todo nuestro pueblo y nuestra población en la Franja de Gaza, con la continuación de la guerra de exterminio y destrucción. - El portavoz del Movimiento, Hazem Kassem, instó hoy a todos los agentes internacionales pertinentes a que tomaran medidas urgentes para eliminar los desechos peligrosos de la Franja de Gaza, que son bombas de tiempo q...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Algunos de ellos resultaron gravemente heridos por el bombardeo de la artillería israelí en los alrededores de la plaza de Beit Lahiya, al norte de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> *Actualización inicial: un niño murió y varias personas resultaron heridas en una explosión en una casa del barrio de Al-Nasser, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Nuestras columnas transportan cuatro heridos, uno de ellos grave, al hospital Al-Shifa a causa de una explosión en la calle Al-Nasser, al oeste de la ciudad de Gaza. El incidente continúa y continúa.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Defensa civil en Gaza: 2 niños resultaron heridos en la explosión de un objeto sospechoso en el barrio de Tuffa, al este de la ciudad de Gaza @Warlife3]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * El ejército israelí está llevando a cabo una enorme explosión al sudeste de la ciudad de Khan Younis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> □ Ole: Víctimas en una explosión en el barrio de Al-Nasser, al norte de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:50</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * * *Acelera ; Ole: mártir y heridos en una explosión en el barrio de Al-Nasser, al norte de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un mártir y heridos en una explosión en el barrio de Al-Nasser, al norte de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Rápido, un vehículo civil que transportaba a cuatro heridos, entre ellos un niño, que fue atacado con una bomba Coadcapitr cerca de un círculo de Drappie al oeste de Jerusalén, en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El número de víctimas ha aumentado a 12 hasta el momento de la última explosión al oeste de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Mártires y heridos como consecuencia de la explosión de un objeto sospechoso en una casa en la calle Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dos niños fueron trasladados al hospital bautista después de haber sido heridos por la explosión de restos de la ocupación en la zona de Al-Alam, en el barrio de Al-Tuffah, en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Hamas: Las heridas de niños causadas por las explosiones de restos del enemigo confirman la magnitud de los riesgos cada vez mayores para todo nuestro pueblo en la Franja de Gaza, e instamos a todos los agentes internacionales a que adopten medidas urgentes para eliminar los desechos peligrosos, que son bombas de tiempo que pueden explotar en cualquier momento.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Urgentemente, una mujer israelí lanzó una bomba en el tejado del centro de acogida de desplazados internos de Palestina, en el campamento de Jabaliya, al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Al-Shila, en el norte de la Franja de Gaza, un grupo de palestinos resultó herido por el bombardeo de la artillería de ocupación en la rotonda de Beit Lahiya.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Urgentemente, mártires y heridos; como consecuencia de la explosión de un objeto abandonado por la ocupación, en una casa situada en la calle Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Mártires y heridos; como consecuencia de la explosión de un cuerpo abandonado por la ocupación, en una casa situada en la calle Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:10:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Ministerio del Interior de Gaza: Shahidan y varios heridos por una explosión en una casa del barrio de Al-Nasser, en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:32:48</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:32:48<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Comunicado de prensa: los órganos competentes del Ministerio del Interior y de Seguridad Nacional están siguiendo un incidente de explosión en una casa del barrio de Al-Nasser, en la ciudad de Gaza, que provocó la muerte de dos mártires y heridas a otros ciudadanos.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:32:48</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:32:48<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> * Fotografía de Alaa Mazen Abu Rida, que fue bombardeado por Israel esta mañana en la zona de Rumeida, en Beni Sihila, al este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:32:48</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:32:48<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> * Imagen de Ahmed Abderrahim Suhamud, que fue objeto de un bombardeo israelí esta mañana en la zona de Rumeida, en Beni Suhila, al este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-24 21:41:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-24 21:41:24<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El consejo de Ashcool está dando una advertencia a los colonos. Esta noche se oirá una explosión, es decir, un ataque al ejército en la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 08:48:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 08:48:22<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Corresponsal de la isla: ataques israelíes y disparos de tanques y helicópteros al noreste de la ciudad de Rafah al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 08:48:23</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 08:48:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - El ex Jefe de Inteligencia Militar, General de Brigada Aarón Haleva, ex Jefe de Inteligencia Operacional, &quot;Audid Bassyuk&quot;, ex Comandante del Comando Sur, General de Brigada Yaron Finkleman, ex Comandante de la Unidad 8200, ex Comandante de la Reserva &quot;Yosi Sariel&quot;, ex Comandante de la División de Gaza, General de Brigada Avi Rosenfeld, ex Jefe de Estado Mayor del Mando Sur, Coronel Ariel Labowski, y Comandante de la Brigada Norte de la División de Gaza, Coronel Hayim Cohen.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 08:48:24</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 08:48:24<br><b>Localización:</b> Rafah<br><b>Descripción:</b> :: Corresponsal de la red de Jerusalén: ataques aéreos de la aviación de ocupación en conjunción con un bombardeo de artillería dirigido contra el este de la ciudad de Khanyonis; fuego intenso de tanques de ocupación al sur de Khanyonis; ataques aéreos y disparos de helicópteros de la aviación de ocupación contra la ciudad de Rafah.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 08:51:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 08:51:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un alto funcionario de los Estados Unidos reveló que el Gobierno de los Estados Unidos de América estaba detrás de los ataques de la ocupación israelí en la Franja de Gaza, considerando que el último movimiento militar había sido una &quot;respuesta directa&quot; a un incidente de seguridad que un agente de Hamas había cometido en una zona bajo control israelí. Un alto funcionario de los Estados Unidos reveló que la administración del Presidente de los Estados Unidos, Donald Trump, estaba detrás de los ataques de la ocupación israelí en la Franja de Gaza, y que la &quot;proclamación de la cesación del fue...  [Enlace: https://www.alquds.com/ar/posts/211303]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 08:56:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 08:56:16<br><b>Localización:</b> Rafah<br><b>Descripción:</b> Ataques aéreos, disparos de tanques y helicópteros al noreste de Rafah.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:11:03</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:11:03<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Los observadores israelíes resultaron heridos al norte y al sur de la Franja de Gaza ( mientras que en varias zonas del norte y el sur de la Franja de Gaza se registraron ataques aéreos y disparos masivos de tanques y helicópteros en las zonas ocupadas por Israel. Fuentes médicas dijeron que un palestino había resultado herido por disparos de artillería cerca de la denominada &quot;línea amarilla&quot; en la zona de Al-Sha &#x27;af en la zona de Al-Jama &#x27; ah en la parte oriental de Gaza.  [Enlace: https://www.alquds.com/ar/posts/211324]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:16:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:16:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Hospital Bautista: mártir de disparos de las fuerzas de ocupación fuera de la línea amarilla en el barrio de Tuffah, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:17:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:17:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Hospital Bautista: mártir de disparos de las fuerzas de ocupación en el barrio de Tuffah, al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:21:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:21:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> ● La muerte de Mahmoud Wael en el campo por disparos del ejército de ocupación israelí en el barrio de Tuffah al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:40:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:40:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes de los hospitales de Gaza: 4 mártires muertos por disparos del ejército de ocupación en las ciudades de Gaza y Jan Yunis desde esta mañana]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:44:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:44:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Cuatro mártires muertos por disparos del ejército de ocupación en las ciudades de Gaza y Janíos desde esta mañana.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:47:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:47:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un informe de prensa publicado por la radio del ejército de ocupación reveló que los combatientes de las brigadas Izz al-Din Al-Qassam, el ala militar de Hamas, lograron desactivar tanques israelíes durante la batalla de Tofan al-Aqsa en la zona de la cubierta de Gaza, después de reunir información delicada sobre el tanque Merkava 4 y formar una fuerza especial para tratar con los tanques.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 09:49:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 09:49:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes de los hospitales de Gaza: 4 mártires muertos por disparos del ejército de ocupación en las ciudades de Gaza y Jan Yunis desde esta mañana.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 10:41:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 10:41:22<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Cuatro mártires que han sido objeto de disparos por las fuerzas de ocupación en las ciudades de Gaza y Jan Yunis desde esta mañana.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 13:22:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 13:22:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un palestino resultó herido por disparos de colonos al oeste de Ramallah, dos de los cuales resultaron heridos por disparos de colonos israelíes en la ciudad de Beit Aur, en la provincia ocupada de Ramallah, en el centro de la Ribera Occidental. Testigos presenciales dijeron que dos colonos habían atacado a ciudadanos durante la cobertura de la televisión oficial de Palestina.  [Enlace: https://www.alquds.com/ar/posts/211427]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 13:49:45</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 13:49:45<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Emergencias y ambulancias: heridos por disparos del ejército de ocupación israelí en Jabaliya, en el norte de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 13:54:49</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 13:54:49<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Emergencias y emergencias en Gaza: dos heridos por disparos del ejército de ocupación en Jabaliya, en el norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 13:57:46</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 13:57:46<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Ambulancia y emergencia en Gaza: Dos heridos por disparos del ejército de ocupación israelí en Ŷabaliya, en el norte de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 15:25:11</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 15:25:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Ministra Gila Gmiliel: Hamas será desarmado, Gaza será desmilitarizada y los cuerpos de los tres prisioneros serán devueltos.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 16:15:03</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 16:15:03<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Mientras que la presencia militar turca en el norte de Siria comenzó con las operaciones militares en 2016, las ambiciones de Ankara en el resto de Siria no se cumplieron hasta el derrocamiento del Assad en diciembre de 2024. Si Ankara se hubiera basado exclusivamente en Siria, ya se hubieran establecido bases militares allí, pero la conducta del Presidente sirio Bashar Al-Assad, que trata de diversificar su base de apoyo, y la actividad preventiva israelí, hasta la fecha han ayudado a contrarrestar esas intenciones de Turquía.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 19:27:35</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 19:27:35<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Los restos de la agresión israelí son bombas de relojería que deben ser retiradas con urgencia por Hamas, los dos agentes internacionales han llamado a la &quot;acción urgente&quot; para eliminar los restos militares israelíes de la Franja de Gaza y los han considerado &quot;bombas de relojería&quot; que representan una amenaza para los palestinos. En una declaración formulada por el portavoz del movimiento israelí, Hazem Qasim, el lunes anterior, tres niños resultaron heridos en diferentes zonas de la ciudad de Gaza a causa de la explosión de restos militares israelíes, según las declaraciones de la policía y...  [Enlace: https://www.alquds.com/ar/posts/211517]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:49</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:49<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes del hospital bautista: un palestino resultó herido por disparos del ejército de ocupación israelí en el barrio de Al-Qayziya, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:50</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes buenas de Gaza: 5 mártires muertos por disparos de las fuerzas de ocupación desde el amanecer de hoy.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:50</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Cinco mártires muertos por disparos del ejército de ocupación desde la madrugada de hoy, en zonas dispersas de la Franja de Gaza: - 1 - 1 - Ahmed Suhail al-Hawari 2 - Mahmoud Wael al-Rafiq 3 - Ahmed Abd al-Rahim Suhamud 4 - Alaa Mazen Abu Rida 5 - Khalid Youssef Dahlan]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Rápido, aviones de combate del tipo Quad Capter disparando cerca de la intersección de Sinafor y la calle Salah al-Din, frente a la calle Musharraf de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Un palestino resultó herido por disparos de ocupación en una calle deshabitada, en el barrio de Al-Qayziya, al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El día de hoy, Khaled Youssef Dahlan fue asesinado por disparos de ocupación en Jabaliya, al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 21:10:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * Cinco mártires muertos por disparos del ejército israelí desde la madrugada del lunes en zonas dispersas de la Franja de Gaza: 1-Ahmad Suhail al-Hawari 2-Mohamud al-Rafil 3-Ahmad Abd al-Rahim Suhamud 4-Alaa Mazen Abu Rida 5-Khalid Youssef Dahlan]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:09:50</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:09:50<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Un intenso tiroteo desde tanques de ocupación al sur de la ciudad de Khan Younis al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:09:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:09:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> &quot;Pronto... buenas fuentes de Gaza: 5 mártires muertos por disparos de las fuerzas de ocupación desde el amanecer de hoy.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:09:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:09:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Un intenso tiroteo desde tanques de ocupación al sur de la ciudad de Khan Younis al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:41:30</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:41:30<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> A principios de hoy, tres soldados del ejército israelí resultaron heridos por el deslizamiento de un vehículo militar y su caída en un pozo al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:41:30</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:41:30<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Corresponsal militar de la cadena hebrea: tres soldados del ejército de ocupación resultaron heridos; un vehículo militar cayó hoy en la trinchera norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:41:31</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:41:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Hoy, tres soldados del ejército israelí resultaron heridos por el deslizamiento de un vehículo militar y su caída en un pozo al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:41:31</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:41:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> ** El corresponsal militar del canal I24NEWS resultó herido por tres soldados del ejército de ocupación; un vehículo militar cayó en una trinchera al norte de la Franja de Gaza a principios de hoy.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:41:31</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:41:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * * *Aceleró los disparos de tanques al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 13:27:45</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 13:27:45<br><b>Localización:</b> Um al-Nasr<br><b>Descripción:</b> El asesinato del Jefe de Estado Mayor de Hizbollah en el barrio es una clara prueba del estancamiento de la organización. Hizbollah trató de apaciguar a su base, gravemente afectada por la guerra, promoviendo la historia de la victoria e indemnizando financieramente a los afectados.]]></description>
+      <Point>
+        <coordinates>34.524000,31.556000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 15:00:54</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 15:00:54<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dos expertos libaneses consideran que Israel derribó el acuerdo de cesación del fuego al asesinar al Jefe de Estado Mayor de Hezbollah, Haitham Ali Al-Tabrabi, señalando que la respuesta del partido estaba excluida en la actualidad. Sin previo aviso, las incursiones israelíes en el barrio meridional de Beirut violaron el domingo, con un ataque que provocó el asesinato de un médico, y otros cuatro elementos del ejército israelí, con un disparo en el Líbano, con un disparo en el lado de un disparo en el lado de un disparo en el lado de un disparo en el lado de un disparo en el lado de un avió...  [Enlace: https://www.alquds.com/ar/posts/211463]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 16:24:23</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 16:24:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El robo de la historia y la desfiguración de los monumentos se remontan a varios períodos de tiempo. Sin embargo, su trayectoria ha aumentado considerablemente tras la ocupación israelí de Jerusalén en junio de 1967.  [Enlace: https://www.alquds.com/ar/posts/211471]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-24 15:47:56</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-24 15:47:56<br><b>Localización:</b> Beach Camp<br><b>Descripción:</b> *Vídeo de Defensa Civil: un misil de guerra de la ocupación explotó en uno de los campamentos cerca de las torres de Feroz en la costa norte. Nuestra población recuperó varios heridos y se produjo un incendio en varias tiendas de campaña del campamento.]]></description>
+      <Point>
+        <coordinates>34.438000,31.532000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-24 21:10:51</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-24 21:10:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Gaza se enfrenta a una “inundación forzada”: los precios siguen subiendo a pesar de la cesación del fuego, y la gente paga.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

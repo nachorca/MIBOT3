@@ -1,0 +1,255 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-11-26
+	•	Hora de edición: 2025-11-26 21:27:40
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-26 – total incidentes SICU: 25)
+
+• Terrorismo: 2 incidente(s) registrado(s).
+• Conflicto Armado: 14 incidente(s) registrado(s).
+• Criminalidad: 6 incidente(s) registrado(s).
+• Disturbios Civiles: 2 incidente(s) registrado(s).
+• Hazards: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La Casa Blanca publica el texto de la resolución Donald Trump sobre la clasificación de la Hermandad Musulmana como “organización terrorista extranjera”. El texto de la resolución dice que se prohibirán los bienes y las transacciones con personas que cometan actos de terrorismo o lo defiendan.
+		Fecha/Hora: 2025-11-26 13:15:03
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fotografías del hijo de Muammar al-Dawi, comandante del batallón 55, que recibe clases de tiro con armas pesadas y dispara con armas pesadas, sin tener en cuenta las vidas de los civiles. El hijo de Al-Dawi recibió entrenamiento en el bombardero antiaéreo 23, animado por algunos miembros del batallón, después de días de escoltar al niño a una columna armada hasta su escuela.
+		Fecha/Hora: 2025-11-26 17:58:37
+		Fuente: @libyapress
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 14
+	• Principales áreas afectadas: Tripoli (6), Localización no especificada (5), Benghazi (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Secretario General del Estado Mayor del Ejército de Libia participa en las actuaciones del Simposio Árabe para Jefes de Autoridades de Entrenamiento Militar en El Cairo El representante de EE.UU.
+		Fecha/Hora: 2025-11-26 08:18:23
+		Fuente: WEB https://lana.gov.ly/index.php?lang=en
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-26 08:18:36
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Benghazi
+		Breve descripción analítica: En preparación de su inauguración en Benghazi, el Comandante en Jefe de las Fuerzas Armadas, Khalifa Haftter, realizó una gira de inspección en la que participaron la Universidad de Benghazi, el Hospital de Medicina y Cirugía Infantil y el Hospital de Mujeres ... de Rusia: el Tribunal de Roma perdió la confianza debido a la doble norma nacional.
+		Fecha/Hora: 2025-11-26 09:04:09
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Benghazi
+		Breve descripción analítica: El Gobernador General de las Fuerzas Armadas, el Mariscal Khalifa Hafter, realizó una gira de inspección en la Universidad de Benghazi, el Hospital de Medicina y Cirugía Infantil y el Hospital de la Mujer ... el Tribunal de Roma ha perdido la confianza debido a la doble norma nacional.
+		Fecha/Hora: 2025-11-26 09:53:50
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Tobruk
+		Breve descripción analítica: • Después de recibir información confirmada de que se encontraba en un hotel de la ciudad de Tabruk, fue vigilado en coordinación con la policía militar blanca y se llevó a cabo una emboscada que dio lugar a su incautación fraudulenta con la posesión de la cantidad incautada. • Según la declaración del organismo, las autoridades competentes iniciaron las actuaciones judiciales necesarias contra el acusado, con miras a su traslado a la justicia.
+		Fecha/Hora: 2025-11-26 09:58:01
+		Fuente: @gplusss
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Secretario General del Estado Mayor del Ejército de Libia participa en las actuaciones del Simposio Árabe para Jefes de Autoridades de Entrenamiento Militar en El Cairo El representante de EE.UU.
+		Fecha/Hora: 2025-11-26 13:18:22
+		Fuente: WEB https://lana.gov.ly/index.php?lang=en
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-26 13:18:34
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: A pesar de que Ernie afirma estar vigilando e impidiendo el flujo de armas hacia Libia, la verdadera pregunta es: ¿dónde está su control desde los aviones teledirigidos ucranianos y las embarcaciones suicidas que cruzan de Argelia a Trípoli? Estos movimientos se producen en el marco de los entendimientos comunes entre el Subsecretario de Defensa del Gobierno de Dubai, Abdussalam Zubey, y el agregado militar ucraniano de Argelia, el Coronel André Baiuk...
+		Fecha/Hora: 2025-11-26 13:25:02
+		Fuente: @libyabreaking
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Ministerio está reorganizando la estructura de seguridad mediante la capacitación de nuevos oficiales y mandos de seguridad [efectivo]. La calle libia está presenciando a policías uniformados después de años en que la escena se basaba en formaciones tribales, políticas y militares.
+		Fecha/Hora: 2025-11-26 17:41:17
+		Fuente: @sefr0ly
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Secretario General del Estado Mayor del Ejército de Libia participa en las actuaciones del Simposio Árabe para Jefes de Autoridades de Entrenamiento Militar en El Cairo El representante de EE.UU.
+		Fecha/Hora: 2025-11-26 17:48:29
+		Fuente: WEB https://lana.gov.ly/index.php?lang=en
+
+	• Localización: Tripoli
+		Breve descripción analítica: Los informes mensuales y semanales sobre todos los acontecimientos ocurridos en Libia, tanto en el país como en el extranjero, y el seguimiento de todas las novedades en el gobierno libio “desterrado” examinan con Al-Haddad la evolución de la estructura de las instituciones militares en Trípoli. El periódico Al-Haddad combina noticias de última hora, análisis políticos e informes sobre asuntos políticos, así como su interés en vigilar y analizar todo lo relacionado con la salud, la cultura y el deporte en Libia.
+		Fecha/Hora: 2025-11-26 17:48:31
+		Fuente: WEB https://lywitness.com/category/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-26 17:48:41
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-26 20:29:30
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ex asesor de Hafter, Adil Abdelkavy: golpe militar contra el régimen de Guinea-Bissau en Libia
+		Fecha/Hora: 2025-11-26 20:48:26
+		Fuente: @gplusss
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 6
+	• Principales áreas afectadas: Localización no especificada (3), Tripoli (2), Ain Zara (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Ain Zara
+		Breve descripción analítica: El Sr. Al-Muzighi, en la investigación criminal: la captura de acusados de prostitución, brujería y tráfico de drogas en un asistente del Servicio de Investigación Criminal, que había declarado una rama de ayuda, le permitió a la organización capturar a los acusados de prostitución, brujería, brujería y tráfico de drogas.
+		Fecha/Hora: 2025-11-26 09:30:42
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Tripoli
+		Breve descripción analítica: - En el próximo período se presentarán cifras y estadísticas sobre los casos de asesinato descubiertos, se identificará a los autores y se los remitirá a las fiscalías para que completen las actuaciones judiciales. - ¿Quién dice que hemos gastado más de 5.000 millones, de los cuales no se da cuenta de que gran parte va a los sueldos y sólo trabajamos por la puerta de emergencia?
+		Fecha/Hora: 2025-11-26 17:41:16
+		Fuente: @libyapress
+
+	• Localización: Tripoli
+		Breve descripción analítica: En su primer comentario sobre el crimen que sacudió a Trípoli, el Ministro del Interior encargado del gobierno de unidad nacional, el General Tarapelsi, confirma que está a punto de concluir la investigación del asesinato de las mujeres Mujahid, y promete que los autores pagarán, explicando que los autores siguieron su auto antes de que fuera asesinado a sangre fría, añadiendo que estaba tratando de instalar un sistema digital moderno de cámaras y desarrollar el sistema de seguridad en coordinación con el gobierno.
+		Fecha/Hora: 2025-11-26 17:41:17
+		Fuente: @sefr0ly
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Muchos afirman que Sarkozy debe devolver los fondos libios que formaban parte de su apoyo político antes de su llegada al poder. Otros exigen que él y su país y la OTAN paguen una indemnización al pueblo libio por su participación en 2011, así como por la destrucción y el asesinato de civiles libios.
+		Fecha/Hora: 2025-11-26 17:41:17
+		Fuente: @libyabreaking
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Servicio de Seguridad contra las Amenazas está intensificando sus esfuerzos en la ciudad de Al-Jamil para mantener la seguridad después del asesinato del ciudadano Mabrok Abdul Hamed Al-Zarq, confirmando que los autores del asesinato fueron entregados a la fiscalía de Raghdalin para que completara las investigaciones y que sus equipos de seguridad desplegaran sus posiciones en zonas vitales en colaboración con los servicios de seguridad, los ancianos y los ojos de la zona.
+		Fecha/Hora: 2025-11-26 20:26:27
+		Fuente: @sefr0ly
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Mira lo que Amdes y Sedina están haciendo en el Campeonato de Robots de Kansas.
+		Fecha/Hora: 2025-11-26 20:42:26
+		Fuente: @almasartvlibya
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Qatrun (1), Misrata (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Qatrun
+		Breve descripción analítica: Durante la mayor parte de los últimos cinco años, las fuerzas de los mercados ilícitos se han utilizado estratégicamente como instrumento de gobierno, permitiendo a los grupos armados locales y a los combatientes continuar las actividades de contrabando o recibir sobornos de los contrabandistas para evitar disturbios o su oposición. – Esta restricción ha hecho estallar una situación de indignación y tensión entre los grupos de los halcones de Fazan, que dependen de esos fondos.
+		Fecha/Hora: 2025-11-26 14:16:30
+		Fuente: @libyapress
+
+	• Localización: Misrata
+		Breve descripción analítica: El puente de los cetáceos cayó hace un momento en una pelea y una protesta en la carretera.
+		Fecha/Hora: 2025-11-26 17:41:17
+		Fuente: @jraimalmlyshyat
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Reiniciación de incendios en la ciudad de Dedos, con incendios en varias casas de la ciudad.
+		Fecha/Hora: 2025-11-26 17:41:16
+		Fuente: @almasartvlibya
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 2 foco(s) – principales áreas: localización no especificada
+	• Conflicto Armado: 14 foco(s) – principales áreas: localización no especificada, Tobruk, Tripoli, Benghazi
+	• Criminalidad: 6 foco(s) – principales áreas: localización no especificada, Ain Zara, Tripoli
+	• Disturbios Civiles: 2 foco(s) – principales áreas: Qatrun, Misrata
+	• Hazards: 1 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

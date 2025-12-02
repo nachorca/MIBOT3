@@ -1,0 +1,970 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-26
+	•	Hora de edición: 2025-11-26 22:59:53
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-26 – total incidentes SICU: 168)
+
+• Terrorismo: 56 incidente(s) registrado(s).
+• Conflicto Armado: 102 incidente(s) registrado(s).
+• Criminalidad: 7 incidente(s) registrado(s).
+• Disturbios Civiles: 1 incidente(s) registrado(s).
+• Hazards: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 56
+	• Principales áreas afectadas: Localización no especificada (26), Gaza City (24), Bani Suheila (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: } Corresponsal # Al-Jazeera: el ejército de ocupación israelí está llevando a cabo un bombardeo simultáneo de artillería dentro de la línea amarilla al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-26 07:55:56
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Las autoridades ucranianas: gran bombardeo ruso en las provincias de Khirson, Zaburujia y Kharkev, en el sur y el este del país
+		Fecha/Hora: 2025-11-26 07:55:56
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ciudadano Iyad Fadl Al-Khawji fue muerto a consecuencia de las heridas sufridas anteriormente en un bombardeo israelí en la localidad de Beni Sihila, al este de Khanyonis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 09:25:59
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: "El ejército israelí está destruyendo edificios residenciales en la ciudad de Gaza y bombardeando la artillería israelí en la zona oriental de Khan Younis. El pueblo palestino está examinando una apelación contra la prohibición del movimiento "Palestina Académica".
+		Fecha/Hora: 2025-11-26 09:29:01
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Iyad Fadl Al-Khawji fue muerto a consecuencia de las heridas sufridas en un bombardeo israelí en la localidad de Beni Sihila, al este de Khanyonis
+		Fecha/Hora: 2025-11-26 09:34:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Bombardeo de artillería al este de Maghazi, en el centro de la Franja de Gaza y en las montañas septentrionales de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 09:38:58
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: *El 47o día del acuerdo de cesación del fuego de Gaza: la ocupación continúa violando el acuerdo con un bombardeo continuo de artillería y aire
+		Fecha/Hora: 2025-11-26 09:45:59
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Mahmoud Mohammed Mahmoud Abu Shab (20 años) resultó muerto y otro herido en un bombardeo cerca de la escuela Al-Farabi, en la localidad de Beni Sihila, al este de Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-26 13:14:59
+		Fuente: @muthanapress84 | @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * * *Aceleró el bombardeo del ejército israelí: hoy bombardeamos a seis hombres armados cuando intentaban salir de un túnel al este de Rafah, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Agente de noticias de Siria: Una explosión en la ciudad de Kafrtkharim, en el campo occidental de Idlib, cuya naturaleza está siendo verificada
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Según informes de Siria, la explosión se produjo en un depósito de armas y no en un ataque.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes del hospital Al-Aqsa: muerto en un bombardeo israelí al este del campamento de Maghazi, en el centro de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Sus piedras de Jerusalén fueron trasladadas a Gaza en camellos, identificando las escuelas más antiguas y antiguas de Khanyonis, que la ocupación bombardeó y destruyó deliberadamente durante la guerra de Gaza.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Corresponsal de la isla: gran explosión desconocida en el campo norte de Idlib
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias sirias: civiles heridos en una explosión desconocida en la ciudad de Kafr Khareem, en el campo de Idlib, al oeste
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Explosión urgente en la ciudad de Tumun, al sur de Tubas, en conjunción con la agresión de la ocupación.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La explosión en la ciudad de Tubas coincidió con la continua agresión.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: El mártir Mahmud Mahmoud Abu Shab (20 años de edad) fue despedido con un bombardeo de ocupación cerca de la escuela Al-Farabi, en la localidad de Beni Sihila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: El ejército de ocupación israelí está llevando a cabo una operación de bombardeo al norte de la ciudad de Rafah.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está documentando un bombardeo dirigido contra ciudadanos de la Franja de Gaza esta mañana.
+		Fecha/Hora: 2025-11-26 13:24:59
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación lanzan bombas de gas en gran escala contra las viviendas de la población de la aldea de Rashaida, en Belén, después de que la población se enfrentara a los colonos.
+		Fecha/Hora: 2025-11-26 13:51:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias sirias sobre el Director de la Defensa Civil en la zona de Haram en Idlib: 5 civiles resultaron muertos por la explosión de Kafr Khareem en la zona rural  al oeste
+		Fecha/Hora: 2025-11-26 13:52:11
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Este es el modelo que los Estados Unidos y las Naciones Unidas han clasificado en las listas de terroristas durante largos años de Estados Unidos y las Naciones Unidas como Delogueti como General de Brigada y como jefe de la delegación del Ministerio de Defensa de Siria en las reuniones del 29o período de sesiones de los órganos de capacitación.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 14:16:29
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Huellas de asfixia entre los niños después de que la ocupación atacara con bombas de gas la aldea de Rashayda, Belén. @Warlife3
+		Fecha/Hora: 2025-11-26 14:40:38
+		Fuente: @Warlife3
+
+	• Localización: Gaza City
+		Breve descripción analítica: Rami Mohammed Abu Shawish fue asesinado por un palestino, a consecuencia del bombardeo de su casa hace unos días, en el centro de la Franja de Gaza, para unirse a su esposa e hijos.
+		Fecha/Hora: 2025-11-26 17:41:13
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos mártires bombardearon la zona occidental de Al-Dawar, en la ciudad de Beit Lahiya, al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-26 17:41:13
+		Fuente: @gazaalanar | @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Actualización de dos mártires y heridos por el bombardeo de la ocupación en los alrededores de la plaza de Beit Lahiya, al norte de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Ejército enemigo israelí: Nuestro objetivo es un ataque aéreo terrorista de Hamas que planeaba una operación de francotirador contra nuestras fuerzas en el norte de la Franja de Gaza. @Warlife3
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @Warlife3 | @EabriLive | @AjaNews | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: un avión israelí lanzó una bomba en el barrio de Kurksan, en Mays al-Ŷabal, al sur del Líbano
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Emergencias y ambulancias: dos mártires heridos en un bombardeo israelí en Beit Lahiya, al norte de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los primeros momentos después del bombardeo de la zona occidental de Dowar, en la ciudad de Beit Lahiya, al norte de la Franja de Gaza, provocaron la muerte de dos jóvenes.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La artillería de ocupación bombardea zonas al este de la ciudad de Jan Yunis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *La explosión de hoy se produjo en un depósito de municiones en la ciudad de Kafr Khareem, en el campo *
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El director de la zona de Haram, en el campo de Idlib: 5 empleados del almacén murieron como consecuencia de la explosión.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El gerente de la zona de Haram, en el campo de Idlib, hay personas desaparecidas bajo los escombros y los equipos competentes investigando las causas de la explosión.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Sana sobre el Comando de Seguridad Interior de Idlib: 5 trabajadores muertos y 9 heridos en la explosión de un depósito de municiones al norte de la localidad de Kafrtkharim, en el campo de Idlib
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La información preliminar indica que la explosión se produjo como resultado del trabajo de un taller cerca del lugar.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • El Ministro de Relaciones Exteriores del Sudán: la comunidad internacional debe designar a las milicias como grupo terrorista y luego hablar de acuerdo con nuestra propuesta anterior
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un vehículo israelí lanzó una bomba contra el barrio de Al-Daknia, en la ciudad de Tubas, en la Ribera Occidental.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una mujer israelí lanzó una bomba de sonido contra la ciudad de Mays al-Ŷabal, en el Líbano meridional.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La artillería de la ocupación bombardea dos veces los alrededores de la localidad de Ramiya, en el Líbano meridional.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: * Fotografía del mártir Mahmoud Mahmoud Abu Shab (20 años de edad) que esta mañana fue elevado por un bombardeo cerca de la escuela Al-Farabi, en Beni Suhila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Beit Lahia
+		Breve descripción analítica: Shahidain fue bombardeado con dos misiles de reconocimiento en la rotonda del campo, en el centro de Beit Lahiya
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Bombardeo de artillería israelí contra el este de Jan Yunis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 17:49:34
+		Fuente: @GazaNewsNow | @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: A partir del 10 de octubre, Israel cambió sus tácticas de bombardeos aéreos indiscriminados a la destrucción sistemática de viviendas e infraestructuras vitales. - Imágenes satelitales, apoyadas por informes de medios de comunicación y sobre el terreno que se transmiten casi cada hora, confirmaron este cambio sistemático.
+		Fecha/Hora: 2025-11-26 18:07:39
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La policía registró y publicó sus artículos en el Foro Al-Quds, Israel, que supervisaba las cuentas de sus soldados después de que Hamas revelara la capacidad de inteligencia de 5 muertos en una explosión en Idlib y fuerzas israelíes en la provincia de Quneitra, en el árbol de Al-Samud. Belén, en la Navidad del ejército de ocupación, detiene a 22 palestinos del norte de la Ribera Occidental, y detiene a Gaza: "El genocidio israelí se eleva a 69,000 y 785 mártires de la salud mundial anuncian la evacuación de 33 pacientes de Gaza a Jordania.
+		Fecha/Hora: 2025-11-26 18:08:51
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: En el marco del acuerdo de cesación del fuego de Gaza, Israel controla las cuentas de sus soldados después de revelar la capacidad de inteligencia de Hamas 5 muertos en una explosión en Idlib y fuerzas israelíes que se adentraron en la provincia de Quneitra en el árbol de Al-Samud. Belén se tambalea para la Navidad del ejército de ocupación, que detiene a 22 palestinos del norte de la Ribera Occidental, la salud de Gaza: el resultado del genocidio israelí se eleva a 69,000 y 785 mártires.
+		Fecha/Hora: 2025-11-26 18:37:04
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí ha detectado la construcción de infraestructuras terroristas en el norte de la Ribera Occidental.
+		Fecha/Hora: 2025-11-26 18:50:39
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ Información de inteligencia sobre la construcción de infraestructuras terroristas en el norte de la Ribera Occidental ▪ La fuerza aérea realizó incursiones para aislar la zona de la operación antes de que las fuerzas terrestres entraran en ella ▪ Fuerzas especiales que actualmente están barriendo docenas de edificios e investigando a los palestinos sospechosos en el norte de la Ribera Occidental, eliminando a tres hombres que habían participado en ataques contra nuestras fuerzas.
+		Fecha/Hora: 2025-11-26 18:52:39
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Un intenso bombardeo de artillería contra las zonas orientales de la ciudad de Khan Younis, al sur de la Faja de Gaza.
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Bombardeo de artillería israelí contra el este de Jan Yunis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Durante su arresto por una manifestación de solidaridad en Londres, sólo han pasado ocho días desde el alto el fuego en Gaza, donde Israel no ha disparado bombas contra la cabeza de los habitantes de la Franja de Gaza, y luego ha seguido disparando. ¿Qué tipo de alto el fuego?
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @GazaNewsNow
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Medidas especiales de seguimiento sobre el terreno: esta mañana, un avión Kawad Kaptar voló en círculos en el centro de Beni Sihila y lanzó una bomba de sonido sobre la bandera. Posteriormente, un avión teledirigido, seguido de un tanque de ocupación israelí, se dirigió a un tanque de la ocupación israelí en torno a la zona de Doar al-Alam, en el centro de Beni Sihila, al este de Janjuns.
+		Fecha/Hora: 2025-11-26 20:26:26
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Fuerza Aérea de los Estados Unidos: bombarderos estratégicos B52 sobrevolaron el Caribe el lunes en una simulación de ataque aéreo
+		Fecha/Hora: 2025-11-26 20:58:24
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Fuerza Aérea de los Estados Unidos: bombarderos estratégicos para apoyar la estabilidad en el Caribe
+		Fecha/Hora: 2025-11-26 20:58:24
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Oficial del Pentágono de la isla: bombarderos estratégicos estadounidenses vuelan a intervalos semanales en el Caribe
+		Fecha/Hora: 2025-11-26 20:58:24
+		Fuente: @AjaNews
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 102
+	• Principales áreas afectadas: Localización no especificada (77), Gaza City (19), Bani Suheila (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El objetivo declarado de la operación militar de ocupación es perseguir a ciudadanos palestinos. El movimiento está paralizado en la provincia.
+		Fecha/Hora: 2025-11-26 07:55:54
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El objetivo declarado de la operación militar de ocupación es perseguir a ciudadanos palestinos. El movimiento está paralizado en la provincia y existe un peligro para la vida de los ciudadanos, en particular los ancianos, los enfermos y los niños.
+		Fecha/Hora: 2025-11-26 07:55:55
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Seguimiento de los refuerzos militares de la ocupación hacia la ciudad de Tubas.
+		Fecha/Hora: 2025-11-26 07:55:55
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal de Cannes: La primera publicación: la Jihad Islámica crea una fuerza militar en territorio sirio, con conocimiento del régimen de Al-Shara ' .
+		Fecha/Hora: 2025-11-26 07:55:55
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Por primera vez, los aviones apache han estado participando en maniobras militares durante años, disparando ametralladoras pesadas contra zonas residenciales, mientras que sus fuerzas han allanado varias casas en las localidades de Tumbas, Tubas, Faraa y Tayser, y han sacado a sus ocupantes y les han informado de su regreso varios días después, tomando cuarteles militares. - Las fuerzas de ocupación han impuesto un toque de queda hasta nuevo aviso.
+		Fecha/Hora: 2025-11-26 07:55:55
+		Fuente: @GazaNewsNow
+
+	• Localización: Jabalia
+		Breve descripción analítica: • Corresponsal # Al-Jazeera: bombardeo de artillería israelí y disparos de tanques dentro de la línea amarilla al este de Jabaliya
+		Fecha/Hora: 2025-11-26 07:55:56
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación sigue presionando con refuerzos militares a las localidades de Tamun y Tubas, irrumpiendo en Taysir y en la ciudad de Al-Jabba, irrumpiendo en una casa en Wadi al-Fara, cerrando varias puertas de tierra entre las ciudades, realizando actividades de apache en el espacio aéreo de la provincia, disparando con ametralladoras contra las montañas de la región.
+		Fecha/Hora: 2025-11-26 08:08:56
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una operación militar israelí en el norte de la Ribera Occidental: Canal 7: el ejército israelí, el aparato de la Shabak y los guardias fronterizos iniciaron una operación militar de gran envergadura para frustrar "operaciones terroristas" en el norte de la Ribera Occidental. El ejército israelí y el aparato de la Shabak declararon en una declaración: "No se permitirá que el ejército israelí y el aparato terrorista de la Shabak se alojen en la zona y están actuando de manera proactiva para frustrarlo".
+		Fecha/Hora: 2025-11-26 08:08:56
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una topadora militar en la ciudad de Jubaba con Tubas durante la incursión que se ha venido realizando desde el amanecer de hoy.
+		Fecha/Hora: 2025-11-26 08:08:56
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Disparos de helicópteros al este de Khanyonis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 08:15:34
+		Fuente: @muthanapress84
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: *Aqla ' , complejo médico de Nasir: Shahid, herido por disparos de las fuerzas de ocupación dentro de la línea amarilla en la localidad de Beni Suhila
+		Fecha/Hora: 2025-11-26 08:15:35
+		Fuente: @GazaNewsNow | @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación está impulsando refuerzos militares en dirección a la ciudad de Tubas durante la continua incursión.
+		Fecha/Hora: 2025-11-26 08:20:59
+		Fuente: @gazaalanar
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: El complejo médico de Nasser fue muerto por disparos de las fuerzas de ocupación en la localidad de Beni Suhila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-26 08:24:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí lleva a cabo una operación militar en gran escala en Tubas que incita a una estrella elegida por Israel a Palestina, acercándose a Siltek (Día contra la Violencia contra la Mujer). La ocupación mató a 33.000 mujeres y niñas durante los dos años de la guerra genocida, causando una escalada de 69 años de desarrollo en Gaza.
+		Fecha/Hora: 2025-11-26 08:27:12
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está llevando a cabo una operación militar de gran envergadura en Tubas, en la Ribera Occidental del Sudán, en la que se incita a una estrella palestina elegida por Israel, después de acercarse a Siltek, el "Día contra la Violencia contra la Mujer". La ocupación ha matado a 33.000 mujeres y niñas en el curso de dos años.
+		Fecha/Hora: 2025-11-26 08:38:04
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La operación militar ampliada del ejército de ocupación contra ciudades y pueblos de la Ribera ocupada, desde esta mañana, es una nueva agresión sistemática contra nuestro pueblo, en el marco del plan de la entidad, que tiene por objeto vaciar la Ribera Occidental de sus habitantes, desplazarlos y controlar sus tierras y propiedades.
+		Fecha/Hora: 2025-11-26 08:54:59
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Corresponsal de la isla: las fuerzas de ocupación expulsaron a la población de la ciudad de Tubas y la convirtieron en un cuartel militar
+		Fecha/Hora: 2025-11-26 08:54:59
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - La operación militar ampliada que lleva a cabo la ocupación de ciudades y pueblos de la Ribera ocupada desde esta mañana es una nueva agresión sistemática contra nuestro pueblo, en el marco del plan de la entidad, que tiene por objeto vaciar la Ribera Occidental de sus habitantes, desplazarlos y controlar sus tierras y propiedades; - El Gobierno de Benjamin Netanyahu, que ya no encuentra más que la propagación de la guerra y la matanza como medio de supervivencia, es un gobierno de criminales de guerra, cuyos miembros deben ser perseguidos. - Nuestro pueblo palestino y sus fuerzas de resi...
+		Fecha/Hora: 2025-11-26 08:55:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí lleva a cabo una operación militar de gran envergadura en Tubas, en apoyo de una estrella elegida por el Gobierno británico, después de haberse acercado a Siltek el día de la violencia contra la mujer. La ocupación ha matado a 33.000 mujeres y niñas en dos años.
+		Fecha/Hora: 2025-11-26 08:56:15
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El ejército israelí ha iniciado una operación militar en gran escala al norte de la Ribera Occidental para hacer frente al terrorismo.
+		Fecha/Hora: 2025-11-26 08:58:59
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Esta nueva agresión coincide con intentos desesperados del Knesset de aprobar leyes que permitan la anexión, incluido un proyecto de ley que permita a los colonos a apropiarse de los territorios ocupados. También coincide con los desacuerdos en el seno de la institución militar, que la ocupación está tratando de encubrir mediante la agresión contra nuestro pueblo.
+		Fecha/Hora: 2025-11-26 09:00:58
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 13 Hebreo: El ejército, los plomeros y los guardias fronterizos anuncian una operación militar en gran escala en el norte de la Ribera Occidental con el objetivo de frustrar las actividades armadas allí.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 09:04:59
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está llevando a cabo una operación militar en gran escala en Tubas que incita a una estrella elegida por Palestina después de acercarse a Siltek Escocés. ¿Ha tenido éxito el intento israelí de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-11-26 09:13:05
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está llevando a cabo una operación militar en gran escala en Tumbas, en la Ribera Occidental del Sudán. El ejército israelí está llevando a cabo una operación militar en Tubas.
+		Fecha/Hora: 2025-11-26 09:18:03
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Ejército de Israel está llevando a cabo una operación militar en gran escala en Tubas, al este de Jan Yunis, que incita a una estrella palestina, después de haberse acercado a Siltek Al-Stahit (el día de la violencia contra la mujer) y el Estado de Qatar (el día de la guerra contra la violencia contra la mujer en la Ribera Occidental del Sudán). La ocupación ha matado a 33.000 mujeres y niñas durante los dos años de la guerra genocida, con 69 años de desarrollo en Gaza.
+		Fecha/Hora: 2025-11-26 09:23:07
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Corresponsal de la isla: enfrentamientos entre palestinos y colonos en la aldea de Rashaida, al sudeste de Belén, en la Ribera Occidental
+		Fecha/Hora: 2025-11-26 09:27:59
+		Fuente: @AjaNews | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se han convertido más de 10 casas en cuarteles militares repartidos por más de un barrio de la ciudad. - Se ha destruido completamente la carretera que une a Tumón y Atif a través de topadoras.
+		Fecha/Hora: 2025-11-26 09:34:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Disparos intensivos y misiles al este de la provincia central
+		Fecha/Hora: 2025-11-26 09:38:07
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una operación militar en gran escala al norte de la Ribera Occidental, miles de soldados participan en la operación militar.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 09:43:59
+		Fuente: @Almustashaar
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: El periódico Al-Quds Al-Jadidah publicó sus artículos en el Foro Al-Quds, en los que se pedía que se modificaran las leyes y se tuvieran en cuenta las condiciones económicas de la ocupación, y se pedía que se modificaran las leyes y las condiciones económicas de la ocupación, y que se llevara a cabo una operación que agravaba la crisis de las personas desplazadas en el territorio británico. El tribunal está examinando una apelación contra la prohibición del movimiento de ocupación “Palestina Acción” que pone en marcha una operación militar en gran escala en Tubas (Ribera Occidental), Sudán,...
+		Fecha/Hora: 2025-11-26 09:47:08
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están empujando nuevos refuerzos militares y equipo pesado hacia Tulkarem y su campamento bajo una agresión constante durante meses.
+		Fecha/Hora: 2025-11-26 09:56:00
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El movimiento de Hamas es un comunicado de prensa en el sentido de que el hecho de que el criminal ejército de ocupación sionista haya anunciado una nueva operación militar en el norte de la Ribera Occidental, junto con el bloqueo y la prohibición de las incursiones, los allanamientos, las incursiones y las detenciones, pone de manifiesto la magnitud de la delincuencia sistemática que lleva a cabo el gobierno de ocupación extremista, en el marco de una política declarada encaminada a aplastar toda presencia palestina para lograr el pleno control de la Ribera Occidental. Esta operación forma...
+		Fecha/Hora: 2025-11-26 13:14:59
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí: El ejército israelí está lanzando una operación militar en gran escala en el norte de la Ribera Occidental.
+		Fecha/Hora: 2025-11-26 13:14:59
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La operación militar en el norte de la Ribera Occidental cuenta con tres brigadas: Mensah, Chaumron y Kumunduz.
+		Fecha/Hora: 2025-11-26 13:14:59
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: El Jihad Islámica niega que se haya reforzado su capacidad militar en los campamentos sirios de Damasco con el conocimiento de las autoridades sirias
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Seguimiento del Secretario General del Movimiento por la Iniciativa Nacional, Dr. Mustafa Barghouti: la operación militar en gran escala en el norte de la Ribera Occidental representa una grave agresión encaminada a ampliar el delito de exterminio, anexión y depuración étnica en la Ribera Occidental.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Alcalde de Tumón: Las fuerzas de ocupación irrumpieron en la ciudad con docenas de vehículos blindados y máquinas, impusieron toques de queda y cortaron carreteras, desplazaron a un gran número de familias y convirtieron sus casas en cuarteles militares. @warlife3
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Hebreo Life - Kaanhia: Una fuente política en el Líbano informó de que el Ministro de Relaciones Exteriores de Egipto, Badr Abd Al-Atai, había advertido contra una acción militar israelí por tierra y aire.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí está creando una unidad de élite aérea. El corresponsal militar Avi Ashkenazi - Mairev se unió a la plataforma a través del telégramo de Facebook.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un ciudadano resultó herido por disparos del ejército de ocupación al este del campamento de Bureij, en el centro de la Franja de Gaza
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @GazaNewsNow | @AjaNews | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: • La falta de un órgano de supervisión encargado de vigilar las violaciones del armisticio y la responsabilidad de las partes, ha hecho que la situación no sea muy diferente de la que existía antes de su firma. La ocupación justifica la demolición de viviendas supuestamente como objetivos militares, pero en la mayoría de los casos no aporta pruebas.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Corresponsal de la isla: la ocupación está empujando refuerzos militares, topadoras y equipo pesado hacia el campamento de Nur Shams, en Tulkarem
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Municipio de Tamun: la ocupación ha arrasado carreteras, cortado líneas de agua, cerrado las entradas de la ciudad y rodeado por lo menos 10 casas de cuarteles militares
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Hour Hamás: el lanzamiento de la ocupación es una operación militar que revela la magnitud de la delincuencia con el objetivo de controlar completamente la Ribera Occidental
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El Gobernador de Tubas de la isla: el proceso de ocupación tiene dimensiones militares y políticas relacionadas con las elecciones israelíes
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación ha desplazado a muchas familias, ha trasladado sus casas a cuarteles militares y ha separado la ciudad.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El movimiento Jihad Islámica (Jihad Islámica): Las transmisiones de algunos sitios y plataformas de comunicación sobre el fortalecimiento de la Jihad Islámica en Palestina de sus capacidades militares en territorio sirio son una historia totalmente inventada y detallada que carece de fundamento y que tiene por objeto sembrar la sedición e incitar a la población palestina y a los campamentos palestinos.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hamas: El anuncio de la ocupación de una nueva operación militar en el norte de la Ribera Occidental pone de manifiesto la magnitud de la delincuencia sistemática que practica el Gobierno extremista de ocupación, en el marco de una política declarada encaminada a aplastar toda presencia palestina para lograr el pleno control de la Ribera Occidental; afirmamos que esta agresión criminal no quebrantará la voluntad de nuestro pueblo ni la determinación de nuestros opositores, que han demostrado su capacidad de resistir y arraigar en su territorio, y exhortamos a la comunidad internacional a qu...
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército de ocupación: 3 brigadas militares que participan en la Operación Tubas
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están empujando nuevos refuerzos militares y equipo pesado hacia Tulkarem y su campamento bajo una agresión constante durante meses.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Radio del ejército de ocupación: 3 brigadas militares que participan en la Operación Tubas, la operación militar contra Tubas y sus cuatro aldeas, la operación militar destinada a llevar a cabo detenciones y buscar armas
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Secretario General del Movimiento por la Iniciativa Nacional, Dr. Mustafa Barghouti: la operación militar en gran escala en el norte de la Ribera Occidental constituye una agresión grave encaminada a ampliar el genocidio, la anexión y la depuración étnica en la Ribera Occidental y es consecuencia del silencio de la mayoría de los gobiernos occidentales sobre los crímenes israelíes.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una escalada militar masiva por parte del ejército de ocupación. ¿Qué está pasando en Tomon?
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La operación militar ampliada del enemigo sionista contra ciudades y pueblos del norte de la Ribera Occidental es una agresión criminal que forma parte de la guerra abierta contra nuestro pueblo y su existencia y cuyo objetivo es anexionar la Ribera Occidental y expulsar a nuestro pueblo de ella. Exhortamos a las masas y a los opositores de nuestro pueblo a que intensifiquen el enfrentamiento y la resistencia contra las fuerzas enemigas criminales, que sólo entienden el lenguaje de la intifada y la resistencia.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ofensiva militar lanzada por el ejército de ocupación, el miércoles al norte de la Ribera Occidental ocupada, está concentrada en una zona que se conoce como una quinta parte de las aldeas. La Ribera Occidental está llevando a cabo una agresión masiva contra Tubas, la noche del martes y el miércoles, una incursión masiva en la ciudad de Tubas, al norte de la Ribera Occidental ocupada, en medio de incursiones militares del ejército de ocupación y la expulsión de sus habitantes.
+		Fecha/Hora: 2025-11-26 13:16:48
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Consejo de Seguridad de las Naciones Unidas aprobó un decreto por el que se declaraba a seis palestinos que se encontraban fuera del túnel del distrito de Tubas de la isla: la operación militar de la ocupación tiene por objeto imponer hechos sobre el terreno. ¿Hamás éxito el intento de Israel de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-11-26 13:22:11
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Estado Mayor de Ucrania: Enviamos refuerzos militares ofensivos a Zaburujia para reforzar nuestras defensas
+		Fecha/Hora: 2025-11-26 13:36:59
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Video de la presencia de las fuerzas de ocupación en las calles de la ciudad de Tubas, con la continuación de la operación militar, que incluye la prohibición de vagabundear, atacar, registrar viviendas y convertir algunas de ellas en cuarteles militares.
+		Fecha/Hora: 2025-11-26 13:43:10
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: "La operación militar de ocupación tiene por objeto imponer hechos sobre el terreno. ¿La migración inversa amenaza el futuro de la Potencia ocupante?
+		Fecha/Hora: 2025-11-26 13:51:20
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación impulsa refuerzos militares hacia la ciudad de Tubas
+		Fecha/Hora: 2025-11-26 14:16:28
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Comandante Adjunto del Ejército del Sudán, Yasser Al-Ata: preparamos operaciones militares hasta la frontera internacional del Sudán
+		Fecha/Hora: 2025-11-26 14:16:29
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fusiles y herramientas de combate para militantes palestinos que lucharon hasta el testimonio en la Franja de Gaza.
+		Fecha/Hora: 2025-11-26 14:16:29
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación israelí está destruyendo 22.000 tiendas de campaña israelíes en la isla: "El objetivo de la operación militar de ocupación es imponer hechos sobre el terreno. ¿La migración inversa amenaza el futuro de la Potencia ocupante?
+		Fecha/Hora: 2025-11-26 14:17:33
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de Ucrania ha atacado objetivos militares e instalaciones de defensa rusas.
+		Fecha/Hora: 2025-11-26 14:22:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - La ocupación ha convertido 12 casas en las afueras de la ciudad de Tumón en cuarteles militares después de haber sacado a sus habitantes del interior. - El ejército de ocupación ha arrasado tierras en las regiones orientales, cortando así el suministro de agua.
+		Fecha/Hora: 2025-11-26 14:40:37
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una casa convertida por la ocupación en un cuartel militar durante la continua agresión contra la ciudad de Tubas.
+		Fecha/Hora: 2025-11-26 14:40:40
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Ministro de Relaciones Exteriores de Egipto está investigando la situación en el Líbano y los ataques israelíes contra Lomond: extranjeros que fueron detenidos durante la retirada de los olivos denuncian que durante la guerra de Gaza se está llevando a cabo una estrategia de intimidación israelí en el distrito de Tubas: la operación militar de ocupación tiene por objeto imponer hechos sobre el terreno. ¿Están teniendo éxito los intentos israelíes de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-11-26 14:47:27
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: "La ocupación está desplazando familias y transformando viviendas en cuarteles militares de Aoun, buscando con el Ministro de Relaciones Exteriores de Egipto la situación del Líbano y las agresiones israelíes. ¿Ha tenido éxito el intento de Israel de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-11-26 14:57:58
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Vídeo de grandes enfrentamientos entre los ciudadanos y los colonos de la aldea de Rashaida, Belén
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La proliferación de tropas de ocupación entre los barrios de Tubas, mientras continúa la operación militar en la ciudad
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - En las últimas semanas, el discurso israelí ha experimentado un cambio importante en la evaluación del desempeño político y militar de la Potencia ocupante. Los artículos y las estimaciones israelíes han pasado de tratar de justificar el desempeño militar y comercializar “los logros” al reconocimiento explícito de un fracaso estratégico general que afecta profundamente al sistema de seguridad nacional israelí.
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Aceleró los enfrentamientos entre jóvenes y las fuerzas de ocupación en la ciudad de Jaba al sur de Jenin
+		Fecha/Hora: 2025-11-26 17:41:14
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgente: A.B.: disparos cerca del palacio presidencial de la capital de Guinea-Bissau, tres días después de las elecciones
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes militares del ejército sudanés de la isla: nuestras tropas están persiguiendo a las milicias de apoyo rápido en las afueras de la ciudad de Al-Khoi, al oeste de Kordofan
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: AFB: militares que declaran el pleno control de Guinea-Bissau
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: AFB: militares que declaran la suspensión del proceso electoral en Guinea-Bissau después de haber declarado el control total del país
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los mecanismos de ocupación se desplegaron en los alrededores de una casa rodeada por la ocupación de un cuartel militar para investigar a la población. Los soldados se desplegaron durante la agresión contra la ciudad de Tubas.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la aldea de Usuren, al sudeste de Naplusa.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fusiles y herramientas de combate para militantes palestinos que lucharon hasta el testimonio en la Franja de Gaza.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: Ejército enemigo: Matamos a cuatro hombres armados en Rafah mediante un ataque aéreo y un tiroteo y arrestamos a otros dos desde el interior de nuestro edificio.
+		Fecha/Hora: 2025-11-26 17:41:15
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación inició una operación militar en el norte de la Ribera Occidental.
+		Fecha/Hora: 2025-11-26 18:50:38
+		Fuente: @hamza20300 | @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *El ejército israelí llama a las cinco piedras a la operación militar al norte de la ribera en referencia a la dureza de las cinco ciudades: Tubas, Faraa, Tamun, Taysir, como castigo;  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 18:50:39
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí anuncia el inicio de una gran operación militar al norte de la Ribera Occidental bajo el nombre de las cinco piedras.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 18:50:39
+		Fuente: @Almustashaar | @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Oficial militar Bissau: Detención del Presidente Omar Sisuko Mbalu y del ejército para tratarlo bien
+		Fecha/Hora: 2025-11-26 18:56:39
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos en la aldea de Abu Falah, al noreste de Ramallah, y las fuerzas de ocupación están disparando balas vivas y bombas de sonido y gas contra los jóvenes.
+		Fecha/Hora: 2025-11-26 18:56:39
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Durante el entrenamiento se oirán disparos y explosiones y se cerrará el cruce en ambas direcciones.
+		Fecha/Hora: 2025-11-26 20:26:24
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: # A.F.B., por un oficial militar en Guinea-Bissau: el arresto del presidente y del ejército lo trata bien #
+		Fecha/Hora: 2025-11-26 20:26:24
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Un gran despliegue de tropas de ocupación entre los barrios de Tubas, en el curso de la operación militar en la ciudad
+		Fecha/Hora: 2025-11-26 20:26:24
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Según las banderas de la ocupación: el ejército de ocupación publica escenas documentadas, iniciadas por una operación militar en la provincia de Tubas y sus aldeas al norte de la Ribera Occidental, bajo el nombre de “cinco piedras”.
+		Fecha/Hora: 2025-11-26 20:26:24
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Hamout: La Dirección de Fronteras y Fronteras del Ministerio del Ejército llevará a cabo una maniobra de seguridad en el cruce de Mitar (al-Fariya) que comenzará esta tarde y terminará mañana por la mañana del jueves. - Durante el entrenamiento se oirán disparos y explosiones y se cerrará el cruce en ambas direcciones.
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Portavoz del ejército israelí: Fotografías de la operación militar "Cinco Piedras" lanzada por el ejército en el norte de la Ribera Occidental con el pretexto de frustrar las operaciones y la infraestructura en la zona.
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El portavoz de la Guardia Revolucionaria, General de Brigada Ali Naini: 4700 bases militares de la OTAN apoyaron a Israel en su agresión contra Irán.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Frente a las costas del Líbano y del norte del país, un avión militar no tripulado MQ-9 Reaper tiene el número de registro PR010 de la Armada Británica.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Mosad Pablo: Esperamos que las Fuerzas de Apoyo Rápido y las Fuerzas Armadas Sudanesas se adhieran a una tregua humanitaria sin condiciones previas
+		Fecha/Hora: 2025-11-26 20:26:26
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Incidencia inmediata de enfrentamientos en la aldea de Al-Mugheer, al noreste de Ramallah, y ocupación que dispara con fuego real contra los palestinos.
+		Fecha/Hora: 2025-11-26 20:26:26
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están atacando viviendas adicionales, transformando a los palestinos en cuarteles militares y expulsando a los palestinos de la ciudad de Tubas.
+		Fecha/Hora: 2025-11-26 20:26:26
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Canal 12: Gran presión de los Estados Unidos sobre Israel para que comience la reconstrucción de Gaza. Canal 12: Israel está en un dilema sobre la posibilidad de someterse a la presión de los Estados Unidos y renunciar a la desmilitarización o volver a luchar.
+		Fecha/Hora: 2025-11-26 20:43:23
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: Israel ha ofrecido a Hamas, a través de los intermediarios, salir de los túneles de Rafah, entregar sus armas, rendirse y liberar a las familias en caso de que se comprometa a no volver a la acción militar contra Israel (canal 12).
+		Fecha/Hora: 2025-11-26 20:43:23
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El corresponsal militar dijo que el ejército israelí había tomado la decisión de aumentar considerablemente las restricciones a la posesión y utilización de teléfonos móviles por parte de los oficiales superiores, en el contexto del fortalecimiento de la seguridad de la información y la protección contra las operaciones de piratería y hackeo, en particular después de los acontecimientos del 7 de octubre. Se prevé que se apliquen dos cambios importantes para reforzar esas restricciones: se ampliará el alcance de los oficiales sujetos a las restricciones: la aplicación de esas restricciones s...
+		Fecha/Hora: 2025-11-26 20:48:24
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Amir Bukhbat-Walla: Los oficiales militares israelíes advierten de que la presión árabe y estadounidense, a través del Centro de Coordinación Civil-Militar de Kiryat Gat, para aumentar el suministro de alimentos, gas y mercancías a la Franja de Gaza, sirve a Hamas y neutraliza los instrumentos de presión israelíes.
+		Fecha/Hora: 2025-11-26 20:53:23
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Enviado Especial de la IGAD a la isla en el Sudán: la situación humanitaria se ha deteriorado debido a la intensificación de los combates en los frentes
+		Fecha/Hora: 2025-11-26 20:53:24
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se han producido enfrentamientos urgentes en la ciudad de Qabatiya, al sur de Jenin, y las fuerzas de ocupación han disparado contra los jóvenes.
+		Fecha/Hora: 2025-11-26 20:54:25
+		Fuente: @yaseenpress2004
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (5), Rafah (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Centro Palestino para la Defensa de los Prisioneros: documentación de un testimonio traumático sobre el asesinato de dos prisioneros y la tercera violación en el centro de detención de Sadeh Timan, así como los constantes ataques físicos y sexuales contra prisioneros enfermos, en ausencia de una posición internacional que condene esas violaciones.
+		Fecha/Hora: 2025-11-26 13:15:00
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ Se trata de uno de los testimonios más importantes que se han obtenido y publicado como testigo del asesinato a sangre fría de dos de sus compañeros prisioneros y de una tercera violación delante de sus ojos. ▪ Documentación que garantiza que los hechos y las torturas que sufrió el testigo durante su detención en diversas cárceles israelíes sigan siendo objeto de acoso y tortura.
+		Fecha/Hora: 2025-11-26 13:15:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ¿Acaso Israel va a liderar el asesinato de Abu-Shawn, el conflicto de Abu-Shawn y el subconsciente contra los líderes de las milicias armadas?
+		Fecha/Hora: 2025-11-26 13:26:59
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los medios de comunicación israelíes: el tercer día está llegando a su fin en el Líbano y no hay ataques de nuestras tropas en todo el territorio libanés, el sistema de seguridad está vigilando la situación las 24 horas del día, el gran asesinato del Comandante del Estado Mayor de Hizbollah se llevó a cabo el 23 del mes en curso y el silencio es el maestro de la situación hasta el momento.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 14:21:03
+		Fuente: @Almustashaar
+
+	• Localización: Rafah
+		Breve descripción analítica: El ejército de ocupación está documentando el asesinato de la resistencia de Rafah.
+		Fecha/Hora: 2025-11-26 14:49:48
+		Fuente: @gazaalanar
+
+	• Localización: Rafah
+		Breve descripción analítica: • El ejército israelí: video del asesinato de los elementos Qassam que salieron del túnel de Rafah hoy en día,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 19:05:39
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Creo que cualquier ataque israelí contra el Líbano después del asesinato del Jefe de Estado Mayor del partido como un blanco de fuego puede haber objetivos listos para ser atacados por Israel, pero dudan de la sensación del pulso de Hizbollah y de lo que hará después del asesinato del Jefe de Estado Mayor del partido.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-26 20:26:25
+		Fuente: @Almustashaar
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Por el octavo día, las familias de los presos políticos de Salfit, los hermanos Abdurrahman y Massab al-Husrab y Abdullah Younis, protestaron por la continuación de la detención de sus hijos hace un año y medio en las cárceles del poder.
+		Fecha/Hora: 2025-11-26 20:26:26
+		Fuente: @yaseenpress2004
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Gaza City (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: En menos de dos años, el electo palestino siguió escribiendo nuevos capítulos de un cuento extraordinario, en el que se resume la persistencia en medio de tormentas y la capacidad de transformar el dolor en energía que se refleja en el terreno del estadio. Los colonos atacaron repetidamente a la familia palestina Khamis Abu Ali, de la aldea de Al-Mughar, al noreste de Ramallah, en la Ribera Occidental.
+		Fecha/Hora: 2025-11-26 08:16:46
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: Debido a la falta de medios alternativos y eficaces, uno de los medios que contribuye a la movilidad de la población es la inundación, el hundimiento de las calles a causa del invierno y el colapso de la infraestructura de Gaza.
+		Fecha/Hora: 2025-11-26 08:37:00
+		Fuente: @yaseenpress2004
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 56 foco(s) – principales áreas: localización no especificada, Beit Lahia, Gaza City, Rafah, Bani Suheila
+	• Conflicto Armado: 102 foco(s) – principales áreas: localización no especificada, Al-Quds Hospital, Rafah, Jabalia, Gaza City, Bani Suheila
+	• Criminalidad: 7 foco(s) – principales áreas: localización no especificada, Rafah
+	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
+	• Hazards: 2 foco(s) – principales áreas: Gaza City
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

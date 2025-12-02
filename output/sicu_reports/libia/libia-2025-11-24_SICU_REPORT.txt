@@ -1,0 +1,246 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-11-24
+	•	Hora de edición: 2025-11-24 23:07:03
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-24 – total incidentes SICU: 24)
+
+• Terrorismo: 1 incidente(s) registrado(s).
+• Conflicto Armado: 11 incidente(s) registrado(s).
+• Criminalidad: 10 incidente(s) registrado(s).
+• Hazards: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El presidente estadounidense, Donald Trump, tiene la intención de clasificar a la Hermandad Musulmana como organización terrorista extranjera, según la declaración de Just the News. – Trump dijo que la decisión se adoptaría en las condiciones más estrictas posibles y explicó que los documentos finales se estaban preparando, y que la clasificación se publicaría en forma estricta y vinculante.
+		Fecha/Hora: 2025-11-24 10:41:25
+		Fuente: @libyapress
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 11
+	• Principales áreas afectadas: Localización no especificada (10), Tripoli International Airport (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli International Airport
+		Breve descripción analítica: Según fuentes, la Fuerza de Lucha contra el Terrorismo ha recibido recientemente aviones teledirigidos y suicidas de tipo ucraniano, suministrados a través de Abdussalam Zubi y en coordinación con el agregado militar ucraniano de Argelia, Coronel Andre Baiuk. Estas marchas se clasifican entre especies de alto riesgo, en medio de temores de que puedan ser utilizadas para ataques y asesinatos, y de advertencias sobre su posible acceso a organizaciones extremistas que podrían explotar su capacidad para poner en peligro la seguridad.
+		Fecha/Hora: 2025-11-24 13:31:49
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El viernes, el ejército sudanés atacó y destruyó más de 50 vehículos de combate y varios tanques de combustible de las Fuerzas de Apoyo Rápido en la zona del triángulo fronterizo entre Libia, Egipto y Sudán, mientras el convoy se dirigía desde el este de Libia hacia el Sudán. – El ataque se dirigió contra una línea de suministro vital de las Fuerzas de Apoyo Rápido que pasa por el oeste del Sudán, concretamente por el estado de Darfur septentrional, y que se extiende por el triángulo fronterizo a ciudades clave como El Fasher.
+		Fecha/Hora: 2025-11-24 13:42:48
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia – El Comandante General Adjunto de las Fuerzas Armadas, Teniente General de las Fuerzas Armadas, se reúne en una reunión ampliada con el Asesor de Seguridad Nacional y el Ministro del Interior del Gobierno de Libia, y varios dirigentes militares y de seguridad, en la que participan:  %8a8%d8%d8%d9%d9%d8%d8%d9%d8%d9%d8%d9%d8%d8%d8%d7%d9%d9%d9%d7%d9%d9%d%d9%d9%d9%d8%d8%8%d8%d9%d8%d%d9%d9%d%d8%d8%d8%d%d9%d8%d9%d9%d8%d9%d9%d9%d9%d9%d9%d9%d8%d.  [Enlace: https://almenassa.ly/2025/11/24/%d9%86%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d9%82%d8%a7%d8%a6%d8%af-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%84%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d8%a9-%d8%a7%d9%84%d9%81%d8%b1/]
+		Fecha/Hora: 2025-11-24 19:30:31
+		Fuente: WEB almenassa.ly
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: El Comandante General Adjunto del Ejército Nacional, Teniente General, General de División Issam-Abouzirba, y varios mandos militares y de seguridad. En la reunión se examinaron los principales expedientes relacionados con la seguridad nacional, en particular las amenazas transfronterizas a la seguridad que contribuyen al mantenimiento de la seguridad y la estabilidad y refuerzan la soberanía del Estado.
+		Fecha/Hora: 2025-11-24 21:10:54
+		Fuente: @almasartvlibya
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Parte de la reunión con varios mandos militares y de seguridad para formar comités de seguimiento de los archivos de seguridad y servicios.
+		Fecha/Hora: 2025-11-24 22:09:56
+		Fuente: @almasartvlibya
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-24 22:12:59
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-24 22:18:05
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-24 22:22:56
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-24 22:41:06
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-24 22:53:22
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-24 22:56:48
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 10
+	• Principales áreas afectadas: Localización no especificada (5), Tripoli (5)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: – El asesinato de las mujeres no es sólo un asesinato personal, sino también un asesinato de la moral de una sociedad que aprende a respetar y valorar a las mujeres en nuestra religión islámica o comunitaria. – Aquí no hablamos sólo de las mujeres, sino también de las estadísticas de algunos periodistas sobre el asesinato de 30 mujeres en 10 meses.
+		Fecha/Hora: 2025-11-24 09:30:18
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El asesinato de mujeres mujahid revela la confusión de la seguridad en Libia occidental.
+		Fecha/Hora: 2025-11-24 09:55:17
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El asesinato de mujeres mujahid revela la confusión de la seguridad en Libia occidental.  [Enlace: https://2cm.es/1jSPQ]
+		Fecha/Hora: 2025-11-24 10:41:24
+		Fuente: @gplusss
+
+	• Localización: Tripoli
+		Breve descripción analítica: – El asesinato de mujeres es un mensaje de que la tasa de disuasión y el mantenimiento de la seguridad ejercida por el Ministerio del Interior no ha alcanzado el nivel necesario y demuestra que el Estado no puede mantener la seguridad en las zonas occidentales de Trípoli. – El hecho de que el crimen se produzca a plena luz del día demuestra que los autores no se sienten amenazados por el enjuiciamiento y que se encuentran en un entorno seguro para cometer el delito.
+		Fecha/Hora: 2025-11-24 12:41:02
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hanan Sharif: Los asesinatos de mujeres en Libia occidental se han convertido en un fenómeno que amenaza la seguridad de la comunidad.  [Enlace: https://2cm.es/1f3x8]
+		Fecha/Hora: 2025-11-24 13:00:09
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Servicio de Seguridad contra Amenazas anuncia la detención de un joven acusado de tráfico de drogas por posesión de una cantidad de pastillas alucinógenas y cocaína con una chica con la que se ha probado el uso indebido, en la ciudad de Al-Aguila, confirmando su traslado a la fiscalía de la ciudad para completar las actuaciones judiciales.
+		Fecha/Hora: 2025-11-24 21:11:18
+		Fuente: @sefr0ly
+
+	• Localización: Tripoli
+		Breve descripción analítica: Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.
+		Fecha/Hora: 2025-11-24 22:22:55
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Tripoli
+		Breve descripción analítica: Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.
+		Fecha/Hora: 2025-11-24 22:41:05
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Tripoli
+		Breve descripción analítica: Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.
+		Fecha/Hora: 2025-11-24 22:53:21
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Tripoli
+		Breve descripción analítica: Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.
+		Fecha/Hora: 2025-11-24 22:56:47
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (1), Tripoli (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El municipio de Dedos ha estado teniendo tres incendios en las últimas 48 horas, incluyendo una casa quemada por primera vez y otra hace dos días.
+		Fecha/Hora: 2025-11-24 12:41:02
+		Fuente: @sefr0ly
+
+	• Localización: Tripoli
+		Breve descripción analítica: En menos de 48 horas, los habitantes del municipio de Dedos despiertan tres incendios en diferentes casas del municipio, en medio del miedo y la tensión que viven las familias a diario. A pesar de que los incidentes se repiten, la gente sigue preguntando: ¿Cuánto tiempo dura el sufrimiento?
+		Fecha/Hora: 2025-11-24 14:06:53
+		Fuente: @libyabreaking
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 1 foco(s) – principales áreas: localización no especificada
+	• Conflicto Armado: 11 foco(s) – principales áreas: localización no especificada, Tripoli International Airport
+	• Criminalidad: 10 foco(s) – principales áreas: localización no especificada, Tripoli
+	• Hazards: 2 foco(s) – principales áreas: localización no especificada, Tripoli
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

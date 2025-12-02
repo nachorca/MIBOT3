@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-12-02_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 07:05:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 07:05:32<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> Después del bombardeo y la destrucción, la esperanza crece... buenos días desde los hijos de Sihila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 07:17:03</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 07:17:03<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El periódico Al-Quds Al-Jabayr informó y publicó sus artículos en el Foro Al-Quds: El ejército mató a la capital de la operación de atropello que tuvo lugar cerca de Hebrón y causó heridas a la recluta de Gaza entre el plan Trump y la ocupación: la fase de gran espera de que un soldado israelí resultase herido por una operación de atropello al sur de la Ribera Occidental y el ejército en busca de un terrorista israelí que estaba construyendo un nuevo puesto de avanzada en Al-Quds al noreste de Jerusalén.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 07:19:33</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 07:19:33<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> • Corresponsal de # Al-Jazeera: bombardeo de artillería israelí y fuego intenso de helicópteros israelíes dentro de la línea amarilla al este de la ciudad de Khan Yunis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 07:25:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 07:25:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército de ocupación está llevando a cabo operaciones de bombardeo dentro de la línea amarilla en el barrio de Tuffah, al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 07:44:25</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 07:44:25<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército israelí está entrando en la ciudad de Hebrón y cerrando sus puertas con los medios de comunicación hebreos: el ejército mató al director de la operación de atropello que tuvo lugar cerca de Hebrón y causó heridas a la recluta de Gaza entre el plan de Trump y las realidades de la ocupación: la fase de gran espera en la que un soldado israelí resultó herido por una operación de atropello al sur de la Ribera Occidental y el ejército en busca de un terrorista israelí que estaba buscando un nuevo puesto de avanzada al noreste de Jerusalén.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 09:13:21</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 09:13:21<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Las estimaciones del ejército de ocupación israelí sobre la evacuación de decenas de familias sitiadas en la zona de Al-Tuffah indican que la ocupación israelí continúa violando el acuerdo de cesación del fuego en la Franja de Gaza, que entró en vigor el 10 de octubre pasado. El bombardeo israelí ha atacado varias zonas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 09:58:25</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 09:58:25<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La guerra contra Gaza continúa la ocupación israelí, que continúa violando el Acuerdo de Cesación del Fuego en la Franja de Gaza, que entró en vigor el 10 de octubre pasado. El bombardeo israelí de varias zonas de la ciudad de Makmas, al noreste de Jerusalén, se centró en el número estimado de elementos de la resistencia atrapados en los túneles de Rafah.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 11:44:57</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 11:44:57<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El fotógrafo del periodista Mahmoud Wade murió en un bombardeo de una marcha de ocupación en el centro de Khanyonis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 11:45:56</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 11:45:56<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> El complejo médico de Nasir fue muerto por un fotógrafo de prensa en un bombardeo israelí frente a la línea amarilla en el centro de Khan Younis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 11:47:56</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 11:47:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * El periodista Mahmoud Wadi (Masr Darun) fue muerto por un bombardeo de un control israelí en el centro de Khan Younis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 11:58:56</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 11:58:56<br><b>Localización:</b> Al-Quds Hospital<br><b>Descripción:</b> El camarógrafo Mahmoud Issam Wade se ascendió a raíz del bombardeo israelí en el centro de Khanyonis Mahmud, conocido por su trabajo como fotógrafo de Deron, así como por el estudio Al-Quds de la calle Jalal.]]></description>
+      <Point>
+        <coordinates>34.447000,31.496000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 07:24:32</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 07:24:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Disparos intensos desde la aviación de ocupación al este de la ciudad de Khanyonis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 11:08:57</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 11:08:57<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Fuentes del hospital bautista: un palestino fue muerto por disparos del ejército de ocupación fuera de la línea amarilla en el barrio de Zeitoun de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 11:08:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 11:08:58<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Urgentemente, el joven Shakir Atef Al Awawad fue muerto por disparos de las fuerzas de ocupación al este de Block 12 en el campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 11:08:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 11:08:58<br><b>Localización:</b> Bureij<br><b>Descripción:</b> Shakir Atef Al-Owad fue muerto por disparos de las fuerzas de ocupación al este de Block 12, en el campamento de Bureij]]></description>
+      <Point>
+        <coordinates>34.403000,31.440000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-12-02 09:18:32</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-02 09:18:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La línea amarilla separa dos Gazas de la vida y el asesinato.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

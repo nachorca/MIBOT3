@@ -1,0 +1,255 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-11-30
+	•	Hora de edición: 2025-11-30 21:21:32
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-30 – total incidentes SICU: 25)
+
+• Terrorismo: 3 incidente(s) registrado(s).
+• Conflicto Armado: 11 incidente(s) registrado(s).
+• Criminalidad: 2 incidente(s) registrado(s).
+• Disturbios Civiles: 5 incidente(s) registrado(s).
+• Hazards: 4 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Misrata (2), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El aparato de suministros médicos envió libros oficiales para formar un comité y determinar el método de distribución de bombas, pero Awad al-Qouri, Presidente de la Comisión Nacional de Diabetes, no respondió a la correspondencia. – 114 días y aparatos para niños están esperando, están esperando, los almacenes están llenos, los almacenes están agotados, los edificios están acabados, las bombas están muertas y las bombas están muertas.
+		Fecha/Hora: 2025-11-30 16:48:00
+		Fuente: @libyapress
+
+	• Localización: Misrata
+		Breve descripción analítica: Las Naciones Unidas e Italia examinan los progresos realizados en las operaciones de limpieza del lugar de la explosión de Misrata (Libia) (c_blos)  [Enlace: https://n9.cl/yv71do]
+		Fecha/Hora: 2025-11-30 18:30:55
+		Fuente: @gplusss
+
+	• Localización: Misrata
+		Breve descripción analítica: Libia, periódico a las 24 horas, Misión de las Naciones Unidas y Embajador de Italia, donde se examinan los progresos realizados en la limpieza del lugar de la explosión de Misrata, la Misión de Apoyo de las Naciones Unidas en Libia (UNSMIL) reveló los detalles de la visita de la Representante Especial Adjunta del Secretario General de las Naciones Unidas y Coordinadora Residente, Ulrika Richardson, y el Embajador ...
+		Fecha/Hora: 2025-11-30 20:16:36
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 11
+	• Principales áreas afectadas: Localización no especificada (5), Tripoli (4), Tripoli International Airport (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Entre ellos, Libia, el presidente de los Estados Unidos, Donald Trump, dirige a la administración de la ciudadanía y a la inmigración a revisar las residencias permanentes otorgadas a 10 países africanos, tras el tiroteo ocurrido cerca de la Casa Blanca, que causó dos heridos entre la Guardia Nacional.
+		Fecha/Hora: 2025-11-30 16:48:01
+		Fuente: @sefr0ly
+
+	• Localización: Tripoli
+		Breve descripción analítica: Una fuente militar del ejército libio dijo que la fuerza de disuasión había violado oficialmente el Acuerdo de Armisticio firmado en Trípoli la semana pasada llevando a cabo repetidos secuestros y ataques verbales y físicos contra soldados del ejército, así como confiscando sus teléfonos y robando sus datos. La fuente explicó en declaraciones que las violaciones continuaron hasta esta mañana, cuando la fuerza de disuasión secuestró y torturó al Jefe de Estado Mayor de la Brigada 444 combates de Mohamed Bogar antes de que fuera trasladado al hospital para recibir tratamiento.
+		Fecha/Hora: 2025-11-30 16:48:02
+		Fuente: @gplusss
+
+	• Localización: Tripoli
+		Breve descripción analítica: Un avión teledirigido probablemente de origen ucraniano fue detectado volando en gran escala sobre el cielo de los cielos de la ciudad de Grean, con noticias de que esos vehículos habían entrado en Trípoli a través de Argelia. Viturí explicó en su página de la plataforma X que la información indicaba una coordinación entre el Subsecretario de Defensa del Gobierno de Dubai, Abdussalam Zubey, y el agregado militar de Ucrania en Argelia, Andre Baiuk, con el fin de facilitar la entrada de estos vehículos.
+		Fecha/Hora: 2025-11-30 16:48:02
+		Fuente: @gplusss
+
+	• Localización: Tripoli
+		Breve descripción analítica: Como hemos señalado en publicaciones anteriores, la reciente campaña de los medios de comunicación contra el dispositivo de disuasión se produjo en el marco de la preparación de la opinión pública para poner fin al armisticio y preparar el terreno para una acción militar encaminada a poner fin total y enérgicamente a la fuerza de disuasión.
+		Fecha/Hora: 2025-11-30 16:48:22
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Tripoli International Airport
+		Breve descripción analítica: Tras un acuerdo para llevar a cabo el despliegue de vehículos aéreos no tripulados de Ucrania a través del Agregado Militar de Ucrania en Argelia, el Coronel Andrey Baiuk, un investigador especializado libio, advirtió a Jalal Harshaoui del peligro de una rápida proliferación de tipos avanzados de aeronaves no tripuladas en Libia, en el contexto de una carrera de armamentos cada vez más intensa entre el Este y el Oeste. Harshawi afirmó que esos vehículos contaban con sistemas de fibra óptica capaces de derribar varios tipos de explosivos, y señaló que en los últimos meses se disponía de ello...
+		Fecha/Hora: 2025-11-30 16:48:22
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-30 16:51:27
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: Según fuentes bien informadas, el paso de estas marchas se llevó a cabo en coordinación sin previo aviso entre el Subsecretario de Defensa del Gobierno de Dubai, Abdussalam Zubey, y el agregado militar de Ucrania en Argelia, Andre Baiuk.
+		Fecha/Hora: 2025-11-30 17:02:53
+		Fuente: @libyabreaking
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-30 18:57:59
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tajoura
+		Breve descripción analítica: Libia, periódico a las 24 horas del Consejo de Estado: Takala visitó la Facultad de Ingeniería Militar de Tagoura, donde el Presidente del Consejo Consultivo Superior del Estado, Mohamed Tekala, junto con el Asesor del Comité de Seguridad Nacional del Consejo, Adil Abdelkafi y el Director de la Oficina de Seguimiento, el Gobierno de Unidad, Dabba, siguió los resultados de la visita de la delegación de su Gobierno a los Estados Unidos, que estuvo a cargo de Abdulhamid Al Dabba, Presidente del Gobierno de Unidad Provisional, el domingo, los resultados de la visita oficial del Director General...
+		Fecha/Hora: 2025-11-30 19:21:26
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Occidente ha pasado del uso de la fuerza militar directa a través de la OTAN a mecanismos más complejos en los que las organizaciones y los tribunales internacionales se utilizan como instrumento de presión para imponer sus agendas políticas. - Libia ha experimentado diversas formas de intervención, comenzando con los bombardeos directos, pasando por las misiones de las Naciones Unidas y transformando la justicia internacional en un instrumento político.
+		Fecha/Hora: 2025-11-30 20:29:55
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-30 20:58:27
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Tripoli (1), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Tribunal Penal de Trípoli condenó al acusado a siete años y siete meses de prisión y le condenó a 3.000 dinares. El Tribunal también ordenó la confiscación de la sustancia incautada para garantizar su no circulación y la protección de la sociedad contra las drogas.
+		Fecha/Hora: 2025-11-30 16:48:02
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Mufti ha pedido a todos los funcionarios, en primer lugar al Jefe de Gobierno, a los reguladores, a la Oficina de Contabilidad y al Fiscal General, que asuman sus responsabilidades legítimas por la corrupción generalizada en la Corporación Petrolera Libia. El Al-Ghuriani ha subrayado la necesidad de que el Gobierno adopte medidas urgentes, incluida la cesación del apoyo y el trueque, y ha subrayado que el intercambio de un barril de petróleo por un barril de gasolina no es estúpido, sino una corrupción deliberada del robo de dinero.
+		Fecha/Hora: 2025-11-30 16:48:02
+		Fuente: @gplusss
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 5
+	• Principales áreas afectadas: Tripoli (2), Benghazi (2), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: La Liga de Pacientes de Atrofia en Libia pide una protesta el martes 2 de diciembre, frente a la Oficina del Primer Ministro, en Trípoli, bajo el lema "Basta de silencio".
+		Fecha/Hora: 2025-11-30 16:48:00
+		Fuente: @libyapress
+
+	• Localización: Benghazi
+		Breve descripción analítica: Fotografías de protesta de varios propietarios de bienes inmuebles en la calle Benghazi de Misrata, después de cerrar sus comercios sin recibir indemnización alguna. - Los propietarios de bienes inmuebles formaron escudos humanos frente a los vehículos de la policía, para impedir que pasaran, en contra de la ejecución de la decisión de expropiar sus propiedades.
+		Fecha/Hora: 2025-11-30 16:48:00
+		Fuente: @libyapress
+
+	• Localización: Tripoli
+		Breve descripción analítica: Decenas de personas salieron a la salida de la sede del gobierno en el camino de la senda para participar en una manifestación en apoyo del gobierno de Abdulhamid, a cambio de 500 dinares en efectivo por participante, según las mismas fuentes.
+		Fecha/Hora: 2025-11-30 16:48:22
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Benghazi
+		Breve descripción analítica: Una protesta contra los propietarios de bienes inmuebles de la calle Benghazi, Misrata, después del cierre de sus comercios. - Una protesta contra varios propietarios de bienes inmuebles de la calle Benghazi, en Misrata, después de que se cerraran sus comercios sin recibir indemnización alguna.
+		Fecha/Hora: 2025-11-30 18:30:55
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • El Talibán considera que la discrepancia entre la visión de la Misión y la de Washington reduce las posibilidades de integración, y algunos dicen que es como una salida de la Misión de su posición de crisis. • El Consejo de Representantes ha llegado a la conclusión de que las partes principales de la escena están cuestionando el futuro de la Alta Presidencia, invitando al Gobierno de Hammad al gobierno autónomo y las protestas en el este del país para detener cualquier intento de las Naciones Unidas.
+		Fecha/Hora: 2025-11-30 20:41:54
+		Fuente: @gplusss
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Tripoli (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: - La diplomacia es la primera línea de defensa de nuestra seguridad nacional, la armadura que protege a nuestra soberanía y el instrumento que protege nuestros intereses y protege sus intereses. - La personalidad libia siempre es capaz de impresionar al mundo con su habilidad para navegar en medio de tormentas de política internacional.
+		Fecha/Hora: 2025-11-30 16:48:00
+		Fuente: @libyapress
+
+	• Localización: Tripoli
+		Breve descripción analítica: El observador de Libia El observador de Libia El jefe de la Guardia Costera de Libia y la Autoridad de Seguridad Portuaria encabezó una delegación, a la séptima y última reunión del comité directivo del Secu de Fronteras Integradas Un equipo del Centro de Medicina y Apoyo de Emergencia (EMSC) llevó a cabo inspecciones el lunes de varios valles, caminos de inundación y presas como parte de su monit de campo en curso La Embajada de Libia en los Países Bajos ha suspendido temporalmente sus servicios consulares, citando arreglos administrativos y técnicos urgentes.
+		Fecha/Hora: 2025-11-30 16:51:12
+		Fuente: WEB https://libyaobserver.ly/
+
+	• Localización: Tripoli
+		Breve descripción analítica: El observador de Libia El observador de Libia El jefe de la Guardia Costera de Libia y la Autoridad de Seguridad Portuaria encabezó una delegación, a la séptima y última reunión del comité directivo del Secu de Fronteras Integradas Un equipo del Centro de Medicina y Apoyo de Emergencia (EMSC) llevó a cabo inspecciones el lunes de varios valles, caminos de inundación y presas como parte de su monit de campo en curso La Embajada de Libia en los Países Bajos ha suspendido temporalmente sus servicios consulares, citando arreglos administrativos y técnicos urgentes.
+		Fecha/Hora: 2025-11-30 18:57:45
+		Fuente: WEB https://libyaobserver.ly/
+
+	• Localización: Tripoli
+		Breve descripción analítica: El jefe de la Guardia Costera de Libia y la Autoridad de Seguridad Portuaria encabezaron una delegación, a la séptima y última reunión del comité directivo de la Junta de Defensa de la Frontera Integrada Un equipo del Centro de Defensa de Emergencia y Apoyo (EMSC) llevó a cabo inspecciones el lunes de varios valles, caminos de inundación y presas como parte de su monit de campo en curso La Embajada de Libia en los Países Bajos ha suspendido temporalmente sus servicios consulares, citando arreglos administrativos y técnicos urgentes.
+		Fecha/Hora: 2025-11-30 20:34:26
+		Fuente: WEB https://libyaobserver.ly/
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 3 foco(s) – principales áreas: Misrata, localización no especificada
+	• Conflicto Armado: 11 foco(s) – principales áreas: Tripoli International Airport, Tajoura, Tripoli, localización no especificada
+	• Criminalidad: 2 foco(s) – principales áreas: Tripoli, localización no especificada
+	• Disturbios Civiles: 5 foco(s) – principales áreas: Benghazi, Tripoli, localización no especificada
+	• Hazards: 4 foco(s) – principales áreas: Tripoli
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

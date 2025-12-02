@@ -1,0 +1,152 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: MALI / Mali
+	•	Fecha (día operativo): 2025-12-02
+	•	Hora de edición: 2025-12-02 14:11:08
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-02 – total incidentes SICU: 6)
+
+• Terrorismo: 4 incidente(s) registrado(s).
+• Conflicto Armado: 1 incidente(s) registrado(s).
+• Hazards: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Diré (3), Bla (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e informaciones en vivo El punto sobre las perturbaciones en los transportes y las escuelas antes de la jornada de movilización sindical del 2 de diciembre de Apple dirigida en Francia por una acción de grupo de usuarios en la stream musical En los hogares, el trabajo de sostenibilidad es ejercido predominantemente por las mujeres Arthur Schchoonderwoerd, pianista: la música europea y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas del 13 de noviembre hasta el día de la noche de la muerte en Hong Kong:...
+		Fecha/Hora: 2025-12-02 07:18:57
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e informaciones en vivo El punto sobre las perturbaciones en los transportes y las escuelas antes de la jornada de movilización sindical del 2 de diciembre de Apple dirigida en Francia por una acción de grupo de usuarios en la stream musical En los hogares, el trabajo de sostenibilidad ambiental es ejercido mayoritariamente por las mujeres Arthur Schchoonderwoerd, pianista: la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas desde el 13 de noviembre hasta el mes de noviembre hasta el mes de marz...
+		Fecha/Hora: 2025-12-02 09:21:03
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e informaciones en vivo El punto sobre las perturbaciones en los transportes y las escuelas antes de la jornada de movilización sindical del 2 de diciembre de Apple dirigida en Francia por una acción de grupo de usuarios en la stream musical En los hogares, el trabajo de sostenibilidad ambiental es ejercido mayoritariamente por las mujeres Arthur Schchoonderwoerd, pianista: la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas desde el 13 de noviembre hasta el mes de noviembre hasta el mes de marz...
+		Fecha/Hora: 2025-12-02 11:22:51
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Bla
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e informaciones en vivo El punto sobre las perturbaciones en los transportes y las escuelas antes de la jornada de movilización sindical del 2 de diciembre de Apple dirigida en Francia por una acción de grupo de usuarios en la stream musical En los hogares, el trabajo de sostenibilidad ambiental es ejercido mayoritariamente por las mujeres Arthur Schchoonderwoerd, pianista: la música y la música europeas corren el riesgo de perder la diversidad y la riqueza de sus repertorios de los terroristas desde el 13 de noviembre hasta el mes de noviembre hasta el día...
+		Fecha/Hora: 2025-12-02 11:56:41
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Bamako (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Bamako
+		Breve descripción analítica: - Noticias en Malí en tiempo real e información en vivo Croizade contra las empresas mineras: Malí cosecha 761.000 millones de FCFA Bamako: Un convoy de materiales de la ingeniería militar suscita curiosidad y fervor patriótico El miércoles 26 de noviembre de 2025, es decir, tres días después de la celebración de la Presidencia y de las legislaturas y 24 horas antes de...
+		Fecha/Hora: 2025-12-02 11:11:43
+		Fuente: WEB https://www.maliweb.net/
+
+⸻
+2.3. CRIMINALIDAD
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Diré (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e informaciones en vivo El punto sobre las perturbaciones en los transportes y las escuelas antes de la jornada de movilización sindical del 2 de diciembre de Apple dirigida en Francia por una acción de grupo de usuarios en la stream musical En los hogares, el trabajo de sostenibilidad es ejercido predominantemente por las mujeres Arthur Schchoonderwoerd, pianista: Vladimir Putin: Vladimir Putin dice que su país no tiene la intención de atacar a Europa Cómo los contenidos odioso y la riqueza de sus directorios la Incendio letal en Hong Kong, un video muestra...
+		Fecha/Hora: 2025-12-02 07:50:56
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 4 foco(s) – principales áreas: Bla, Diré
+	• Conflicto Armado: 1 foco(s) – principales áreas: Bamako
+	• Hazards: 1 foco(s) – principales áreas: Diré
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

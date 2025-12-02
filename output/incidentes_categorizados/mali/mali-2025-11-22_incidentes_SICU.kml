@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mali-2025-11-22_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 11:13:00</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 11:13:00<br><b>Localización:</b> N/D<br><b>Descripción:</b> En un primer semestre alarmante  Refugiados: Malí acoge a más de 230.000 Burkabè y nigerianos Francia: tráfico de residuos hacia África Kayes: las cisternas desviadas de su circuito oficial Manchester City Liverpool.com/category/política/seguridad/seguridad/terrorismo/ Refugiados: Malí acoge a más de 230.000 Burkinabè y nigerianos Francia: tráfico de residuos hacia África Kayes: las cisternas desviadas de su circuito oficial Manchester City la ciudad de Liverpool Liverpool: sumérguese en el corazón de un choque futbolístico con 1xBet!  [Enlace: https://www.journaldumali.com/category/politique/securite-terrorisme/]]]></description>
+      <Point>
+        <coordinates>-11.444000,14.446000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 11:13:09</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 11:13:09<br><b>Localización:</b> N/D<br><b>Descripción:</b> El Sudán: noticias, podcasts, videos y análisis - RFI  los paramilitares elogian los esfuerzos de paz de Trump, mientras que los europeos sancionan su número dos Sudán del Sur: un largo y doloroso camino hacia la independencia En el Sudán, las reacciones contrastadas a las declaraciones de Donald Trump sobre la guerra Sudán: Banald Trump sobre la guerra Sudán: Bahalf-Fasher es el epicentro mundial del sufrimiento humano, alerta Tom Fletcher, de l-Ocha-Sobre qué pasas, o te mueres: en Chad, los refugiados sudaneses cuentan su huida de El-Fasher [Sus preguntas] Mbappé-PSG: un brazo de hierro...  [Enlace: https://www.rfi.fr/fr/tag/soudan/]]]></description>
+      <Point>
+        <coordinates>-4.900000,13.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

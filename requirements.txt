@@ -1,0 +1,36 @@
+# Core bot and scheduling
+python-telegram-bot[job-queue]==21.6
+
+# Config & serialization
+python-dotenv==1.0.1
+orjson==3.9.15
+pydantic==2.8.2
+rich==13.7.1
+pytz==2024.1
+
+# HTTP & scraping
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+
+# Mapping & data
+folium==0.17.0
+pandas>=2.2.2
+geopy>=2.4.1
+tqdm>=4.66.0
+mgrs>=1.4.5
+
+# Traducción offline
+argos-translate==1.9.6 ; python_version < "3.12"
+langid==1.1.6
+transformers[sentencepiece]==4.46.3
+sacremoses>=0.0.53
+
+# Telegram client (future integration)
+telethon==1.36.0
+
+# OpenAI client (optional features)
+openai>=1.44.0
+
+python -m pip install --upgrade pip
+python -m pip install python-telegram-bot telethon snscrape lxml requests beautifulsoup4
+# y las demás librerías que sepas que usas (stanza, argostranslate, etc.)

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-11-30_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:54</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:54<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> Disparos de helicópteros israelíes al noreste de Jan Yunis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:54</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:54<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Oficina de Información Pública de Gaza: - En el plazo de 50 días desde la entrada en vigor de la cesación del fuego, la ocupación israelí cometió 591 violaciones, que dieron lugar a 357 mártires, 903 heridos y 38 detenciones arbitrarias. - Los ataques incluyeron 164 disparos directos, 25 incursiones, 280 bombardeos y 118 explosiones de viviendas e instalaciones civiles, en grave violación del derecho internacional.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:56</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Subsecretario Parlamentario para Asuntos de Veteranos, Al Karnes, dijo que &quot;menos de cinco miembros de las fuerzas armadas británicas han estudiado en Israel desde octubre de 2023&quot;. Esta declaración es el primer reconocimiento oficial de la cooperación militar directa y la presencia británica en las academias militares israelíes desde el comienzo de la guerra contra Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:56</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> En el plazo de 50 días a partir de la entrada en vigor de la cesación del fuego, la ocupación israelí ha cometido 591 violaciones, que han causado 357 mártires, 903 heridos y 38 detenciones arbitrarias. - Entre los ataques figuran 164 disparos directos, 25 incursiones, 280 bombardeos y 118 explosiones de viviendas e instalaciones civiles, en grave violación del derecho internacional.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:56</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:56<br><b>Localización:</b> Rafah<br><b>Descripción:</b> Netzan Shabira: Esta mañana, las fuerzas militares encontraron los cuerpos de dos hombres armados en un edificio bombardeado en el barrio de El Geneina, en Rafah.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:57</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:57<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> ∙ Lugar y otros agentes de seguridad: Israel está presionando a través de los Estados Unidos y los intermediarios para que recuperen los dos últimos cadáveres de Gaza, y no hay ninguna posibilidad de que los Estados Unidos permitan la reanudación de los combates, ya que eso arruinaría las posibilidades de pasar a la fase B.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:47:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:47:58<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Washington Post sobre un funcionario estadounidense: sigue habiendo interrogantes fundamentales sobre la desmilitarización de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 16:51:53</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 16:51:53<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un joven de Gaza hereda el mártir sirio Hassan Al-Saadi, que se levantó en un enfrentamiento con las fuerzas de ocupación en Beit Jin.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 17:02:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 17:02:52<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> Una de las víctimas de los enfrentamientos en Siria es: a) el oficial de la Unidad de Comunicación y Reconocimiento del Batallón 55, que resultó herido al comienzo de la guerra a principios de la maniobra de Khan Younis (diciembre de 2023) y regresó a dirigir la división tras su recuperación.]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 18:30:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 18:30:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Harbi Life-i24news: Uno de los heridos en el enfrentamiento en Siria es &quot;a&quot; el líder de una facción que resultó herido al comienzo de la guerra en Gaza al comienzo de la operación terrestre en Khan Younis (diciembre de 2023), y luego se recuperó y volvió a dirigir su equipo.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-30 18:39:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-30 18:39:51<br><b>Localización:</b> Maghazi<br><b>Descripción:</b> *Aceleró los disparos de gran intensidad de tanques y alcanzó las casas altas en la zona de Abu Hashish y la clínica del Gobierno en el campamento de Maghazi]]></description>
+      <Point>
+        <coordinates>34.398000,31.427000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-30 16:47:55</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-30 16:47:55<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Protestas constantes en París, en apoyo de Gaza y Palestina y condenando los crímenes de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-30 16:49:30</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-30 16:49:30<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un acuerdo financiero que suspende la huelga general de maestros en las escuelas de la Ribera Occidental, de conformidad con el plan Trump, tropieza con obstáculos. El Ministerio de Educación y el Ministerio de Educación Superior, el Ministerio de Finanzas y la Federación General de Maestros anunciaron la suspensión de la huelga.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-30 16:47:55</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-30 16:47:55<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Continuación de las obras de restauración y remoción de escombros del Palacio de Al-Basha, destruido por el ejército israelí durante la guerra de Gaza, donde se observó el robo de miles de piezas del lugar]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 16:47:56</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 16:47:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Las fuerzas de ocupación están llevando a cabo una operación de bombardeo que coincide con un bombardeo de artillería dentro de la línea amarilla al este de Khan Yunis, al sur de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 16:47:56</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 16:47:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * Al-Aqlaq, bombardeo de artillería israelí contra la zona de Bani Suhila, al este de la ciudad de Khanyonis, al sur de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 16:47:57</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 16:47:57<br><b>Localización:</b> Rafah<br><b>Descripción:</b> • Un oficial de seguridad israelí confirmó el asesinato del oficial del batallón oriental en Rafah y su adjunto y de dos cuadros de Qassam por bombardeo contra un grupo de combatientes que se encontraban atrapados en Rafah al amanecer de hoy.  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 16:47:58</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 16:47:58<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> } Corresponsal de  las fuerzas de ocupación están llevando a cabo una explosión simultánea con un bombardeo de artillería dentro de la línea amarilla al este de Jan Yunis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 16:47:58</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 16:47:58<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> } Corresponsal # Al-Jazeera: bombardeo israelí de la ciudad de Beni Suhila, dentro de la línea amarilla al este de Khan Yunis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 16:58:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 16:58:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Una cesación del fuego en el papel... los soldados de ocupación explotan las calles de Gaza, transforman la destrucción en espectáculos, los atacan para matarlos, y se agitan después de la explosión, mientras que las imágenes se promueven con orgullo en sus canales.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 18:35:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 18:35:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Después de dos años de interrupción debido a la guerra, la Universidad Islámica de la ciudad de Gaza abre sus puertas para el regreso de cientos de estudiantes y vuelve a enseñar en vivo en edificios bombardeados, algunos de los cuales han sido parcialmente destruidos.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 19:04:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 19:04:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército de ocupación de la zona de Shufa, en el barrio de Tuffah, al este de la ciudad de Gaza, está llevando a cabo una gran explosión.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 19:09:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 19:09:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El incendio de una casa en la calle Nakhil, al este del barrio de Taffah en Gaza, se produjo como consecuencia de la ocupación de bombas incendiarias.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 19:11:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 19:11:52<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército de ocupación está bombardeando edificios al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-30 18:31:43</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-30 18:31:43<br><b>Localización:</b> Al-Quds Hospital<br><b>Descripción:</b> Los miembros de la Autoridad celebran una reunión oficial en el foro Al-Quds “Emigración internacional”: “El éxodo de 1625 personas en el estado de Kordofán del Sur del Sudán: millones de personas en el Sudán padecen hambre: millones de personas padecen de hambre en el Sudán; el temor de “Israel” de una nueva inundación desde la Ribera Occidental.]]></description>
+      <Point>
+        <coordinates>34.447000,31.496000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

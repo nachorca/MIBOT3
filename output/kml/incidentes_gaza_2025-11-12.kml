@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+  <name>Incidentes SICU</name>
+  <open>1</open>
+  
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+
+  <Folder><name>Otros</name>
+
+  <Placemark>
+    <name>Otros — 2025-11-12</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-12 <br><b>Localización:</b> قطاع غزة<br><b>Resumen:</b> Coordinador del Gobierno de Israel: Con la aprobación política, el miércoles se abrió el cruce de Zikim para la entrada de camiones de asistencia en la Franja de Gaza. La asistencia se transportará por conducto de las Naciones Unidas y las organizaciones internacionales, tras un examen de seguridad minucioso realizado por la Dirección de Fronteras Terrestres.]]></description>
+    <Point>
+      <coordinates>34.360007,31.443223,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-12</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-12 <br><b>Localización:</b> قطاع غزة<br><b>Resumen:</b> *Aceleró los ataques aéreos israelíes contra el sudeste de la ciudad de Khan Younis, al sur de la Franja de Gaza]]></description>
+    <Point>
+      <coordinates>34.360007,31.443223,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-12</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-12 <br><b>Localización:</b> قطاع غزة<br><b>Resumen:</b> Aviones de ocupación realizaron tres incursiones en el noreste de Beit Lahiya, al norte de la Franja de Gaza]]></description>
+    <Point>
+      <coordinates>34.502470,31.549770,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-12</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-12 <br><b>Localización:</b> قطاع غزة<br><b>Resumen:</b> * Coordinador del Gobierno de Israel: * Con la aprobación política, el miércoles se abrió el cruce de Zikim para la entrada de camiones de asistencia en la Franja de Gaza. La asistencia se transportará por conducto de las Naciones Unidas y las organizaciones internacionales, tras un riguroso examen de seguridad realizado por la Dirección de Fronteras Terrestres.]]></description>
+    <Point>
+      <coordinates>34.360007,31.443223,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-12</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-12 <br><b>Localización:</b> قطاع غزة<br><b>Resumen:</b> - Las lanchas de guerra de ocupación disparan en el mar al sur de la Franja de Gaza.]]></description>
+    <Point>
+      <coordinates>34.473445,31.549123,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  </Folder>
+</Document>
+</kml>

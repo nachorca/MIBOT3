@@ -1,0 +1,241 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-12-02
+	•	Hora de edición: 2025-12-02 18:45:11
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-02 – total incidentes SICU: 23)
+
+• Terrorismo: 3 incidente(s) registrado(s).
+• Conflicto Armado: 15 incidente(s) registrado(s).
+• Criminalidad: 3 incidente(s) registrado(s).
+• Disturbios Civiles: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Tripoli (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: La Misión sigue aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “derechos de invierno” y advierten contra el cierre de las fábricas centrales que venden divisas a los bancos y asigna aproximadamente 2.000 millones de dólares de los EE.UU. a la Misión de las Naciones Unidas: la eliminación de miles de piezas de residuos de la explosión de skirat de agosto del pasado mes de agosto en Egipto, con lo que se confirma su apoyo al pueblo palestino y se pide que se ponga fin a los ataques y el levantamiento del bloqueo de Gaza.
+		Fecha/Hora: 2025-12-02 07:02:43
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Tripoli
+		Breve descripción analítica: La Misión sigue aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “derechos de invierno” y advierten contra el cierre de las fábricas centrales que venden divisas a los bancos y asigna aproximadamente 2.000 millones de dólares de los EE.UU. a la Misión de las Naciones Unidas: la eliminación de miles de piezas de residuos de la explosión de skirat de agosto del pasado mes de agosto en Egipto, con lo que se confirma su apoyo al pueblo palestino y se pide que se ponga fin a los ataques y el levantamiento del bloqueo de Gaza.
+		Fecha/Hora: 2025-12-02 09:08:44
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Tripoli
+		Breve descripción analítica: La Misión sigue aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “derechos de invierno” y advierten contra el cierre de las fábricas centrales que venden divisas a los bancos y asigna aproximadamente 2.000 millones de dólares de los EE.UU. a la Misión de las Naciones Unidas: la eliminación de miles de piezas de residuos de la explosión de skirat de agosto del pasado mes de agosto en Egipto, con lo que se confirma su apoyo al pueblo palestino y se pide que se ponga fin a los ataques y el levantamiento del bloqueo de Gaza.
+		Fecha/Hora: 2025-12-02 11:11:32
+		Fuente: WEB https://libyaalahrar.tv/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 15
+	• Principales áreas afectadas: Tripoli (7), Localización no especificada (5), Misrata (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 07:02:47
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Gobierno está examinando la evolución de la situación política, económica y de seguridad nacional con el Jefe de Gobierno saliente Abdulhamid Dabbah, Presidente y miembros del Consejo Social del Mercado del Viernes en los cuatro aspectos, y ha examinado con ellos la evolución de la situación política, económica y de seguridad en el país, la “Dibba” con el Comandante de Africom para promover la cooperación militar en Trípoli. El Jefe de Gobierno saliente recibió hoy en Trípoli al Jefe de Estado de los Estados Unidos, “Africom” Dagfin ...
+		Fecha/Hora: 2025-12-02 08:50:49
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 09:03:01
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Consejo, en colaboración con la Oficina de Investigación Criminal, recibió hoy en Trípoli a los miembros del Consejo Ejecutivo del Mando Militar de los Estados Unidos en África (Afrikum) y a los miembros del Consejo Ejecutivo de la Organización Mundial de la Salud (Africom) en la reunión del Consejo Ejecutivo de la Organización Mundial de la Salud (OMS) en la que participaron los autores de los robos ocurridos en 2013 y que fueron remitidos a la Fiscalía después de la conclusión de los procedimientos nacionales. El Consejo de Seguridad de Trípoli, en colaboración con la Oficina de Invest...
+		Fecha/Hora: 2025-12-02 11:11:36
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 11:11:37
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Misrata
+		Breve descripción analítica: Libia, periódico de las 24 de la Garbalí: “El pueblo y la droga con pan y productos de la Asamblea, y los dirigentes de Yibe son los que están en coma”, dijo el ex Presidente de la Junta Militar, Tahir al-Ghrabili, Sabrata, que la negativa del pueblo se debía a la persistencia del efecto negativo de la droga derramada ... sobre Ali al-Salabi: Haram al-Sultan mutiló a un héroe turco Mujahid y a Kabir Ali al-Slabi en Turquía, y que Haram al-Sultan había mutilado a un héroe turco Mujahid y Kabir.
+		Fecha/Hora: 2025-12-02 11:17:27
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Misrata
+		Breve descripción analítica: El Comisionado de Inmigración de la Unión Europea, Magnus, entrevistado con el periódico Al-Garbali, dijo: “El pueblo ha tomado una droga con pan y productos de la Sociedad Yippi, líderes que se encuentran en el coma”. El ex Presidente de la Junta Militar, Tahir Al-Garbata, dijo: “El pueblo ha tomado una droga con pan y productos de la Asamblea, y los dirigentes de la Sociedad Tisef Al-Safibwa”, dijo el ex Presidente de la Junta Militar, Tahir al-Garbata, que la negativa del pueblo se debía a la persistencia de los efectos negativos de la droga derramada ...
+		Fecha/Hora: 2025-12-02 14:13:55
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 14:13:56
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: La misión de acogida de la Misión de las Naciones Unidas: eliminar miles de restos de la explosión de los skirat de agosto pasado, con la ayuda de la cooperación militar de Libia, confirma su apoyo al pueblo palestino y pide que se ponga fin a los ataques y se levante el bloqueo de las aduanas de Gaza, revelando los detalles del cierre de los contenedores de Deephaba para los observadores internacionales de inmigración: la reducción del número de inmigrantes en 11 meses y de Libia como principal país de tránsito: el primer diálogo libio resolvería las diferencias electorales y la declaració...
+		Fecha/Hora: 2025-12-02 14:17:37
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Tripoli
+		Breve descripción analítica: La Federación de Rusia está tratando de poner en marcha un “proyecto nacional de deportación” de la gripe estacional. La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los grandes consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advierten contra el cierre de las fábricas centrales, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones de los afrikom en Trípoli para vender combustible en contravención.
+		Fecha/Hora: 2025-12-02 14:29:18
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Tripoli
+		Breve descripción analítica: La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advirtiendo que no se cierren las fábricas centrales que venden divisas a los bancos, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones sobre el afrikom en Trípoli para vender combustible en contravención. El responsable de la empresa internacional Al-Haraqah tras las rejas declara oficialmente que la inmigración ha...
+		Fecha/Hora: 2025-12-02 14:34:30
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Tripoli
+		Breve descripción analítica: Libia, periódico de las 24:00 horas: la controversia sobre la frontera marítima no se convertirá en enfrentamientos armados, según la opinión del experto internacional en la solución de controversias, Mohamed Al-Asad, las recientes declaraciones del Ministro de Defensa de Grecia en relación con el Convenio Marítimo Libio-Turk, la intervención del Dibani: el distrito de Dabba promueve una ilusión política para prolongar la vida del Gobierno en Trípoli. El investigador político Abdullah Dibani dijo que la situación política en Libia seguía siendo difícil, y que las perspectivas de una solució...
+		Fecha/Hora: 2025-12-02 15:03:38
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 16:14:25
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advirtiendo que no se cierren las fábricas centrales que venden divisas a los bancos, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones sobre el afrikom en Trípoli para vender combustible en contravención. El responsable de la empresa internacional Al-Haraqah tras las rejas declara oficialmente que la inmigración ha...
+		Fecha/Hora: 2025-12-02 16:36:43
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Benghazi
+		Breve descripción analítica: El Comandante General Adjunto del Ejército Nacional, Teniente General, en presencia del Encargado de Negocios de la Embajada de los Estados Unidos en Libia en Benghazi, y la importancia de mantener la estabilidad regional, está debatiendo con el Comandante del Mando Militar de los Estados Unidos en África ( el General Dagvin-Anderson.
+		Fecha/Hora: 2025-12-02 17:54:58
+		Fuente: @almasartvlibya
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Suq al Jumaa (1), Tripoli (1), Tobruk (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Suq al Jumaa
+		Breve descripción analítica: La crisis política creada con la zona del mercado del viernes se ha convertido en una crisis humanitaria que afecta a la salud y la seguridad de los ciudadanos. – No es una crisis, es un crimen perfecto, un robo manifiesto y una hambruna sistemática en el sector público hasta que se les entregue la fuerza de la corrupción y de los traficantes de dolor.
+		Fecha/Hora: 2025-12-02 11:08:58
+		Fuente: @libyapress
+
+	• Localización: Tripoli
+		Breve descripción analítica: El asesinato de Gaddafi fue el comienzo de un ciclo más amplio de violencia. - La caída de Gadafi debería haber marcado el comienzo de un nuevo camino hacia la libertad en Libia, pero ha conducido al país a una serie de guerras civiles entre los que buscan un régimen autoritario o un gobierno islámico radical.
+		Fecha/Hora: 2025-12-02 17:04:58
+		Fuente: @libyapress
+
+	• Localización: Tobruk
+		Breve descripción analítica: Informes mensuales y semanales sobre todos los acontecimientos ocurridos en Libia desde dentro y fuera del país, y un seguimiento de todo lo nuevo en el gobierno libio, confiscando 142 kilos de drogas en Tirq. La fiscalía ordena la detención de los implicados.
+		Fecha/Hora: 2025-12-02 17:54:19
+		Fuente: WEB https://lywitness.com/category/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (1), Benghazi (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fotos de pacientes con aneurisma muscular que organizan la 21a protesta frente a la sede del gobierno sin responder a sus demandas de Libia.
+		Fecha/Hora: 2025-12-02 14:15:01
+		Fuente: @gplusss
+
+	• Localización: Benghazi
+		Breve descripción analítica: Inicio X Capital Libia ve manifestación por falta de apoyo médico El PNUD lanza un laboratorio de innovación juvenil para la justicia en Libia El funcionario de la prisión de Libia entregado a la Corte Penal Internacional por crímenes de guerra acusa al fiscal libio Brega de vender 22 millones de litros de combustible subvencionado a Turquía La Corte Penal Internacional condena los crímenes sistemáticos en los centros de detención de Libia Níger abre nuevos consulados en Benghazi y Sebha Libia y Turquía avanzan la asociación de energía renovable La UE tiene como objetivo aumentar la capacid...
+		Fecha/Hora: 2025-12-02 17:25:28
+		Fuente: WEB https://libyareview.com/
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 3 foco(s) – principales áreas: Tripoli
+	• Conflicto Armado: 15 foco(s) – principales áreas: localización no especificada, Benghazi, Misrata, Tripoli
+	• Criminalidad: 3 foco(s) – principales áreas: Tobruk, Suq al Jumaa, Tripoli
+	• Disturbios Civiles: 2 foco(s) – principales áreas: localización no especificada, Benghazi
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

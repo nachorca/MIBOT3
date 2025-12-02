@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>haiti-2025-11-25_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 07:02:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 07:02:31<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 07:03:24</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 07:03:24<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 09:06:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 09:06:31<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 09:07:34</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 09:07:34<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 11:59:49</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 11:59:49<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 14:46:07</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 14:46:07<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 14:46:59</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 14:46:59<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 16:47:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 16:47:46<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 21:48:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 21:48:31<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:02:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:02:34<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:06:37</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:06:37<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 11:59:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 11:59:52<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 14:46:10</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 14:46:10<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 16:47:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 16:47:51<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

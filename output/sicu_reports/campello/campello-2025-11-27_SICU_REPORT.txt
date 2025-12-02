@@ -1,0 +1,171 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-11-27
+	•	Hora de edición: 2025-11-27 11:38:07
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-27 – total incidentes SICU: 9)
+
+• Terrorismo: 1 incidente(s) registrado(s).
+• Criminalidad: 4 incidente(s) registrado(s).
+• Disturbios Civiles: 1 incidente(s) registrado(s).
+• Hazards: 3 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION El Consejo Social de la UMH de Elche demanda autonomía para seguir siendo motor de progreso El Consell indemniza con 24.000 euros a una víctima del atentado terrorista de Santa Pola en 2002 Mas-Coma alerta en la UMH de episodios “anómalos” aún sin explicación en la dana: nubes inmóviles y un extraño polvo blanco días después Elche, lista para la Navidad con todas estas actividades Esta es la nota que los niños de Elche le dan a su barrio El tiempo en Alicante: mañana gélida en el interior de la provincia Quirónsalud Torreviej...
+		Fecha/Hora: 2025-11-27 11:06:45
+		Fuente: WEB https://www.informacion.es/elche/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Localización no especificada (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN La Policía detiene a un hombre por agredir sexualmente a una niña de 12 años en la puerta de un colegio Una testigo del incendio del hospital de Cartagena: "Al darme la vuelta, la ventana estaba llena de fuego, daba mucho miedo" Una agresión a navajazos en plena calle acaba con dos heridos en Sevilla Conmoción en Asturias por la muerte fulminante de un niño de 12 años mientras hacía deporte: "Es una desgracia" Detenido tras ser localizado por la geolocalización por el robo de dos teléfonos en un local de ocio de Alicante Al banquillo por una a...
+		Fecha/Hora: 2025-11-27 11:06:45
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Detenido tras ser localizado por la geolocalización por el robo de dos teléfonos en un local de ocio de Alicante Dolor por la muerte de Cristina, la agente medioambiental que se precipitó al vacío en Moraira: "Tenía gran vocación y era fuerte y luchadora" Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un agente judicial incluido entre los fugitivos más buscados en Montenegro Fallece una agente medioamb...
+		Fecha/Hora: 2025-11-27 11:06:46
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Sin moción del 25N en San Vicente: el PP lleva una propuesta, la izquierda otra y caen las dos Hartazgo de los vecinos de El Campello: "Es una vergüenza que no haya ni un solo metro de carril bici" La Guardia Civil detiene en Sant Joan a un fugitivo buscado en Montenegro por asesinato y tráfico de armas Bono comercio: sí en Sant Joan; no en San Vicente, El Campello y Mutxamel El interventor de Sant Joan alerta: "No cabe de ningún modo" El tiempo en Alicante: mañana gélida en el interior de la provincia Lo...
+		Fecha/Hora: 2025-11-27 11:07:16
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana La factura de la comida de Mazón y Vilaplana en El Ventorro el día de la dana: 165 euros y receptor, el PP de la Comunitat Valenciana Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El jefe de Gabinete de Mazón dice que fue él quien agendó la comida con Vilaplana y que no conserva los whatsapps porque cambió de móvil Carlos Mazón desmiente que Vilaplana le acompañase en coche al Palau: "Este asunto más parece de 'Sálvame' que otra cosa" Frustrado un robo violento realizado en ple...
+		Fecha/Hora: 2025-11-27 11:07:20
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana La factura de la comida de Mazón y Vilaplana en El Ventorro el día de la dana: 165 euros y receptor, el PP de la Comunitat Valenciana Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El jefe de Gabinete de Mazón dice que fue él quien agendó la comida con Vilaplana y que no conserva los whatsapps porque cambió de móvil Carlos Mazón desmiente que Vilaplana le acompañase en coche al Palau: "Este asunto más parece de 'Sálvame' que otra cosa" La refinería de bp en Castellón consolida s...
+		Fecha/Hora: 2025-11-27 11:31:14
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de la Comunidad Valenciana | ESdiario Mazón desmiente que Vilaplana le llevara en coche: "Esto parece el Sálvame" El presidente de la Generalitat se detiene ante la prensa para negar rotundamente los últimos detalles difundidos sobre su comida el día de la riada del 29 de octubre Mazón conocía la inundación de Utiel el 29-O mientras estaba en el Ventorro: su jefe de Gabinete le informó por WhatsApp José Manuel Cuenca declara en sede judicial como testigo y desvela toda la información que el presidente obtenía a través de él sobre las inundaciones mientras estaba de comida Así es el...
+		Fecha/Hora: 2025-11-27 11:07:19
+		Fuente: WEB https://www.esdiario.com/comunidad-valenciana
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Agreden a una mujer para robarle 5.800 € en Alicante y detienen al ladrón a la carrera La Policía detiene a un hombre por agredir sexualmente a una niña de 12 años en la puerta de un colegio Una testigo del incendio del hospital de Cartagena: "Al darme la vuelta, la ventana estaba llena de fuego, daba mucho miedo" Una agresión a navajazos en plena calle acaba con dos heridos en Sevilla Conmoción en Asturias por la muerte fulminante de un niño de 12 años mientras hacía deporte: "Es una desgracia" Detenido tras ser localizado por la geolocalizac...
+		Fecha/Hora: 2025-11-27 11:24:35
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de la Comunidad Valenciana | ESdiario EN DIRECTO / Investidura de Juanfran Pérez Llorca como nuevo presidente de la Generalitat El candidato del PP para sustituir a Carlos Mazón expondrá sus objetivos en un duscurso y con toda probabilidad recibirá el apoyo de Vox Mazón conocía la inundación de Utiel el 29-O mientras estaba en el Ventorro: su jefe de Gabinete le informó por WhatsApp José Manuel Cuenca declara en sede judicial como testigo y desvela toda la información que el presidente obtenía a través de él sobre las inundaciones mientras estaba de comida Así es el famoso reservad...
+		Fecha/Hora: 2025-11-27 11:36:25
+		Fuente: WEB https://www.esdiario.com/comunidad-valenciana
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 1 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 4 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
+	• Hazards: 3 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

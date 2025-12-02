@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>haiti-2025-11-24_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-24 13:36:48</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-24 13:36:48<br><b>Localización:</b> Carrefour<br><b>Descripción:</b> *Hola a todos* *Buenos días Carrefour / Fontamara* No hay transporte público ns disponible esta mañana debido a una huelga desencadenada en el municipio por el jefe de gang Krisla. Muchas personas se dirigen actualmente a pie desde Carrefour y Fontamara.* *Delmas*==&gt; Transporte común fluido sobre el conjunto del eje.]]></description>
+      <Point>
+        <coordinates>-72.401000,18.534000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 14:06:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 14:06:52<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Un avión de Sunrise Airways fue atacado por disparos en Puerto Príncipe y la compañía suspendió sus vuelos internos  [Enlace: https://www.tripfoumi.com/blog/2025/11/24/un-avion-de-sunrise-airways-atteint-par-des-tirs-a-port-au-prince-la-compagnie-suspend-ses-vols-interieurs/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 14:12:09</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 14:12:09<br><b>Localización:</b> Petit-Goâve<br><b>Descripción:</b> Un avión de Sunrise Airways golpeado por disparos: la compañía suspende todos sus vuelos a Puerto Príncipe  Un avión de Sunrise Airways golpeado por disparos: la compañía suspende todos sus vuelos a Puerto Príncipe Comment Dadou Pasquet, voz y alma del konpa, shöden ha ido República Dominicana: 23 nacionales haitianos heridos en el incendio de un minibús en Valverde Copa del Mundo 2026: Trump excluye cualquier exención de visado para los aficionados haitianos Nueva oficina de la Inmigración en Petit-Goave: el DIE Antoine Simon Fénelon promete pasaportes en 24 horas Haití: Nicole Kouassi, nu...  [Enlace: https://lequotidien509.com/category/actualites/]]]></description>
+      <Point>
+        <coordinates>-72.866000,18.433000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 14:21:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 14:21:16<br><b>Localización:</b> Petit-Goâve<br><b>Descripción:</b> Un avión de Sunrise Airways golpeado por disparos: la compañía suspende todos sus vuelos a Puerto Príncipe  Un avión de Sunrise Airways golpeado por disparos: la compañía suspende todos sus vuelos a Puerto Príncipe Comment Dadou Pasquet, voz y alma del konpa, shöden ha ido República Dominicana: 23 nacionales haitianos heridos en el incendio de un minibús en Valverde Copa del Mundo 2026: Trump excluye cualquier exención de visado para los aficionados haitianos Nueva oficina de la Inmigración en Petit-Goave: el DIE Antoine Simon Fénelon promete pasaportes en 24 horas Haití: Nicole Kouassi, nu...  [Enlace: https://lequotidien509.com/category/actualites/]]]></description>
+      <Point>
+        <coordinates>-72.866000,18.433000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:11:45</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:11:45<br><b>Localización:</b> Petit-Goâve<br><b>Descripción:</b> Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Cómo falleció Dadou Pasquet, la voz y el alma de Konpa República Dominicana: 23 haitianos heridos en incendio de minibús en Valverde Mundial 2026: Trump descarta exenciones de visa para aficionados haitianos Nueva Oficina de Inmigración en Petit-Goave: DIE Antoine Simon Fénélon promete pasaportes en 24 horas Haití: Nicole Kouassi, nueva Representante Especial Adjunta...]]></description>
+      <Point>
+        <coordinates>-72.866000,18.433000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:16:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:16:52<br><b>Localización:</b> Petit-Goâve<br><b>Descripción:</b> Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Cómo falleció Dadou Pasquet, la voz y el alma de Konpa República Dominicana: 23 haitianos heridos en incendio de minibús en Valverde Mundial 2026: Trump descarta exenciones de visa para aficionados haitianos Nueva Oficina de Inmigración en Petit-Goave: DIE Antoine Simon Fénélon promete pasaportes en 24 horas Haití: Nicole Kouassi, nueva Representante Especial Adjunta...]]></description>
+      <Point>
+        <coordinates>-72.866000,18.433000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 22:21:44</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 22:21:44<br><b>Localización:</b> Petit-Goâve<br><b>Descripción:</b> Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Cómo falleció Dadou Pasquet, la voz y el alma de Konpa República Dominicana: 23 haitianos heridos en incendio de minibús en Valverde Mundial 2026: Trump descarta exenciones de visa para aficionados haitianos Nueva Oficina de Inmigración en Petit-Goave: DIE Antoine Simon Fénélon promete pasaportes en 24 horas Haití: Nicole Kouassi, nueva Representante Especial Adjunta...]]></description>
+      <Point>
+        <coordinates>-72.866000,18.433000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:12:38</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:12:38<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Haiti - Kapzy News  La compañía teatral de Kay-Art-Cap Haïtiien cuenta la historia desconocida del asesinato de Jean-Jacques Dessalinas - Kapzy News  La compañía teatral de Kay-Art-Cap Haitiano cuenta la historia desconocida del asesinato de Jean-Jacques Dessalines .  [Enlace: https://kapzynews.com/haiti/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:13:27</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:13:27<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> HOME  Sign up for The Haitian Times Daily News Roundp Sigue las últimas noticias de Haití y la diáspora entregadas directamente a tu bandeja de entrada. La compañía de teatro Cap-Haïtien ‘Kay’Art’ reaviva la historia incalculable del asesinato de Jean-Jacques Dessalines Fotos Una compañía de teatro recién fundada en Cap-Haïtien está recuperando aspectos poco conocidos de la historia temprana de Haití con una obra que examina y recrea los motivos detrás del asesinato de una de las figuras de la revolución central de Haití —Jean-Jacques Dessalines.  [Enlace: https://haitiantimes.com]]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:14:27</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:14:27<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria en todo el mundo  Los ataques a las escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos contra escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.  [Enlace: https://reliefweb.int]]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:14:34</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:14:34<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria en todo el mundo  Los ataques a las escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos contra escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes. En octubre se registró el mayor número de ataques a la energía desde el comienzo de la guerra.  [Enlace: https://reliefweb.int/]]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:21:44</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:21:44<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Haiti - Kapzy News  La compañía teatral de Kay-Art-Cap Haïtiien cuenta la historia desconocida del asesinato de Jean-Jacques Dessalinas - Kapzy News  La compañía teatral de Kay-Art-Cap Haitiano cuenta la historia desconocida del asesinato de Jean-Jacques Dessalines .  [Enlace: https://kapzynews.com/haiti/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:22:32</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:22:32<br><b>Localización:</b> Cap-Haïtien<br><b>Descripción:</b> HOME  Sign up for The Haitian Times Daily News Roundp Sigue las últimas noticias de Haití y la diáspora entregadas directamente a tu bandeja de entrada. La compañía de teatro Cap-Haïtien ‘Kay’Art’ reaviva la historia incalculable del asesinato de Jean-Jacques Dessalines Fotos Una compañía de teatro recién fundada en Cap-Haïtien está recuperando aspectos poco conocidos de la historia temprana de Haití con una obra que examina y recrea los motivos detrás del asesinato de una de las figuras de la revolución central de Haití —Jean-Jacques Dessalines.  [Enlace: https://haitiantimes.com]]]></description>
+      <Point>
+        <coordinates>-72.204000,19.759000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:23:37</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:23:37<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria en todo el mundo  Los ataques a las escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos contra escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.  [Enlace: https://reliefweb.int]]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 14:23:44</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 14:23:44<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria en todo el mundo  Los ataques a las escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos contra escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes. En octubre se registró el mayor número de ataques a la energía desde el comienzo de la guerra.  [Enlace: https://reliefweb.int/]]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:12:29</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:12:29<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:17:34</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:17:34<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:22:27</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:22:27<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

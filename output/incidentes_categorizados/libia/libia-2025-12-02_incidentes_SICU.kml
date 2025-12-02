@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-12-02_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 07:02:43</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 07:02:43<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La Misión sigue aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “derechos de invierno” y advierten contra el cierre de las fábricas centrales que venden divisas a los bancos y asigna aproximadamente 2.000 millones de dólares de los EE.UU. a la Misión de las Naciones Unidas: la eliminación de miles de piezas de residuos de la explosión de skirat de agosto del pasado mes de agosto en Egipto, con lo que se confirma su apoyo al pueblo palestino y se pide que se ponga fin a los ataques y el levantamiento del bloqueo de Gaza.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 09:08:44</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 09:08:44<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La Misión sigue aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “derechos de invierno” y advierten contra el cierre de las fábricas centrales que venden divisas a los bancos y asigna aproximadamente 2.000 millones de dólares de los EE.UU. a la Misión de las Naciones Unidas: la eliminación de miles de piezas de residuos de la explosión de skirat de agosto del pasado mes de agosto en Egipto, con lo que se confirma su apoyo al pueblo palestino y se pide que se ponga fin a los ataques y el levantamiento del bloqueo de Gaza.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-02 11:11:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-02 11:11:32<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La Misión sigue aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “derechos de invierno” y advierten contra el cierre de las fábricas centrales que venden divisas a los bancos y asigna aproximadamente 2.000 millones de dólares de los EE.UU. a la Misión de las Naciones Unidas: la eliminación de miles de piezas de residuos de la explosión de skirat de agosto del pasado mes de agosto en Egipto, con lo que se confirma su apoyo al pueblo palestino y se pide que se ponga fin a los ataques y el levantamiento del bloqueo de Gaza.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 08:50:49</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 08:50:49<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Gobierno está examinando la evolución de la situación política, económica y de seguridad nacional con el Jefe de Gobierno saliente Abdulhamid Dabbah, Presidente y miembros del Consejo Social del Mercado del Viernes en los cuatro aspectos, y ha examinado con ellos la evolución de la situación política, económica y de seguridad en el país, la “Dibba” con el Comandante de Africom para promover la cooperación militar en Trípoli. El Jefe de Gobierno saliente recibió hoy en Trípoli al Jefe de Estado de los Estados Unidos, “Africom” Dagfin ...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 11:11:36</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 11:11:36<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Consejo, en colaboración con la Oficina de Investigación Criminal, recibió hoy en Trípoli a los miembros del Consejo Ejecutivo del Mando Militar de los Estados Unidos en África (Afrikum) y a los miembros del Consejo Ejecutivo de la Organización Mundial de la Salud (Africom) en la reunión del Consejo Ejecutivo de la Organización Mundial de la Salud (OMS) en la que participaron los autores de los robos ocurridos en 2013 y que fueron remitidos a la Fiscalía después de la conclusión de los procedimientos nacionales. El Consejo de Seguridad de Trípoli, en colaboración con la Oficina de Invest...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 11:17:27</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 11:17:27<br><b>Localización:</b> Misrata<br><b>Descripción:</b> Libia, periódico de las 24 de la Garbalí: “El pueblo y la droga con pan y productos de la Asamblea, y los dirigentes de Yibe son los que están en coma”, dijo el ex Presidente de la Junta Militar, Tahir al-Ghrabili, Sabrata, que la negativa del pueblo se debía a la persistencia del efecto negativo de la droga derramada ... sobre Ali al-Salabi: Haram al-Sultan mutiló a un héroe turco Mujahid y a Kabir Ali al-Slabi en Turquía, y que Haram al-Sultan había mutilado a un héroe turco Mujahid y Kabir.]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 14:13:55</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 14:13:55<br><b>Localización:</b> Misrata<br><b>Descripción:</b> El Comisionado de Inmigración de la Unión Europea, Magnus, entrevistado con el periódico Al-Garbali, dijo: “El pueblo ha tomado una droga con pan y productos de la Sociedad Yippi, líderes que se encuentran en el coma”. El ex Presidente de la Junta Militar, Tahir Al-Garbata, dijo: “El pueblo ha tomado una droga con pan y productos de la Asamblea, y los dirigentes de la Sociedad Tisef Al-Safibwa”, dijo el ex Presidente de la Junta Militar, Tahir al-Garbata, que la negativa del pueblo se debía a la persistencia de los efectos negativos de la droga derramada ...]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 14:17:37</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 14:17:37<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La misión de acogida de la Misión de las Naciones Unidas: eliminar miles de restos de la explosión de los skirat de agosto pasado, con la ayuda de la cooperación militar de Libia, confirma su apoyo al pueblo palestino y pide que se ponga fin a los ataques y se levante el bloqueo de las aduanas de Gaza, revelando los detalles del cierre de los contenedores de Deephaba para los observadores internacionales de inmigración: la reducción del número de inmigrantes en 11 meses y de Libia como principal país de tránsito: el primer diálogo libio resolvería las diferencias electorales y la declaració...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 14:29:18</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 14:29:18<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La Federación de Rusia está tratando de poner en marcha un “proyecto nacional de deportación” de la gripe estacional. La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los grandes consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advierten contra el cierre de las fábricas centrales, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones de los afrikom en Trípoli para vender combustible en contravención.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 14:34:30</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 14:34:30<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advirtiendo que no se cierren las fábricas centrales que venden divisas a los bancos, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones sobre el afrikom en Trípoli para vender combustible en contravención. El responsable de la empresa internacional Al-Haraqah tras las rejas declara oficialmente que la inmigración ha...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 15:03:38</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 15:03:38<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Libia, periódico de las 24:00 horas: la controversia sobre la frontera marítima no se convertirá en enfrentamientos armados, según la opinión del experto internacional en la solución de controversias, Mohamed Al-Asad, las recientes declaraciones del Ministro de Defensa de Grecia en relación con el Convenio Marítimo Libio-Turk, la intervención del Dibani: el distrito de Dabba promueve una ilusión política para prolongar la vida del Gobierno en Trípoli. El investigador político Abdullah Dibani dijo que la situación política en Libia seguía siendo difícil, y que las perspectivas de una solució...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 16:36:43</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 16:36:43<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advirtiendo que no se cierren las fábricas centrales que venden divisas a los bancos, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones sobre el afrikom en Trípoli para vender combustible en contravención. El responsable de la empresa internacional Al-Haraqah tras las rejas declara oficialmente que la inmigración ha...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-02 17:54:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-02 17:54:58<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> El Comandante General Adjunto del Ejército Nacional, Teniente General, en presencia del Encargado de Negocios de la Embajada de los Estados Unidos en Libia en Benghazi, y la importancia de mantener la estabilidad regional, está debatiendo con el Comandante del Mando Militar de los Estados Unidos en África ( el General Dagvin-Anderson.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-12-02 11:08:58</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-02 11:08:58<br><b>Localización:</b> Suq al Jumaa<br><b>Descripción:</b> La crisis política creada con la zona del mercado del viernes se ha convertido en una crisis humanitaria que afecta a la salud y la seguridad de los ciudadanos. – No es una crisis, es un crimen perfecto, un robo manifiesto y una hambruna sistemática en el sector público hasta que se les entregue la fuerza de la corrupción y de los traficantes de dolor.]]></description>
+      <Point>
+        <coordinates>13.210000,32.874000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-02 17:04:58</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-02 17:04:58<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El asesinato de Gaddafi fue el comienzo de un ciclo más amplio de violencia. - La caída de Gadafi debería haber marcado el comienzo de un nuevo camino hacia la libertad en Libia, pero ha conducido al país a una serie de guerras civiles entre los que buscan un régimen autoritario o un gobierno islámico radical.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-02 17:54:19</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-02 17:54:19<br><b>Localización:</b> Tobruk<br><b>Descripción:</b> Informes mensuales y semanales sobre todos los acontecimientos ocurridos en Libia desde dentro y fuera del país, y un seguimiento de todo lo nuevo en el gobierno libio, confiscando 142 kilos de drogas en Tirq. La fiscalía ordena la detención de los implicados.]]></description>
+      <Point>
+        <coordinates>23.976000,32.083000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-12-02 17:25:28</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-12-02 17:25:28<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> Inicio X Capital Libia ve manifestación por falta de apoyo médico El PNUD lanza un laboratorio de innovación juvenil para la justicia en Libia El funcionario de la prisión de Libia entregado a la Corte Penal Internacional por crímenes de guerra acusa al fiscal libio Brega de vender 22 millones de litros de combustible subvencionado a Turquía La Corte Penal Internacional condena los crímenes sistemáticos en los centros de detención de Libia Níger abre nuevos consulados en Benghazi y Sebha Libia y Turquía avanzan la asociación de energía renovable La UE tiene como objetivo aumentar la capacid...]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

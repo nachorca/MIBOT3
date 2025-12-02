@@ -1,0 +1,157 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-11-21
+	•	Hora de edición: 2025-11-26 17:43:52
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-21 – total incidentes SICU: 7)
+
+• Conflicto Armado: 2 incidente(s) registrado(s).
+• Criminalidad: 1 incidente(s) registrado(s).
+• Disturbios Civiles: 4 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante Alicante está acostumbrada a recibir cruceros, ferris, barcos escuela, incluso alguna fragata militar en fechas señaladas. Pero este jueves la estampa en el puerto alicantino ha sido otra: la silueta imponente del Jacques Chevallier, uno de los buques de apoyo más modernos de la Marine Nationale francesa, recortándose sobre la dársena como si hubiera salido directamente de una película bélica.  [Enlace: https://ift.tt/6izfR9m]
+		Fecha/Hora: 2025-11-21 13:09:28
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante Un capítulo más en el enfrentamiento que el gobierno municipal del PP y el PSOE, principal grupo de la oposición, están protagonizando esta semana en el Ayuntamiento de Alicante. Tras el cruce de comunicados de este jueves, ambas formaciones han vuelto a lanzarse acusaciones cruzadas por la negociación de los próximos presupuestos.  [Enlace: https://ift.tt/5MSBcbx]
+		Fecha/Hora: 2025-11-21 23:08:47
+		Fuente: @AlicanteDirectoNews
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una célula itinerante especializada en robos en domicilios deja varias víctimas en Alicante  [Enlace: https://diariodealicante.net/robo-domicilios-alicante-celula-itinerante/]
+		Fecha/Hora: 2025-11-21 11:58:02
+		Fuente: @diarioAlicante
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Localización no especificada (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Anota estas fechas: los médicos irán a la huelga cuatro días consecutivos  Anota estas fechas: los médicos irán a la huelga cuatro días consecutivos La nueva convocatoria es en diciembre en demanda de una mejora de las condiciones para los facultativos La Confederación Española de Sindicatos Médicos (CESM) han convocado cuatro jornadas consecutivas de huelga nacional fijadas para el próximo mes de diciembre para mostrar el rechazo de la profesión al borrador de Estatuto Marco que pretende aprobar el Ministerio de Sanidad, después de que en los últimos meses no se haya producido ningún avanc...  [Enlace: https://www.informacion.es/alicante/2025/11/20/huelga-medicos-alicante-diciembre-sanidad-123939436.html]
+		Fecha/Hora: 2025-11-21 10:10:53
+		Fuente: WEB www.informacion.es
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante Los profesores expertos de Formación Profesional (FP) han aceptado la última oferta de la Conselleria de Educación sobre sus condiciones laborales, pero han condicionado el final de la huelga iniciada el 3 de noviembre, que tiene a más de 5.000 alumnos de la provincia de Alicante sin clases, a que las medidas se apliquen de manera inmediata. via Información - Alicante  [Enlace: https://ift.tt/c83LOwk]
+		Fecha/Hora: 2025-11-21 17:22:57
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante La Subdelegación del Gobierno ha empezado a notificar multas de 601 euros a varias personas que participaron el pasado 10 de abril en la protesta convocada en Juan XXIII para tratar de frenar el desahucio de una pareja en situación de vulnerabilidad. Las sanciones se basan en un informe de la Policía Nacional que atribuye a los activistas haber impedido el acceso al portal donde la comisión judicial debía ejecutar el lanzamiento.  [Enlace: https://ift.tt/kqVUDOH]
+		Fecha/Hora: 2025-11-21 22:21:53
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Gobierno multa a activistas que intentaron frenar el desahucio de una pareja vulnerable en Alicante  El Gobierno multa a activistas que intentaron frenar el desahucio de una pareja vulnerable en Alicante La Subdelegación propone sanciones de 600 euros por “obstaculizar” la ejecución mientras el Sindicat de Vivenda de Carolines y EU-Podemos denuncian represión y falta de alternativas La Subdelegación del Gobierno ha empezado a notificar multas de 601 euros a personas que participaron el pasado 10 de abril en la protesta convocada en Juan XXIII para tratar de frenar el desahucio de una par...  [Enlace: https://www.informacion.es/alicante/2025/11/21/gobierno-multa-desahucio-vulnerable-alicante-123990262.html]
+		Fecha/Hora: 2025-11-22 02:22:40
+		Fuente: WEB www.informacion.es
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Conflicto Armado: 2 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 1 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 4 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

@@ -1,0 +1,1533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-11-22_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 07:04:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 07:04:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> El sábado, los medios de comunicación palestinos locales informaron de que el campamento de ocupación israelí había llevado a cabo una serie de intensos ataques aéreos contra las zonas orientales de la ciudad de Gaza. Fuentes informaron de explosiones violentas en toda la ciudad como consecuencia del bombardeo en serie de los barrios residenciales y zonas abiertas al este de la ciudad.  [Enlace: https://www.alquds.com/ar/posts/210675]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 09:13:49</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 09:13:49<br><b>Localización:</b> N/D<br><b>Descripción:</b> * El bombardeo de la artillería israelí al sur de la ciudad de Khan Younis al sur de la Franja de Gaza se ha reanudado.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 09:22:54</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 09:22:54<br><b>Localización:</b> N/D<br><b>Descripción:</b> Nuevos bombardeos al sur de Khan Younis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 09:43:03</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 09:43:03<br><b>Localización:</b> N/D<br><b>Descripción:</b> Durante la mañana del sábado por la mañana, el ejército de ocupación israelí realizó una serie de ataques aéreos acompañados de bombardeos de artillería y fuego intenso contra varias zonas situadas detrás de lo que se conoce como la línea amarilla en la Franja de Gaza. En Rafah, al sur de la Franja de Gaza, aviones israelíes realizaron incursiones aéreas consecutivas en la zona septentrional y oriental de la ciudad.  [Enlace: https://www.alquds.com/ar/posts/210698]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 09:45:49</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 09:45:49<br><b>Localización:</b> N/D<br><b>Descripción:</b> } Corresponsal # Al-Jazeera: bombardeo de artillería israelí detrás de la línea amarilla al sudeste de la ciudad de Khan Yunis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 09:54:39</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 09:54:39<br><b>Localización:</b> N/D<br><b>Descripción:</b> Bombardeo de artillería y fuego intenso de los mecanismos de ocupación estacionados en las zonas orientales de la ciudad de Khan Younis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 11:19:22</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 11:19:22<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Corresponsal de # Al-Jazeera: bombardeo de artillería israelí detrás de la línea amarilla al este del campamento de Al-Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 11:19:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 11:19:23<br><b>Localización:</b> N/D<br><b>Descripción:</b> * El bombardeo de la artillería israelí detrás de la línea amarilla al este del campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 11:19:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 11:19:24<br><b>Localización:</b> N/D<br><b>Descripción:</b> Bombardeo de artillería al este de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 11:55:38</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 11:55:38<br><b>Localización:</b> N/D<br><b>Descripción:</b> Bombardeo de artillería israelí al este del campamento de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 13:31:21</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 13:31:21<br><b>Localización:</b> N/D<br><b>Descripción:</b> Las fuerzas de ocupación israelíes dispararon tres veces al este de la Franja de Gaza, mientras que los vehículos de artillería al este del campamento de Bureij, en la provincia central, bombardearon la zona en violación del acuerdo de cesación del fuego, que entró en vigor el 10 de octubre pasado. En el centro de la Franja, fuentes médicas del hospital de Al-Aqsa informaron de que dos palestinos habían seguido disparando desde el este del campamento de Al-Breij, y testigos presenciales dijeron que la artillería del ejército de ocupación había bombardeado zonas al este del mismo campamento,...  [Enlace: https://www.alquds.com/ar/posts/210777]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 15:34:22</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 15:34:22<br><b>Localización:</b> N/D<br><b>Descripción:</b> El bombardeo de Al-Qassam fue dirigido contra un alto funcionario del sistema de abastecimiento de Al-Qassam en una incursión en Gaza ( El sábado, aviones del ejército de ocupación llevaron a cabo un ataque concentrado contra un vehículo civil al oeste de la ciudad de Gaza. Al menos siete mártires, entre ellos un destacado líder de la resistencia y sus hijos, resultaron heridos en la zona de Al-Tadawi, en la zona de Al-Qadha.  [Enlace: https://www.alquds.com/ar/posts/210798]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 15:34:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 15:34:24<br><b>Localización:</b> N/D<br><b>Descripción:</b> El bombardeo de un vehículo civil al oeste de Gaza por aviones de ocupación el sábado bombardeó un vehículo de ocupación israelí en la ciudad de Gaza, causando muertos y heridos en una nueva violación por parte de Israel del acuerdo de cesación del fuego, que entró en vigor el 10 de octubre pasado. Los medios de comunicación palestinos informaron de que cuatro mártires y varios heridos eran el resultado inicial de la incursión israelí en el cruce de Al-Abas al oeste de la ciudad de Gaza.  [Enlace: https://www.alquds.com/ar/posts/210795]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Corresponsal de  bombardeo de artillería israelí dentro de la línea amarilla al este de la ciudad de Khan Younis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> *La velocidad del canal de Al-Sudiya: el asesinato de Qassam Ala Al-Hadididi y su hijo, y de otros tres por el bombardeo del automóvil en la ciudad de Gaza.  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los primeros momentos del bombardeo de un vehículo civil al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • En el balance más reciente, cinco mártires fueron bombardeados por Israel contra un vehículo civil en el cruce de Abbas, en el barrio de Rimal, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> * Vídeo de víctimas infantiles causadas por el bombardeo de un vehículo cerca del cruce de Abbas, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Bombardeo de artillería israelí contra las zonas orientales de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> &quot;Pronto&quot; rodeado de tiendas de campaña de desplazados, mártires y heridos en el bombardeo de aviones de ocupación en una casa de la familia Abed en el perímetro de la mezquita de Bilal Bin Rabah, al oeste de Deir el-Balah, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los aviones de ocupación están bombardeando una casa cerca del hospital Al-Adaw, en el campamento de Nuseirat, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> *Apurados heridos en el bombardeo de la ocupación, una casa de la familia Abu Amuneh, en los alrededores del hospital de Al-Awda, en el campamento de Nuseirat, en el centro de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Bombardeo de artillería israelí contra zonas al este de la ciudad de Jan Yunis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Bombardeo de una casa cerca de Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: El número total de incidentes ocurridos hasta la fecha: sábados 22/11: 14 mártires, 1,4 testigos, en el bombardeo de un vehículo civil en el barrio de Rimal, al oeste de la ciudad de Gaza; 2 mártires, en el bombardeo de una casa de la familia Abed en Deir al-Balah, en el centro de la Franja de Gaza; 3 mártires, en el bombardeo de una casa de la familia Abu Amuna, en el campamento de Nuseirat, en el centro de la Franja de Gaza; 4, 5 mártires y heridos, en el bombardeo de la casa de la familia Abu Shawish, en el campamento de Nuseirat, en el centro de la Franja de Gaza; 5.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Heridas causadas por el bombardeo de una casa de la familia Al-Kidri en la calle Al-Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> Mártires y heridos en el lugar, los primeros momentos después del bombardeo de un vehículo cerca del cruce de Abbas en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> Fuentes locales: @Warlife3 @Bassam Ala al-Hadididi y su hijo y otros tres al bombardear el automóvil en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> Mártires y heridos al bombardear una casa de la familia Abu Shawish en el campamento de Nuseirat, en el centro de la Franja de Gaza. @Warlife3]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> * Desde el lugar del bombardeo de un vehículo civil al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> En el último balance: 4 mártires y heridos en el bombardeo aéreo de la ocupación, una casa de la familia Abed, en el perímetro de la mezquita de Bilal bin Rabah, al oeste de la ciudad de Deir el-Balah, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> Tres incursiones en el lugar de los hechos en menos de media hora y cinco mártires a consecuencia del bombardeo de un automóvil en el barrio de Al-Ram, en Gaza, de Shahidan, y el bombardeo de un apartamento cerca de la mezquita de Bilal bin Rabah, der Al-Balah.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:29<br><b>Localización:</b> N/D<br><b>Descripción:</b> Cinco mártires a consecuencia del bombardeo de un vehículo en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> * A la espera de que se escuchen las explosiones al este de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Muertos en un bombardeo de un vehículo civil israelí cerca del cruce de Abbas, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Dos mártires resultaron heridos en un bombardeo de un vehículo civil israelí cerca del cruce de Abbas, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Cuatro mártires y heridos como consecuencia del bombardeo de un vehículo civil israelí cerca del cruce de Abbas, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> El vehículo que fue bombardeado por la ocupación recientemente al oeste de la ciudad de Gaza, cuyos pasajeros llegaron inmediatamente.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Poco después, el avión de ocupación bombardeó una casa de la familia Abu Amuna en los alrededores del hospital de regreso en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Rápido, cuatro mártires bombardeando una casa de la familia Abu Shawish en el campamento 2 de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Hamas: &quot;El aumento de las violaciones de la ocupación pone a los mediadores y a la administración estadounidense ante la responsabilidad de hacer frente a sus intentos de socavar la cesación del fuego en Gaza&quot;. El hecho de que el ejército de ocupación siga retirando y avanzando diariamente hacia el oeste, con el consiguiente éxodo masivo de nuestro pueblo, así como los ataques aéreos y los bombardeos de artillería contra las zonas orientales del sector, constituye una violación flagrante del acuerdo de cesación del fuego por parte de la ocupación terrorista.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Muertos en un bombardeo israelí contra una casa de la familia Abu Amuneh, en los alrededores del hospital de regreso del campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Según los datos oficiales, desde principios de mes se han llevado a cabo alrededor de 250 ataques en toda la Franja de Gaza para frustrar infraestructuras terroristas, y hasta ayer 25 hombres armados habían cruzado la línea amarilla.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Resultado de las incursiones israelíes en la Franja de Gaza: 5 mártires y heridos en un bombardeo de un vehículo civil israelí cerca del cruce de Abbas, al oeste de la ciudad de Gaza; 2 mártires y 2 heridos en un bombardeo israelí contra una casa de la familia Abed en los alrededores de la mezquita de Bilal bin Rabah, al oeste de la ciudad de Deir el-Balah, en el centro de la Franja de Gaza; 1 mártir y 2 heridos en un bombardeo israelí contra una casa de la familia Abu Amuneh, cerca del hospital Al-Aida, en el campamento de Nuseirat, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> El cuerpo de un mártir fue recuperado por un bombardeo anterior a la ocupación del barrio de Tal al-Hawa, al sudoeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Mártires y heridos en el lugar, los primeros momentos después del bombardeo de un vehículo cerca del cruce de Abbas en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> En un balance preliminar, Shahidan y varios heridos tras el bombardeo de un vehículo en el cruce de Abbas, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Cuatro mártires como consecuencia del bombardeo de la ocupación contra un vehículo en la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> La ocupación viola de nuevo el acuerdo de cesación del fuego, bombardea un vehículo cerca del cruce de Al-Abassi en la ciudad de Gaza y eleva a cuatro palestinos.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Desde el lugar de la matanza de la ocupación, tras el bombardeo de un vehículo y la muerte hace poco en el oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> El vehículo que fue bombardeado por la ocupación al oeste de la ciudad de Gaza, cuyos pasajeros permanecieron inmediatamente.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Seguimiento: niños heridos fueron trasladados al hospital tras el bombardeo de un vehículo en el cruce de Abbas, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Niños heridos por el bombardeo de un vehículo cerca del cruce de Abbas, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> La artillería de ocupación renueva el bombardeo de las zonas orientales de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: En el último balance: cinco mártires y varios heridos; el bombardeo de un vehículo civil cerca del cruce de Abbas, al oeste de la ciudad de Gaza por aviones de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los heridos por el bombardeo de la ciudad de Deir el-Balah, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> * Actualización de las bajas en el bombardeo de la ocupación detrás de la panadería de Al-Bana, alrededor de la mezquita de Bilal Bin Rabah, al oeste de la ciudad de Deir el-Balah, en el centro de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> El bombardeo de una casa de la familia Abed por la aviación de ocupación en una zona abarrotada de desplazados internos, en los alrededores de la mezquita de Bilal bin Rabah, al oeste de la ciudad de Deir el-Balah, en el centro de la Franja de Gaza, causó heridas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Urgentemente, los aviones de ocupación bombardean una casa cerca del hospital de Al-Awda, en el campamento de Nuseirat, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> ** Los primeros momentos después de que los aviones de ocupación bombardearan una casa de la familia Abed en una zona abarrotada de desplazados internos, en los alrededores de la mezquita de Bilal bin Rabah, al oeste de la ciudad de Deir el-Balah, en el centro de la Franja de Gaza.**]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Heridas en un bombardeo de ocupación dirigido contra una casa de la familia Abu Amuneh en los alrededores del hospital Al-Wadda, en el campamento de Nuseirat, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> La artillería de ocupación bombardea zonas &quot;dentro de la línea amarilla&quot; al este de la ciudad de Khan Yunis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Cuatro mártires y varios heridos fueron bombardeados por aviones de ocupación contra una casa de la familia Abed en una zona abarrotada de desplazados internos, en los alrededores de la mezquita de Bilal Bin Rabah, al oeste de la ciudad de Deir el-Balah, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Un mártir resultó herido al bombardear el avión de ocupación una casa de la familia Abu Amuna, en los alrededores del hospital de regreso en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> * Un mártir y heridos en un bombardeo israelí dirigido contra una casa de la familia Abu Amuna, cerca del hospital de regreso en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Nada más que Dios, 10 mártires en un bombardeo israelí en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:30</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Tres incursiones en el lugar de los hechos en menos de media hora y cinco mártires a consecuencia del bombardeo de un automóvil en el barrio de Al-Ram, en Gaza, de Shahidan, y el bombardeo de un apartamento cerca de la mezquita de Bilal bin Rabah, der Al-Balah.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> Un mártir resultó herido al bombardear el avión de ocupación una casa de la familia Abu Amuna en los alrededores del hospital de regreso en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los primeros momentos después de que el avión de ocupación bombardeara una casa de la familia Abu Amuna, en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> La destrucción causada por el bombardeo de una casa de la familia Abu Amuna cerca del hospital de regreso en el campamento de Nuseirat, en el centro de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> En el último balance, tres mártires y varios heridos bombardearon una casa de la familia Abu Amuneh en los alrededores del hospital de retorno del campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> Muertos y heridos al bombardear una casa de la familia Abu Shuesh en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> Bombardeo de una casa cerca de Lababidi, en la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> En el momento en que murió frente a la mezquita de Al-Farouq, Mustafa Abu, según Alá, Abu Al-Abd, fue bombardeado su casa en Nuseirat]]></description>
+      <Point>
+        <coordinates>34.392000,31.448000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> El avión de ocupación bombardeó una casa de la familia Al-Kidri en la calle Al-Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los heridos, entre ellos niños, fueron transportados por el bombardeo de una casa de la familia Abu Shawish en el campamento de Nuseirat, en el centro de la Faja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> 2. Dos mártires en el bombardeo de una casa de la familia Abed en Deir el-Balah, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> @Testigo de Defensa Civil: Insal Shahida tras el bombardeo de una casa de Abu Amuna, cerca de la mezquita de Al-Farouq, en el campamento de Nuseirat, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> * *Aceleró el bombardeo de una casa de la familia Al-Kidri cerca de Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:51:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> Dos mártires resultaron heridos al bombardear el avión de ocupación una casa de la familia Al-Kidri en la calle Al-Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:52:21</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:52:21<br><b>Localización:</b> N/D<br><b>Descripción:</b> Dos mártires resultaron heridos al bombardear el avión de ocupación una casa de la familia Al-Kidri en la calle Al-Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:52:44</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:52:44<br><b>Localización:</b> N/D<br><b>Descripción:</b> Un vehículo civil de ocupación israelí bombardeó el sábado por la mañana un vehículo en la ciudad de Gaza, causando muertos y heridos, en una nueva violación por parte de Israel del acuerdo de cesación del fuego que entró en vigor el 10 de octubre pasado. Testigos presenciales informaron de que cuatro mártires y varios heridos habían sido el resultado inicial de la incursión israelí en la Franja de Gaza.  [Enlace: https://www.alquds.com/ar/posts/210827]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:52:45</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:52:45<br><b>Localización:</b> N/D<br><b>Descripción:</b> El bombardeo de un vehículo civil en el cruce de Al-Abas, al oeste de la ciudad de Gaza, el sábado, un vehículo de ocupación israelí bombardeó un vehículo en la ciudad de Gaza, causando muertos y heridos, en una nueva violación por parte de Israel del acuerdo de cesación del fuego que entró en vigor el 10 de octubre pasado.  [Enlace: https://www.alquds.com/ar/posts/210813]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 16:58:19</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 16:58:19<br><b>Localización:</b> N/D<br><b>Descripción:</b> Şahdan y varias víctimas del bombardeo de aviones de ocupación, un apartamento en los alrededores de la calle Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 17:08:18</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 17:08:18<br><b>Localización:</b> N/D<br><b>Descripción:</b> 4 mártires y varios heridos por bombardeos de aviones de ocupación, un apartamento de la familia Al-Kidri en los alrededores de la calle Al-Lababidi, en el barrio de Al-Nasser, al oeste de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 17:22:09</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 17:22:09<br><b>Localización:</b> N/D<br><b>Descripción:</b> Desde la defensa europea hasta el bombardeo de Gaza por parte de los Estados Unidos ( se ha registrado con nosotros y publicado en el Foro Al-Quds el sábado 22 de noviembre de 5 de las 12:25 p.m. -de la hora de Al-Quds la industria de los explosivos polacos.  [Enlace: https://www.alquds.com/ar/posts/210829]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 18:19:40</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 18:19:40<br><b>Localización:</b> N/D<br><b>Descripción:</b> Un vehículo civil de ocupación israelí bombardeó hoy un vehículo civil y varias casas habitadas en zonas dispersas de la Franja de Gaza, causando decenas de mártires y heridos en nuevas violaciones israelíes del Acuerdo de Cesación del Fuego, que entró en vigor el 10 de octubre pasado.  [Enlace: https://www.alquds.com/ar/posts/210835]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> 22 Mártires, incluidos dos dirigentes de Qassam, que bombardearon un vehículo civil y cuatro casas en la Franja de Gaza  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:12</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:12<br><b>Localización:</b> N/D<br><b>Descripción:</b> En la defensa civil renovamos nuestro llamamiento urgente a los mediadores y a todas las instituciones de la comunidad internacional para que cumplan con su deber moral y humanitario y actúen de inmediato para proteger a los inocentes en la Franja de Gaza de este bombardeo indiscriminado contra la población civil sin discriminación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Hossein Yassin Hussein murió de inmediato como consecuencia del bombardeo de su vehículo entre la ciudad de Majdal Silm y Shaqra, en el Líbano meridional, para unirse a su hijo Yasin, que fue citado durante la batalla de apoyo en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> 18 mártires bombardearon un vehículo civil y cuatro casas en la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Explosión violenta en el este de Gaza como consecuencia de la explosión de bloques de viviendas]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los primeros momentos después de que el avión de ocupación bombardeara una casa de la familia Al-Kidri en la calle Al-Lababidi, al oeste de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Mártires y heridos; el bombardeo de un vehículo civil por la aviación de ocupación cerca del cruce de Abbas, al oeste de la ciudad de Gaza, esta tarde.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Un padre palestino se desplazó de su hijo, que citó el bombardeo de la ocupación en la Franja de Gaza, en violación del acuerdo de cesación del fuego]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los equipos de defensa civil están comprobando la destrucción de la casa de los Al-Kidri después de ser bombardeado por la ocupación en la ciudad de Gaza esta tarde.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-22 20:20:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Urgentemente, la ocupación está lanzando bombas de iluminación en la zona oriental del campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 07:12:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 07:12:34<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: El violento bombardeo de artillería al este del barrio de Tuffah, al este de la ciudad de Gaza, que coincidió con disparos efectuados por los mecanismos de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 07:14:53</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 07:14:53<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Corresponsal # Al-Jazeera: bombardeo de artillería israelí y disparos de tanques detrás de la línea amarilla en el barrio de Al-Tuffah, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 09:27:49</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 09:27:49<br><b>Localización:</b> N/D<br><b>Descripción:</b> * * [Acelera] el bombardeo de artillería y los disparos efectuados por los mecanismos israelíes al este de Khan Yunis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 09:50:50</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 09:50:50<br><b>Localización:</b> N/D<br><b>Descripción:</b> El Centro de Derechos Humanos de Gaza expresa su profunda preocupación por la información que circula sobre el plan de los Estados Unidos de construir complejos de viviendas para palestinos en zonas controladas por el ejército israelí en la Franja de Gaza, mediante arreglos administrados por una sala de coordinación civil-militar dirigida por el ejército de los Estados Unidos. El Centro advirtió de que esos datos revelados por Wall Street Journal revelan una tendencia israelí estadounidense a vincular la reconstrucción y los derechos fundamentales con condiciones políticas y de seguridad, e...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 09:53:49</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 09:53:49<br><b>Localización:</b> N/D<br><b>Descripción:</b> Según el diario estadounidense, hay equipos de ingeniería que han comenzado a trabajar en la remoción de escombros y restos militares no detonados. - Estas agrupaciones alternativas se denominarán &quot;reuniones seguras alternativas&quot; y la primera se celebrará en Rafah, al sur del sector, que casi se ha arrasado.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 10:18:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 10:18:58<br><b>Localización:</b> N/D<br><b>Descripción:</b> Urgentemente, el complejo médico de Shifa recibió disparos del ejército de ocupación detrás de la línea amarilla al este del campamento de Jabaliya, al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 10:31:57</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 10:31:57<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Varios ciudadanos resultaron heridos por disparos de la ocupación al este de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 10:33:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 10:33:58<br><b>Localización:</b> N/D<br><b>Descripción:</b> Hay planes para la construcción temporal de viviendas en las zonas verdes con servicios de vivienda, salud y educación, hasta que esté listo para reconstruir la Franja de Gaza. - Hay equipos de ingeniería que han empezado a trabajar en la remoción de escombros y restos militares no detonados.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 10:36:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 10:36:58<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Hospital de los Mártires de Al-Aqsa: heridos por disparos del ejército de ocupación fuera de la línea amarilla al este del campamento de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 10:39:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 10:39:59<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Hospital de los Mártires de Al-Aqsa: dos heridos por disparos del ejército de ocupación al este del campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 10:52:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 10:52:58<br><b>Localización:</b> N/D<br><b>Descripción:</b> - Llegada urgente al hospital de Shifa por disparos de las fuerzas de ocupación al este de Jabaliya, al norte de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 11:43:38</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 11:43:38<br><b>Localización:</b> N/D<br><b>Descripción:</b> Combates entre la policía italiana y partidarios de Palestina antes del partido de los Vertus Bolonia contra McCabe Tel Aviv en la NBA, protestando por la participación de los equipos de ocupación en las competiciones internacionales por el genocidio en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 11:55:38</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 11:55:38<br><b>Localización:</b> N/D<br><b>Descripción:</b> El hospital Al-Shifa recibió disparos de las fuerzas de ocupación al este de Jabaliya, al norte de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 13:31:24</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 13:31:24<br><b>Localización:</b> N/D<br><b>Descripción:</b> Tres palestinos resultaron heridos por disparos israelíes y un bombardeo de artillería al este del campamento de Al-Bureij ( Los vehículos de artillería israelíes resultaron heridos por disparos israelíes en varias zonas de la Franja de Gaza, mientras que los vehículos de artillería israelíes bombardearon al este del campamento de Al-Brig, en la provincia central, en una nueva violación del acuerdo de cesación del fuego que entró en vigor el 10 de octubre pasado. En el centro de la Franja de Gaza, fuentes médicas del hospital de Al-Aqsa informaron de que dos palestinos habían resultado heri...  [Enlace: https://www.alquds.com/ar/posts/210761]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 15:34:19</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 15:34:19<br><b>Localización:</b> N/D<br><b>Descripción:</b> Fuentes israelíes: Alaa Al-Hadidiri fue atacado en Gaza por un alto funcionario en el ala militar de Hamas ( Los artículos se publicaron en el Foro Al-Quds del sábado 22 de noviembre de 2025 a las 3.20 horas.  [Enlace: https://www.alquds.com/ar/posts/210799]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 15:50:45</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 15:50:45<br><b>Localización:</b> N/D<br><b>Descripción:</b> El ejército de ocupación ha lanzado nuevos ataques contra la Franja de Gaza ( y ha publicado sus artículos en el Foro Al-Quds del sábado 22 de noviembre de 2025 a las 3.50 horas (hora de Al-Quds del ejército de ocupación) y ha lanzado más ataques contra la Franja de Gaza. Fuentes locales han identificado con precisión el lugar de los ataques, señalando que en la zona circundante de la mezquita de Al-Balah, en la zona de Al-Balah, el ejército de ocupación israelí ha ampliado las operaciones militares contra la Franja de Gaza.  [Enlace: https://www.alquds.com/ar/posts/210808]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Canal 12: Alaa Al-Hadidi en Gaza, un alto funcionario del sistema de suministro de la rama militar de Hamas]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: La Autoridad de Radiodifusión de Israel: el ataque a Gaza se llevó a cabo en coordinación con el Centro de Coordinación Civil Militar de los Estados Unidos en Kiryat Gat]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Hebreo Life-Doron Kadush (Radio del Ejército): Al-Saudiya (que normalmente recibe filtraciones de la parte israelí) informa de un ataque en el barrio de Rimal de la ciudad de Gaza: un ataque directo contra un gran jefe del ala militar de Hamas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> - El objetivo del ataque aéreo israelí en la ciudad de Gaza era un comandante del ala militar de Hamas, según el canal de la Arabia Saudita. Según los medios de comunicación palestinos, al menos cuatro personas resultaron muertas en el ataque contra un vehículo en el oeste de la ciudad, fuera del control del ejército israelí.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Transitorio de Life-Roie Caïs (canal Kaan): en el oeste de Gaza, se informó del asesinato por aire de un comandante del ala militar de Hamas, Abu Abdullah Al-Hadididi y su hijo.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Transitorio Life-Doron Kadush (Radio del Ejército): fuente israelí: objetivo del asesinato en la ciudad de Gaza - Alaa Al-Hadididi, Jefe de la Sección de Suministros del cuartel general de producción del brazo militar.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: A través de la frontera de Life-Doron Kadush (Radio del Ejército): resulta que esta mañana los hombres armados dispararon contra una fuerza del ejército israelí en Gaza, lo que constituye una violación del acuerdo de cesación del fuego. En respuesta, Israel liquidó desde el aire a un destacado comandante del ala militar de Hamas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Transitorio Life - Organismo de Radiodifusión: asesinato en Gaza en respuesta a un tiroteo perpetrado esta mañana por el ejército en el sector]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Transitorio de Life, corresponsal militar, Dorun Kadush: el ejército israelí se está preparando para atacar objetivos adicionales en toda la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> En respuesta a las imágenes publicadas por el ejército israelí sobre la violación del acuerdo de cesación del fuego en Gaza , el analista militar Avi Ashkinazi - Maarif: ¿Qué es este nivel de confusión e incapacidad para fabricar una novela convincente? Las imágenes publicadas por el ejército no se corresponden con la realidad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Disparos de los mecanismos de ocupación al sudeste de la ciudad de Khanyonis, al sur de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:28</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: La Autoridad de Radiodifusión de Israel: asesinato en Gaza en respuesta a los disparos efectuados esta mañana por el ejército en el sector]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:30</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Dorun Kdosh (radio del ejército): Al-Saudí canal (que normalmente recibe filtraciones de la parte israelí) informa de un ataque en el barrio de Rimal de la ciudad de Gaza: un ataque directo contra un gran jefe del ala militar de Hamas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:30</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Duron Kadush (radio del ejército): fuente israelí: objetivo del asesinato en la ciudad de Gaza - Alaa Hadidi, jefe de la sección de suministros del cuartel general de producción del brazo militar.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 16:51:31</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 16:51:31<br><b>Localización:</b> N/D<br><b>Descripción:</b> En respuesta a las imágenes publicadas por el ejército israelí sobre la violación del acuerdo de cesación del fuego en Gaza por el analista militar Avi Ashkinazi-Maarif: ¿Qué es este nivel de confusión e imperfección en la industria de una novela convincente? Las imágenes publicadas por el ejército no se corresponden con la realidad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:20:11</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:20:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Página Hebrea de Sabir Lipkin: el asesinato del comandante del ala militar de Hamas Ala Al-Hiddi, responsable del sistema de suministro y armamento del &quot;ala militar&quot; en el ataque aéreo israelí contra un vehículo al oeste de la ciudad de Gaza;]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:20:11</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:20:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Hebreo Life - Canal 12 Hebreo: los Estados Unidos pasaron cartas a Israel para poner fin a la escalada en Gaza a cambio de &quot;disparos&quot; en el Líbano]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:20:13</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:20:13<br><b>Localización:</b> N/D<br><b>Descripción:</b> El portavoz del ejército israelí: En menos de tres horas: en la zona subterránea de la infraestructura, al este de Rafah, se liquidaron otros dos elementos de la tripulación de combate de la brigada “Nahales”, que opera al este de Rafah, que realizaron operaciones de barrido en la zona, durante las cuales se observó a otros dos elementos de la resistencia.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:20:13</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:20:13<br><b>Localización:</b> N/D<br><b>Descripción:</b> El comandante que fue eliminado en el oeste de Gaza, responsable del sistema de suministro de armas, Alad Al-Hiddi fue eliminado esta tarde y era un alto funcionario del ala militar de Hamas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:20:14</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> El comandante que fue eliminado en el oeste de Gaza, responsable del sistema de suministro de armas, Alad Al-Hiddi fue eliminado esta tarde y era un alto funcionario del ala militar de Hamas.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:20:14</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Vuelos intensivos de aviación militar al sur del sector, con incursiones violentas en Rafah y el este de Khanyonis]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:48:55</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:48:55<br><b>Localización:</b> N/D<br><b>Descripción:</b> • La Autoridad de Radiodifusión Israelí de Fuentes: si Hamas continúa fortaleciendo su fuerza, es inevitable una nueva operación militar en Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-22 20:53:55</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-22 20:53:55<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Urgentemente, la Autoridad de Radiodifusión Israelí de Fuentes: si Hamas continúa fortaleciendo su fuerza, es inevitable una nueva operación militar en Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-22 08:29:49</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-22 08:29:49<br><b>Localización:</b> N/D<br><b>Descripción:</b> Director General de la Organización Mundial de la Salud, Tedros Adhanom Gebresus: La recuperación de los niños de la Franja de Gaza de los traumas llevará mucho tiempo.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-22 15:34:23</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-22 15:34:23<br><b>Localización:</b> N/D<br><b>Descripción:</b> &quot;La salud de Gaza&quot;: 7 mártires y 30 heridos en las últimas 48 horas. El sábado, el Ministerio de Salud de Palestina en la Franja de Gaza anunció y publicó sus artículos en el Foro Al-Quds del sábado 22 de noviembre de 2025 a las 3.08 horas, hora de Al-Quds &quot;La salud de Gaza&quot;: 7 mártires y 30 heridos en la zona de Al-Fatah en la zona de Al-Fatah.  [Enlace: https://www.alquds.com/ar/posts/210796]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-22 15:50:46</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-22 15:50:46<br><b>Localización:</b> N/D<br><b>Descripción:</b> El número de muertos y heridos entre los palestinos en Gaza fue elevado a 69,000 y 733 en la Franja de Gaza, el sábado, el Ministerio de Salud declaró que el número de víctimas del genocidio iniciado por Israel el 8 de octubre de 2023 había aumentado a 69, 733 palestinos muertos, 170, 863 heridos. En el informe estadístico diario sobre el número de muertos y heridos entre los palestinos en Gaza como consecuencia del genocidio israelí, el número de muertos y heridos en la Franja de Gaza fue mayor.  [Enlace: https://www.alquds.com/ar/posts/210807]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-22 20:20:13</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-22 20:20:13<br><b>Localización:</b> N/D<br><b>Descripción:</b> Salud en Gaza: resultados preliminares de 20 mártires y más de 83 heridos, incluidos casos graves, que llegaron a hospitales de la Franja de Gaza durante la ola de escalada de esta tarde]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-22 20:20:14</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-22 20:20:14<br><b>Localización:</b> N/D<br><b>Descripción:</b> Ministerio de Salud de Gaza: 20 mártires y más de 83 heridos, algunos de ellos en estado crítico, como consecuencia de la ola de agresión israelí en la Franja de Gaza, esta tarde.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 15:43:10</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 15:43:10<br><b>Localización:</b> N/D<br><b>Descripción:</b> Según la fuente, el asesinato se produjo en Gaza como respuesta directa a lo que se describió como &quot;una violación del acuerdo de cesación del fuego&quot; por Hamas en la mañana del sábado. Una fuente de seguridad afirmó que el ataque aéreo contra Gaza había dado lugar al asesinato del comandante de las Brigadas de Al-Qassam Al-Hiddi después de la coordinación previa con el Centro de Coordinación Civil de los Estados Unidos con base en el asentamiento de Kiryat Gat.  [Enlace: https://www.alquds.com/ar/posts/210802]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:04:27</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:04:27<br><b>Localización:</b> N/D<br><b>Descripción:</b> Hamás: La expansión de las zonas bajo control israelí en Gaza es una &quot;violación flagrante&quot; del acuerdo de cesación del fuego. Los artículos publicados en el Foro Al-Quds del sábado 22 de noviembre de 2025 a las 3:58 p.m.  [Enlace: https://www.alquds.com/ar/posts/210811]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Hour Hamás: La continuación de la ocupación mediante la eliminación de la línea amarilla, el avance hacia el oeste y el desplazamiento y las incursiones al este de Gaza constituyen una violación flagrante del Acuerdo]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: Radio del ejército israelí sobre una fuente de seguridad: el asesinato de Gaza se produjo en respuesta a la violación del acuerdo de cesación del fuego por Hamas esta mañana]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> *La velocidad del Canal 12 Hebreo: asesinato en el barrio de arena de Gaza,  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> Hasta el momento, cuatro mártires y varios heridos al oeste de Gaza, asesinato en  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> *Acelerando un nuevo asesinato en Deir al-Balah, en el centro de la Faja de Gaza, atacando una casa en  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> 4 mártires y varios heridos en el asesinato en Deir al-Balah (Gaza)  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> • Hebreo Life-Doron Kadush (Radio del Ejército): oficial de seguridad: asesinato en Gaza; respuesta a la violación de la cesación del fuego por Hamas esta mañana.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> - El ejército israelí se prepara para atacar objetivos adicionales en toda la Franja de Gaza en respuesta a la violación de la cesación del fuego.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:28</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:28<br><b>Localización:</b> N/D<br><b>Descripción:</b> El ejército se está preparando para atacar objetivos adicionales en la Franja de Gaza en respuesta a la violación de la cesación del fuego.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:30</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> Otra violación flagrante del acuerdo de cesación del fuego en la Franja de Gaza: un hombre armado cruzó la línea amarilla en una carretera con fines humanitarios y disparó contra el ejército para que fuera eliminado en cuestión de segundos. En respuesta a esa violación, un ejército atacó objetivos de Hamas en la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:30</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> El ejército israelí está logrando los asesinatos en Gaza y el Líbano debido a la superioridad de los servicios de inteligencia y técnicos (vigilancia avanzada y análisis de datos) y a posibles incursiones o fugas humanas, así como a posibles deficiencias en materia de seguridad causadas por la presión de la guerra y la escasez de recursos. También cuenta con una capacidad de ejecución precisa y rápida, apoyada por una cobertura política internacional relativa que le permita actuar con mayor flexibilidad.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 16:51:30</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 16:51:30<br><b>Localización:</b> N/D<br><b>Descripción:</b> El ejército se está preparando para atacar objetivos adicionales en la Franja de Gaza en respuesta a la violación de la cesación del fuego.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 20:10:03</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 20:10:03<br><b>Localización:</b> N/D<br><b>Descripción:</b> El ejército de ocupación ha publicado sus artículos en el Foro Al-Quds, 22 de noviembre de 2025, 8 de las 8 de la tarde, hora del ejército de ocupación: el asesinato de 11 elementos de la resistencia palestina en Rafah y la detención de otros seis individuos que el ejército de ocupación declaró que habían concluido la persecución de “un edificio subterráneo” en la zona de Rafah al este de la Franja de Gaza. El ejército de ocupación declaró que sus fuerzas que operaban en la parte oriental de Rafah habían identificado y detenido a otro pistolero más.  [Enlace: https://www.alquds.com/ar/posts/210859]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 20:20:11</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 20:20:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> En respuesta al asesinato y la detención de 17 elementos de Hamas que habían salido de los túneles de Rafah, la administración de Trump había impedido anteriormente que Israel los matara o los arrestara, parece que la posición de los Estados Unidos ha cambiado recientemente.]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 20:20:13</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 20:20:13<br><b>Localización:</b> N/D<br><b>Descripción:</b> Los ataques del ejército israelí en la Franja de Gaza en respuesta a la violación de la cesación del fuego han terminado, según las estimaciones, con 15 muertos como consecuencia de los ataques aéreos.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-22 20:20:13</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-22 20:20:13<br><b>Localización:</b> N/D<br><b>Descripción:</b> En el nombre de Dios Misericordioso, el Santo Padre de los Santos y el Gran Dios de los Cazadores de la Franja de Gaza nos sorprendió que un grupo de peregrinos hubieran llevado un coche Scuda de color blanco en la noche del martes 11 de noviembre con el secuestro del hijo de Al-Hadji Adel Yahya por los justicieros, confirmando que, desde el primer momento, los asaltantes de los Derechos Humanos le habían robado el dinero que tenían, y que, en el caso de la familia de los qisas, no se les había dado información sobre el incidente, ni se les había dado información sobre el crimen organizado...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,6 @@
+{
+    "rutas": [
+        "src/locales/es.json",
+        "src/locales/en.json"
+    ]
+}

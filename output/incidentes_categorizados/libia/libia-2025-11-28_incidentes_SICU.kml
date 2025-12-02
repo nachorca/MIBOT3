@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-28_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 07:08:05</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 07:08:05<br><b>Localización:</b> Tripoli International Airport<br><b>Descripción:</b> Inicio X Autoridades suizas Congelan Visas Diplomáticas Libianas Las Fuerzas Armadas Libianas inician 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia y HCS Finaliza el Trato para Nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a Al-Kufra EgyptAir Expande la Red con Nueva Ruta Conectando Alejandría y Libia Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejercer la máxima precaución 550 estudiantes libios a unirse a la Academia Nacional de P...]]></description>
+      <Point>
+        <coordinates>13.157000,32.676000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 09:15:01</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 09:15:01<br><b>Localización:</b> Tripoli International Airport<br><b>Descripción:</b> Inicio X Autoridades suizas Congelan Visas Diplomáticas Libianas Las Fuerzas Armadas Libianas inician 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia y HCS Finaliza el Trato para Nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a Al-Kufra EgyptAir Expande la Red con Nueva Ruta Conectando Alejandría y Libia Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejercer la máxima precaución 550 estudiantes libios a unirse a la Academia Nacional de P...]]></description>
+      <Point>
+        <coordinates>13.157000,32.676000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 11:39:29</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 11:39:29<br><b>Localización:</b> Tripoli International Airport<br><b>Descripción:</b> Inicio X Autoridades suizas Congelan Visas Diplomáticas Libianas Las Fuerzas Armadas Libianas inician 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia y HCS Finaliza el Trato para Nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a Al-Kufra EgyptAir Expande la Red con Nueva Ruta Conectando Alejandría y Libia Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejercer la máxima precaución 550 estudiantes libios a unirse a la Academia Nacional de P...]]></description>
+      <Point>
+        <coordinates>13.157000,32.676000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:28:44</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:28:44<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Inicio X El GNU de Libia se enfrenta a presiones después de acusaciones contra el Ministro del Interior interino Autoridades suizas Congelan Visas Diplomáticas Libian Military Comienza 79o Curso de Paracaidismo para mejorar las Fuerzas de Elite La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento de Libia &amp; HCS Finaliza Acuerdo para Nombrar Comisiones Electorales Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a la red de Al-Kufra EgyptAir de Libia con una nueva ruta que conecta Alejandría y Libia Libia Libia urge a los ciudadanos de Guinea-Bissau a ejer...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:49:24</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:49:24<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> En la reunión de expertos en tecnología de la información y la comunicación, el presidente del Gobierno de Unidad Nacional, Abdul Hamid Dbeibah, el ministro del Interior interino, Emad Al-Trabelsi y el viceministro de Defensa, Abdulsalam Al-Zubi, para discutir la situación de los refugiados sudaneses, Ibrahim Ahmed, para evaluar el nivel de preparación de las agencias militares y de seguridad, y en los mecanismos de coordinación entre los ministerios de Interior y Defensa para mejorar las operaciones de campo y garantizar la rápida respuesta a las amenazas o infracciones de la compañía de t...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 13:55:01</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 13:55:01<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Libia, periódico de las 24 horas “Al-Aradi”: Los asesinatos como consecuencia natural de la interrupción de la función de la mezquita, la escuela, los medios de comunicación y la familia fueron recibidos por Adal Razaq Al-Aradi, miembro del Foro para el Diálogo Político en Ginebra, y por la violencia callejera y los asesinatos; por la interrupción de la función de la mezquita y la escuela... la Embajadora del exilio de México, la Embajadora del Pueblo de México, que investigaba con el parlamentario Jorge, las cuestiones de interés común, recibió a la ex mujer de Mansuri de Libia, la Embajad...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 16:09:56</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 16:09:56<br><b>Localización:</b> Misrata<br><b>Descripción:</b> □ Una nueva filtración dentro de los grupos de Watsab, calculados por los partidarios del gobierno de Dabba en Misrata , parece que algunos grupos cerrados no tienen secretos, y las cartas que llegan a ellos ilustran la magnitud de los disturbios en las filas de los partidarios de Dabba. @libyabriaking]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 17:31:01</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 17:31:01<br><b>Localización:</b> Tobruk<br><b>Descripción:</b> □ Una protesta en &quot;Tibbuc&quot; para pedir elecciones generales en &quot;Libia TV &quot; : horizontal HD: H11373]]></description>
+      <Point>
+        <coordinates>23.976000,32.083000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 17:31:01</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 17:31:01<br><b>Localización:</b> Tobruk<br><b>Descripción:</b> Declaración de protesta popular en la ciudad de Tabaq para las elecciones en Libia.]]></description>
+      <Point>
+        <coordinates>23.976000,32.083000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 17:52:59</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 17:52:59<br><b>Localización:</b> Derna<br><b>Descripción:</b> Una manifestación frente a la mezquita del Sahara en la ciudad de Drina, pidiendo la celebración de elecciones simultáneas de televisión por la ruta de la frecuencia:]]></description>
+      <Point>
+        <coordinates>22.639000,32.764000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 17:56:29</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 17:56:29<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Inicio X Autoridades de Bengasi Aseguran Plazas Públicas Antes de Protestas Washington reafirma su compromiso de liderar Libia Esfuerzo de Paz La Autoridad de Auditoría Libia presenta 2024 Informe al Parlamento Libia &amp; HCS Finaliza acuerdo para nombrar a la Comisión Electoral Liderazgo El ACNUR apoya a más de 6.200 familias sudanesas que llegan a la aerolínea nacional de Libia Al-Kufra Egipto, EgyptAir, ha anunciado el lanzamiento de una nueva ruta de vuelo directa y regular que une Alejandría con Bengasi... Los comités responsables de las posiciones soberanas en el Parlamento libio y el Al...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-28 17:59:00</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-28 17:59:00<br><b>Localización:</b> Tobruk<br><b>Descripción:</b> • En una declaración formulada durante la protesta, el Presidente de la Asamblea Municipal, Sr. Boualba, pidió a la comunidad internacional que respetara la voluntad de los libios y sus legítimas exigencias de celebrar elecciones presidenciales y parlamentarias.]]></description>
+      <Point>
+        <coordinates>23.976000,32.083000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

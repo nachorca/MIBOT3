@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mali-2025-11-30_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 18:30:02</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 18:30:02<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia mediante una acción de grupo de usuarios en el stream musical Materias Primeras materias: la lango ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista: la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los la Incendio mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residencial El relato en vídeo de la persecución de los terroristas del 13-No novi...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 18:33:34</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 18:33:34<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Materias primeras materias primas: la lama ostra quiere volver a flotar Arthur Schoonderwoerd, pianista : la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios • El relato en vídeo de la persecución de los terroristas desde el 13 hasta noviembre hasta el 13 hasta el 31 de noviembre hasta el 31 de diciembre en Saint Denis más ochenta años después...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 19:32:51</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 19:32:51<br><b>Localización:</b> San<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista : la música y la música de Europa corren el riesgo de perder la diversidad y la riqueza de sus directorios • El relato en vídeo de la persecución de los terroristas del 13 de noviembre hasta el día de la matanza de los terroristas del 13 de noviembre hasta el día de San Denis ¡¿Es ridículo?]]></description>
+      <Point>
+        <coordinates>-4.900000,13.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 20:28:33</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 20:28:33<br><b>Localización:</b> Bla<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la lango ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista: La música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios de los terroristas desde el 13 de noviembre hasta el día de noviembre hasta el día de la matanza en Saint-Denis L.]]></description>
+      <Point>
+        <coordinates>-5.733000,12.967000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 20:52:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 20:52:36<br><b>Localización:</b> San<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias primeras materias primas: la lango ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista : la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas de los días 13 y noviembre hasta el día de la noche en San Denis ¿Cómo se han instalado los contenidos odiosos en los podcastos más escuchados de Francia L-Ucras Ucr...]]></description>
+      <Point>
+        <coordinates>-4.900000,13.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-30 20:58:33</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-30 20:58:33<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista : la música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los la Incendio mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residencial El relato en vídeo de la persecución de los terroristas del 13-No noviemb...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-30 18:39:42</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-30 18:39:42<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia mediante una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la lactos quiere recuperarse Arthur Schchoonderwoerd, pianista: la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios la Incendio mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residencial Más años después del juicio de Nuremberg, cómo las imágenes han revolu la justi...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

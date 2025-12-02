@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-11-23_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 07:02:10</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 07:02:10<br><b>Localización:</b> N/D<br><b>Descripción:</b> * Al-Ala &#x27; ah, bombardeo de artillería contra zonas al este del campamento de Al-Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 07:14:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 07:14:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> La artillería de ocupación renueva el bombardeo al este del campamento de Bureij, en el centro del sector.]]></description>
+      <Point>
+        <coordinates>34.403000,31.440000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 10:07:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 10:07:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> La artillería de ocupación ha vuelto a bombardear la ciudad de Beit Lahiya, al norte de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 10:08:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 10:08:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> Reportero de  Las fuerzas de ocupación israelíes están llevando a cabo una operación de bombardeo al noreste de la ciudad de Rafah]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 10:17:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 10:17:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> En las últimas 24 horas hemos recibido a cinco mártires, entre ellos dos niños y una mujer, así como 38 heridos, entre ellos 14 niños y 7 mujeres, como consecuencia del bombardeo de viviendas civiles por Israel en los campamentos del centro de la Franja de Gaza, en clara violación de la cesación del fuego]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 12:54:34</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 12:54:34<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Las fuerzas de ocupación han seguido bombardeando los edificios de la Línea Amarilla en Gaza un día después de haber muerto y herido a docenas de personas en una nueva violación del acuerdo de cesación del fuego en el sector. Un corresponsal informó de que las fuerzas de ocupación habían bombardeado la zona nororiental de la ciudad de Rafah, y que el ejército de ocupación también había bombardeado la zona oriental de Gaza dentro de la Línea Amarillo.  [Enlace: https://www.alquds.com/ar/posts/211070]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:09</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:09<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Las marchas de ocupación arrojan bombas y disparan contra el sudeste del campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:10</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:10<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Una parte de la despedida de dos mártires en el hospital de los mártires de Al-Aqsa fue bombardeada por Israel contra la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> *Aceleró las marchas de ocupación lanzando bombas y disparando hacia el sudeste del campamento de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército de ocupación israelí está llevando a cabo una operación de bombardeo al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:12</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La artillería de ocupación bombardea el sur de Muwasi, en Rafah, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-23 17:27:12</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Urgentemente, las marchas de ocupación lanzan bombas y disparan contra el sudeste del campamento de Bureij, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 07:56:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 07:56:12<br><b>Localización:</b> N/D<br><b>Descripción:</b> Corresponsal de radio del ejército de ocupación: Meses después de la guerra, una fuerza del ejército entró en un túnel en la zona central de la Franja de Gaza y descubrió que los servicios militares y de inteligencia de Hamas habían reunido información exacta durante años sobre los tanques Merkava 4 y otros casos y archivos, y habían llegado a información muy delicada sobre la que se había planeado la operación del 7 de octubre.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 08:11:11</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 08:11:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> El corresponsal de la radio del ejército de ocupación revela lo siguiente: - Sobre la base de la información de inteligencia de Hamas acerca de los tanques Merkava, el aparato militar con una “fuerza de tanques” de la élite entrenó en dirigir y operar los tanques Merkava 4 - Hamas logró desactivar, controlar y transportar tanques en la “envoltura de Gaza”. - Los elementos de Hamas lograron desactivar y hacer inutilizables los tanques en la portada de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 09:21:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 09:21:34<br><b>Localización:</b> N/D<br><b>Descripción:</b> Aarónot dice de fuentes militares: Washington puede llevar semanas o meses decidir crear una fuerza internacional en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 09:52:36</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 09:52:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> :: La radio del ejército israelí, a través de Hamás, ha seguido a unos 100.000 soldados a través de las redes de comunicación y ha construido modelos de simulación de posiciones militares en la portada de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 10:40:37</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 10:40:37<br><b>Localización:</b> N/D<br><b>Descripción:</b> Fuentes hebreas: Un padre que había visitado a su hija en la base militar de ocupación en la frontera de Gaza fue atropellado cuando descubrió que &quot;nada había cambiado&quot; cuando irrumpió en la base y fotografió &quot;no hay guardias, no hay nada&quot;.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 11:15:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 11:15:12<br><b>Localización:</b> N/D<br><b>Descripción:</b> Dos Estados árabes indicaron que el ejército de ocupación estaba presentando informes y cursos a oficiales extranjeros en el centro de los Estados Unidos en relación con los detalles militares de los batallones de Qassam, su estructura militar y la red de túneles. El periódico reveló que, a diferencia de informes anteriores, se sabía que la fuerza multinacional se encontraba en la etapa de despliegue, y que la formación de varios Estados, en particular el islamista, estaba de acuerdo en que se desplegaran soldados en la portada de Gaza, como se había dicho anteriormente, y que el ejército d...  [Enlace: https://www.alquds.com/ar/posts/211042]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 11:34:36</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 11:34:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> * Seguimiento de los intensos disparos efectuados por los mecanismos de ocupación al noreste del campamento de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 11:34:37</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 11:34:37<br><b>Localización:</b> N/D<br><b>Descripción:</b> Disparos intensivos de los mecanismos de ocupación al noreste del campamento de Bureij, en el centro de la Franja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 14:05:23</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 14:05:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Según la abogada de la organización, Ahmad Adel Hirish, de la ciudad de Betunya, detenido desde el 31 de agosto de 2025, sufre graves dolores de estómago, presuntamente causados por la agresión de la Liga de los Estados Árabes, pero la manifestación de Hamas en la Franja de Gaza indica que la manifestación de los palestinos en la Franja de Gaza es una manifestación de la formación de los palestinos en la Franja de Gaza. La manifestación de la abogada de los prisioneros de guerra de la prisión militar israelí de &#x27;Aofar&#x27; al oeste de Ramallah se vio sometida a condiciones de detención duras y...  [Enlace: https://www.alquds.com/ar/posts/211082]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:09</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:09<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Hebreo Life Canal 12 Hebreo: el Jefe de Estado Mayor decidió destituir al oficial de inteligencia de la División de Gaza, Teniente Coronel A, del servicio militar, a la luz de las investigaciones sobre el fracaso del 7 de octubre]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:09</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:09<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Más de un mes después del acuerdo de cesación del fuego, que parece haber puesto fin a la guerra en la Faja de Gaza, la situación regional de Israel es similar a la de la oficina de la computadora en la que se dejaron abiertas todas las señales de tabulación. A pesar del acuerdo que el presidente estadounidense Donald Trump impuso a Israel y Hamas, y de los logros militares evidentes en otros frentes, no se ha cerrado nada y, con los logros militares, no se ha traducido en acuerdos políticos vinculantes después de la cantidad de armas histéricas lanzadas por Israel, pero la mayoría de sus p...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:10</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:10<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Muertos en un bombardeo desde una lancha militar israelí en la costa del mar de Rafah, al sur de la Franja de Gaza @Warlife3]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:11</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un niño muerto y heridos en un bombardeo desde una lancha militar israelí en la costa del mar de Rafah, al sur de la Faja de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La organización utilizó cuentas falsas de “avatar” e introdujo “usuarios ocultos” en grupos militares de Watset para seguir a los soldados desde los días de reclutamiento hasta las misiones de mando. - Mediante millones de publicaciones, fotografías y vídeos, muchos de ellos de bases, Hamas produjo una imagen diaria de los servicios de inteligencia sobre el despliegue de las tropas, las posiciones de las unidades sensibles y los cambios en la rutina militar.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 17:27:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Rafah<br><b>Descripción:</b> Un niño muerto y heridos en un bombardeo de una lancha militar israelí en la costa del mar de Rafah]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:29:32</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:29:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El 7 de octubre, el General de División Yarun Finkleman, que dimitió de su cargo pero siguió prestando servicio en el ejército israelí principalmente mediante la realización de investigaciones a los habitantes de las zonas circundantes, pondrá fin a su servicio militar, y el 7 de octubre, el Teniente Coronel A, que se trasladó a otro puesto de inteligencia militar, será expulsado del servicio de reserva del cuartel general de la brigada de Gaza, que ha sido separado del ejército israelí.  [Enlace: https://t.me/Almustashaar]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:42:56</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:42:56<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Radio del ejército israelí: el Jefe de Estado Mayor, Ial Zamir, decide destituir al General de División de Inteligencia Militar, Teniente General de Brigada Aharon Haleva, ex Jefe de Inteligencia Operacional, Aidid Bassyuk, ex Comandante del Mando Sur, General de Brigada Yarun Finkelman, ex Comandante de la Unidad 8200, ex Comandante de Brigada de la División de Gaza, General de Brigada Avi Rosenfeld, ex Jefe de Estado Mayor del Mando Sur, Coronel Ariel Labowski, y al Comandante de la Brigada Norte de la División de Gaza, Coronel Haim Cohen, por su fracaso en los acontecimientos del 7 de...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 19:44:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 19:44:58<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El director de la oficina de Al-Jazeera en Palestina, Walid Al-Omri, dijo esta tarde que la información que circulaba indicaba que Israel tenía una clara cobertura estadounidense para seguir intensificando sus operaciones militares en el Líbano, a cambio de una reducción de las tensiones en la Franja de Gaza, y afirmó que la organización de seguridad israelí no esperaba una respuesta sustancial de Hizbollah al asesinato de un destacado dirigente en la zona meridional del Líbano.  [Enlace: https://www.alquds.com/ar/posts/211175]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-23 22:20:31</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-23 22:20:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El periódico hebreo &quot;Diakot Ahronut&quot;, el domingo, dijo que en Tel Aviv estaba preparado para lo que describió como “guerras renovadas” en la Franja de Gaza, el Líbano y el Irán, señalando que “Israel no está seguro de que los Estados Unidos entiendan esa disposición”. El periódico dijo: “En vista de la cesación del fuego con Hamas en la Franja de Gaza y el Líbano y el Partido de Dios en el Líbano, los soldados de Israel siguen manteniendo un alto el fuego en el Líbano, pero en la práctica se han producido grandes ataques en ambos lados, incluido el asesinato de un alto mando militar de Hama...  [Enlace: https://www.alquds.com/ar/posts/211196]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 08:06:12</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 08:06:12<br><b>Localización:</b> N/D<br><b>Descripción:</b> Protestas masivas en Berlín, apoyo a Gaza y Palestina y condena los crímenes de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 10:02:37</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 10:02:37<br><b>Localización:</b> N/D<br><b>Descripción:</b> Relaciones Exteriores del Irán: los Estados occidentales que exportan armas a la entidad sionista son responsables de la continuación de sus crímenes en Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 11:04:36</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 11:04:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> Protestas constantes en París, en apoyo de Gaza y Palestina y condenando los crímenes de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 11:30:37</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 11:30:37<br><b>Localización:</b> N/D<br><b>Descripción:</b> Protestas constantes en París, en apoyo de Gaza y Palestina y condenando los crímenes de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 11:50:36</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 11:50:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> El ejército israelí nos atacó ayer en toda la Franja de Gaza en respuesta a una violación del acuerdo]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 13:46:20</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 13:46:20<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Ministerio de Salud de la Franja de Gaza anunció y publicó sus artículos en el Foro Al-Quds, domingo 23 de noviembre de 2025 a las 19.44 horas, hora de Al-Quds, &quot;La salud de Gaza&quot;, en el que se anunciaba un aumento de los resultados de los mártires como consecuencia de la violación del acuerdo de cesación del fuego. El Ministerio de Salud de la Franja de Gaza anunció la última agresión israelí contra la Franja de Gaza en las últimas 24 horas, señalando que 23 mártires habían llegado a hospitales de la Franja, con 21 nuevos mártires, junto con dos mártires que habían sido rescatados bajo...  [Enlace: https://www.alquds.com/ar/posts/211077]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 15:09:19</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 15:09:19<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La fuente que prefirió no revelar su identidad dijo que el pistolero que figuraba en el vídeo de las fuerzas de ocupación, el sábado, había lanzado un arma de fuego en la ciudad de Deir el-Balah, en el centro de la Franja de Gaza, que trabajaba en la Franja de Gaza, y no tenía ninguna relación con ninguna facción palestina armada, y que estaba trabajando en la seguridad de los convoyes de ayuda.  [Enlace: https://www.alquds.com/ar/posts/211106]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:09</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:09<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • El sitio web del blog Abu Ali Al-Habiri, que disparó ayer contra una posición del ejército israelí en Kisufim (violación que dio lugar a incursiones del ejército israelí en la Franja de Gaza), es Khalil Ali Naji, de Deir el-Balah, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:12</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El bloguero hebreo Abu Ali: Fuentes procedentes de Gaza que dispararon ayer contra una posición del ejército israelí en Kisufim (violación que provocó incursiones del ejército israelí en la Franja de Gaza) son Khalil Ali Naji, de Deir el-Balah, en el centro de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:12</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Protestas masivas en Berlín, apoyo a Gaza y Palestina y condena los crímenes de ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-23 17:27:12</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-23 17:27:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> - Condenamos enérgicamente la brutal agresión contra el barrio meridional, en flagrante violación de la soberanía libanesa, que forma parte de la guerra israelí abierta contra la nación. - El Gobierno de los Estados Unidos se hace cargo de la escalada de la agresión contra el Líbano y la Franja de Gaza, que le proporciona cobertura y apoyo para continuar su agresión.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-23 08:24:11</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-23 08:24:11<br><b>Localización:</b> N/D<br><b>Descripción:</b> Una mesa manchada de sangre de los niños de Gaza, una protesta con muñecas para funcionarios israelíes y estadounidenses, protestando por su complicidad en el genocidio y las violaciones en la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-23 09:31:37</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-23 09:31:37<br><b>Localización:</b> N/D<br><b>Descripción:</b> &quot;Contra el exterminio del pueblo palestino, cerramos todo&quot;... activistas que anuncian una huelga pública en Roma el 28 de noviembre en protesta por la financiación del gobierno y de la empresa de exterminio Leonardo en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-23 13:15:10</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-23 13:15:10<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El sábado, la policía británica detuvo al menos a 90 manifestantes en la plaza de Londres durante una protesta contra la prohibición por parte de las autoridades del grupo &quot;Palestina Acción&quot; en julio pasado. Activistas en la plaza Tavestock de Londres, protestando por el anuncio por parte de la junta palestina conocida por sus acciones contra las empresas comerciales de Israel, una organización proscrita.  [Enlace: https://www.alquds.com/ar/posts/211074]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-23 08:27:26</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 08:27:26<br><b>Localización:</b> N/D<br><b>Descripción:</b> El Coordinador de Emergencia de Médicos sin Fronteras, Franz Love: La cesación del fuego en Gaza es extremadamente frágil; el dolor no ha terminado y un gran número de palestinos han perdido la vida como consecuencia de las violaciones israelíes; la asistencia humanitaria no está llegando a su fin; no hay ninguna instalación de salud que funcione a plena capacidad en la Franja de Gaza; en caso de que no se produzca una mejora significativa, los habitantes de Gaza volverán a hacer frente a las duras condiciones de invierno**]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 11:42:36</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 11:42:36<br><b>Localización:</b> N/D<br><b>Descripción:</b> Después de su destrucción, la salud de Gaza, hemos podido reactivar muchas pruebas del laboratorio de salud pública.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 14:39:10</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 14:39:10<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El 11 de octubre de 2023, el Ministerio de Salud de Palestina declaró que el número de víctimas del genocidio israelí en la Franja de Gaza había aumentado a 69,76 mártires, 170 y 946 heridos. El genocidio de dos años de duración entre Hamas e Israel había terminado con la cesación del fuego, que entró en vigor el 10 de octubre de 2025.  [Enlace: https://www.alquds.com/ar/posts/211084]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 17:27:09</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 17:27:09<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Programa Mundial de Alimentos (PMA) confirma que el suministro de alimentos a Gaza ha venido llegando desde la cesación del fuego en octubre, pero no cubre las enormes necesidades humanitarias. Las lluvias torrenciales han causado daños y el desembarco de algunos alimentos almacenados en las familias, lo que dificulta aún más la seguridad alimentaria para el invierno.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-23 20:18:11</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-23 20:18:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Meteorología de Gaza lluviosa y tormentas eléctricas a medianoche.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

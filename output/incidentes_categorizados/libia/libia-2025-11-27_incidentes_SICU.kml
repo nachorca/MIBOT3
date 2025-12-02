@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-27_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-27 11:10:40</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-27 11:10:40<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El equipo de expertos de Libia El equipo de expertos de Libia El equipo nacional de fútbol de Palestina ha asegurado un lugar en la Copa Árabe 2025 en Qatar después de derrotar a Libia 4-3 en un tiroteo penal, después de un empate de 0-0 en el Consejo Presidencial regular Abdullah Al-Lafi se reunió el martes con Mohammed Takala, jefe del Consejo Superior de Estado, para discutir sobre política, economía y seguridad actuales, el Ministerio de Trabajo y Rehabilitación del Comité Asesor para Asuntos Laborales, ha revisado los esfuerzos en curso para regular el estado de los trabajadores nacion...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-27 11:10:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-27 11:10:52<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Consejo de Seguridad prorroga la orden de registro de buques frente a Libia, con la participación de Washington y capitales regionales. Diez Estados declaran apoyo a la hoja de ruta de las Naciones Unidas e invitan a nueve Estados del Consejo de Seguridad a que unifiquen a las instituciones militares y económicas que acogen con beneplácito la entrega inminente de “Khalid al-Hishri”, el Ministro de Comunicaciones, que examina la cuestión de los archivos de los servicios y la aceleración de los proyectos de desarrollo de Al-Nusra, con la participación de Rusia y China.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-27 14:59:56</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-27 14:59:56<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El observador de Libia El observador de Libia El equipo nacional de fútbol palestino ha asegurado un lugar en la Copa Árabe 2025 en Qatar después de derrotar a Libia 4-3 en un tiroteo penal, después de un empate de 0-0 en el Consejo Presidencial regular Abdullah Al-Lafi se reunió el martes con Mohammed Takala, jefe del Consejo Superior de Estado, para discutir los preparativos para las próximas elecciones municipales, económicos y de seguridad.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-27 15:00:17</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-27 15:00:17<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Consejo de Seguridad prorroga la orden de registro de buques frente a Libia, con la participación de Washington y capitales regionales. Diez Estados declaran apoyo a la hoja de ruta de las Naciones Unidas e invitan a nueve Estados del Consejo de Seguridad a que unifiquen a las instituciones militares y económicas que acogen con beneplácito la entrega inminente de “Khalid al-Hishri”, el Ministro de Comunicaciones, que examina la cuestión de los archivos de los servicios y la aceleración de los proyectos de desarrollo de Al-Nusra, con la participación de Rusia y China.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-27 11:13:48</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-27 11:13:48<br><b>Localización:</b> Tripoli International Airport<br><b>Descripción:</b> El Centro de Meteorología ha confirmado que en los próximos tres días, a partir del jueves 27 de noviembre de 2025, el país experimentará fluctuaciones meteorológicas especialmente marcadas en las regiones noroccidentales, en las que se prevé que se verán afectadas por una tormenta de vientos activos y una proliferación de nubes, con la posibilidad de que se produzcan lluvias eléctricas en algunas zonas costeras. En su boletín del jueves, el Centro indicó que el clima en las zonas de Ras Ajdar hasta Sirte, la llanura de Jaffra y la montaña de Nafusa se multiplicará gradualmente, con la posi...]]></description>
+      <Point>
+        <coordinates>13.157000,32.676000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

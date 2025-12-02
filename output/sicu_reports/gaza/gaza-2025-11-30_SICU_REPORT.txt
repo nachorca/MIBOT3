@@ -1,0 +1,470 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-30
+	•	Hora de edición: 2025-11-30 22:29:02
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-30 – total incidentes SICU: 68)
+
+• Terrorismo: 18 incidente(s) registrado(s).
+• Conflicto Armado: 33 incidente(s) registrado(s).
+• Criminalidad: 2 incidente(s) registrado(s).
+• Disturbios Civiles: 14 incidente(s) registrado(s).
+• Hazards: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 18
+	• Principales áreas afectadas: Localización no especificada (8), Gaza City (7), Khan Younis (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación lanza bombas de gas durante la invasión de la Ciudad Vieja de Naplusa.
+		Fecha/Hora: 2025-11-30 16:47:55
+		Fuente: @gazaalanar | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Fotografías de las fuerzas especiales de ocupación que lanzan bombas de humo cuando se retiran de la Ciudad Vieja, en el centro de Naplusa.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Las fuerzas de ocupación están llevando a cabo una operación de bombardeo que coincide con un bombardeo de artillería dentro de la línea amarilla al este de Khan Yunis, al sur de la Faja de Gaza.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Al-Aqlaq, bombardeo de artillería israelí contra la zona de Bani Suhila, al este de la ciudad de Khanyonis, al sur de la Faja de Gaza.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Jerusalem Post: más de 100 abogados envían una carta en apoyo de una petición oficial de que se suprima la calificación de Hamas como organización “terrorista” en el Reino Unido
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @EabriLive | @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: • Un oficial de seguridad israelí confirmó el asesinato del oficial del batallón oriental en Rafah y su adjunto y de dos cuadros de Qassam por bombardeo contra un grupo de combatientes que se encontraban atrapados en Rafah al amanecer de hoy.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Las autoridades ucranianas de Khirson: dos muertos y heridos en un gran bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes del ejército sudanés de la isla: bombardeamos las concentraciones de tropas del Movimiento Popular al oeste de la ciudad de Abbasiya, en Kordofán del Sur
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes del ejército sudanés de la isla: apoyo rápido con artillería pesada bombardeando posiciones en la ciudad de Babanosa, en Kordofán Occidental
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Khan Younis
+		Breve descripción analítica: } Corresponsal de  las fuerzas de ocupación están llevando a cabo una explosión simultánea con un bombardeo de artillería dentro de la línea amarilla al este de Jan Yunis
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Khan Younis
+		Breve descripción analítica: } Corresponsal # Al-Jazeera: bombardeo israelí de la ciudad de Beni Suhila, dentro de la línea amarilla al este de Khan Yunis
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: La ocupación bombardea una excavadora en el barrio de Wastani, en la ciudad de Shabaa, en el Líbano meridional.
+		Fecha/Hora: 2025-11-30 16:51:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Corresponsal de la red de Jerusalén: las fuerzas de ocupación lanzan bombas de humo para asegurar la retirada de sus fuerzas especiales tras la detención de un joven palestino en la ciudad antigua de Naplusa
+		Fecha/Hora: 2025-11-30 16:51:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Una cesación del fuego en el papel... los soldados de ocupación explotan las calles de Gaza, transforman la destrucción en espectáculos, los atacan para matarlos, y se agitan después de la explosión, mientras que las imágenes se promueven con orgullo en sus canales.
+		Fecha/Hora: 2025-11-30 16:58:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Después de dos años de interrupción debido a la guerra, la Universidad Islámica de la ciudad de Gaza abre sus puertas para el regreso de cientos de estudiantes y vuelve a enseñar en vivo en edificios bombardeados, algunos de los cuales han sido parcialmente destruidos.
+		Fecha/Hora: 2025-11-30 18:35:52
+		Fuente: @yaseenpress2004 | @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación de la zona de Shufa, en el barrio de Tuffah, al este de la ciudad de Gaza, está llevando a cabo una gran explosión.
+		Fecha/Hora: 2025-11-30 19:04:52
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: El incendio de una casa en la calle Nakhil, al este del barrio de Taffah en Gaza, se produjo como consecuencia de la ocupación de bombas incendiarias.
+		Fecha/Hora: 2025-11-30 19:09:52
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación está bombardeando edificios al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-30 19:11:52
+		Fuente: @yaseenpress2004
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 33
+	• Principales áreas afectadas: Localización no especificada (22), Gaza City (7), Khan Younis (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Khan Younis
+		Breve descripción analítica: Disparos de helicópteros israelíes al noreste de Jan Yunis
+		Fecha/Hora: 2025-11-30 16:47:54
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En vista de los acontecimientos en el Líbano y de la presión de Israel y los Estados Unidos sobre el Gobierno libanés para desarmar a Hizbollah, el ejército israelí expresa su preocupación por el hecho de que se pueda filtrar información militar delicada e inteligencia valiosa a través de la FPNUL. Los soldados de la FPNUL tienen autoridad y autoridad para acceder a las zonas fronterizas de actividad del ejército israelí, fotografiar y documentar la zona.
+		Fecha/Hora: 2025-11-30 16:47:54
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El corresponsal de Radio Militar describe la solicitud de indulto de Netanyahu en un terremoto: Netanyahu escribió en su solicitud a Hertsog: "El proceso judicial en curso en mi contra se ha convertido en el centro de un enfrentamiento intenso, y a pesar de mi interés personal en la gestión del juicio y la prueba de mi inocencia hasta la absolución total, creo que el interés público requiere lo contrario".
+		Fecha/Hora: 2025-11-30 16:47:54
+		Fuente: @muthanapress84 | @GazaNewsNow | @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Oficina de Información Pública de Gaza: - En el plazo de 50 días desde la entrada en vigor de la cesación del fuego, la ocupación israelí cometió 591 violaciones, que dieron lugar a 357 mártires, 903 heridos y 38 detenciones arbitrarias. - Los ataques incluyeron 164 disparos directos, 25 incursiones, 280 bombardeos y 118 explosiones de viviendas e instalaciones civiles, en grave violación del derecho internacional.
+		Fecha/Hora: 2025-11-30 16:47:54
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Información israelí: milagro en Siria: una bala alcanzó el casco de un soldado de reserva herido en los enfrentamientos con Beit Jin, no penetró en el escudo, el casco absorbió la bala de precisión en la cabeza y el soldado sufrió heridas moderadas con dos balas adicionales en la pierna.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Subsecretario Parlamentario para Asuntos de Veteranos, Al Karnes, dijo que "menos de cinco miembros de las fuerzas armadas británicas han estudiado en Israel desde octubre de 2023". Esta declaración es el primer reconocimiento oficial de la cooperación militar directa y la presencia británica en las academias militares israelíes desde el comienzo de la guerra contra Gaza.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: En el plazo de 50 días a partir de la entrada en vigor de la cesación del fuego, la ocupación israelí ha cometido 591 violaciones, que han causado 357 mártires, 903 heridos y 38 detenciones arbitrarias. - Entre los ataques figuran 164 disparos directos, 25 incursiones, 280 bombardeos y 118 explosiones de viviendas e instalaciones civiles, en grave violación del derecho internacional.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Rafah
+		Breve descripción analítica: Netzan Shabira: Esta mañana, las fuerzas militares encontraron los cuerpos de dos hombres armados en un edificio bombardeado en el barrio de El Geneina, en Rafah.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Radio del ejército israelí: el ejército expresó su preocupación por el hecho de que la FPNUL hubiera filtrado información militar y de inteligencia delicada a Hezbolá
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @EabriLive | @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El corresponsal de Radio Militar describe la presentación por Netanyahu de una solicitud de indulto por un terremoto: Netanyahu escribió en su solicitud a Hertzog: "El proceso judicial en curso en mi caso se ha convertido en el centro de graves enfrentamientos y, a pesar de mi interés personal en la gestión del juicio y la prueba de mi inocencia hasta la absolución total, creo que el interés público requiere lo contrario". La solicitud completa de Netanyahu incluye 111 páginas.
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Fuente de entusiasmo árabe: ¿Hemos completado todos los cargos militares, políticos y administrativos que lo han dirigido mal? □  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército expresó su preocupación por la filtración de información militar y de inteligencia delicada de la FPNUL a Hizbollah,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: ∙ Lugar y otros agentes de seguridad: Israel está presionando a través de los Estados Unidos y los intermediarios para que recuperen los dos últimos cadáveres de Gaza, y no hay ninguna posibilidad de que los Estados Unidos permitan la reanudación de los combates, ya que eso arruinaría las posibilidades de pasar a la fase B.
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, el ejército israelí ha interceptado una marcha que transportaba medios de combate después de cruzar del oeste hacia las zonas israelíes.
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Radio del ejército israelí por un alto mando militar: la FPNUL es una fuerza desestabilizadora que no contribuye al desarme de Hizb-Allah
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Radio del ejército israelí por un oficial militar: la presencia de la FPNUL atenta contra la libertad de acción y le preocupa la filtración de imágenes de las actividades de nuestras fuerzas a Hezbolá
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí por un oficial militar: cuanto antes se vaya de la zona y termine su actividad, mejor.
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuente militar sudanesa de la isla: El ejército avanza hacia el oeste de la ciudad de Abasiya, en el estado de Kordofán del Sur y controla varias ciudades.
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Corresponsal de la isla: estallido de enfrentamientos tras la incursión de las fuerzas de ocupación en la ciudad de Asgarba, al sur de Naplusa, al norte de la Ribera Occidental
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Washington Post sobre un funcionario estadounidense: sigue habiendo interrogantes fundamentales sobre la desmilitarización de Gaza
+		Fecha/Hora: 2025-11-30 16:47:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ La página de Yannon está disponible en hebreo: el casco del comandante de la unidad de comunicaciones y reconocimiento de la 55a brigada sobrevivió al tiroteo en Beit Jin, en el sur de Siria
+		Fecha/Hora: 2025-11-30 16:51:52
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la ciudad de Askarba, al sudeste de Naplusa.
+		Fecha/Hora: 2025-11-30 16:51:52
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Reportero militar del periódico Ma ' aref, Avi Ashkenazy: El ejército se enfrenta a una escasez de 12.000 soldados, es decir, del tamaño de una división regular. La ley de reclutamiento que se está examinando no responderá a las necesidades del ejército israelí.
+		Fecha/Hora: 2025-11-30 16:51:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un joven de Gaza hereda el mártir sirio Hassan Al-Saadi, que se levantó en un enfrentamiento con las fuerzas de ocupación en Beit Jin.
+		Fecha/Hora: 2025-11-30 16:51:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos en la ciudad de Qusayra, al sudeste de Naplusa, y la ocupación lanza bombas de gas y sonido.
+		Fecha/Hora: 2025-11-30 16:52:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Khan Younis
+		Breve descripción analítica: Una de las víctimas de los enfrentamientos en Siria es: a) el oficial de la Unidad de Comunicación y Reconocimiento del Batallón 55, que resultó herido al comienzo de la guerra a principios de la maniobra de Khan Younis (diciembre de 2023) y regresó a dirigir la división tras su recuperación.
+		Fecha/Hora: 2025-11-30 17:02:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Presidente de Colombia: Sin autorización del Consejo de Seguridad para la acción militar contra Venezuela ni autorización del Congreso de los Estados Unidos para la intervención armada
+		Fecha/Hora: 2025-11-30 17:52:54
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Harbi Life-i24news: Uno de los heridos en el enfrentamiento en Siria es "a" el líder de una facción que resultó herido al comienzo de la guerra en Gaza al comienzo de la operación terrestre en Khan Younis (diciembre de 2023), y luego se recuperó y volvió a dirigir su equipo.
+		Fecha/Hora: 2025-11-30 18:30:52
+		Fuente: @EabriLive
+
+	• Localización: Maghazi
+		Breve descripción analítica: *Aceleró los disparos de gran intensidad de tanques y alcanzó las casas altas en la zona de Abu Hashish y la clínica del Gobierno en el campamento de Maghazi
+		Fecha/Hora: 2025-11-30 18:39:51
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un joven convierte un vehículo militar abandonado por el ejército de ocupación israelí en un punto de carga de teléfonos.
+		Fecha/Hora: 2025-11-30 18:46:51
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una patrulla compuesta por un vehículo blindado y un vehículo militar cargado de soldados israelíes que se adentra en los alrededores de la ciudad de Al-Hamidiya, en la zona rural de Quneitra.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-30 19:16:53
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12: El comandante de la región septentrional realizó una evaluación de la seguridad en las Alturas del Golán tras los enfrentamientos en el sur de Siria
+		Fecha/Hora: 2025-11-30 20:06:52
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ** Presidente de Venezuela: - No cederemos a ningún tipo de chantaje o amenaza, y permaneceremos firmes en la defensa de nuestros recursos - Estados Unidos quiere apoderarse de las enormes reservas petrolíferas de Venezuela, el mayor país de la Tierra - América ha desplegado en el Mar Caribe varios activos militares estadounidenses, entre ellos más de 14 buques de guerra y 15.000 agentes - las autoridades estadounidenses han llevado a cabo los 20 bombardeos más frecuentes contra buques pequeños, que han provocado la muerte extrajudicial de más de 80 personas - el mundo conoce bien las conse...
+		Fecha/Hora: 2025-11-30 20:12:52
+		Fuente: @yaseenpress2004
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Gaza City (1), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: Continuación de las obras de restauración y remoción de escombros del Palacio de Al-Basha, destruido por el ejército israelí durante la guerra de Gaza, donde se observó el robo de miles de piezas del lugar
+		Fecha/Hora: 2025-11-30 16:47:55
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fox News sobre el Secretario de la Marina de los Estados Unidos: los carteles de drogas atacan nuestro país y las drogas matan más de lo que hemos perdido en la guerra.
+		Fecha/Hora: 2025-11-30 19:28:52
+		Fuente: @AjaNews
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 14
+	• Principales áreas afectadas: Localización no especificada (12), Gaza City (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: Protestas constantes en París, en apoyo de Gaza y Palestina y condenando los crímenes de ocupación.
+		Fecha/Hora: 2025-11-30 16:47:55
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En una declaración ante los Ministerios de Educación y Finanzas de la Federación General de Maestros, anunciamos la suspensión de los actos de protesta anunciados ayer.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Continuación del canal 12 hebreo: Después de la petición de indulto de Netanyahu, se celebrará una manifestación esta noche a las 18.00 horas frente a la casa del Presidente de Israel Yitzhak Hertsug en Tel Aviv.
+		Fecha/Hora: 2025-11-30 16:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life-Yair Labed: Invito al Presidente Hertsug: No se puede conceder a Netanyahu una amnistía sin una confesión de culpabilidad, una manifestación de arrepentimiento y una inmediata retirada de la vida política.
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: : Hoy, a las 18.00 horas, se celebrará una manifestación frente a la casa del Presidente Hertsug en Tel Aviv, y la manifestación tendrá lugar a raíz de la petición de indulto de Netanyahu,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-30 16:47:57
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un acuerdo financiero que suspende la huelga general de maestros en las escuelas de la Ribera Occidental, de conformidad con el plan Trump, tropieza con obstáculos. El Ministerio de Educación y el Ministerio de Educación Superior, el Ministerio de Finanzas y la Federación General de Maestros anunciaron la suspensión de la huelga.
+		Fecha/Hora: 2025-11-30 16:49:30
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Movimiento Unificado de Maestros comenta la decisión de la Unión General de Científicos de declarar huelga en las escuelas.
+		Fecha/Hora: 2025-11-30 16:51:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas en Roma en apoyo de Palestina en medio de llamamientos de los manifestantes para que se rompan las relaciones con la ocupación
+		Fecha/Hora: 2025-11-30 16:51:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Con motivo del Día Internacional de Solidaridad con el Pueblo Palestino, una manifestación con prisioneros en la ciudad de Jenin
+		Fecha/Hora: 2025-11-30 16:52:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Campaña de detención contra activistas durante una manifestación de apoyo a Palestina en Berlín.
+		Fecha/Hora: 2025-11-30 16:52:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 Hebreo: En los últimos días, el Departamento de Asuntos Internos de la Policía de Nueva York ha investigado a dirigentes de la zona de Manhattan sobre una manifestación en favor de los palestinos organizada la semana pasada frente a la iglesia Park East, una actividad que ha causado indignación por la forma en que la policía ha reaccionado.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-30 17:52:54
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los heridos de la intifada piden participar en la protesta frente a la sede del Primer Ministro en Ramallah, mañana a las 9.30 horas; reclamar los derechos legítimos de los heridos y negarse a transferir sus asignaciones a la Fundación Temkin.
+		Fecha/Hora: 2025-11-30 18:42:54
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Los colonos están organizando una manifestación frente a la casa del jefe de ocupación, "Hertsog", para pedirle que no conceda una amnistía judicial a Ntenyaho.
+		Fecha/Hora: 2025-11-30 19:21:53
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas frente a la casa del Presidente de Israel: No a la inocencia de Netanyahu
+		Fecha/Hora: 2025-11-30 20:06:51
+		Fuente: @muthanapress84
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Al-Quds Hospital (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: Los miembros de la Autoridad celebran una reunión oficial en el foro Al-Quds “Emigración internacional”: “El éxodo de 1625 personas en el estado de Kordofán del Sur del Sudán: millones de personas en el Sudán padecen hambre: millones de personas padecen de hambre en el Sudán; el temor de “Israel” de una nueva inundación desde la Ribera Occidental.
+		Fecha/Hora: 2025-11-30 18:31:43
+		Fuente: WEB https://www.alquds.com/ar/home
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 18 foco(s) – principales áreas: Rafah, Khan Younis, Gaza City, localización no especificada
+	• Conflicto Armado: 33 foco(s) – principales áreas: Rafah, localización no especificada, Maghazi, Khan Younis, Gaza City
+	• Criminalidad: 2 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Disturbios Civiles: 14 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Hazards: 1 foco(s) – principales áreas: Al-Quds Hospital
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

@@ -1,0 +1,163 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: MALI / Mali
+	•	Fecha (día operativo): 2025-12-01
+	•	Hora de edición: 2025-12-01 21:16:47
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-01 – total incidentes SICU: 9)
+
+• Terrorismo: 8 incidente(s) registrado(s).
+• Conflicto Armado: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 8
+	• Principales áreas afectadas: Bla (3), Diré (3), San (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: San
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e información en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia mediante una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: ¡Cianista: ¡L-Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios • El relato en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta noviembre hasta el 31 de noviembre en San Denis ¿Cómo los c...
+		Fecha/Hora: 2025-12-01 07:39:33
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Bla
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e información en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la chica que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schooonderwoerd, pianista: la música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios... Cómo los contenidos odiosos se establecieron entre los podcasts más escuchados de Francia El relato en vídeo de la persecución de los terroristas del 13-Noviembr...
+		Fecha/Hora: 2025-12-01 07:49:25
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Bla
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e información en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la hija que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: ¡Uno Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios de los terroristas ¡ , , , ¡es ridículo! , Vladimir Putin afirma que su país no tiene la intención de atacar a Europa Hace ochenta años después del juicio de Nure...
+		Fecha/Hora: 2025-12-01 07:55:39
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: San
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo El crepúsculo de las radios independientes locales Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: , , su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios • El relato en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta el 13 de noviembre hasta el día más tarde hasta el día en el día en San Denis Incendia mortífera en H...
+		Fecha/Hora: 2025-12-01 08:01:46
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo El crepúsculo de las radios independientes locales Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: la música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas del 13 de noviembre al día siguiente de la lucha del mundo l'incendie mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residenc...
+		Fecha/Hora: 2025-12-01 08:06:39
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo El crepúsculo de las radios independientes locales Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: "L.A Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los países de Europa El relato en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta el juicio de Nuremberg, cómo las imágenes revoluron la justicia intern...
+		Fecha/Hora: 2025-12-01 08:22:39
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo Materias Primeras materias: la ostra quiere volver a flotar Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente evitada por su hermano Arthur Schchoonderwoerd, pianista: , , su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios , , , la historia en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta el día 13 de noviembre hasta el fin de noviembre en el día en que la asalto en Saint-De...
+		Fecha/Hora: 2025-12-01 09:25:32
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Bla
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e información en vivo Black Friday en los Estados Unidos de América: - Las ventas en Internet han sido donadas por un nuevo actor, la inteligencia artificial - Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente evitada por su hermano Arthur Schoonderwoerd, pianista: - Menos Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios - El relato en vídeo de la persecución de los terroristas del 13 al noviembre hasta el a...
+		Fecha/Hora: 2025-12-01 16:01:57
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Bamako (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Bamako
+		Breve descripción analítica: - Noticias en Malí en tiempo real e información en vivo Bamako : Un convoy de materiales de la ingeniería militar suscita la curiosidad y fervor patriótico Transiweb.net - Noticias en Malí en tiempo real e información en vivo Bamako : Un convoy de materiales de la ingeniería militar suscita la curiosidad y el fervor patriótico Transición y reforma del Estado: ¿Qué se ha convertido en la refundación? - A pesar de las afirmaciones públicas, todavía hay países, todavía hay hombres de otros pueblos que no pueden pa...
+		Fecha/Hora: 2025-12-01 16:01:54
+		Fuente: WEB https://www.maliweb.net/
+
+⸻
+2.3. CRIMINALIDAD
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 8 foco(s) – principales áreas: San, Diré, Bla
+	• Conflicto Armado: 1 foco(s) – principales áreas: Bamako
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

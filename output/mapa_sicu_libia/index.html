@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mapa SICU – Libia</title>
+
+  <!-- Leaflet -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+  />
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+  <!-- Awesome Markers -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.awesome-markers/2.0.4/leaflet.awesome-markers.css"
+  />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.awesome-markers/2.0.4/leaflet.awesome-markers.js"></script>
+
+  <!-- MarkerCluster -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"
+  />
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+  <!-- Heatmap (Leaflet.heat) -->
+  <script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+  <!-- Estilos básicos -->
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 280px; /* espacio para el panel lateral */
+    }
+
+    #sidebar {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 280px;
+      background: #111827;
+      color: #e5e7eb;
+      padding: 12px 14px;
+      box-sizing: border-box;
+      overflow-y: auto;
+    }
+
+    #sidebar h1 {
+      font-size: 16px;
+      margin: 6px 0 8px 0;
+      padding-bottom: 6px;
+      border-bottom: 1px solid #374151;
+    }
+
+    #sidebar h2 {
+      font-size: 14px;
+      margin: 10px 0 4px 0;
+    }
+
+    #sidebar label {
+      font-size: 13px;
+    }
+
+    #sidebar .pill {
+      display: inline-block;
+      font-size: 11px;
+      padding: 2px 6px;
+      border-radius: 999px;
+      margin-right: 4px;
+      margin-bottom: 4px;
+      background: #1f2937;
+    }
+
+    .btn {
+      display: inline-block;
+      font-size: 12px;
+      padding: 6px 10px;
+      margin: 4px 2px 4px 0;
+      border-radius: 6px;
+      border: none;
+      cursor: pointer;
+      background: #2563eb;
+      color: white;
+      text-decoration: none;
+    }
+
+    .btn.secondary {
+      background: #374151;
+    }
+
+    .btn.small {
+      font-size: 11px;
+      padding: 4px 8px;
+    }
+
+    select, input[type="date"] {
+      width: 100%;
+      font-size: 12px;
+      padding: 4px 6px;
+      margin: 4px 0;
+      border-radius: 4px;
+      border: 1px solid #4b5563;
+      background: #111827;
+      color: #e5e7eb;
+    }
+
+    .legend {
+      margin-top: 6px;
+      font-size: 11px;
+    }
+    .legend div {
+      margin-bottom: 4px;
+    }
+    .legend span.color-box {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 2px;
+      margin-right: 4px;
+    }
+
+    .legend .cat-conflicto { background: red; }
+    .legend .cat-criminalidad { background: blue; }
+    .legend .cat-disturbios { background: yellow; }
+    .legend .cat-hazards { background: orange; }
+    .legend .cat-terrorismo { background: black; }
+    .legend .cat-otros { background: cadetblue; }
+
+    /* Color boxes fuera de la leyenda principal */
+    .color-box-conflicto { background: red; }
+    .color-box-criminalidad { background: blue; }
+    .color-box-disturbios { background: yellow; }
+    .color-box-hazards { background: orange; }
+    .color-box-terrorismo { background: black; }
+    .color-box-otros { background: cadetblue; }
+
+    .sidebar-header-info {
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+
+    .filtro-fecha-label {
+      display: block;
+      font-size: 12px;
+      margin-bottom: 4px;
+    }
+
+    .filtro-fecha-label-inline {
+      display: block;
+      font-size: 12px;
+      margin-bottom: 4px;
+    }
+
+    .sidebar-footer {
+      margin-top: 10px;
+      font-size: 11px;
+      color: #9ca3af;
+    }
+
+    .sidebar-footer-inline {
+      margin-top: 10px;
+      font-size: 11px;
+      color: #9ca3af;
+    }
+
+    .footer-inline {
+      margin-top: 10px;
+      font-size: 11px;
+      color: #9ca3af;
+    }
+  </style>
+</head>
+<body>
+
+<div id="sidebar">
+  <h1>🧱 Mapa SICU – Libia</h1>
+  <div class="sidebar-header-info">
+    <div><b>Área SRM:</b> Libia / Nacional</div>
+    <div><b>Día(s) operativo(s):</b> <span id="info-fechas">—</span></div>
+  </div>
+
+  <h2>🎯 Categorías SICU</h2>
+  <div>
+    <label><input type="checkbox" class="cat-filter" value="Conflicto Armado" checked> Conflicto Armado</label><br/>
+    <label><input type="checkbox" class="cat-filter" value="Criminalidad" checked> Criminalidad</label><br/>
+  <h2>📅 Filtro por fecha</h2>
+  <label for="filtro-fecha" class="filtro-fecha-label-inline">Selecciona una fecha</label>
+  <select id="filtro-fecha" name="filtro-fecha">
+    <label><input type="checkbox" class="cat-filter" value="Otros" checked title="Otros"> Otros</label>
+  </div>
+
+  <h2>📅 Filtro por fecha</h2>
+  <label for="filtro-fecha" class="filtro-fecha-label-inline">Selecciona una fecha</label>
+  <select id="filtro-fecha" name="filtro-fecha">
+    <option value="__all__">Todas las fechas (en JS)</option>
+    <!-- se rellena dinámicamente -->
+  </select>
+
+  <h2>🔥 Capas adicionales</h2>
+    <div><span class="color-box color-box-conflicto"></span> Conflicto Armado</div>
+    <div><span class="color-box color-box-criminalidad"></span> Criminalidad</div>
+    <div><span class="color-box color-box-disturbios"></span> Disturbios Civiles</div>
+    <div><span class="color-box color-box-hazards"></span> Hazards</div>
+  <div class="sidebar-footer">
+    <div class="pill">SICU</div>
+    <div class="pill">SANTIAGOLEGALCONSULTING</div>
+  </div>
+</div>
+
+  <div class="footer-inline">
+    <div class="pill">SICU</div>
+    <div class="pill">SANTIAGOLEGALCONSULTING</div>
+  </div>
+</div>
+
+  <div style="margin-top:10px;font-size:11px;color:#9ca3af;">
+    <div class="pill">SICU</div>
+    <div class="pill">SANTIAGOLEGALCONSULTING</div>
+  </div>
+</div>
+
+<div id="map"></div>
+
+<!-- ESTE SCRIPT CARGA LOS INCIDENTES DESDE incidentes_sicu.js -->
+<script src="incidentes_sicu.js"></script>
+
+<script>
+  // ============================
+  // 1️⃣ Crear mapa y capas base
+  // ============================
+  var map = L.map('map', {
+    center: [27.0, 17.0], // centro aproximado Libia
+    zoom: 5
+  });
+
+  var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  var positron = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    maxZoom: 20,
+    attribution: '&copy; OpenStreetMap, &copy; CARTO'
+  });
+
+  var dark = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    maxZoom: 20,
+    attribution: '&copy; OpenStreetMap, &copy; CARTO'
+  });
+
+  // ============================
+  // 2️⃣ Clusters por categoría
+  // ============================
+  var cluster_conflicto   = L.markerClusterGroup();
+  var cluster_terrorismo  = L.markerClusterGroup();
+  var cluster_crimen      = L.markerClusterGroup();
+  var cluster_disturbios  = L.markerClusterGroup();
+  var cluster_hazards     = L.markerClusterGroup();
+  var cluster_otros       = L.markerClusterGroup();
+
+  // Heatmap layer
+  var heatLayer = L.heatLayer([], { radius: 25, blur: 15, maxZoom: 10 });
+
+  // ============================
+  // 3️⃣ Helpers
+  // ============================
+  function colorPorCategoria(cat) {
+    switch (cat) {
+      case "Conflicto Armado":   return "red";
+      case "Criminalidad":       return "blue";
+      case "Disturbios Civiles": return "yellow";
+      case "Hazards":            return "orange";
+      case "Terrorismo":         return "black";
+      default:                   return "cadetblue";
+    }
+  }
+
+  function clusterPorCategoria(cat) {
+    if (cat === "Conflicto Armado")   return cluster_conflicto;
+    if (cat === "Terrorismo")        return cluster_terrorismo;
+    if (cat === "Criminalidad")      return cluster_crimen;
+    if (cat === "Disturbios Civiles")return cluster_disturbios;
+    if (cat === "Hazards")           return cluster_hazards;
+    return cluster_otros;
+  }
+
+  // ============================
+  // 4️⃣ Cargar incidentes (desde incidentes_sicu.js)
+  // ============================
+  // Estructura esperada en incidentes_sicu.js:
+  // const INCIDENTES_SICU = [
+  //   {
+  //     id: 1,
+  //     fecha: "2025-11-26",
+  //     categoria: "Conflicto Armado",
+  //     subcategoria: "Flujo de armamento",
+  //     severidad: "Alta",
+  //     lat: 32.663,
+  //     lng: 13.159,
+  //     titulo: "Ejemplo",
+  //     descripcion: "Texto analítico",
+  //     fuente: "@gplusss",
+  //   },
+  //   ...
+  // ];
+
+  if (typeof INCIDENTES_SICU === "undefined") {
+    alert("⚠ No se ha encontrado INCIDENTES_SICU en incidentes_sicu.js");
+  }
+
+  // Rellenar selector de fechas
+  const filtroFecha = document.getElementById("filtro-fecha");
+  const infoFechas  = document.getElementById("info-fechas");
+
+  const fechasUnicas = Array.from(
+    new Set(INCIDENTES_SICU.map(inc => inc.fecha))
+  ).sort();
+
+  fechasUnicas.forEach(f => {
+    const opt = document.createElement("option");
+    opt.value = f;
+    opt.textContent = f;
+    filtroFecha.appendChild(opt);
+  });
+
+  infoFechas.textContent = fechasUnicas.length > 0 ? fechasUnicas.join(", ") : "—";
+
+  // Función para pintar incidentes en mapa según filtro
+  let marcadores = [];  // para actualizar heatmap
+
+  function refrescarMapa() {
+    // Vaciar clusters y heat
+    cluster_conflicto.clearLayers();
+    cluster_terrorismo.clearLayers();
+    cluster_crimen.clearLayers();
+    cluster_disturbios.clearLayers();
+    cluster_hazards.clearLayers();
+    cluster_otros.clearLayers();
+    heatLayer.setLatLngs([]);
+    marcadores = [];
+
+    const fechaSeleccionada = filtroFecha.value; // "__all__" o "YYYY-MM-DD"
+    const catsActivas = Array.from(
+      document.querySelectorAll(".cat-filter:checked")
+    ).map(ch => ch.value);
+
+    INCIDENTES_SICU.forEach(inc => {
+      if (fechaSeleccionada !== "__all__" && inc.fecha !== fechaSeleccionada) {
+        return;
+      }
+      if (catsActivas.indexOf(inc.categoria) === -1) {
+        return;
+      }
+
+      const icon = L.AwesomeMarkers.icon({
+        icon: "info-circle",
+        prefix: "fa",
+        markerColor: colorPorCategoria(inc.categoria),
+      });
+
+      const marker = L.marker([inc.lat, inc.lng], { icon: icon }).bindPopup(
+        `
+        <b>${inc.titulo}</b><br/>
+        <b>Fecha:</b> ${inc.fecha} ${inc.hora || ""}<br/>
+        <b>Categoría SICU:</b> ${inc.categoria}<br/>
+        <b>Subcategoría:</b> ${inc.subcategoria || ""}<br/>
+        <b>Severidad:</b> ${inc.severidad || ""}<br/>
+        <b>Fuente:</b> ${inc.fuente || ""}<br/><br/>
+        <span style="font-size:11px;">${inc.descripcion || ""}</span>
+        `
+      );
+
+      const cluster = clusterPorCategoria(inc.categoria);
+      cluster.addLayer(marker);
+
+      marcadores.push([inc.lat, inc.lng, inc.severidad === "Crítica" ? 1.0 : 0.6]);
+    });
+
+    if (document.getElementById("heat-toggle").checked) {
+      heatLayer.setLatLngs(marcadores);
+      heatLayer.addTo(map);
+    } else {
+      heatLayer.remove();
+    }
+  }
+
+  // ============================
+  // 5️⃣ Añadir clusters al mapa
+  // ============================
+  cluster_conflicto.addTo(map);
+  cluster_crimen.addTo(map);
+  cluster_disturbios.addTo(map);
+  cluster_hazards.addTo(map);
+  cluster_terrorismo.addTo(map);
+  cluster_otros.addTo(map);
+
+  // ============================
+  // 6️⃣ Control de capas
+  // ============================
+  L.control.layers(
+    {
+      "OpenStreetMap": osm,
+      "Carto Positron": positron,
+      "Carto Dark": dark
+    },
+    {
+      "Conflicto Armado": cluster_conflicto,
+      "Criminalidad": cluster_crimen,
+      "Disturbios Civiles": cluster_disturbios,
+      "Hazards": cluster_hazards,
+      "Terrorismo": cluster_terrorismo,
+      "Otros": cluster_otros,
+      "Heatmap incidentes": heatLayer
+    },
+    { collapsed: false }
+  ).addTo(map);
+
+  // ============================
+  // 7️⃣ Listeners filtros
+  // ============================
+  filtroFecha.addEventListener("change", refrescarMapa);
+  document.querySelectorAll(".cat-filter").forEach(ch => {
+    ch.addEventListener("change", refrescarMapa);
+  });
+  document.getElementById("heat-toggle").addEventListener("change", refrescarMapa);
+
+  // Pintar la primera vez
+  refrescarMapa();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,291 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: HAITÍ / Haiti
+	•	Fecha (día operativo): 2025-11-25
+	•	Hora de edición: 2025-11-25 22:56:42
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-25 – total incidentes SICU: 33)
+
+• Conflicto Armado: 14 incidente(s) registrado(s).
+• Criminalidad: 9 incidente(s) registrado(s).
+• Disturbios Civiles: 5 incidente(s) registrado(s).
+• Hazards: 5 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 14
+	• Principales áreas afectadas: Localización no especificada (9), Cap-Haïtien (5)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Cap-Haïtien
+		Breve descripción analítica: INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...
+		Fecha/Hora: 2025-11-25 07:02:34
+		Fuente: WEB https://haitiantimes.com/ | WEB https://haitiantimes.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-25 07:03:26
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Cap-Haïtien
+		Breve descripción analítica: INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...
+		Fecha/Hora: 2025-11-25 09:06:37
+		Fuente: WEB https://haitiantimes.com/ | WEB https://haitiantimes.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-25 09:07:35
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Cap-Haïtien
+		Breve descripción analítica: INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...
+		Fecha/Hora: 2025-11-25 11:59:52
+		Fuente: WEB https://haitiantimes.com/
+
+	• Localización: Cap-Haïtien
+		Breve descripción analítica: INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...
+		Fecha/Hora: 2025-11-25 14:46:10
+		Fuente: WEB https://haitiantimes.com/ | WEB https://haitiantimes.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Restricciones de visa estadounidense contra un alto funcionario del gobierno haitiano Restricciones de visa estadounidense contra un alto funcionario del gobierno haitiano Un pastor asesinado en Montrouis, su cuerpo quemado y abandonado a los perros Crisis en Estados Unidos, tensiones geopolíticas e inestabilidad global Unión Europea: 180 millones de gourdes para fortalecer la sociedad civil en el Norte a través del PAIESC Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Cómo falleció Dadou Pasquet, la voz y el alma de Konpa R...
+		Fecha/Hora: 2025-11-25 14:46:16
+		Fuente: WEB https://lequotidien509.com/es/category/actualites/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-25 14:47:01
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Cap-Haïtien
+		Breve descripción analítica: INICIO Sunrise Airways suspende vuelos desde y hacia Puerto Príncipe Sunrise detuvo vuelos desde Puerto Príncipe después de que uno de sus aviones fuera alcanzado por disparos cerca del aeropuerto, citando crecientes preocupaciones de violencia y seguridad. Angie Bell, el joven alcalde de Cap-Haïtien, entra en la tormenta política de Haití Dadou Pasquet, legendario músico haitiano y campeón de Konpa, muere en 72 Cap-Haïtien Theater company ‘Kay’Art’ revive la historia de un asesinato de Jean-Jacques Desalines Fotos Más allá de las capas con la compañía francesa-haitiana cantante-computadora...
+		Fecha/Hora: 2025-11-25 16:47:51
+		Fuente: WEB https://haitiantimes.com/ | WEB https://haitiantimes.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Restricciones de visa estadounidense contra un alto funcionario del gobierno haitiano Restricciones de visa estadounidense contra un alto funcionario del gobierno haitiano Un pastor asesinado en Montrouis, su cuerpo quemado y abandonado a los perros Crisis en Estados Unidos, tensiones geopolíticas e inestabilidad global Unión Europea: 180 millones de gourdes para fortalecer la sociedad civil en el Norte a través del PAIESC Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Cómo falleció Dadou Pasquet, la voz y el alma de Konpa R...
+		Fecha/Hora: 2025-11-25 16:47:55
+		Fuente: WEB https://lequotidien509.com/es/category/actualites/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-25 16:48:41
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Restricciones de visa estadounidense contra un alto funcionario del gobierno haitiano Restricciones de visa estadounidense contra un alto funcionario del gobierno haitiano Un pastor asesinado en Montrouis, su cuerpo quemado y abandonado a los perros Crisis en Estados Unidos, tensiones geopolíticas e inestabilidad global Unión Europea: 180 millones de gourdes para fortalecer la sociedad civil en el Norte a través del PAIESC Un avión de Sunrise Airways fue alcanzado por disparos: la aerolínea suspendió todos los vuelos a Puerto Príncipe Cómo falleció Dadou Pasquet, la voz y el alma de Konpa R...
+		Fecha/Hora: 2025-11-25 21:48:40
+		Fuente: WEB https://lequotidien509.com/es/category/actualites/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Home INVESTIGATION AND ANALYSIS OF ORGANIZED CRIME The Pros and Cons of a US Intervention in Venezuela The world has been watching to see if the United States will escalate its militarized anti-drug mission in the Caribbean into a direct intervention aimed at toppling the regime of Venezuela’s President Nicolás Maduro, prompting intense debate about the wisdom and potential impacts of such an action.
+		Fecha/Hora: 2025-11-25 21:49:29
+		Fuente: WEB https://insightcrime.org
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-25 21:49:32
+		Fuente: WEB https://safeairspace.net
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 9
+	• Principales áreas afectadas: Mirebalais Hospital (9)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-25 07:02:31
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.
+		Fecha/Hora: 2025-11-25 07:03:24
+		Fuente: WEB https://reliefweb.int
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-25 09:06:31
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.
+		Fecha/Hora: 2025-11-25 09:07:34
+		Fuente: WEB https://reliefweb.int
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-25 11:59:49
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-25 14:46:07
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: ReliefWeb - Información humanitaria mundial Los ataques a escuelas en los últimos cinco años incluyeron asesinatos y secuestros de maestros y estudiantes, ataques aéreos a escuelas, ocupación de escuelas por grupos armados y violencia sexual contra estudiantes.
+		Fecha/Hora: 2025-11-25 14:46:59
+		Fuente: WEB https://reliefweb.int
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-25 16:47:46
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-25 21:48:31
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 5
+	• Principales áreas afectadas: Localización no especificada (5)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-25 07:03:23
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-25 09:07:33
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-25 14:46:58
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-25 16:48:39
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-25 21:49:30
+		Fuente: WEB https://acleddata.com
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 5
+	• Principales áreas afectadas: Localización no especificada (5)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Más reciente de Al Jazeera La tormenta de categoría 5, que amenaza con arrojar hasta un metro de lluvia, se está moviendo a un ritmo preocupantemente lento. Melissa se espera que se fortalezca aún más en un huracán catastrófico importante al hacer caer tierra en Jamaica.
+		Fecha/Hora: 2025-11-25 07:02:32
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Más reciente de Al Jazeera La tormenta de categoría 5, que amenaza con arrojar hasta un metro de lluvia, se está moviendo a un ritmo preocupantemente lento. Melissa se espera que se fortalezca aún más en un huracán catastrófico importante al hacer caer tierra en Jamaica.
+		Fecha/Hora: 2025-11-25 09:06:33
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Más reciente de Al Jazeera La tormenta de categoría 5, que amenaza con arrojar hasta un metro de lluvia, se está moviendo a un ritmo preocupantemente lento. Melissa se espera que se fortalezca aún más en un huracán catastrófico importante al hacer caer tierra en Jamaica.
+		Fecha/Hora: 2025-11-25 11:59:50
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Más reciente de Al Jazeera La tormenta de categoría 5, que amenaza con arrojar hasta un metro de lluvia, se está moviendo a un ritmo preocupantemente lento. Melissa se espera que se fortalezca aún más en un huracán catastrófico importante al hacer caer tierra en Jamaica.
+		Fecha/Hora: 2025-11-25 14:46:09
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Más reciente de Al Jazeera La tormenta de categoría 5, que amenaza con arrojar hasta un metro de lluvia, se está moviendo a un ritmo preocupantemente lento. Melissa se espera que se fortalezca aún más en un huracán catastrófico importante al hacer caer tierra en Jamaica.
+		Fecha/Hora: 2025-11-25 16:47:49
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Conflicto Armado: 14 foco(s) – principales áreas: Cap-Haïtien, localización no especificada
+	• Criminalidad: 9 foco(s) – principales áreas: Mirebalais Hospital
+	• Disturbios Civiles: 5 foco(s) – principales áreas: localización no especificada
+	• Hazards: 5 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

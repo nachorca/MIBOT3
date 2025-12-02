@@ -1,0 +1,1175 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-24
+	•	Hora de edición: 2025-11-24 22:51:35
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-24 – total incidentes SICU: 209)
+
+• Terrorismo: 82 incidente(s) registrado(s).
+• Conflicto Armado: 98 incidente(s) registrado(s).
+• Criminalidad: 23 incidente(s) registrado(s).
+• Disturbios Civiles: 3 incidente(s) registrado(s).
+• Hazards: 3 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 82
+	• Principales áreas afectadas: Gaza City (51), Localización no especificada (20), Bani Suheila (7)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Corresponsal de # Al-Jazeera: incursiones israelíes y bombardeos de artillería dentro de la línea amarilla, al este y al sur de la ciudad de Khan Younis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-24 08:48:22
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Servicio de Emergencia de Ucrania: dos muertos y varios heridos en un bombardeo ruso en la provincia de Denbro
+		Fecha/Hora: 2025-11-24 08:48:22
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Aqla ' , mártir del bombardeo de la artillería israelí contra la zona de Shu ' af, en el barrio de Tuffah, cerca de la línea amarilla, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: ** Nuevas violaciones de la cesación del fuego: bombardeo aéreo y de artillería israelí contra varias zonas de Gaza, con detalles:
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Heridas de bala en un bombardeo de artillería contra la zona de Al-Shaab en el barrio de Taffah, cerca de la línea amarilla al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Aqla ' , mártir del bombardeo de la artillería israelí contra la zona de Shu ' af, en el barrio de Tuffah, cerca de la línea amarilla, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @gazaalanar
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Fuentes de prensa: Dos personas resultaron heridas por el bombardeo de un avión que se dirigía a la zona de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Shahid fue bombardeado por la artillería israelí en la zona de Shufa, en el barrio de Taffah, cerca de la línea amarilla, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 08:48:24
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Hizbollah anunció ayer la muerte de Mustafa Pru junto con tres mártires en el asesinato del comandante Haytham Tabera. - El mártir Mustafa es el hijo del mártir, el Jeque Asad Pro, que llevó a cabo un atentado con bomba contra el ejército de ocupación en el sur del Líbano en agosto de 1989.
+		Fecha/Hora: 2025-11-24 08:48:24
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Una herida de bala en el bombardeo de la artillería de ocupación en la zona de Shu ' af, en el barrio de Tuffah, cerca de la línea amarilla, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 08:48:24
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Nuestro corresponsal: Dos personas resultaron heridas por el bombardeo de una marcha de ocupación en una reunión de la población de la región de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-24 08:48:24
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Israel bombardeó Beirut y asesinó a un comandante de Hezbollah en una nueva violación del acuerdo de cesación del fuego. Israel lanzó un ataque contra el barrio meridional de Beirut, que dio lugar al asesinato del comandante del Estado Mayor de Hizbollah Haitham Ali al-Tababi.  [Enlace: https://www.alquds.com/ar/posts/211299]
+		Fecha/Hora: 2025-11-24 08:51:19
+		Fuente: WEB www.alquds.com
+
+	• Localización: Khan Younis
+		Breve descripción analítica: Heridas en un bombardeo israelí contra una concentración de ciudadanos cerca de una casa en la zona de Rumeida, en la localidad de Beni Suhila, al este de Khan Younis
+		Fecha/Hora: 2025-11-24 08:52:16
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Mashhad fue herido en el bombardeo de un vehículo israelí por ciudadanos de la localidad de Beni Suhila, al este de Khanyonis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-24 08:54:16
+		Fuente: @GazaNewsNow
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Alaa Mazen Hamdi Abu Rida, de 20 años de edad, llegó al hospital Nasir Khanyonis, a raíz de un bombardeo israelí en la zona de Armeida, en la localidad de Beni Suhila, al este de Khanyonis
+		Fecha/Hora: 2025-11-24 09:05:16
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Laifi (sitio hebreo de Wala): Tras el anuncio de Trump de que el movimiento Hermanos Musulmanes es una “organización terrorista”, Netanyahu podría dar un paso similar contra los partidos y grupos islámicos en Israel.
+		Fecha/Hora: 2025-11-24 09:12:15
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: El ejército de ocupación está llevando a cabo una explosión en la carretera entre Naplusa y Jenin después de que alegaran que Abawa estaba en el lugar.
+		Fecha/Hora: 2025-11-24 09:19:16
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Corresponsal del periódico Al-Assah, Gaza: Shahidan y heridos por el bombardeo israelí de un avión Kaud Kaptar contra ciudadanos de la zona de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 09:23:16
+		Fuente: @muthanapress84
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Nuestro corresponsal: Los jóvenes Ahmed Abderrahim Suhamud y Alaa Mazen Abu Rida fueron asesinados por el bombardeo de una marcha de ocupación en la zona de Rumeida, en la localidad de Beni Suhila, al este de Khanyonis.
+		Fecha/Hora: 2025-11-24 09:33:16
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está matando a dos palestinos con incursiones y bombardeando Gaza (  [Enlace: https://www.alquds.com/ar/posts/211339]
+		Fecha/Hora: 2025-11-24 10:45:57
+		Fuente: WEB www.alquds.com
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Consejo de Seguridad de las Naciones Unidas bombardeó tres palestinos y otros dos resultaron heridos en un bombardeo realizado por las fuerzas de ocupación al este de las ciudades de Gaza y Janjuns, mientras que el bombardeo continuó en la zona meridional y septentrional de la Franja de Gaza, en violación del acuerdo de cesación del fuego. Fuentes locales informaron de que, tras el bombardeo de la zona de Al-Sha ' af en la zona de Al-Tuffah, en la zona oriental de la ciudad de Gaza, el ejército de ocupación seguía disparando fuego de artillería contra el cuartel general de la Franja de G...  [Enlace: https://www.alquds.com/ar/posts/211338]
+		Fecha/Hora: 2025-11-24 10:45:59
+		Fuente: WEB www.alquds.com
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: Imágenes del último bombardeo israelí de Shi ' iya Shahida contra una concentración de ciudadanos de la localidad de Beni Suhila, al este de Khanyonis
+		Fecha/Hora: 2025-11-24 11:04:32
+		Fuente: @muthanapress84
+
+	• Localización: Nuseirat
+		Breve descripción analítica: La niña murió hace dos días como consecuencia de las heridas sufridas al bombardear el campamento de Nuseirat.
+		Fecha/Hora: 2025-11-24 11:04:32
+		Fuente: @yaseenpress2004
+
+	• Localización: Nuseirat
+		Breve descripción analítica: La niña ayma Abu Amuneh murió a consecuencia de las heridas sufridas al bombardear el campamento de Nuseirat hace dos días.
+		Fecha/Hora: 2025-11-24 11:05:32
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Estado de Azerbaiyán se negó a participar en el bombardeo de la Fuerza Internacional en Gaza (FIAS) ( Sus artículos se publicaron en el Foro Al-Quds el lunes 24 de noviembre de 2025 a las 11.24 horas, hora de Al-Quds, periódico hebreo: Azerbaiyán se negó a participar en el bombardeo de la Fuerza Internacional en Gaza.  [Enlace: https://www.alquds.com/ar/posts/211381]
+		Fecha/Hora: 2025-11-24 11:36:31
+		Fuente: WEB www.alquds.com
+
+	• Localización: Nuseirat
+		Breve descripción analítica: La niña murió hace dos días como consecuencia de las heridas que sufrió al bombardear el campamento de Nuseirat.
+		Fecha/Hora: 2025-11-24 11:39:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Seguimiento de fuentes locales: 8 mártires fueron sacados de la parte inferior de los escombros de una casa perteneciente a la familia Abu Hamada que había sido bombardeada por la guerra “israelí” en el campamento de Maghazi, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 11:39:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La Defensa Civil sacó a ocho mártires de la parte inferior de los escombros de una casa perteneciente a la familia Abu Hamada que había sido bombardeada por la guerra israelí en el campamento de Maghazi, en el centro de la Faja de Gaza.
+		Fecha/Hora: 2025-11-24 11:39:36
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: A pesar de las heridas, los bombardeos y las constantes detenciones en la Franja de Gaza para apoyar y apoyar a los prisioneros en las cárceles de ocupación que viven en condiciones difíciles.
+		Fecha/Hora: 2025-11-24 12:16:55
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los palestinos reciclan las barras de hierro de BRICS destruidas por el bombardeo de la ocupación para venderlas y la construcción de tiendas de campaña para la población, en vista del gran aumento de los precios de la madera en el sector.
+		Fecha/Hora: 2025-11-24 12:58:07
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Nuestro corresponsal: una explosión de restos del ejército de ocupación al noroeste de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 13:09:40
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Actualizar fuentes locales: heridos en la explosión de restos de guerra en el noroeste de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 13:14:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los postes de humo aumentaron considerablemente después de una explosión de residuos de la ocupación al noroeste de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 13:21:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Explosión de un misil RMEG en la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 13:24:46
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: La explosión al oeste de la ciudad de Gaza, cerca de la entrada del campamento de Beach septentrional, y los detalles de las bajas en el lugar
+		Fecha/Hora: 2025-11-24 13:28:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Medios de comunicación libaneses: bombardeo de artillería israelí contra el oeste de Hula, al sur del país
+		Fecha/Hora: 2025-11-24 14:23:32
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los restos de 14 mártires de mi familia, Abu Hamida y Haj Youssef fueron recuperados de los escombros de una casa bombardeada por aviones de ocupación en el campamento de Maghazi, en el centro de la Faja de Gaza
+		Fecha/Hora: 2025-11-24 14:23:33
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Declaración de prensa emitida por la Dirección General de Policía: un niño resultó herido moderadamente por la explosión de un objeto de ocupación en la zona de la costa septentrional de la ciudad de Gaza esta tarde. La policía exhorta a los ciudadanos a que sensibilicen a sus hijos para que no jueguen con misiles de guerra sin detonar ni con objetos sospechosos de haber quedado fuera de la ocupación y, en caso de que se encuentren, a que informen rápidamente a las autoridades competentes a través del número 100 de la policía o del número 109 de las operaciones centrales del Ministerio d...
+		Fecha/Hora: 2025-11-24 15:25:11
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos niños resultaron heridos por la explosión de un objeto sospechoso en el barrio de Tuffa, al noreste de Gaza
+		Fecha/Hora: 2025-11-24 16:11:03
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La foto de la casa del Dr. Majid Abu Ramadan en la zona de arena de Gaza, en la que vivían más de 100 víctimas de la familia Salem, fue bombardeada al comienzo de la agresión israelí.
+		Fecha/Hora: 2025-11-24 16:11:04
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos niños resultaron heridos como consecuencia de la explosión de restos de la ocupación en la zona de Al-Alam, en el barrio de Al-Tuffah de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 16:11:04
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dirección General de Policía: Un niño resultó herido moderadamente por la explosión de un objeto de la ocupación en la zona de la costa septentrional de la ciudad de Gaza esta tarde. La policía exhorta a los ciudadanos a que sensibilicen a sus hijos para que no jueguen con misiles de guerra sin detonar ni con objetos sospechosos de los restos de la ocupación y, en caso de que se encuentren rápidamente, a que informen a las autoridades competentes a través del número 100 de la policía o del número 109 de las operaciones centrales del Ministerio del Interior.
+		Fecha/Hora: 2025-11-24 16:11:04
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Defensa civil en Gaza: dos niños resultaron heridos en la explosión de un objeto sospechoso en el barrio de Tuffa, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 16:24:27
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Dos niños de la familia Abdel-Al resultaron heridos en la zona de Tuffah como consecuencia de la explosión de un objeto sospechoso como consecuencia de la ocupación israelí
+		Fecha/Hora: 2025-11-24 16:26:28
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Corresponsal de # Al-Jazeera: heridos en el bombardeo de la artillería israelí contra la ciudad de Beit Lahiya, frente a la línea amarilla al norte de la Franja de Gaza
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Cuartel general de Jerusalén de la Guardia Revolucionaria Islámica: detención de varios miembros de una célula terrorista en Sistán y Baluchistán, al sudeste del país
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, la Guardia Revolucionaria Iraní: la venganza por los médicos será oportuna y la respuesta a la entidad terrorista sionista será abrumadora.
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes de emergencia y ambulancias: un niño murió y varias personas resultaron heridas en una explosión en una casa del barrio de Al-Nasser, al oeste de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *La Guardia Revolucionaria Iraní: la venganza por el médico será oportuna y la respuesta a la entidad terrorista sionista será abrumadora.*  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life-Code: Fuentes palestinas estiman que la explosión fue causada por un objeto sospechoso y no por un bombardeo aéreo.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Movimiento de Resistencia Islámica, Hamas, afirmó que los daños causados por los restos del enemigo sionista como consecuencia de la agresión y la guerra genocida en la Franja de Gaza ponen de relieve la magnitud de los peligros cada vez mayores para todo nuestro pueblo y nuestra población en la Franja de Gaza, con la continuación de la guerra de exterminio y destrucción. - El portavoz del Movimiento, Hazem Kassem, instó hoy a todos los agentes internacionales pertinentes a que tomaran medidas urgentes para eliminar los desechos peligrosos de la Franja de Gaza, que son bombas de tiempo q...
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Algunos de ellos resultaron gravemente heridos por el bombardeo de la artillería israelí en los alrededores de la plaza de Beit Lahiya, al norte de la Faja de Gaza
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación lanzan bombas de gas lacrimógeno mientras penetran en la ciudad de Al-Ram, al norte de la Jerusalén ocupada
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Actualización inicial: un niño murió y varias personas resultaron heridas en una explosión en una casa del barrio de Al-Nasser, al oeste de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Nuestras columnas transportan cuatro heridos, uno de ellos grave, al hospital Al-Shifa a causa de una explosión en la calle Al-Nasser, al oeste de la ciudad de Gaza. El incidente continúa y continúa.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Defensa civil en Gaza: 2 niños resultaron heridos en la explosión de un objeto sospechoso en el barrio de Tuffa, al este de la ciudad de Gaza @Warlife3
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @Warlife3
+
+	• Localización: Gaza City
+		Breve descripción analítica: * El ejército israelí está llevando a cabo una enorme explosión al sudeste de la ciudad de Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: □ Ole: Víctimas en una explosión en el barrio de Al-Nasser, al norte de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: * * *Acelera ; Ole: mártir y heridos en una explosión en el barrio de Al-Nasser, al norte de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un mártir y heridos en una explosión en el barrio de Al-Nasser, al norte de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: Rápido, un vehículo civil que transportaba a cuatro heridos, entre ellos un niño, que fue atacado con una bomba Coadcapitr cerca de un círculo de Drappie al oeste de Jerusalén, en la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: El número de víctimas ha aumentado a 12 hasta el momento de la última explosión al oeste de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: Mártires y heridos como consecuencia de la explosión de un objeto sospechoso en una casa en la calle Al-Nasser, al oeste de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La artillería de ocupación bombardea las afueras de Shihin y Marwahin, en el sur del Líbano.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos niños fueron trasladados al hospital bautista después de haber sido heridos por la explosión de restos de la ocupación en la zona de Al-Alam, en el barrio de Al-Tuffah, en la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La artillería de ocupación bombardea con dos proyectiles las afueras de Blida, en el sur del Líbano.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Hamas: Las heridas de niños causadas por las explosiones de restos del enemigo confirman la magnitud de los riesgos cada vez mayores para todo nuestro pueblo en la Franja de Gaza, e instamos a todos los agentes internacionales a que adopten medidas urgentes para eliminar los desechos peligrosos, que son bombas de tiempo que pueden explotar en cualquier momento.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Urgentemente, una mujer israelí lanzó una bomba en el tejado del centro de acogida de desplazados internos de Palestina, en el campamento de Jabaliya, al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Al-Shila, en el norte de la Franja de Gaza, un grupo de palestinos resultó herido por el bombardeo de la artillería de ocupación en la rotonda de Beit Lahiya.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una explosión violenta que sacude el este de Khanyonis fue causada por la explosión de un robot bomba.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están lanzando bombas de gas en la ciudad de Al-Ram, al norte de la Jerusalén ocupada.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Urgentemente, mártires y heridos; como consecuencia de la explosión de un objeto abandonado por la ocupación, en una casa situada en la calle Al-Nasser, al oeste de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Mártires y heridos; como consecuencia de la explosión de un cuerpo abandonado por la ocupación, en una casa situada en la calle Al-Nasser, al oeste de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Ministerio del Interior de Gaza: Shahidan y varios heridos por una explosión en una casa del barrio de Al-Nasser, en la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Comunicado de prensa: los órganos competentes del Ministerio del Interior y de Seguridad Nacional están siguiendo un incidente de explosión en una casa del barrio de Al-Nasser, en la ciudad de Gaza, que provocó la muerte de dos mártires y heridas a otros ciudadanos.
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: * Fotografía de Alaa Mazen Abu Rida, que fue bombardeado por Israel esta mañana en la zona de Rumeida, en Beni Sihila, al este de Khanyonis
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: * Imagen de Ahmed Abderrahim Suhamud, que fue objeto de un bombardeo israelí esta mañana en la zona de Rumeida, en Beni Suhila, al este de Khanyonis
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El consejo de Ashcool está dando una advertencia a los colonos. Esta noche se oirá una explosión, es decir, un ataque al ejército en la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 21:41:24
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: Incendio de un apartamento en el perímetro de la sucursal del Banco Árabe en Al-Hasiba, al este de la ciudad de Naplusa; bombardeo de la ocupación durante el asedio de un adversario
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: El incendio de un apartamento en el perímetro de la sucursal del Banco Árabe en la zona de Al-Husbah, al este de la ciudad de Naplusa, a raíz del bombardeo de la ocupación durante el asedio de uno de los opositores.
+		Fecha/Hora: 2025-11-24 22:09:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Informaciones del enemigo: Un año y medio después, el terrorista palestino que murió en mayo de 2024 en un ataque de atropello cerca de Naplusa, los soldados muertos de Elías Hill y Diego Shuesheh fueron asesinados esta noche en el centro de la ciudad de Naplusa.
+		Fecha/Hora: 2025-11-24 22:18:32
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La Casa Blanca: consideramos que el régimen de Maduro es ilegal y el Presidente Trump está satisfecho con los ataques contra los terroristas de la droga.
+		Fecha/Hora: 2025-11-24 22:41:30
+		Fuente: @AjaNews
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 98
+	• Principales áreas afectadas: Localización no especificada (62), Gaza City (34), Rafah (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Corresponsal de la isla: ataques israelíes y disparos de tanques y helicópteros al noreste de la ciudad de Rafah al sur de la Franja de Gaza
+		Fecha/Hora: 2025-11-24 08:48:22
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El ejército israelí ha anunciado una maniobra militar en la zona de Galilea esta mañana, que durará dos días, con el objetivo de examinar el estado de preparación del ejército para todos los Sinarwat.
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: - El ex Jefe de Inteligencia Militar, General de Brigada Aarón Haleva, ex Jefe de Inteligencia Operacional, "Audid Bassyuk", ex Comandante del Comando Sur, General de Brigada Yaron Finkleman, ex Comandante de la Unidad 8200, ex Comandante de la Reserva "Yosi Sariel", ex Comandante de la División de Gaza, General de Brigada Avi Rosenfeld, ex Jefe de Estado Mayor del Mando Sur, Coronel Ariel Labowski, y Comandante de la Brigada Norte de la División de Gaza, Coronel Hayim Cohen.
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Seguimiento del portavoz del ejército de ocupación: grandes maniobras militares que comienzan hoy en las regiones de Galilea oriental
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Vídeo de refuerzos militares en curso de las fuerzas de ocupación hacia la ciudad de Tubas, al norte de la Ribera Occidental, después de que una fuerza especial irrumpiera en una casa en el barrio de Naqqar
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @GazaNewsNow
+
+	• Localización: Rafah
+		Breve descripción analítica: :: Corresponsal de la red de Jerusalén: ataques aéreos de la aviación de ocupación en conjunción con un bombardeo de artillería dirigido contra el este de la ciudad de Khanyonis; fuego intenso de tanques de ocupación al sur de Khanyonis; ataques aéreos y disparos de helicópteros de la aviación de ocupación contra la ciudad de Rafah.
+		Fecha/Hora: 2025-11-24 08:48:24
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un alto funcionario de los Estados Unidos reveló que el Gobierno de los Estados Unidos de América estaba detrás de los ataques de la ocupación israelí en la Franja de Gaza, considerando que el último movimiento militar había sido una "respuesta directa" a un incidente de seguridad que un agente de Hamas había cometido en una zona bajo control israelí. Un alto funcionario de los Estados Unidos reveló que la administración del Presidente de los Estados Unidos, Donald Trump, estaba detrás de los ataques de la ocupación israelí en la Franja de Gaza, y que la "proclamación de la cesación del fue...  [Enlace: https://www.alquds.com/ar/posts/211303]
+		Fecha/Hora: 2025-11-24 08:51:16
+		Fuente: WEB www.alquds.com
+
+	• Localización: Rafah
+		Breve descripción analítica: Ataques aéreos, disparos de tanques y helicópteros al noreste de Rafah.
+		Fecha/Hora: 2025-11-24 08:56:16
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los observadores israelíes resultaron heridos al norte y al sur de la Franja de Gaza ( mientras que en varias zonas del norte y el sur de la Franja de Gaza se registraron ataques aéreos y disparos masivos de tanques y helicópteros en las zonas ocupadas por Israel. Fuentes médicas dijeron que un palestino había resultado herido por disparos de artillería cerca de la denominada "línea amarilla" en la zona de Al-Sha 'af en la zona de Al-Jama ' ah en la parte oriental de Gaza.  [Enlace: https://www.alquds.com/ar/posts/211324]
+		Fecha/Hora: 2025-11-24 09:11:03
+		Fuente: WEB www.alquds.com
+
+	• Localización: Gaza City
+		Breve descripción analítica: Hospital Bautista: mártir de disparos de las fuerzas de ocupación fuera de la línea amarilla en el barrio de Tuffah, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 09:16:16
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Hospital Bautista: mártir de disparos de las fuerzas de ocupación en el barrio de Tuffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 09:17:16
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: ● La muerte de Mahmoud Wael en el campo por disparos del ejército de ocupación israelí en el barrio de Tuffah al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 09:21:16
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes de los hospitales de Gaza: 4 mártires muertos por disparos del ejército de ocupación en las ciudades de Gaza y Jan Yunis desde esta mañana
+		Fecha/Hora: 2025-11-24 09:40:16
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Cuatro mártires muertos por disparos del ejército de ocupación en las ciudades de Gaza y Janíos desde esta mañana.
+		Fecha/Hora: 2025-11-24 09:44:16
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un informe de prensa publicado por la radio del ejército de ocupación reveló que los combatientes de las brigadas Izz al-Din Al-Qassam, el ala militar de Hamas, lograron desactivar tanques israelíes durante la batalla de Tofan al-Aqsa en la zona de la cubierta de Gaza, después de reunir información delicada sobre el tanque Merkava 4 y formar una fuerza especial para tratar con los tanques.
+		Fecha/Hora: 2025-11-24 09:47:16
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes de los hospitales de Gaza: 4 mártires muertos por disparos del ejército de ocupación en las ciudades de Gaza y Jan Yunis desde esta mañana.
+		Fecha/Hora: 2025-11-24 09:49:16
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ Después de volver a ponerse en contacto con una de nuestras formaciones de combate en la compañía Al-Saylah Al-Harithiya, nos aseguraron que ayer a las 11.35 horas, los héroes de la ciudad podrían detonar un artefacto explosivo terrestre de tipo diluvio en un enclave militar y hacer que se les disparara. ▪ Nuestros héroes también pudieron hacer frente a las fuerzas de ocupación que irrumpieron en la ciudad en varios ejes y a sus lluvias con gran cantidad de balas directas y artefactos explosivos, investigando las bajas confirmadas.
+		Fecha/Hora: 2025-11-24 10:41:22
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Cuatro mártires que han sido objeto de disparos por las fuerzas de ocupación en las ciudades de Gaza y Jan Yunis desde esta mañana.
+		Fecha/Hora: 2025-11-24 10:41:22
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El 24 de noviembre de 1993, el Comandante Imad Akl murió el vigésimo segundo aniversario del mito de la resistencia palestina, el mártir Imad Akl, durante un enfrentamiento armado con las fuerzas de ocupación, después de haber sido sitiado en la casa de una mujer palestina, "Om Nidal Farhat", y de haber podido matar y herir a varios soldados de ocupación antes de ascender a un mártir.
+		Fecha/Hora: 2025-11-24 10:41:23
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En un enfrentamiento con Zamir Kats, anuncia la suspensión de los nombramientos de oficiales superiores hasta la conclusión de la investigación del 7 de octubre.
+		Fecha/Hora: 2025-11-24 10:41:23
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgencias de las compañías de Jerusalén - Batallón de Yenín: Anoche pudimos detonar un artefacto explosivo terrestre de tipo “tofu” en un enclave militar y detonarlo. Nuestros héroes también pudieron hacer frente a las fuerzas enemigas que irrumpieron en la ciudad en varios ejes y ardieron con gran cantidad de balas y artefactos explosivos.
+		Fecha/Hora: 2025-11-24 10:41:23
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En la zona del muro de separación y de la ocupación, un palestino fue herido por una campaña de detención en la Ribera Occidental, en la que las fuerzas de ocupación llevaron a cabo dos detenciones en ciudades de la Ribera Occidental, mientras que las topadoras israelíes demolieron una empresa al norte de la Jerusalén ocupada, después de que un palestino fuera herido ayer por disparos de la ocupación cerca del muro de separación racial. Fuentes locales dijeron que dos palestinos habían sido detenidos por las fuerzas de ocupación durante la incursión en la aldea de Kober, al norte de Ramallah.  [Enlace: https://www.alquds.com/ar/posts/211359]
+		Fecha/Hora: 2025-11-24 10:45:52
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, las compañías de Jerusalén y el batallón de Yenín: la compañía de Al-Saylah Al-Harithiya hizo detonar anoche un artefacto explosivo en un enclave militar israelí y lo derribó
+		Fecha/Hora: 2025-11-24 10:49:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La semana pasada, el comandante de la brigada 162 del ejército de ocupación clasificó una pelea colectiva entre soldados y oficiales de la brigada Javati y otros miembros del "Equipo de Ingeniería" en una base militar al norte de la Palestina ocupada como "falla de mando".
+		Fecha/Hora: 2025-11-24 10:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ La conducta israelí de utilizar a los familiares de los prisioneros y detenidos como rehenes, instrumentos de extorsión, presión e intimidación refleja el nivel de decadencia y desorganización de los servicios de seguridad, militares y políticos israelíes. ▪ El incidente del secuestro de los agentes de las fuerzas de seguridad israelíes no exigió una sola posición de la comunidad internacional, y antes de ello el secuestro de su padre en su lugar de trabajo.
+		Fecha/Hora: 2025-11-24 10:59:31
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Corresponsal de la isla: un palestino resultó herido por disparos de colonos en la ciudad de Beit Auer, al oeste de Ramallah, en el centro de la Ribera Occidental
+		Fecha/Hora: 2025-11-24 11:39:35
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El plan de Trump para Ucrania: una victoria “de tamaño” para Rusia ( es más parecido a un documento de rendición política redactado por Washington para suspender una guerra en la que Kev está agotada, y el oeste está en cuentas electorales internas, mientras que Moscú mantiene su posición estratégica. Cuando el observador considera el contenido de los artículos desde un ángulo ruso, el Kremlin descubre rápidamente que en el primer día de la "Operación militar especial" se encuentra más cerca de la "Operación militar especial": el reconocimiento internacional explícito de sus logros regional...  [Enlace: https://www.alquds.com/ar/posts/211423]
+		Fecha/Hora: 2025-11-24 13:13:09
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - La radio del ejército israelí ha pasado a través de la radio de la radio del ejército israelí: el Jefe de Estado Mayor del ejército israelí, Ayal Zamir, ordena a las fuerzas del ejército que operan en la frontera con el Líbano que levanten el estado de alerta de combate en caso de que se produzca una emergencia tras el asesinato del Jefe de Estado Mayor de Hizbollah Ali Tababi.
+		Fecha/Hora: 2025-11-24 13:21:46
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un palestino resultó herido por disparos de colonos al oeste de Ramallah, dos de los cuales resultaron heridos por disparos de colonos israelíes en la ciudad de Beit Aur, en la provincia ocupada de Ramallah, en el centro de la Ribera Occidental. Testigos presenciales dijeron que dos colonos habían atacado a ciudadanos durante la cobertura de la televisión oficial de Palestina.  [Enlace: https://www.alquds.com/ar/posts/211427]
+		Fecha/Hora: 2025-11-24 13:22:51
+		Fuente: WEB www.alquds.com
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Emergencias y ambulancias: heridos por disparos del ejército de ocupación israelí en Jabaliya, en el norte de la Franja de Gaza
+		Fecha/Hora: 2025-11-24 13:49:45
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: Emergencias y emergencias en Gaza: dos heridos por disparos del ejército de ocupación en Jabaliya, en el norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 13:54:49
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Ambulancia y emergencia en Gaza: Dos heridos por disparos del ejército de ocupación israelí en Ŷabaliya, en el norte de la Franja de Gaza
+		Fecha/Hora: 2025-11-24 13:57:46
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: Los aviones de la ocupación militar vuelan en el espacio aéreo del Líbano meridional.
+		Fecha/Hora: 2025-11-24 14:19:07
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Ministra Gila Gmiliel: Hamas será desarmado, Gaza será desmilitarizada y los cuerpos de los tres prisioneros serán devueltos.
+		Fecha/Hora: 2025-11-24 15:25:11
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El 5 de noviembre de 1968, en la zona de Al-Bashura, en la capital del Líbano, Beirut. - Su trayectoria militar comenzó a unirse a las filas de Hizbollah desde el decenio de 1980 y participó en un gran número de operaciones militares.
+		Fecha/Hora: 2025-11-24 15:52:03
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Mientras que la presencia militar turca en el norte de Siria comenzó con las operaciones militares en 2016, las ambiciones de Ankara en el resto de Siria no se cumplieron hasta el derrocamiento del Assad en diciembre de 2024. Si Ankara se hubiera basado exclusivamente en Siria, ya se hubieran establecido bases militares allí, pero la conducta del Presidente sirio Bashar Al-Assad, que trata de diversificar su base de apoyo, y la actividad preventiva israelí, hasta la fecha han ayudado a contrarrestar esas intenciones de Turquía.
+		Fecha/Hora: 2025-11-24 16:15:03
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los restos de la agresión israelí son bombas de relojería que deben ser retiradas con urgencia por Hamas, los dos agentes internacionales han llamado a la "acción urgente" para eliminar los restos militares israelíes de la Franja de Gaza y los han considerado "bombas de relojería" que representan una amenaza para los palestinos. En una declaración formulada por el portavoz del movimiento israelí, Hazem Qasim, el lunes anterior, tres niños resultaron heridos en diferentes zonas de la ciudad de Gaza a causa de la explosión de restos militares israelíes, según las declaraciones de la policía y...  [Enlace: https://www.alquds.com/ar/posts/211517]
+		Fecha/Hora: 2025-11-24 19:27:35
+		Fuente: WEB www.alquds.com
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes del hospital bautista: un palestino resultó herido por disparos del ejército de ocupación israelí en el barrio de Al-Qayziya, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Jefe de Estado Mayor se reunirá hoy con los comandantes militares durante su visita al Caribe.
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Jefe de Estado Mayor recibirá información sobre las operaciones militares y la preparación durante su visita al Caribe
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Oficial del Pentágono de la isla: el Jefe de Estado Mayor examinará con los comandantes militares la situación en la zona de operaciones del Mando Sur
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Los medios de comunicación israelíes: un enfrentamiento público y agudo entre el Jefe de Estado Mayor y el Ministro de Defensa, en el contexto de los nuevos nombramientos de comandantes del ejército
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Medios de comunicación israelíes: un enfrentamiento público entre el Jefe de Estado Mayor y el Ministro de Defensa en el contexto de los nuevos nombramientos de comandantes del ejército. Zamir describe la decisión de Kats de congelar los nuevos nombramientos de extranjeros y dice que va a perjudicar al ejército.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Primer Ministro Netanyahu convocó al Ministro Kats y al Jefe de Estado Mayor Zamir para una reunión de aclaración mañana, tras el enfrentamiento entre ellos.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal 13 Hebreo: Altos mandos del ejército israelí atacan al Ministro Kats, en el contexto del enfrentamiento con el Jefe de Estado Mayor Zimmer: "No le importa Irán ni Hizbollah - su único interés es la elección del Likud".
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El día 24 de noviembre se cumple el 32o aniversario del mito de la resistencia palestina, el mártir Imad Akl, durante un enfrentamiento armado con las fuerzas de ocupación, después de haber sido sitiado en la casa de una mujer palestina, “Om Nidal Farhat”, y haber podido matar y herir a varios soldados de ocupación antes de ascender a un mártir.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Aceleró los enfrentamientos entre los jóvenes y las fuerzas de ocupación en Yamon, al oeste de Jenin*
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación dispararon contra los jóvenes durante los enfrentamientos que estallaron tras la incursión en Yamon, al oeste de Jenin
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes buenas de Gaza: 5 mártires muertos por disparos de las fuerzas de ocupación desde el amanecer de hoy.
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Cinco mártires muertos por disparos del ejército de ocupación desde la madrugada de hoy, en zonas dispersas de la Franja de Gaza: - 1 - 1 - Ahmed Suhail al-Hawari 2 - Mahmoud Wael al-Rafiq 3 - Ahmed Abd al-Rahim Suhamud 4 - Alaa Mazen Abu Rida 5 - Khalid Youssef Dahlan
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Rápido, aviones de combate del tipo Quad Capter disparando cerca de la intersección de Sinafor y la calle Salah al-Din, frente a la calle Musharraf de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El día 24 de noviembre se cumple el 32o aniversario del mito de la resistencia palestina, el mártir Imad Akl, durante un enfrentamiento armado con las fuerzas de ocupación, después de haber sido sitiado en la casa de una mujer palestina, “Om Nidal Farhat”, y haber podido matar y herir a varios soldados de ocupación antes de ascender a un mártir.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Un palestino resultó herido por disparos de ocupación en una calle deshabitada, en el barrio de Al-Qayziya, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la ciudad de Yamun, al oeste de Jenin.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El día de hoy, Khaled Youssef Dahlan fue asesinado por disparos de ocupación en Jabaliya, al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido inmediato de enfrentamientos en la ciudad de Hazma, al noreste de la Jerusalén ocupada, y las fuerzas de ocupación lanzan bombas de gas.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Cinco mártires muertos por disparos del ejército israelí desde la madrugada del lunes en zonas dispersas de la Franja de Gaza: 1-Ahmad Suhail al-Hawari 2-Mohamud al-Rafil 3-Ahmad Abd al-Rahim Suhamud 4-Alaa Mazen Abu Rida 5-Khalid Youssef Dahlan
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación dispararon durante los enfrentamientos con jóvenes en Yamun, al oeste de Jenin.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Ministro Kats y el Jefe de Estado Mayor Zamir convocaron una reunión de aclaración mañana, tras el enfrentamiento entre ellos.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, seguimiento de la red de Jerusalén: estallido de enfrentamientos en la aldea de Husan, al oeste de Belén. La ocupación lanza bombas de sonido contra los jóvenes.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La actual concentración militar en el Caribe va más allá del objetivo de Maduro o Venezuela, y "la cuestión es expulsar a Rusia, China e Irán del hemisferio occidental".  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:32:46
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Medios de comunicación israelíes: coordinación sin precedentes entre las brigadas Qassam y Hezbollah en los últimos meses, preparación de cientos de batallones Qassam en el Líbano para unirse a Hezbolá en cualquier enfrentamiento futuro.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:32:46
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Un enfrentamiento armado violento entre las fuerzas de ocupación y la resistencia, en la zona oriental de la ciudad de Naplusa.
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Explosiones y disparos continuos en la zona oriental de la ciudad de Naplusa.
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevas escenas que documentan los enfrentamientos armados entre la resistencia y las fuerzas de ocupación en el este de la ciudad de Naplusa.
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Continuación de los enfrentamientos entre combatientes palestinos y el ejército israelí al este de la ciudad de Naplusa
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El vuelo de ocupación y reconocimiento en el espacio aéreo de la ciudad de Naplusa coincidió con violentos enfrentamientos con las fuerzas de ocupación de la región oriental.
+		Fecha/Hora: 2025-11-24 21:32:48
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Más refuerzos militares con una ambulancia de la estrella de David entrando en la zona este de Naplusa y volando un avión de combate a baja altitud en medio de violentos enfrentamientos en la calle Al-Husbah.
+		Fecha/Hora: 2025-11-24 21:33:17
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Makam Al-Hidi: evaluación en Israel: el asesino Haytham Ali Tababi ha presionado recientemente a Naim Qasim para que reanude los disparos contra Israel tras las incursiones en gran escala en el Líbano e incluso ha elaborado planes para una guerra de iniciativa de la organización
+		Fecha/Hora: 2025-11-24 21:36:01
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Makam Al-Hidi: evaluación en Israel: el asesino Haytham Ali Tababi ha presionado recientemente a Naim Qasim para que reanude los disparos contra Israel tras las incursiones en gran escala en el Líbano e incluso ha elaborado planes para una guerra de iniciativa de la organización
+		Fecha/Hora: 2025-11-24 21:36:01
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Apresúrense de que se produzcan explosiones y tiroteos en el este de la ciudad de Naplusa.
+		Fecha/Hora: 2025-11-24 21:37:01
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hajchut Bazman: informes de disparos de francotiradores en la zona de Naplusa,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:41:23
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el marco de las actividades de las Fuerzas de Defensa, la unidad Yamam y Shabak para frustrar el terrorismo en el este de la ciudad de Naplusa, se están llevando a cabo intercambios de disparos entre las fuerzas armadas y los hombres armados en la zona, más detalles más adelante,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:41:23
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Una declaración del ejército de ocupación y de la red militar que trabaja en Naplusa y hay un intercambio de disparos.
+		Fecha/Hora: 2025-11-24 21:41:24
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los terroristas se han preparado durante más de una semana para recibir a las tropas que entraron en Naplusa esta tarde sobre la base de la información que se les ha filtrado de Israel. La actividad continúa, al igual que el intercambio de disparos y el lanzamiento de los embalajes/envases, especialmente después de la liberación de los prisioneros en los últimos tratos.
+		Fecha/Hora: 2025-11-24 21:41:24
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación anuncia en una declaración oficial los enfrentamientos armados que están teniendo lugar entre un miembro de la resistencia y los soldados de ocupación en Naplusa.
+		Fecha/Hora: 2025-11-24 21:41:25
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ejército de Israel y Shabaq: intercambio de disparos entre nuestras fuerzas y personas armadas durante las actividades operacionales al este de Naplusa
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí: están teniendo lugar enfrentamientos entre nuestras fuerzas y un palestino armado al este de la ciudad de Naplusa, en la Ribera Occidental
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una unidad de combate lanzó un misil antitanque contra un edificio en el que se encontraba buscado en la ciudad de Naplusa, y un palestino fue liquidado en el centro de la ciudad de Naplusa por la unidad de Yemen y el ejército afirma haber frustrado un ataque posterior en Naplusa.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - A través de la frontera con Life - Declaración conjunta del ejército israelí y el banquillo: el ejército trabaja en Naplusa y hay un intercambio de disparos
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí: enfrentamientos armados entre el ejército israelí y un palestino armado en la región oriental de Naplusa.
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército israelí: El ejército israelí anuncia el asesinato de un palestino armado tras los enfrentamientos ocurridos en la zona oriental de Naplusa.
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Un intenso tiroteo desde tanques de ocupación al sur de la ciudad de Khan Younis al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: "Prontos enfrentamientos violentos durante una operación militar al este de Naplusa."
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevas escenas que documentan los enfrentamientos armados entre la resistencia y las fuerzas de ocupación en la zona oriental de Naplusa, al norte de la Ribera Occidental.
+		Fecha/Hora: 2025-11-24 22:09:51
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: "Pronto... buenas fuentes de Gaza: 5 mártires muertos por disparos de las fuerzas de ocupación desde el amanecer de hoy.
+		Fecha/Hora: 2025-11-24 22:09:51
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Información al enemigo: Radio del ejército enemigo: enfrentamientos entre el ejército israelí y un palestino armado en la región oriental de Naplusa.
+		Fecha/Hora: 2025-11-24 22:09:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevos enfrentamientos en la región oriental de Naplusa.
+		Fecha/Hora: 2025-11-24 22:09:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los medios de comunicación hebreos hablan de la liquidación de un joven palestino en el este durante un enfrentamiento, Señor de la Paz.
+		Fecha/Hora: 2025-11-24 22:09:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Un intenso tiroteo desde tanques de ocupación al sur de la ciudad de Khan Younis al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 22:09:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevas escenas que documentan los enfrentamientos armados entre la resistencia y las fuerzas de ocupación en la zona oriental de Naplusa, al norte de la Ribera Occidental**
+		Fecha/Hora: 2025-11-24 22:09:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el cielo al norte de la Ribera, cinco aviones militares de reconocimiento, entre los que se encuentran los guerrilleros, Tubas, Tulkarem, Jenin y Nablus, hasta la profundidad de la línea de separación de Qalqilya, en el sur del Líbano, las armas de las marchas israelíes en estos momentos se activan en varias zonas.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 22:41:30
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: A principios de hoy, tres soldados del ejército israelí resultaron heridos por el deslizamiento de un vehículo militar y su caída en un pozo al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 22:41:30
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Corresponsal militar de la cadena hebrea: tres soldados del ejército de ocupación resultaron heridos; un vehículo militar cayó hoy en la trinchera norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 22:41:30
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Hoy, tres soldados del ejército israelí resultaron heridos por el deslizamiento de un vehículo militar y su caída en un pozo al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-24 22:41:31
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: ** El corresponsal militar del canal I24NEWS resultó herido por tres soldados del ejército de ocupación; un vehículo militar cayó en una trinchera al norte de la Franja de Gaza a principios de hoy.
+		Fecha/Hora: 2025-11-24 22:41:31
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el cielo norte de la Ribera, cinco aviones militares de reconocimiento, entre los que se encuentran los guerrilleros, Tubas, Tulkarem, Jenin y Nablus, hasta la profundidad de la línea de separación de Qalqilya, en el sur del Líbano, las armas de las marchas israelíes se activan en estos momentos en varias zonas.
+		Fecha/Hora: 2025-11-24 22:41:31
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * * *Aceleró los disparos de tanques al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-24 22:41:31
+		Fuente: @yaseenpress2004
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 23
+	• Principales áreas afectadas: Localización no especificada (20), Gaza City (2), Um al-Nasr (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12: Se estima que el asesinato de un médico no conducirá a una escalada con Hizbollah. El sistema de seguridad está preparado para todos los escenarios después del asesinato de un médico.
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Centro israelí de B ' tselem: no se ha condenado a Israel en 21 casos de asesinatos de colonos palestinos
+		Fecha/Hora: 2025-11-24 10:41:21
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Sitio web de la revista Hebrea Ebok: Más allá de la decisión de liquidar al Jefe de Estado Mayor de Hizbollah, altos funcionarios israelíes dicen que el asesinato en el barrio envía un mensaje claro a Beirut de que las reglas del juego han cambiado, que el fortalecimiento de la fuerza de Hizbollah no es aceptable y que se está agotando el tiempo disponible para desmantelarlo.
+		Fecha/Hora: 2025-11-24 10:41:22
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El gran líder de la resistencia islámica libanesa, Hezbollah, es el mártir Al-Hajj/Heitham Ali al-Thabi 'Abuali, que ha ascendido a un mártir en la carretera de Jerusalén y Palestina, junto con un grupo de compañeros que lo entrenó en la resistencia y la población civil en el asesinato de Sioniya, organizado en asociación con los Estados Unidos. - La sangre derramada por la libertad y la dignidad es testimonio de la sinceridad de sus dueños a su mensaje nacional y a la entrega de la Secretaría de Defensa del Líbano y Palestina y de todos los ciudadanos de la nación que viven bajo la opresión.
+		Fecha/Hora: 2025-11-24 11:39:36
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 Hebreo: El Jefe de Estado Mayor ordenó que se levantara la preparación tras el asesinato del "Jefe de Estado Mayor" de Hezbolá
+		Fecha/Hora: 2025-11-24 12:56:06
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una manifestación en la capital, Beirut, condenando la continua agresión de la ocupación contra el Líbano y los asesinatos diarios.
+		Fecha/Hora: 2025-11-24 13:03:07
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • El periódico hebreo de Israel de hoy: tras el asesinato del Jefe de Estado Mayor de Hezbolá, Haytham Ali Tabbabi, se espera que el EIIL designe a otro alto funcionario en ese cargo.
+		Fecha/Hora: 2025-11-24 13:13:45
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Medios de comunicación israelíes: apertura de refugios en localidades fronterizas con el Líbano debido a la tensión causada por el asesinato de un médico
+		Fecha/Hora: 2025-11-24 13:23:45
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Urgentemente en el cruce de Life: apertura de refugios en ciudades fronterizas con el Líbano debido a la tensión causada por el asesinato de un médico
+		Fecha/Hora: 2025-11-24 13:25:45
+		Fuente: @EabriLive
+
+	• Localización: Um al-Nasr
+		Breve descripción analítica: El asesinato del Jefe de Estado Mayor de Hizbollah en el barrio es una clara prueba del estancamiento de la organización. Hizbollah trató de apaciguar a su base, gravemente afectada por la guerra, promoviendo la historia de la victoria e indemnizando financieramente a los afectados.
+		Fecha/Hora: 2025-11-24 13:27:45
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La mayoría de la población no ha regresado a las aldeas afectadas adyacentes a la frontera, y los elementos de Hezbolá que tratan de reconstruir sus capacidades se dirigen a corta distancia. En el estado de preparación posterior al asesinato en Beirut, el ejército israelí recuerda el período de aumento de Hizbollah después de la segunda guerra del Líbano y advierte: no se debe volver a la política de contención, aunque el precio sea un lanzamiento de cohetes hacia Tel Aviv.
+		Fecha/Hora: 2025-11-24 13:31:47
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El General de División Itain Dengwot, antiguo coordinador del Gobierno, expresó su apoyo al asesinato de un médico: con este paso, Israel dejó en claro que estaba decidido a acelerar el ritmo de las tareas, lo que también fue un mensaje para el Presidente y el Gobierno del Líbano.
+		Fecha/Hora: 2025-11-24 13:32:45
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Información al enemigo: se abrieron refugios en ciudades fronterizas con el Líbano debido a la tensión causada por el asesinato de un médico.
+		Fecha/Hora: 2025-11-24 13:38:46
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Urgente - Centro israelí de B ' tselem: no se ha condenado a Israel en 21 casos de asesinatos de colonos palestinos
+		Fecha/Hora: 2025-11-24 13:39:46
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Presidente del Consejo Ejecutivo de Hezbollah, Ali Medousz: El objetivo del asesinato es socavar la voluntad de la resistencia de subyugarse, pero ese objetivo nunca se alcanzará y están dispuestos a sacrificar lo mejor que podamos.
+		Fecha/Hora: 2025-11-24 14:31:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos expertos libaneses consideran que Israel derribó el acuerdo de cesación del fuego al asesinar al Jefe de Estado Mayor de Hezbollah, Haitham Ali Al-Tabrabi, señalando que la respuesta del partido estaba excluida en la actualidad. Sin previo aviso, las incursiones israelíes en el barrio meridional de Beirut violaron el domingo, con un ataque que provocó el asesinato de un médico, y otros cuatro elementos del ejército israelí, con un disparo en el Líbano, con un disparo en el lado de un disparo en el lado de un disparo en el lado de un disparo en el lado de un disparo en el lado de un avió...  [Enlace: https://www.alquds.com/ar/posts/211463]
+		Fecha/Hora: 2025-11-24 15:00:54
+		Fuente: WEB www.alquds.com
+
+	• Localización: Gaza City
+		Breve descripción analítica: El robo de la historia y la desfiguración de los monumentos se remontan a varios períodos de tiempo. Sin embargo, su trayectoria ha aumentado considerablemente tras la ocupación israelí de Jerusalén en junio de 1967.  [Enlace: https://www.alquds.com/ar/posts/211471]
+		Fecha/Hora: 2025-11-24 16:24:23
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Mi análisis de la respuesta de Hezbolá al asesinato,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 21:10:49
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Maaref: el Embajador iraní en el Líbano responde al asesinato del Jefe de Estado Mayor de Hezbolá en el Líbano, advirtiendo que "hay una posibilidad de que vuelva a estallar la guerra con Israel", y dijo: "Estamos listos para cualquier respuesta".
+		Fecha/Hora: 2025-11-24 21:10:50
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 14 Hebreo: Hilil Rizzon confirmó el asesinato hace un año del responsable de la operación de atropello y voló en el corazón de la ciudad de Naplusa.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 22:09:50
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Radio del ejército de ocupación: el asesinato de Abdel Raouf Shtia, que cometió el asesinato de dos soldados israelíes, atropellado hace un año y medio en el puesto de control de Aurta, al este de Naplusa; el asesinato de Abdul Raouf Shtia, que fue lanzado dos cohetes contra el edificio de la calle Amán, en Naplusa
+		Fecha/Hora: 2025-11-24 22:18:30
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Asesinato de Abdul Raouf Ashtia, que cometió el asesinato de dos soldados israelíes, atropellado hace un año y medio en la barrera de Aurta, al este de Naplusa, asesinato de Abdul Raouf Shtia, con dos cohetes disparados contra el edificio en el que estaba fortificado en la calle Amán, en la ciudad de Naplusa
+		Fecha/Hora: 2025-11-24 22:18:30
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El mártir, el héroe Abdul Raouf, fue asesinado hace un año y medio durante la operación de atropello y asesinato de dos soldados.
+		Fecha/Hora: 2025-11-24 22:41:31
+		Fuente: @yaseenpress2004
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los disturbios anormales golpean la mayoría de las regiones del norte, el sistema GPS no está funcionando a plena capacidad, los disturbios llegan hasta la profundidad del centro,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-24 10:41:21
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los habitantes de la localidad ocupada de Al-Taqra protestan en las calles después de que el Ministro de Seguridad Nacional del Gobierno de la ocupación, Ben Ghefir, irrumpiera en la ciudad con la máxima protección de la policía de ocupación anoche.
+		Fecha/Hora: 2025-11-24 10:48:32
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La policía británica detuvo al menos a 90 manifestantes en Londres durante una protesta por la prohibición de las autoridades de "Palestina Acción" y en apoyo de "Palestina". Los manifestantes levantaron pancartas en la plaza con frases como "Yo contra el genocidio" y "Yo apoyo a Palestina Acción", antes de ser detenidos por agentes de policía.
+		Fecha/Hora: 2025-11-24 13:57:46
+		Fuente: @hamza20300
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (1), Beach Camp (1), Gaza City (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - En las horas de la noche y de la noche, el país se ve afectado por la inestabilidad atmosférica, por lo que el clima es borroso y frío, sobre todo en las montañas, y por la voluntad de Dios se precipitan lluvias esporádicas en la mayoría de las regiones, acompañadas a veces de tormentas de viento.
+		Fecha/Hora: 2025-11-24 08:48:23
+		Fuente: @GazaNewsNow
+
+	• Localización: Beach Camp
+		Breve descripción analítica: *Vídeo de Defensa Civil: un misil de guerra de la ocupación explotó en uno de los campamentos cerca de las torres de Feroz en la costa norte. Nuestra población recuperó varios heridos y se produjo un incendio en varias tiendas de campaña del campamento.
+		Fecha/Hora: 2025-11-24 15:47:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Gaza se enfrenta a una “inundación forzada”: los precios siguen subiendo a pesar de la cesación del fuego, y la gente paga.
+		Fecha/Hora: 2025-11-24 21:10:51
+		Fuente: @yaseenpress2004
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 82 foco(s) – principales áreas: Bani Suheila, Gaza City, localización no especificada, Khan Younis, Nuseirat
+	• Conflicto Armado: 98 foco(s) – principales áreas: localización no especificada, Gaza City, Rafah
+	• Criminalidad: 23 foco(s) – principales áreas: localización no especificada, Gaza City, Um al-Nasr
+	• Disturbios Civiles: 3 foco(s) – principales áreas: localización no especificada
+	• Hazards: 3 foco(s) – principales áreas: localización no especificada, Gaza City, Beach Camp
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

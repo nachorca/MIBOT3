@@ -1,0 +1,196 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-27
+	•	Hora de edición: 2025-11-27 11:41:02
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-27 – total incidentes SICU: 14)
+
+• Terrorismo: 5 incidente(s) registrado(s).
+• Conflicto Armado: 7 incidente(s) registrado(s).
+• Criminalidad: 1 incidente(s) registrado(s).
+• Disturbios Civiles: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 5
+	• Principales áreas afectadas: Gaza City (3), Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: Rápido... bombardeo de artillería contra zonas del noreste del campamento de Bureij, en el centro de la Faja de Gaza
+		Fecha/Hora: 2025-11-27 11:13:44
+		Fuente: @hamza20300 | @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: - 16 violaciones del acuerdo de cesación del fuego cometidas por Israel y 6 mártires en Gaza desde la madrugada del jueves, incluidos ataques aéreos, bombardeos de artillería, fuego intenso y demolición de viviendas. - Un ataque aéreo contra la ciudad de Gaza y un bombardeo de artillería contra la zona oriental del campamento de Bureij en el centro del sector.
+		Fecha/Hora: 2025-11-27 11:13:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación está llevando a cabo operaciones de bombardeo al este del campamento de Bureij, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-27 11:13:46
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Hebreo Life/Penny Septi, investigador iraní en el Instituto de Estudios de Seguridad Nacional de Israel, sobre los esfuerzos de reconstrucción de la capacidad iraní después de la guerra de los 12 días: "Los iraníes están realmente obsesionados con la continuación de su proyecto, no comprenden plenamente lo que es una bomba nuclear; creen que es como lanzar piedras durante la segunda intifada, es sólo un material diferente que se puede lanzar al enemigo".
+		Fecha/Hora: 2025-11-27 11:13:46
+		Fuente: @EabriLive | @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Las autoridades ucranianas de Khirson: 2 muertos y 14 heridos en un bombardeo ruso contra la provincia
+		Fecha/Hora: 2025-11-27 11:13:46
+		Fuente: @AjaNews
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (4), Gaza City (2), Deir al-Balah (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Continúan los detalles diarios: bombardeo de edificios, bombardeo de artillería, tiroteos, ataques aéreos dentro de la llamada línea amarilla, mientras la gente se desplaza en tiendas de campaña que no son viables para los seres humanos y continúan sus tragedias.
+		Fecha/Hora: 2025-11-27 11:13:44
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: ∙ Canal Hebreo: informes palestinos de incursiones y disparos masivos desde helicópteros israelíes en la ciudad de Rafah y en las zonas orientales de Jan Yunis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-27 11:13:44
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Por segundo día, la ocupación continúa entrando en la provincia de Tubas y cerrando todas las entradas entre la provincia y las zonas vecinas. - La ciudad de Tumón es la zona más afectada por la operación militar debido a la presencia de una barrera militar en la ciudad que obstaculiza la circulación de ambulancias y ciudadanos.
+		Fecha/Hora: 2025-11-27 11:13:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: En una declaración de hoy, el Centro indicó que los equipos de vigilancia sobre el terreno registraban violaciones que no cesaron desde el momento en que entró en vigor el Acuerdo el pasado 10 de octubre, afirmando que los bombardeos aéreos y de artillería, las incursiones, los ataques contra civiles, la restricción del acceso a la asistencia, la prohibición de la circulación y los viajes eran incidentes recurrentes que reflejaban la ausencia de un compromiso efectivo de poner fin a las operaciones militares.
+		Fecha/Hora: 2025-11-27 11:13:45
+		Fuente: @GazaNewsNow
+
+	• Localización: Deir al-Balah
+		Breve descripción analítica: Equipos de ambulancias han sido heridos por disparos de artillería al este de Deir el-Balah.
+		Fecha/Hora: 2025-11-27 11:13:45
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Viceministro de Relaciones Exteriores de Rusia: tomaremos medidas militares si el despliegue de misiles estadounidenses de alcance intermedio en cualquier lugar constituye una amenaza para nosotros
+		Fecha/Hora: 2025-11-27 11:13:46
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Disparos intensivos de los mecanismos de ocupación alrededor del eje Morage.
+		Fecha/Hora: 2025-11-27 11:13:46
+		Fuente: @yaseenpress2004
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Gaza City (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: El asesinato de Shtia y Abdul Ghini. El descubrimiento de nuevas incubadoras de resistencia en la Ribera Occidental constituye el asesinato de dos días antes de la ocupación israelí de militantes en dos operaciones distintas en la Ribera Occidental, más de un año después de su persecución de preguntas sobre la adaptación de los opositores en la Ribera Occidental.
+		Fecha/Hora: 2025-11-27 11:08:15
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una fuente de liderazgo en el Comité Superior de Prisioneros Liberados de Fatah revela a la “red de santos”: comenzaremos con medidas prácticas sobre el terreno para protestar contra la negligencia de los dirigentes del poder en cuanto a nuestros derechos, en primer lugar retribuyéndonos los salarios que se recogieron en el último mes sin tener en cuenta el hecho de que estamos deportados, comprendemos las circunstancias en que se encuentran el poder y las presiones internacionales, pero la suspensión de los salarios de los prisioneros, en particular de los deportados, es inaceptable.
+		Fecha/Hora: 2025-11-27 11:13:46
+		Fuente: @yaseenpress2004
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 5 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Conflicto Armado: 7 foco(s) – principales áreas: Gaza City, localización no especificada, Deir al-Balah
+	• Criminalidad: 1 foco(s) – principales áreas: Gaza City
+	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

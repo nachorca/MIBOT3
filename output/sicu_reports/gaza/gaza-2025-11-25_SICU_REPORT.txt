@@ -1,0 +1,565 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-25
+	•	Hora de edición: 2025-11-25 14:59:56
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-25 – total incidentes SICU: 87)
+
+• Terrorismo: 7 incidente(s) registrado(s).
+• Conflicto Armado: 67 incidente(s) registrado(s).
+• Criminalidad: 8 incidente(s) registrado(s).
+• Disturbios Civiles: 2 incidente(s) registrado(s).
+• Hazards: 3 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (6), Gaza City (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Gobernador de Kiev: 4 muertos y varios heridos en un nuevo bombardeo ruso en la capital
+		Fecha/Hora: 2025-11-25 08:07:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Gobernador de Kiev: 6 muertos y varios heridos en un nuevo bombardeo ruso en la capital
+		Fecha/Hora: 2025-11-25 08:09:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El gobernador ucraniano de Khirson: 3 civiles muertos y otros heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-25 08:24:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El Gobernador de Zaburujia de Ucrania: un civil resultó muerto y otros heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-25 08:27:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *El día 46 del armisticio, la escalada israelí en gran escala: mártir, bombardeo aéreo, artillería y explosión de edificios*
+		Fecha/Hora: 2025-11-25 09:22:02
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes del ejército del Sudán: bombardeo de artillería entre el ejército y apoyo rápido en Babanosa, estado de Kordofán Occidental
+		Fecha/Hora: 2025-11-25 09:58:02
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: A pesar del acuerdo de cesación del fuego anunciado hace unos dos meses, Israel ha seguido disparando indiscriminadamente y bombardeando constantemente a la población. Hace unos días, el ejército de ocupación desplazó los cubos amarillos a 300 metros más hacia el interior, lo que provocó una nueva ola de desplazamientos bajo el bombardeo, en un momento en que la población no tenía otra alternativa o un lugar seguro al que acudir debido a la falta de alojamiento y al elevado costo del desplazamiento al sur.
+		Fecha/Hora: 2025-11-25 11:25:33
+		Fuente: @GazaNewsNow
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 67
+	• Principales áreas afectadas: Localización no especificada (35), Gaza City (30), Khan Younis (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:02:13
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:08:20
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:25:18
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Grandes fuerzas del ejército de ocupación han seguido irrumpiendo en la ciudad de Azoun, al este de Qalqilya, desde la medianoche, transformando una casa en un cuartel militar y llevando a cabo una campaña de arrestos.
+		Fecha/Hora: 2025-11-25 07:30:03
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:30:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las autoridades militares de Kiev: el ataque ruso contra la capital continúa e invitamos a la población a permanecer en refugios
+		Fecha/Hora: 2025-11-25 07:32:02
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:35:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:41:16
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:47:13
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:53:16
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 07:59:13
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:05:16
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Khan Younis
+		Breve descripción analítica: :: Complejo médico Nasser: mártir de disparos de ocupación en la localidad de Beni Suhila, dentro de la línea amarilla al este de Khan Younis
+		Fecha/Hora: 2025-11-25 08:10:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ana Braski-Maarif: Trump está iniciando un procedimiento para declarar a las filiales de la Hermandad Musulmana como organización terrorista, alegando su participación en los disparos contra Israel y su asociación con Hamas.
+		Fecha/Hora: 2025-11-25 08:11:02
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:11:10
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:16:11
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:21:13
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:27:19
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:33:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:38:25
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:43:15
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:49:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 08:54:14
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:00:22
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:06:16
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:12:23
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:18:22
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:24:19
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:29:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ** Movimiento Hamas: - El asesinato del mártir Mujahid Abdul Raouf Ashtia por las fuerzas de ocupación sionistas en Nablus; refleja el estado de brutalidad y derramamiento de sangre adoptado por el Gobierno extremista de ocupación, en un intento desesperado de romper la voluntad de la resistencia profundamente arraigada en la Ribera Occidental. - Denunciamos a nuestra nación y a las masas de nuestro pueblo, el mártir Mujahid Abdul Raouf, del campamento de Balata, que fue ascendido tras un cobarde asesinato y un enfrentamiento armado con el enemigo durante su incursión en el este de Naplusa**.
+		Fecha/Hora: 2025-11-25 09:34:03
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:35:18
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El asesinato del héroe Shtia, uno de los principales perseguidores de la ocupación en Naplusa, se produjo después de una marcha de heroísmo y jihadista, en la que se llevó a cabo una operación de atrocidad en la barrera de Aurta, que provocó la muerte de dos soldados de las fuerzas de ocupación, así como su participación en una serie de tiroteos dirigidos contra las fuerzas de ocupación y sus posiciones militares.
+		Fecha/Hora: 2025-11-25 09:39:03
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:41:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:47:21
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación está impulsando nuevos refuerzos militares contra la aldea de Marka, en Jenin, tras la infiltración de una fuerza especial y el asedio de una casa.
+		Fecha/Hora: 2025-11-25 09:52:03
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:52:12
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la "jahad" en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. "La Fundación Humanitaria de Gaza" declara el fin de su misión en la Franja.
+		Fecha/Hora: 2025-11-25 09:58:16
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Reportero de  Las fuerzas de ocupación están rodeando una casa en la aldea de Marka, al sur de Jenin, en medio de un intenso tiroteo
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: } Corresponsal # Al-Jazeera: una fuerza especial israelí se infiltró en la aldea de Marka al sur de Jenin y asedió una casa en medio de un intenso tiroteo
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Corresponsal de la isla: gran cantidad de disparos en la aldea de Marka, al sur de Jenin, al norte de la Ribera Occidental, tras la infiltración de una fuerza especial israelí
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Corresponsal de la isla: las fuerzas de ocupación están llevando a cabo una operación especial en la aldea de Marka, al sur de Jenin, con la participación de un avión militar israelí
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, las compañías de Jerusalén y el batallón de Jenin: nuestros combatientes están librando intensos combates con las fuerzas enemigas que asedian una casa en la aldea de Marka
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Prontos enfrentamientos violentos y asedio de una casa entre Qabatiya y una ciudad acantonada al sur de Jenin*  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los helicópteros israelíes participan en bombardeos, disparos, explosiones de enfrentamientos violentos y asedio de una casa entre Qabatiya y la ciudad de Marka, al sur de Jenin.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Más refuerzos militares en dirección a Qabatiya, al sur de Jenin.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las compañías de Jerusalén y Naplusa, después de volver a ponerse en contacto con una de nuestras formaciones de combate en la compañía de Balata, nos aseguraron que ayer por la noche podían hacer frente a la incursión en la zona oriental de la ciudad. Nuestros héroes también lograron que las fuerzas de infantería y los mecanismos militares en el centro de Al-Hasba se adentraran en un campo de fuego y que sus aeropuertos con gran cantidad de balas directas, carcasas y granadas de mano, investigando las heridas confirmadas .
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Fuentes hebreas: enfrentamientos armados entre la resistencia y las fuerzas de ocupación en los alrededores de la zona sitiada de la aldea de Marka, al sur de Jenin.
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @GazaNewsNow
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: Saraya Al-Quds, batallón de Yenín: Nuestros combatientes están librando intensos combates con las fuerzas enemigas que asedian una casa en la aldea de Marka, al sur de Jenin, al norte de la Ribera Occidental.
+		Fecha/Hora: 2025-11-25 11:19:34
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ana Braski-Maarif: - Trump está iniciando un procedimiento para declarar a las filiales de los Hermanos Musulmanes como organización terrorista, alegando su participación en los disparos contra Israel y su asociación con Hamas. - Pero el paso es parcial y deja lagunas: la declaración se hace "una rama después de una rama", lo que les permite mostrar cambios de forma para eludir la clasificación.
+		Fecha/Hora: 2025-11-25 11:19:34
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Disparos de helicópteros de la aviación de ocupación y sonidos de explosiones en los alrededores de la zona asediada por una aldea de refugiados.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ El asesinato de un héroe que fue uno de los principales aeropuertos de la ocupación en Naplusa se produjo después de una marcha yihadista de heroísmo. La operación se llevó a cabo en el puesto de control de Aurta, que provocó la muerte de dos soldados de las fuerzas de ocupación, además de su participación en una serie de tiroteos dirigidos contra las fuerzas de ocupación y sus posiciones militares.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevos refuerzos militares hacia la aldea de Marka, en Jenin.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una topadora militar acompañada de una nueva fuerza del ejército de ocupación contra la posición asediada en la aldea de Marka, en Jenin.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las escenas de la operación militar en la ciudad de Naplusa, la unidad de Al-Yimam, participaron en el asesinato del director de la operación de atropello hace un año y medio.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes hebreas: enfrentamiento armado entre la resistencia y el ejército de ocupación en la aldea de Marka, al sur de Jenin.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El corresponsal de radio del ejército de ocupación confirma que hubo un enfrentamiento armado entre los opositores y los soldados de ocupación en la aldea de Marka, cerca de Jenin.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación denuncia el asesinato de una resistencia palestina tras un enfrentamiento armado y el asedio y bombardeo de una casa en la aldea de Marka, en Jenin.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fotografías de un arma difundidas por la ocupación desde la casa que le asediaron y bombardearon después de un enfrentamiento armado con una resistencia en la aldea de Marka, en Jenin.
+		Fecha/Hora: 2025-11-25 11:25:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación anuncia la muerte del acosador Sultán Abdel Ghani después de un enfrentamiento armado con los soldados de ocupación cerca de Jenin, un ataque que causó la muerte de un colono en agosto del año pasado en la operación Shakush.
+		Fecha/Hora: 2025-11-25 11:58:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Frente Popular: - Denunciamos al heroísmo Abdul Raouf Shtia, que fue citado durante un cobarde asesinato cometido por la ocupación en la ciudad de Naplusa, y encomiamos su perseverancia y su perseverancia frente a la fuerza militar bruta que lo ha dirigido. - El asesinato representa una peligrosa escalada sionista y un enfoque constante que refleja el carácter racista y fascista de esta ocupación criminal.
+		Fecha/Hora: 2025-11-25 11:58:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Ministerio de Defensa de la Federación de Rusia: Nuestro objetivo es la infraestructura de transporte, puertos e instalaciones del complejo militar industrial y de energía de Ucrania
+		Fecha/Hora: 2025-11-25 11:58:58
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * El movimiento de resistencia islámica Hamas, Shahid al-Mujahid Sultan Abdul Ghini, de la localidad de Bagha al-Habba, al este de Qalqilya, se levantó el martes 25-11-2025 durante un enfrentamiento armado con las fuerzas de ocupación en la aldea de Marka, al sur de Jenin, que es el responsable de la operación Shakush, cerca del asentamiento de Kdoumim, al este de Qalqilya, y causó la muerte de un colono en agosto de 2024**
+		Fecha/Hora: 2025-11-25 14:44:30
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí está asesinando al director de la operación Shakush, que mató a un soldado y confiscó su arma hace un año y medio. La salud palestina confirma que el joven Sultán Nidal Abdul Aziz, de 22 años, fue muerto por disparos del ejército en un puesto situado al sur de Jenin.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-25 14:44:30
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes médicas palestinas: El joven Sultán Abdel Aziz fue muerto por disparos de la ocupación en la localidad de Marka, al sur de Jenin
+		Fecha/Hora: 2025-11-25 14:44:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Corresponsal de la isla: la ocupación decide demoler decenas de viviendas en el campamento de Yenín con fines militares
+		Fecha/Hora: 2025-11-25 14:44:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • El portavoz de las fuerzas armadas pakistaníes: nuestras fuerzas no han atacado a civiles en el Afganistán
+		Fecha/Hora: 2025-11-25 14:44:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Presidente del Consejo de Seguridad en la aldea de Marka, en Jenin, habla de la agresión de la ocupación, que terminó con el asesinato del mártir Sultán Abdel Ghani tras un enfrentamiento armado, un bombardeo y un bloqueo.
+		Fecha/Hora: 2025-11-25 14:44:31
+		Fuente: @yaseenpress2004
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 8
+	• Principales áreas afectadas: Localización no especificada (6), Gaza City (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Declaración de prensa del Movimiento de Resistencia Islámica Hamas sobre el asesinato cometido por las fuerzas de ocupación sionistas contra el mártir Mujahid Abdul Raouf Ashtih en Naplusa; refleja el estado de brutalidad y derramamiento de sangre adoptado por el Gobierno extremista de ocupación, en un intento desesperado por romper la voluntad de la resistencia profundamente arraigada en la Ribera Occidental. El asesinato de un héroe invadido, que era uno de los aeropuertos de ocupación más destacados de Naplusa, se produjo después de una marcha yihadista de heroísmo, en la que se llevó...
+		Fecha/Hora: 2025-11-25 09:32:03
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ejército de Israel: Matamos a un palestino al sur de Jenin en una operación conjunta con el Shabak por haber sido responsable del asesinato de un israelí
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ Este cobarde crimen se suma a los crímenes del enemigo contra nuestro pueblo y a los asesinatos y actos de terrorismo perpetrados por colonos y soldados del enemigo en ciudades, aldeas y campamentos de la Ribera Occidental, en el marco de la política criminal del Gobierno del enemigo encaminada a desplazar a nuestro pueblo e imponer nuevos hechos allí. ▪ Condenamos el silencio internacional y el apoyo de los Estados Unidos, que han alentado al enemigo a llevar adelante sus crímenes contra nuestro pueblo y a violar todos los pactos y normas internacionales.
+		Fecha/Hora: 2025-11-25 11:19:33
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ejército enemigo israelí: Matamos a un palestino al sur de Jenin en una operación conjunta con la Shabak por haber sido responsable del asesinato de Israel, y terminamos con la liquidación de todos los saboteadores que habían matado a israelíes en la Ribera Occidental.
+		Fecha/Hora: 2025-11-25 11:19:34
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las escenas de la ocupación masiva de una aldea de Yenín, donde la ocupación asedió una casa, se enfrentó a un adversario y pretendió el asesinato del director de la Operación Shakush, Sultán Abdel Ghani.
+		Fecha/Hora: 2025-11-25 11:58:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación israelí ha declarado el asesinato de dos palestinos en las últimas horas, después de haber bloqueado dos casas en Yenín y Naplusa al norte de la Ribera Occidental ocupada.
+		Fecha/Hora: 2025-11-25 11:59:26
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Oficina de Información Pública del Gobierno de Gaza: la Fundación Humanitaria de Gaza era una falsa cobertura humanitaria y transformó sus centros de pesca de muerte y asesinatos en masa
+		Fecha/Hora: 2025-11-25 14:44:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un testigo que habla del asedio de la ocupación, de obligar a la población a salir de sus hogares y del asesinato de Abdul Raouf Ashtia, al este de Naplusa.
+		Fecha/Hora: 2025-11-25 14:44:31
+		Fuente: @yaseenpress2004
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La huelga del centro árabe en Israel es un factor clave que puede causar el colapso de los órganos vitales.
+		Fecha/Hora: 2025-11-25 14:44:30
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las protestas en Homs contra el régimen y las milicias del Golán después de su incursión matando a civiles por motivos sectarios.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-25 14:44:30
+		Fuente: @Almustashaar
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El país sigue viéndose afectado por la inestabilidad atmosférica y, con el permiso de Dios, se producen lluvias esporádicas en diferentes regiones, con fuertes tormentas eléctricas y a veces de frío. En las horas de la noche, la posibilidad de que la lluvia se debilite y el clima se estabilice por la noche, los vientos del noroeste, de velocidad moderada, a veces con fuertes donaciones, y el mar, con una altitud media de las olas hacia el agua.
+		Fecha/Hora: 2025-11-25 08:21:03
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El muro de separación cayó en la zona de la línea de contacto de Khaish a causa de la tormenta...
+		Fecha/Hora: 2025-11-25 09:37:02
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El muro de separación cayó en la zona de la línea de contacto de Khaish a causa de la tormenta...
+		Fecha/Hora: 2025-11-25 14:44:29
+		Fuente: @hamza20300
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 7 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Conflicto Armado: 67 foco(s) – principales áreas: Al-Quds Hospital, Gaza City, Khan Younis, localización no especificada
+	• Criminalidad: 8 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Disturbios Civiles: 2 foco(s) – principales áreas: localización no especificada
+	• Hazards: 3 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

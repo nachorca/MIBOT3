@@ -1,0 +1,232 @@
+{
+  "gaza|rafah": {
+    "lat": 31.291,
+    "lon": 34.245,
+    "std_loc": "Rafah , Rafah, Rafah, Gaza"
+  },
+  "gaza|gaza city": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|beit lahia": {
+    "lat": 31.552,
+    "lon": 34.495,
+    "std_loc": "Beit Lahia , Beit Lahia, North Gaza, Gaza"
+  },
+  "gaza|gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|منطقة أ": {
+    "lat": 31.4782595,
+    "lon": 34.5318652,
+    "std_loc": "منطقة أ, Gaza"
+  },
+  "gaza|منطقة ب": {
+    "lat": 31.2733617,
+    "lon": 34.2499109,
+    "std_loc": "منطقة ب, Gaza"
+  },
+  "gaza|i̇stanbul": {
+    "lat": 31.5122402,
+    "lon": 34.4448839,
+    "std_loc": "İstanbul, Gaza"
+  },
+  "gaza|渋谷区, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|rafah , rafah, rafah, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|dubrajpur, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|madrid, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|文京区, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|gaza city , gaza city, gaza, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|ciudad de méxico, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|beit lahia , beit lahia, north gaza, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|kennebec county, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|khan younis": {
+    "lat": 31.343,
+    "lon": 34.303,
+    "std_loc": "Khan Younis , Khan Younis, Khan Younis, Gaza"
+  },
+  "gaza|pedro domingo murillo, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|ciudad de san luis, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|kreis segeberg, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|москва, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|örebro län, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|שטח c, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|provincia de maipo, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|castilla-la mancha, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|provincia de arica, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|distrito tercero, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|boquerón, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|santo domingo este, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|نجران, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|gracias, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|gasteizko kuadrilla / cuadrilla de vitoria, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|rhône, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|comunidad de madrid, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|ciudad autónoma de buenos aires, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|منطقة أ, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|ירושלים, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|منطقة ب, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|piacenza, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|caso, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|el bierzo, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "gaza|i̇stanbul, gaza": {
+    "lat": 31.52,
+    "lon": 34.45,
+    "std_loc": "Gaza City , Gaza City, Gaza, Gaza"
+  },
+  "haiti|port-au-prince": {
+    "lat": 18.539,
+    "lon": -72.336,
+    "std_loc": "Port-au-Prince , Port-au-Prince, Ouest, Haiti"
+  },
+  "haiti|kenscoff": {
+    "lat": 18.411,
+    "lon": -72.284,
+    "std_loc": "Kenscoff , Kenscoff, Ouest, Haiti"
+  },
+  "gaza|al-rimal": {
+    "lat": 31.512,
+    "lon": 34.446,
+    "std_loc": "Al-Rimal , Gaza City, Gaza, Gaza"
+  },
+  "gaza|nuseirat": {
+    "lat": 31.448,
+    "lon": 34.392,
+    "std_loc": "Nuseirat , Nuseirat, Deir al-Balah, Gaza"
+  }
+}

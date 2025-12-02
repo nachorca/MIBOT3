@@ -1,0 +1,288 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-11-24
+	•	Hora de edición: 2025-11-24 23:07:13
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-24 – total incidentes SICU: 34)
+
+• Terrorismo: 1 incidente(s) registrado(s).
+• Criminalidad: 33 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Feijóo denuncia que Otegi y la corrupción de Cerdán auparon a Sánchez al poder: "Koldo le llevó al encuentro del terrorista"  Recreación del viaje de Pedro Sánchez desde el Aeropuerto del Bilbao a un caserío vasco para reunirse con Arnaldo Otegi en ma Diseño: Lina Smith / Recursos IA Midjourney y Grok Feijóo denuncia que Otegi y la corrupción de Cerdán auparon a Sánchez al poder: "Koldo le llevó al encuentro del terrorista" "Con Bildu no se acuerda nada", garantizó Sánchez ante los periodistas en junio de 2019, 13 meses después de cerrar su pacto secreto con Otegi para ser presidente del Go...  [Enlace: https://www.elespanol.com/espana/politica/20251124/feijoo-denuncia-otegi-corrupcion-cerdan-auparon-sanchez-poder-koldo-llevo-encuentro-terrorista/1003744026389_0.html?utm_cmp_rs=trends]
+		Fecha/Hora: 2025-11-24 08:50:40
+		Fuente: WEB www.elespanol.com
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 33
+	• Principales áreas afectadas: Localización no especificada (33)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Koldo corrobora que condujo a Sánchez a reunirse con Otegi en un caserío tras desmentirlo el Gobierno: "Lo que publica El Español es verdad"  Koldo García y Óscar López.  [Enlace: https://www.elespanol.com/espana/politica/20251124/koldo-garcia-corrobora-llevo-sanchez-reunirse-otegi-desmentido-gobierno-publica-espanol-verdad/1003744026416_0.html?utm_cmp_rs=trends]
+		Fecha/Hora: 2025-11-24 13:52:45
+		Fuente: WEB www.elespanol.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Liberan a dos hombres secuestrados como represalia por un robo en Almoradí  Liberan a dos hombres secuestrados como represalia por un robo en Almoradí La Guardia Civil y la Policía Local detienen a tres personas por llevarse a las víctimas maniatadas y agredirlas en un descampado Rescatados dos hombres tras ser secuestrados en venganza por un robo en Almoradí / INFORMACIÓN La Guardia Civil y la Policía Local de Almoradí han detenido a tres hombres de 20, 28 y 44 años como presuntos autores de la detención ilegal y agresiones a dos varones que fueron maniatados y trasladados por la fuerza a...  [Enlace: https://www.informacion.es/sucesos/sucesos-en-alicante/2025/11/24/liberan-hombres-secuestrados-represalia-robo-124055445.html]
+		Fecha/Hora: 2025-11-24 14:17:00
+		Fuente: WEB www.informacion.es
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: https://www.informacion.es/sucesos/sucesos-en-alicante/2025/11/24/desmantelan-punto-venta-drogas-menudeo-124056511.html  [Enlace: https://www.informacion.es/sucesos/sucesos-en-alicante/2025/11/24/desmantelan-punto-venta-drogas-menudeo-124056511.html]
+		Fecha/Hora: 2025-11-24 21:10:48
+		Fuente: @alicanteprensapolicianacional
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Conciertos, exposiciones y contactos con modelos: la vida en Cuba del profesor fugado de Ourense La inspección del día antes en la mina de Asturias se realizó en la misma zona donde se produjo el derrumbe La mujer asesinada en Málaga fue atacada con un arma blanca La niña de Valencia ingresada tras una intervención dental evoluciona "favorablemente" y pasa a planta Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí La Policía i...
+		Fecha/Hora: 2025-11-24 22:09:59
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Agrede a una empleada de Ryanair tras una disputa por su maleta en el aeropuerto de Alicante-Elche Arrestado en Alicante por robar el motor del aire acondicionado de un colegio Las estafas por el hijo en apuros llegan al banquillo en Alicante Detenido en Dénia por extorsionar a un usuario de una página para sexo con amenazas de sicarios Una persecución por droga ent...
+		Fecha/Hora: 2025-11-24 22:10:01
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Dos jóvenes músicos de la Vega Baja debutan en Nueva York Orihuela adjudica el alquiler de 1.200 patinetes en 120 puntos de la Costa para poner orden en un servicio caótico Factura récord de la Vega Baja por exportar la basura a doce vertederos en 2026: 31 millones de euros Un año sin Cloe: clamor en Orihuela Costa para que se endurezca la Ley del Menor La polémica del tasazo de la basura en Torrevieja: los vecinos seguirán pagando más...
+		Fecha/Hora: 2025-11-24 22:10:32
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:10:33
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:10:40
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Conciertos, exposiciones y contactos con modelos: la vida en Cuba del profesor fugado de Ourense La inspección del día antes en la mina de Asturias se realizó en la misma zona donde se produjo el derrumbe La mujer asesinada en Málaga fue atacada con un arma blanca La niña de Valencia ingresada tras una intervención dental evoluciona "favorablemente" y pasa a planta Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí La Policía i...
+		Fecha/Hora: 2025-11-24 22:15:04
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Agrede a una empleada de Ryanair tras una disputa por su maleta en el aeropuerto de Alicante-Elche Arrestado en Alicante por robar el motor del aire acondicionado de un colegio Las estafas por el hijo en apuros llegan al banquillo en Alicante Detenido en Dénia por extorsionar a un usuario de una página para sexo con amenazas de sicarios Una persecución por droga ent...
+		Fecha/Hora: 2025-11-24 22:15:06
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Dos jóvenes músicos de la Vega Baja debutan en Nueva York Orihuela adjudica el alquiler de 1.200 patinetes en 120 puntos de la Costa para poner orden en un servicio caótico Factura récord de la Vega Baja por exportar la basura a doce vertederos en 2026: 31 millones de euros Un año sin Cloe: clamor en Orihuela Costa para que se endurezca la Ley del Menor La polémica del tasazo de la basura en Torrevieja: los vecinos seguirán pagando más...
+		Fecha/Hora: 2025-11-24 22:15:36
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:15:37
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:15:42
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Sale de la cárcel el tío de los hermanos Marc y Álex Márquez Conciertos, exposiciones y contactos con modelos: la vida en Cuba del profesor fugado de Ourense La inspección del día antes en la mina de Asturias se realizó en la misma zona donde se produjo el derrumbe La mujer asesinada en Málaga fue atacada con un arma blanca La niña de Valencia ingresada tras una intervención dental evoluciona "favorablemente" y pasa a planta Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secu...
+		Fecha/Hora: 2025-11-24 22:20:06
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Agrede a una empleada de Ryanair tras una disputa por su maleta en el aeropuerto de Alicante-Elche Arrestado en Alicante por robar el motor del aire acondicionado de un colegio Las estafas por el hijo en apuros llegan al banquillo en Alicante Detenido en Dénia por extorsionar a un usuario de una página para sexo con amenazas de sicarios Una persecución por droga ent...
+		Fecha/Hora: 2025-11-24 22:20:08
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Dos jóvenes músicos de la Vega Baja debutan en Nueva York Orihuela adjudica el alquiler de 1.200 patinetes en 120 puntos de la Costa para poner orden en un servicio caótico Factura récord de la Vega Baja por exportar la basura a doce vertederos en 2026: 31 millones de euros Un año sin Cloe: clamor en Orihuela Costa para que se endurezca la Ley del Menor La polémica del tasazo de la basura en Torrevieja: los vecinos seguirán pagando más...
+		Fecha/Hora: 2025-11-24 22:20:37
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:20:38
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:20:44
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Detienen en Cuba al profesor gallego condenado por violar a una menor Sale de la cárcel el tío de los hermanos Marc y Álex Márquez Conciertos, exposiciones y contactos con modelos: la vida en Cuba del profesor fugado de Ourense La inspección del día antes en la mina de Asturias se realizó en la misma zona donde se produjo el derrumbe La mujer asesinada en Málaga fue atacada con un arma blanca La niña de Valencia ingresada tras una intervención dental evoluciona "favorablemente" y pasa a planta Desmantelan un punto de venta de drogas al menudeo...
+		Fecha/Hora: 2025-11-24 22:25:30
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Agrede a una empleada de Ryanair tras una disputa por su maleta en el aeropuerto de Alicante-Elche Arrestado en Alicante por robar el motor del aire acondicionado de un colegio Las estafas por el hijo en apuros llegan al banquillo en Alicante Detenido en Dénia por extorsionar a un usuario de una página para sexo con amenazas de sicarios Una persecución por droga ent...
+		Fecha/Hora: 2025-11-24 22:25:31
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Dos jóvenes músicos de la Vega Baja debutan en Nueva York Orihuela adjudica el alquiler de 1.200 patinetes en 120 puntos de la Costa para poner orden en un servicio caótico Factura récord de la Vega Baja por exportar la basura a doce vertederos en 2026: 31 millones de euros Un año sin Cloe: clamor en Orihuela Costa para que se endurezca la Ley del Menor La polémica del tasazo de la basura en Torrevieja: los vecinos seguirán pagando más...
+		Fecha/Hora: 2025-11-24 22:25:58
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:38:33
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:38:39
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Detienen en Cuba al profesor gallego condenado por violar a una menor Sale de la cárcel el tío de los hermanos Marc y Álex Márquez Conciertos, exposiciones y contactos con modelos: la vida en Cuba del profesor fugado de Ourense La inspección del día antes en la mina de Asturias se realizó en la misma zona donde se produjo el derrumbe La mujer asesinada en Málaga fue atacada con un arma blanca La niña de Valencia ingresada tras una intervención dental evoluciona "favorablemente" y pasa a planta Desmantelan un punto de venta de drogas al menudeo...
+		Fecha/Hora: 2025-11-24 22:41:36
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Agrede a una empleada de Ryanair tras una disputa por su maleta en el aeropuerto de Alicante-Elche Arrestado en Alicante por robar el motor del aire acondicionado de un colegio Las estafas por el hijo en apuros llegan al banquillo en Alicante Detenido en Dénia por extorsionar a un usuario de una página para sexo con amenazas de sicarios Una persecución por droga ent...
+		Fecha/Hora: 2025-11-24 22:41:37
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Dos jóvenes músicos de la Vega Baja debutan en Nueva York Orihuela adjudica el alquiler de 1.200 patinetes en 120 puntos de la Costa para poner orden en un servicio caótico Factura récord de la Vega Baja por exportar la basura a doce vertederos en 2026: 31 millones de euros Un año sin Cloe: clamor en Orihuela Costa para que se endurezca la Ley del Menor La polémica del tasazo de la basura en Torrevieja: los vecinos seguirán pagando más...
+		Fecha/Hora: 2025-11-24 22:42:10
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:42:10
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:42:14
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Detienen en Cuba al profesor gallego condenado por violar a una menor Sale de la cárcel el tío de los hermanos Marc y Álex Márquez Conciertos, exposiciones y contactos con modelos: la vida en Cuba del profesor fugado de Ourense La inspección del día antes en la mina de Asturias se realizó en la misma zona donde se produjo el derrumbe La mujer asesinada en Málaga fue atacada con un arma blanca La niña de Valencia ingresada tras una intervención dental evoluciona "favorablemente" y pasa a planta Desmantelan un punto de venta de drogas al menudeo...
+		Fecha/Hora: 2025-11-24 22:53:55
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Agrede a una empleada de Ryanair tras una disputa por su maleta en el aeropuerto de Alicante-Elche Arrestado en Alicante por robar el motor del aire acondicionado de un colegio Las estafas por el hijo en apuros llegan al banquillo en Alicante Detenido en Dénia por extorsionar a un usuario de una página para sexo con amenazas de sicarios Una persecución por droga ent...
+		Fecha/Hora: 2025-11-24 22:53:56
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Liberan a dos hombres secuestrados como represalia por un robo en Almoradí Dos jóvenes músicos de la Vega Baja debutan en Nueva York Orihuela adjudica el alquiler de 1.200 patinetes en 120 puntos de la Costa para poner orden en un servicio caótico Factura récord de la Vega Baja por exportar la basura a doce vertederos en 2026: 31 millones de euros Un año sin Cloe: clamor en Orihuela Costa para que se endurezca la Ley del Menor La polémica del tasazo de la basura en Torrevieja: los vecinos seguirán pagando más...
+		Fecha/Hora: 2025-11-24 22:54:33
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:54:33
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de L'Alacantí | Toda la Actualidad y Noticias de L'Alacantí en INFORMACION Xixona rechaza la instalación de un centro para el tratamiento de adicciones en una zona rural Personas con discapacidad intelectual, acomodadores en la Casa de Cultura de Mutxamel Mutxamel se cansa y se pone duro con los vertidos ilegales El interventor de Sant Joan alerta: "No cabe de ningún modo" Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia ciudadana El récord que pulveriza San Vicente: ocho prórrogas del contrato más jugoso El viento deja rachas de hasta 129 km/h...
+		Fecha/Hora: 2025-11-24 22:54:37
+		Fuente: WEB https://www.informacion.es/alacanti/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 1 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 33 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

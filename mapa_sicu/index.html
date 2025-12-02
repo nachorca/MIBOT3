@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mapa SICU</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+
+  <!-- Awesome Markers -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.awesome-markers/2.0.4/leaflet.awesome-markers.css"/>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.awesome-markers/2.0.4/leaflet.awesome-markers.js"></script>
+
+  <!-- MarkerCluster -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css"/>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css"/>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="map"></div>
+
+  <script>
+    // =============================
+    // 0) INCIDENTES SICU EN LINEA
+    // =============================
+
+    const INCIDENTES_SICU = [
+      {
+        categoria: "Conflicto Armado",
+        lat: 32.663, lng: 13.159,
+        titulo: "Flujo UAV/lanchas suicidas (Trípoli)",
+        descripcion: "Drones y medios entrando desde Argelia hacia Trípoli."
+      },
+      {
+        categoria: "Criminalidad",
+        lat: 32.833, lng: 11.320,
+        titulo: "Homicidio de Mabrouk Al-Zarq",
+        descripcion: "Asesinato en Al-Jamil/Ragdalin."
+      }
+    ];
+
+    // =============================
+    // 1) Crear mapa
+    // =============================
+    var map = L.map('map').setView([27, 17], 5);
+
+    var osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 18,
+}).addTo(map);
+
+    // =============================
+    // 2) Clusters por categoría
+    // =============================
+    var cluster_conflicto   = L.markerClusterGroup();
+    var cluster_crimen      = L.markerClusterGroup();
+    var cluster_disturbios  = L.markerClusterGroup();
+    var cluster_hazards     = L.markerClusterGroup();
+    var cluster_terrorismo  = L.markerClusterGroup();
+    var cluster_otros       = L.markerClusterGroup();
+
+    // =============================
+    // 3) Funciones auxiliares
+    // =============================
+    function colorPorCategoria(cat) {
+      switch (cat) {
+        case "Conflicto Armado":   return "red";
+        case "Criminalidad":       return "blue";
+        case "Disturbios Civiles": return "yellow";
+        case "Hazards":            return "orange";
+        case "Terrorismo":         return "black";
+        default:                   return "cadetblue";
+      }
+    }
+
+    function clusterPorCategoria(cat) {
+      if (cat === "Conflicto Armado")   return cluster_conflicto;
+      if (cat === "Criminalidad")       return cluster_crimen;
+      if (cat === "Disturbios Civiles") return cluster_disturbios;
+      if (cat === "Hazards")            return cluster_hazards;
+      if (cat === "Terrorismo")         return cluster_terrorismo;
+      return cluster_otros;
+    }
+
+    // =============================
+    // 4) Pintar INCIDENTES_SICU
+    // =============================
+    INCIDENTES_SICU.forEach(inc => {
+      const icon = L.AwesomeMarkers.icon({
+        icon: "info-circle",
+        prefix: "fa",
+        markerColor: colorPorCategoria(inc.categoria),
+      });
+
+      const marker = L.marker([inc.lat, inc.lng], { icon: icon })
+        .bindPopup(
+          "<b>" + inc.titulo + "</b><br/>" +
+          "<b>Categoría:</b> " + inc.categoria + "<br/>" +
+          (inc.descripcion || "")
+        );
+
+      clusterPorCategoria(inc.categoria).addLayer(marker);
+    });
+
+    // =============================
+    // 5) Añadir clusters y control
+    // =============================
+    cluster_conflicto.addTo(map);
+    cluster_crimen.addTo(map);
+    cluster_disturbios.addTo(map);
+    cluster_hazards.addTo(map);
+    cluster_terrorismo.addTo(map);
+    cluster_otros.addTo(map);
+
+   L.control.layers(
+  { "OpenStreetMap": osmLayer },   // ✅ ahora usamos la capa real
+  {
+    "Conflicto Armado": cluster_conflicto,
+    "Criminalidad": cluster_crimen,
+    "Disturbios Civiles": cluster_disturbios,
+    "Hazards": cluster_hazards,
+    "Terrorismo": cluster_terrorismo,
+    "Otros": cluster_otros
+  },
+  { collapsed: false }
+).addTo(map);
+
+  </script>
+</body>
+</html>

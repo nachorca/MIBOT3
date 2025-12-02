@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>haiti-2025-11-27_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-27 11:09:06</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-27 11:09:06<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-27 14:58:01</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-27 14:58:01<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> Desde 1898, la información diaria La PNH lanza las consultas para su plan estratégico 2026-2030 L.A.UE lanza dos programas para fortalecer la gobernanza local y el sistema educativo en el Nordeste Dos muertos en un ataque armado en Petit-Rivière de l-Rivière Artibonite El MCFDF denuncia la violencia digital de mujeres y niñas Patrimonio cultural inmaterial de la humanidad: Opinión favorable para el compas Despliegue antidrogas: los Estados Unidos consiguen utilizar instalaciones dominiques Haití nunca perdió nunca la ocasión de perder la ocasión Jean-Antoine Mathias Laureus se pregunta sobr...]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-27 14:58:20</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-27 14:58:20<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-27 11:09:54</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-27 11:09:54<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Los Estados Unidos anuncian el final del TPS para los haitianos Haití: un incendio intencional devas devas la Institución del Sagrado Cor Corazón de Turgeau Washington bajo tensión: dos miembros de la Guardia Nacional muertos Crisis en el CPT: Laurent Saint Cyr San Cyr condena a Fritz Jean y rechaza cualquier ruptura con el PM August Heleno: el general de las Naciones Unidas de la Massasacre de Cité Soleil derrotado por la justicia brasilada Acusados por el jefe de gang lanmò san jueba, Apaid y Baker entrevistados por el BLTS Estados Unidos: el DOGE, símbolo de la eficacia gubernamental de...  [Enlace: https://t.co/DWr3fatdtH] [Enlace: https://t.co/L98m24gepo] [Enlace: https://t.co/mYa63WyVLF] [Enlace: https://t.co/DiXZDwl2HR]]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-27 14:59:01</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-27 14:59:01<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Los Estados Unidos anuncian el final del TPS para los haitianos Haití: un incendio devas la Institución del Sagrado Cor Corazón de Turgeau Washington bajo tensión: dos miembros de la Guardia Nacional muertos Crisis en el CPT: Laurent Saint Cyrrôr condena a Fritz Jean y rechaza cualquier ruptura con el PM Augusto Heleno: el general de las Naciones Unidas del Massacre de Cité Soleil ratratratrado por la justicia brasileña Acusados por el jefe de gang Lanmò san jou, Apaid y Baker audidos por el BLTS Estados Unidos: el DOGE, símbolo de la eficacia gubernamental de Trump, todos existe más Los Es...  [Enlace: https://t.co/DWr3fatdtH] [Enlace: https://t.co/L98m24gepo] [Enlace: https://t.co/mYa63WyVLF] [Enlace: https://t.co/DiXZDwl2HR]]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,251 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-12-01
+	•	Hora de edición: 2025-12-01 18:35:00
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-01 – total incidentes SICU: 25)
+
+• Terrorismo: 1 incidente(s) registrado(s).
+• Conflicto Armado: 18 incidente(s) registrado(s).
+• Criminalidad: 4 incidente(s) registrado(s).
+• Disturbios Civiles: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Qasr Bin Ghashir (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Qasr Bin Ghashir
+		Breve descripción analítica: • El equipo de la Oficina de Inspección de Seguridad y el desmantelamiento de explosivos del sistema de investigación criminal pueden manejar una bomba de vuelo sin detonar. • Según la declaración del dispositivo, la bomba fue encontrada en una granja de la zona de Qasr Bin Ghashir, tras recibir una notificación de la sala principal del aparato.
+		Fecha/Hora: 2025-12-01 09:42:54
+		Fuente: @gplusss
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 18
+	• Principales áreas afectadas: Localización no especificada (17), Tripoli (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El informe titulado “Las nuevas empresas de Libia están avanzando a pesar de los problemas de financiación y de las leyes de la República Árabe Siria”. La comunidad internacional debe apoyar la reconstrucción de Gaza como la primera respuesta oficial iraquí al bombardeo por parte del Irán de zonas de la región de Kerdistán con misiles balísticos israelíes, que advierte al Gobierno del Líbano de los ataques militares en más de 40 ciudades españolas de solidaridad con Palestina.
+		Fecha/Hora: 2025-12-01 07:06:23
+		Fuente: WEB https://almarsad.co/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-01 07:06:27
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El informe titulado “Las nuevas empresas de Libia están avanzando a pesar de los problemas de financiación y de las leyes de la República Árabe Siria”. La comunidad internacional debe apoyar la reconstrucción de Gaza como la primera respuesta oficial iraquí al bombardeo por parte del Irán de zonas de la región de Kerdistán con misiles balísticos israelíes, que advierte al Gobierno del Líbano de los ataques militares en más de 40 ciudades españolas de solidaridad con Palestina.
+		Fecha/Hora: 2025-12-01 09:08:22
+		Fuente: WEB https://almarsad.co/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-01 09:08:26
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Después de la congelación de los aumentos de producción previstos en el primer trimestre de 2026, Brent se eleva en un 1,72% a aproximadamente 63,50 dólares por barril, en vista de la evaluación del mercado de las consecuencias de las recientes declaraciones de Trump sobre el cierre de Venezuela y la continuación de las maniobras militares en torno a ella, según la agencia estadounidense Bloomberg.
+		Fecha/Hora: 2025-12-01 11:46:54
+		Fuente: @sefr0ly
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-01 11:49:45
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El Cairo espera que la lista de participantes cree una fuerte competencia entre las tribus, los partidos y los componentes locales, lo que dará lugar a controversias sobre el tamaño de la representación y el peso de las distintas partes en el diálogo, que podrían verse rápidamente reflejadas en enfrentamientos políticos, de información y, posiblemente, sobre el terreno. - El Cairo considera que la falta de garantías claras sobre la forma en que se seleccionarán los miembros del diálogo, los mecanismos de adopción de decisiones dentro de él y la ausencia de criterios vinculantes para la re...
+		Fecha/Hora: 2025-12-01 11:50:54
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-01 13:55:24
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El analista militar Rich-Ted vigila 64 vuelos de aviones de carga militares de los Emiratos Árabes Unidos al este de Libia, explicando que 38 de ellos procedían directamente de los Emiratos Árabes Unidos, y los 26 restantes de la base de Agzobi en Boudzou, en el territorio somalí de Puntlandia, señalando que seis vuelos llegaron a la capital del Chad también en noviembre.
+		Fecha/Hora: 2025-12-01 13:55:36
+		Fuente: @sefr0ly
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: # Sabrata – Un joven llamado  Al-Ghul fue objeto de un intenso tiroteo por parte de un grupo armado no identificado que viajaba en un Toyota FG cuando pasaba por una calle de Sabrata.
+		Fecha/Hora: 2025-12-01 13:55:36
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El lunes, el dirigente de Africom, Dagfin Anderson, y el Encargado de Negocios de los Estados Unidos, Jeremy Brent, debatieron con Dubai el fortalecimiento de la cooperación militar y la concentración en programas de capacitación, equipamiento y desarrollo de la capacidad, en presencia de Mohamed Haddad, Mahmoud Hamza, Abdussalam Zubi y Salah Al-Nurush, según una declaración sobre la plataforma de nuestro “gobierno” dirigida por Walid Al-Lafay. En la declaración se subrayaba la importancia de apoyar al ejército mediante asociaciones eficaces y programas de capacitación de calidad, y se subr...
+		Fecha/Hora: 2025-12-01 15:58:35
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Jefe del Gobierno de la Unidad Nacional Abdul Hamid (Dibba) recibe al General de División Mahmoud Hamza, al Subsecretario de Defensa, General de División Abdussalam Zubi, al Jefe del Estado Mayor del Ejército Libio, Mohamed Al-Haddad, y a su Adjunto, Salah Al-Namrush, Comandante del Mando Militar de los Estados Unidos en África, y a la delegación que lo acompaña. El encuentro versó sobre el fortalecimiento de la cooperación militar entre los dos países, especialmente en los programas de adiestramiento y desarrollo militar.
+		Fecha/Hora: 2025-12-01 15:58:35
+		Fuente: @sefr0ly
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-01 16:01:50
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Tripoli
+		Breve descripción analítica: • De conformidad con una declaración del Gobierno, la reunión trató el fortalecimiento de la cooperación militar entre Libia y los Estados Unidos, centrándose en los programas de adiestramiento, equipamiento y desarrollo de la capacidad.
+		Fecha/Hora: 2025-12-01 16:03:34
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Según la fuente, una embarcación ucraniana manipulada llevó a cabo el ataque a las 5 de la mañana, una de las cuales fue importada recientemente a través del agregado militar de Argelia, el Coronel Andrey Bayouk, en beneficio del Gobierno de Dubai. La operación se llevó a cabo a la distancia de la salida del buque de las aguas territoriales libias hacia la costa turca.
+		Fecha/Hora: 2025-12-01 16:35:34
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: – La solución de cuestiones controvertidas fundamentales, como la nacionalidad, los archivos militares y los criminales internacionales, debe llevarse a cabo mediante el diálogo Libby Libby entre los diputados y el Estado, a fin de garantizar un acuerdo general sobre el cargo de candidato a la presidencia. – La presión internacional y internacional y la movilidad popular contribuirán a impulsar el proceso político hacia resultados esperados.
+		Fecha/Hora: 2025-12-01 16:46:34
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Tras invitar a la Comisión a que se prepare para las elecciones, la solución en un diálogo libio sobre las condiciones para presentarse a la presidencia -el diputado tradicional Abdelmoneim consideró que la declaración de la Alta Comisión Electoral Nacional era un paso en la dirección correcta y pidió que se avanzara sin demora hacia la conclusión de las elecciones. - Recalcó que las cuestiones controvertidas fundamentales, como la nacionalidad, los militares y los delincuentes, debían resolverse mediante un diálogo libio entre la Cámara de Representantes y el Estado para garantizar un acue...
+		Fecha/Hora: 2025-12-01 17:30:34
+		Fuente: @gplusss
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los informes mensuales y semanales sobre todos los acontecimientos ocurridos en Libia, tanto en el país como en el extranjero, y el seguimiento de todo lo nuevo en el Gobierno libio de Dubai, están buscando con el líder de Africom una mayor cooperación militar entre Libia y los Estados Unidos. El periódico Al-Shafiq combina noticias de última hora, análisis políticos e informes sobre asuntos políticos, así como su interés en vigilar y analizar todo lo relacionado con la salud, la cultura y el deporte en Libia.
+		Fecha/Hora: 2025-12-01 17:45:13
+		Fuente: WEB https://lywitness.com/category/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Tripoli (2), Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: • Según una declaración de la Oficina del Fiscal General, el jefe de la División de Lucha contra los Estupefacientes del sur de Trípoli sigue la actividad de un grupo de traficantes de drogas en las ciudades de Trípoli y Zawia. • Las investigaciones realizadas bajo la supervisión de la Fiscalía de Lucha contra los Estupefacientes y las Sustancias Sicotrópicas del sur de Trípoli dieron lugar a la detención de cuatro acusados en flagrante delito de posesión de la sustancia objeto de la investigación.
+		Fecha/Hora: 2025-12-01 13:59:33
+		Fuente: @gplusss
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Ministerio Público ordena la detención de cuatro personas que fueron detenidas en flagrante delito por formar una banda de traficantes de drogas en Trípoli y Zawia.
+		Fecha/Hora: 2025-12-01 15:58:35
+		Fuente: @almasartvlibya
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El verdadero motivo de este despido arbitrario es la presentación de notas al Fiscal General y a los órganos de supervisión, corroboradas por pruebas, sobre abusos graves y la manipulación del dinero público dentro de la empresa. – La continuación del mandato hace meses, con la expiración del registro comercial y la interrupción de su legitimidad, se ha convertido en un peligro directo para los fondos públicos, la seguridad operacional y los derechos de miles de empleados y sus familias.
+		Fecha/Hora: 2025-12-01 15:58:35
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ¿Quién es Abdul Wahab Al Ghul involucrado en el asesinato de Yale?
+		Fecha/Hora: 2025-12-01 15:58:36
+		Fuente: @jraimalmlyshyat
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Sirte (1), Suq al Jumaa (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Sirte
+		Breve descripción analítica: El Presidente del Comité de Seguridad Nacional de la ex Conferencia Nacional Abdul Moneim Al-Aliser, en sus declaraciones al canal de Al-Mesir, hizo una manifestación diaria para celebrar el lanzamiento por Dabba de un programa externo basado en la diplomacia cultural.
+		Fecha/Hora: 2025-12-01 09:19:28
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Suq al Jumaa
+		Breve descripción analítica: El Presidente del Comité Nacional de Seguridad invitó al Presidente del Consejo Nacional a que, en las declaraciones del canal de Al-Munam Al-Assir, se manifestara todos los días en la reunión del canal de Al-Tadawi, en la que el Dr. Al-Tadawi, en la reunión de Al-Taliba, participó en la reunión de Al-Tadawi, en la que la Ministra de Asuntos de la Mujer, en la reunión del Gobierno de Al-Hubayr, se centró en la diplomacia cultural, en la protesta de la Ministra de Cultura de Dabba, en la sesión de Al-Husbayr, en la puesta en marcha de un programa externo basado en la diplomacia cultural y en...
+		Fecha/Hora: 2025-12-01 09:31:31
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 1 foco(s) – principales áreas: Qasr Bin Ghashir
+	• Conflicto Armado: 18 foco(s) – principales áreas: Tripoli, localización no especificada
+	• Criminalidad: 4 foco(s) – principales áreas: Tripoli, localización no especificada
+	• Disturbios Civiles: 2 foco(s) – principales áreas: Suq al Jumaa, Sirte
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

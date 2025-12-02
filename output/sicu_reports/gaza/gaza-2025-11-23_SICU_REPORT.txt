@@ -1,0 +1,1190 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-11-23
+	•	Hora de edición: 2025-11-23 22:38:20
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-23 – total incidentes SICU: 212)
+
+• Terrorismo: 56 incidente(s) registrado(s).
+• Conflicto Armado: 65 incidente(s) registrado(s).
+• Criminalidad: 70 incidente(s) registrado(s).
+• Disturbios Civiles: 7 incidente(s) registrado(s).
+• Hazards: 14 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 56
+	• Principales áreas afectadas: Localización no especificada (49), Gaza City (7)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Al-Ala ' ah, bombardeo de artillería contra zonas al este del campamento de Al-Bureij, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 07:02:10
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La artillería de ocupación renueva el bombardeo al este del campamento de Bureij, en el centro del sector.
+		Fecha/Hora: 2025-11-23 07:14:11
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El Gobernador de Khirson de Ucrania: 4 civiles muertos y otros heridos en un intenso bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-23 07:54:10
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El Gobernador de Zaburujia de Ucrania: dos civiles muertos y otros heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-23 07:55:10
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En octubre y noviembre del año en curso, la prensa palestina, en comparación con el mismo período del año pasado, presentó un "ataque en el que los colonos israelíes, aunque algunos de esos crímenes fueron calificados de "terrorismo", un acto de represión contra Israel. Según la Autoridad de Resistencia al Muro y los Asentamientos Palestinos, los ataques de los colonos en la Ribera Occidental se duplicaron con lo que ocurrió en octubre y noviembre del año en curso, en comparación con el mismo período del año pasado, los colonos llevaron a cabo 766 ataques en octubre del año pasado, mientras...  [Enlace: https://www.alquds.com/ar/posts/210993]
+		Fecha/Hora: 2025-11-23 08:50:09
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ayer, la policía de ocupación irrumpió en una fiesta de una familia palestina en la ciudad del puente de Zarqa, al norte de la Palestina ocupada, saboteó sus bienes, lanzó bombas de sonido y atacó brutalmente a los miembros de la familia.
+		Fecha/Hora: 2025-11-23 09:46:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La artillería de ocupación ha vuelto a bombardear la ciudad de Beit Lahiya, al norte de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 10:07:36
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Reportero de  Las fuerzas de ocupación israelíes están llevando a cabo una operación de bombardeo al noreste de la ciudad de Rafah
+		Fecha/Hora: 2025-11-23 10:08:36
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En las últimas 24 horas hemos recibido a cinco mártires, entre ellos dos niños y una mujer, así como 38 heridos, entre ellos 14 niños y 7 mujeres, como consecuencia del bombardeo de viviendas civiles por Israel en los campamentos del centro de la Franja de Gaza, en clara violación de la cesación del fuego
+		Fecha/Hora: 2025-11-23 10:17:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Las autoridades ucranianas: 4 civiles muertos y otros heridos en un bombardeo ruso en Kramatorsk, al este del país
+		Fecha/Hora: 2025-11-23 10:22:35
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ayer, la policía de ocupación irrumpió en una fiesta de una familia palestina en la ciudad del puente de Zarqa, al norte de la Palestina ocupada, saboteó sus bienes, lanzó bombas de sonido y atacó brutalmente a los miembros de la familia.
+		Fecha/Hora: 2025-11-23 11:24:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: En el marco de la ocupación, se lanzó una bomba acústica en el centro de la ciudad de Addisa, en el Líbano meridional.
+		Fecha/Hora: 2025-11-23 11:48:36
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Las fuerzas de ocupación han seguido bombardeando los edificios de la Línea Amarilla en Gaza un día después de haber muerto y herido a docenas de personas en una nueva violación del acuerdo de cesación del fuego en el sector. Un corresponsal informó de que las fuerzas de ocupación habían bombardeado la zona nororiental de la ciudad de Rafah, y que el ejército de ocupación también había bombardeado la zona oriental de Gaza dentro de la Línea Amarillo.  [Enlace: https://www.alquds.com/ar/posts/211070]
+		Fecha/Hora: 2025-11-23 12:54:34
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ● Corresponsal de la Isla: una explosión en el suburbio sur de Beirut
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Presidente del Líbano: Renovamos nuestro llamamiento a la comunidad internacional para que asuma su responsabilidad e intervenga con firmeza y seriedad para poner fin a los ataques contra el Líbano
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Hebreo Life, canal 12 hebreo: Terrorismo judío: se ha presentado un auto de acusación contra un menor de 14 años por delitos terroristas cometidos contra residentes palestinos cerca de la aldea de Beit Lid, en Cisjordania.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: A través del sitio de noticias de última hora en hebreo, un avión teledirigido israelí acaba de bombardear un automóvil en la localidad de Ayta al-Shaab, en el Líbano meridional, causando la muerte de una persona.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life, canal 12 hebreo: Gran fuente estadounidense: Los Estados Unidos saben desde hace días que Israel ampliará el ciclo de bombardeos en el Líbano.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Las marchas de ocupación arrojan bombas y disparan contra el sudeste del campamento de Bureij, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La aviación de ocupación bombardea el barrio meridional de Beirut. @Warlife3
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @Warlife3
+
+	• Localización: Gaza City
+		Breve descripción analítica: • Una parte de la despedida de dos mártires en el hospital de los mártires de Al-Aqsa fue bombardeada por Israel contra la Franja de Gaza
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Otra escena del bombardeo de la aviación de ocupación del barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El apartamento que fue bombardeado por los aviones de ocupación, en el Lago Hark, en el suburbio sur de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Desde el lugar donde se bombardeó un apartamento residencial en un edificio, en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Continuación del transporte de los heridos; consecuencia del bombardeo de un apartamento en Hara Hark, en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Aceleró las marchas de ocupación lanzando bombas y disparando hacia el sudeste del campamento de Bureij, en el centro de la Franja de Gaza
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación israelí está llevando a cabo una operación de bombardeo al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: Un mártir despertó al bombardear un vehículo civil en la localidad de Ayta ash-Shaab, en el Líbano meridional.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de la sociedad civil de Chile se están preparando para lanzar una de las iniciativas civiles y jurídicas más amplias encaminadas a exigir responsabilidades a la Potencia ocupante dentro del sistema de las Naciones Unidas, mediante una campaña internacional en pro de su expulsión de la Organización de las Naciones Unidas.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La artillería de ocupación bombardea el sur de Muwasi, en Rafah, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La aviación de ocupación bombardea el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una nueva escena del bombardeo de aviones de ocupación en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El apartamento que fue bombardeado por los aviones de ocupación, en el Lago Hark, en el suburbio sur de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El bombardeo de un apartamento en un edificio situado en el suburbio meridional de Beirut causó heridas.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El canal hebreo Kaan: La ocupación israelí informó a Washington de su intención de llevar a cabo el bombardeo en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los primeros momentos después de que la ocupación bombardeara un apartamento en el Lago Hark, en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Una marcha israelí que arroja una bomba contra un ganadero en la localidad de Rumaysh, en el sur del Líbano.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes de la “Red de Jerusalén”: transporte de más heridos; como consecuencia del bombardeo de un apartamento en Hara Hark, en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Continuación del transporte de los heridos; consecuencia del bombardeo de un apartamento en Hara Hark, en el barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército bombardeó Beirut y atacó al Jefe de Estado Mayor de Hizbollah, quien dirigía los esfuerzos de armamentos.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La mayoría de los "israelíes" apoyan el asesinato, el bombardeo y la utilización de palestinos como escudos humanos, y dan al ejército plena confianza y credibilidad.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Urgentemente, las marchas de ocupación lanzan bombas y disparan contra el sudeste del campamento de Bureij, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Salud del Líbano: en un balance preliminar, Şahid y 21 heridos; a consecuencia del bombardeo de la ocupación del barrio meridional de Beirut.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, el vicepresidente del consejo político de Hizbollah, Mahmoud Qamati: después del bombardeo de Beirut de hoy, todas las posibilidades son nuestras, y los líderes de la resistencia decidirán lo que consideren apropiado para responder.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación dispararon bombas de gas en gran escala después de que los jóvenes se enfrentaran al ataque de los colonos contra la aldea de Deir Greer en Ramallah.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, el ejército israelí ha eliminado al terrorista Haytham Ali Al-Tabrabi, Jefe de Estado Mayor (Partido de Dios)
+		Fecha/Hora: 2025-11-23 19:29:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí confirma su asesinato y publica un video de bombardeos desde los aviones de vigilancia.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Aceleraciones del ejército israelí: hemos eliminado al “terrorista” Haytham Ali Tabrati, el verdadero líder de Hezbollah,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La salud del Líbano: 5 mártires y 28 heridos; el bombardeo de la ocupación del barrio meridional de Beirut esta tarde.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, la ocupación está lanzando bombas de iluminación entre las localidades de Aytarun y Blida, en el Líbano meridional.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército enemigo está documentando el momento en que bombardeó el suburbio sur de Beirut para violar al comandante de Hezbollah.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Vicepresidente del Consejo Político de Hizbollah, Mahmoud Qamati: después del bombardeo del barrio de hoy, todas las posibilidades están abiertas.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí ha eliminado al terrorista Haytham Ali Tabrami, el verdadero líder de Hezbolá
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Las autoridades ucranianas de Dnipro: dos muertos y varios heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-11-23 19:42:54
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El ejército israelí ha eliminado al terrorista Haytham Ali Al-Tabrafi, Jefe de Estado Mayor del Partido-Allah. Nos enfrentaremos a los intentos de rehabilitar y armar al partido-Allah y eliminaremos toda amenaza a Israel y a sus ciudadanos.
+		Fecha/Hora: 2025-11-23 19:42:56
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El vicepresidente del consejo político de Hizbollah, Mahmoud Qamati, después del bombardeo del barrio de hoy, todas las posibilidades están abiertas.
+		Fecha/Hora: 2025-11-23 20:28:10
+		Fuente: @yaseenpress2004
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 65
+	• Principales áreas afectadas: Localización no especificada (54), Gaza City (10), Rafah (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ▪ Las continuas violaciones han causado 342 víctimas civiles, en su mayoría niños, mujeres y ancianos, además de 875 heridos de distinta índole, así como 35 ciudadanos detenidos arbitrariamente durante las incursiones y los allanamientos, lo que confirma la determinación de la ocupación de socavar el acuerdo y crear una situación sangrienta sobre el terreno que amenaza la seguridad y la estabilidad en el sector. ▪ Los ataques de ocupación "Israel" han variado entre 142 tiroteos directos contra ciudadanos, viviendas, barrios residenciales y tiendas de desplazados, 21 incursiones de mecanismo...
+		Fecha/Hora: 2025-11-23 07:06:10
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Corresponsal de radio del ejército de ocupación: Meses después de la guerra, una fuerza del ejército entró en un túnel en la zona central de la Franja de Gaza y descubrió que los servicios militares y de inteligencia de Hamas habían reunido información exacta durante años sobre los tanques Merkava 4 y otros casos y archivos, y habían llegado a información muy delicada sobre la que se había planeado la operación del 7 de octubre.
+		Fecha/Hora: 2025-11-23 07:56:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: 2. El analista militar Josué Josué – Yediot Ahronot se unió más a la plataforma a través del telégramo de Facebook
+		Fecha/Hora: 2025-11-23 08:07:11
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El corresponsal de la radio del ejército de ocupación revela lo siguiente: - Sobre la base de la información de inteligencia de Hamas acerca de los tanques Merkava, el aparato militar con una “fuerza de tanques” de la élite entrenó en dirigir y operar los tanques Merkava 4 - Hamas logró desactivar, controlar y transportar tanques en la “envoltura de Gaza”. - Los elementos de Hamas lograron desactivar y hacer inutilizables los tanques en la portada de Gaza.
+		Fecha/Hora: 2025-11-23 08:11:11
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación se apodera de un total de 1042 dunums de tierras palestinas en el norte de la región, mediante la emisión de 9 órdenes de toma de mano. Las órdenes de toma de mano se hicieron con fines militares en las localidades de Tumón, Taysar, Touloza y Tubas, con el objetivo de construir una carretera horizontal que comience en Ain Shably, al sur, hasta Aqaba, al norte.
+		Fecha/Hora: 2025-11-23 08:32:14
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hamas derribó los tanques Merkava durante el ataque de octubre y reveló por primera vez información secreta sobre el por qué el ejército de ocupación había publicado por primera vez información que había causado un gran trauma en los pasillos del “Ejército” y que indicaba que las fuerzas de élite de Qassam habían desactivado los tanques de Merkavah a través del “Ejercicio de ocupación” durante el “Ejercicio de combate” de los Estados Unidos durante el “Ejercicio de combate” en el “Equipo de combate” de los Estados Unidos.  [Enlace: https://www.alquds.com/ar/posts/210994]
+		Fecha/Hora: 2025-11-23 08:50:08
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Aarónot dice de fuentes militares: Washington puede llevar semanas o meses decidir crear una fuerza internacional en Gaza.
+		Fecha/Hora: 2025-11-23 09:21:34
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El sistema de seguridad israelí insiste en ello, pero la decisión de los Estados participantes tendrá un peso considerable, sobre todo si temen los riesgos para sus soldados. Para preparar a la fuerza multinacional, los representantes de la División de Inteligencia Militar de Israel en el cuartel general de los Estados Unidos ofrecen informes y revisiones diarios a oficiales extranjeros que les enseñan cómo funciona Hamas como organización militar: 1.
+		Fecha/Hora: 2025-11-23 09:21:34
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El servicio de seguridad israelí considera que la continuación de las actividades de estos grupos armados durante la próxima etapa socavará los arreglos de retirada y afectará la imagen de control de seguridad que Israel está tratando de comercializar internacionalmente. - Se espera que esos grupos se desmovilicen rápidamente una vez que se retire el apoyo militar, dada la ausencia de una incubadora popular o de legitimidad social o política dentro de la sociedad palestina.
+		Fecha/Hora: 2025-11-23 09:21:35
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: La ocupación está cerrando el portón de Attrah y construyendo una barrera militar cerca de Nabi Saleh, al norte de Ramallah.
+		Fecha/Hora: 2025-11-23 09:21:35
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El sistema de seguridad israelí insiste en ello, pero la decisión de los Estados participantes tendrá mucho peso, sobre todo si temen los peligros para sus soldados. Para preparar a la fuerza multinacional para el trabajo, los representantes de la División de Inteligencia Militar de Israel en el cuartel general de los Estados Unidos ofrecen informes y revisiones diarios a oficiales extranjeros que les enseñan cómo funciona Hamas como organización militar: 1.
+		Fecha/Hora: 2025-11-23 09:27:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La radio del ejército israelí, a través de Hamás, ha seguido a unos 100.000 soldados a través de las redes de comunicación y ha construido modelos de simulación de posiciones militares en la portada de Gaza.
+		Fecha/Hora: 2025-11-23 09:52:36
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes hebreas: Un padre que había visitado a su hija en la base militar de ocupación en la frontera de Gaza fue atropellado cuando descubrió que "nada había cambiado" cuando irrumpió en la base y fotografió "no hay guardias, no hay nada".
+		Fecha/Hora: 2025-11-23 10:40:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Dos Estados árabes indicaron que el ejército de ocupación estaba presentando informes y cursos a oficiales extranjeros en el centro de los Estados Unidos en relación con los detalles militares de los batallones de Qassam, su estructura militar y la red de túneles. El periódico reveló que, a diferencia de informes anteriores, se sabía que la fuerza multinacional se encontraba en la etapa de despliegue, y que la formación de varios Estados, en particular el islamista, estaba de acuerdo en que se desplegaran soldados en la portada de Gaza, como se había dicho anteriormente, y que el ejército d...  [Enlace: https://www.alquds.com/ar/posts/211042]
+		Fecha/Hora: 2025-11-23 11:15:12
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: Las fuerzas de ocupación dispararon durante enfrentamientos con jóvenes en el campamento de Al-Arub, al norte de Hebrón, al sur de la Ribera Occidental. @Warlife3
+		Fecha/Hora: 2025-11-23 11:30:36
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: Las fuerzas de ocupación dispararon durante enfrentamientos con jóvenes en el campamento de Al-Arub, al norte de Hebrón, al sur de la Ribera Occidental.
+		Fecha/Hora: 2025-11-23 11:30:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Seguimiento de los intensos disparos efectuados por los mecanismos de ocupación al noreste del campamento de Bureij, en el centro de la Franja de Gaza
+		Fecha/Hora: 2025-11-23 11:34:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Disparos intensivos de los mecanismos de ocupación al noreste del campamento de Bureij, en el centro de la Franja de Gaza
+		Fecha/Hora: 2025-11-23 11:34:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Según la abogada de la organización, Ahmad Adel Hirish, de la ciudad de Betunya, detenido desde el 31 de agosto de 2025, sufre graves dolores de estómago, presuntamente causados por la agresión de la Liga de los Estados Árabes, pero la manifestación de Hamas en la Franja de Gaza indica que la manifestación de los palestinos en la Franja de Gaza es una manifestación de la formación de los palestinos en la Franja de Gaza. La manifestación de la abogada de los prisioneros de guerra de la prisión militar israelí de 'Aofar' al oeste de Ramallah se vio sometida a condiciones de detención duras y...  [Enlace: https://www.alquds.com/ar/posts/211082]
+		Fecha/Hora: 2025-11-23 14:05:23
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Israel ya ha notificado a Washington el ataque en Beirut, tanto a nivel político como de seguridad militar
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes de seguridad libanesas: el oficial militar del Partido de Alá Heathham, el médico, estaba en el lugar donde Israel fue atacado en el suburbio sur.
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Vicepresidente del Consejo Político de Hizbollah Mahmoud Qamati: está comprometido con la plena coordinación con el Estado y las Fuerzas Armadas Libanesas
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Policía israelí: un israelí disfrazado de uniforme militar para intentar contrabandear a trabajadores palestinos cerca del puesto de control de Ofer, en Ramallah.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se informó de que el comandante militar de Hezbollah había muerto.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los aviones de combate israelíes han despegado en gran medida hacia el norte del país en dirección al Líbano.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Capitolio Militar de Israel se ha reunido hasta la fecha en  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Funcionarios de inteligencia israelíes: Mi médico fue la voz más destacada en Hezbollah contra la decisión del Gobierno del Líbano de desarmar al grupo y dicen que ha presionado para que se ponga fin a la cesación del fuego y se reanuden los combates con Israel.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • El Jefe de Estado Mayor de las Fuerzas Armadas de Israel, Harbi Life: comienza a convocar a oficiales superiores para informarles de los resultados de las investigaciones personales el 7 de octubre
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Hebreo Life Canal 12 Hebreo: El Tribunal Supremo decidió que el Ministro Levin debía responder a las solicitudes de revisión de la causa contra la Fiscal Militar hasta mañana a las 14.00 horas.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Canal 12 hebreo: Ayer, cerca del muro de separación, se detuvo a 443 sospechosos con uniforme militar israelí, mientras conducía su automóvil y transportaba a dos residentes de los territorios palestinos ocupados sin permiso.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Hebreo Life Canal 12 Hebreo: el objetivo es el comandante del ala militar de Hezbolá.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Hebreo Life Canal 12 Hebreo: el Jefe de Estado Mayor decidió destituir al oficial de inteligencia de la División de Gaza, Teniente Coronel A, del servicio militar, a la luz de las investigaciones sobre el fracaso del 7 de octubre
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Más de un mes después del acuerdo de cesación del fuego, que parece haber puesto fin a la guerra en la Faja de Gaza, la situación regional de Israel es similar a la de la oficina de la computadora en la que se dejaron abiertas todas las señales de tabulación. A pesar del acuerdo que el presidente estadounidense Donald Trump impuso a Israel y Hamas, y de los logros militares evidentes en otros frentes, no se ha cerrado nada y, con los logros militares, no se ha traducido en acuerdos políticos vinculantes después de la cantidad de armas histéricas lanzadas por Israel, pero la mayoría de sus p...
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - En los últimos años, el médico ha dirigido las fuerzas de la élite de Hizbollah y, tras el asesinato del primer nivel militar, se ha convertido efectivamente en el comandante general del partido y en la figura militar superior. - El año pasado, el médico participó en el mando militar de Hezbollah junto con Mohamed Haydar, y ambos fueron responsables de la rehabilitación y el nuevo refuerzo militar de Hizbollah.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Muertos en un bombardeo desde una lancha militar israelí en la costa del mar de Rafah, al sur de la Franja de Gaza @Warlife3
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @Warlife3
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un niño muerto y heridos en un bombardeo desde una lancha militar israelí en la costa del mar de Rafah, al sur de la Faja de Gaza
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: La organización utilizó cuentas falsas de “avatar” e introdujo “usuarios ocultos” en grupos militares de Watset para seguir a los soldados desde los días de reclutamiento hasta las misiones de mando. - Mediante millones de publicaciones, fotografías y vídeos, muchos de ellos de bases, Hamas produjo una imagen diaria de los servicios de inteligencia sobre el despliegue de las tropas, las posiciones de las unidades sensibles y los cambios en la rutina militar.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El estallido inmediato de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la ciudad de Silwad, al noreste de Ramallah.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: Un niño muerto y heridos en un bombardeo de una lancha militar israelí en la costa del mar de Rafah
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un joven resultó herido en enfrentamientos violentos y los jóvenes respondieron a un ataque de colonos contra la aldea de Deir Greer, al noreste de Ramallah.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El estallido de enfrentamientos en el campamento de Shu ' fat en Jerusalén ocupada. Las fuerzas de ocupación están disparando balas de goma y bombas de gas.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una fuente de seguridad libanesa para la isla: el asesinato del comandante militar en el ataque israelí contra el barrio.
+		Fecha/Hora: 2025-11-23 19:29:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Jefe de Estado Mayor del ejército israelí, Zamir: Nuestro objetivo es el comandante militar supremo de Hezbollah y continuaremos con nuestras operaciones para eliminar las amenazas mientras están formadas, manteniendo nuestro compromiso con los entendimientos entre Israel y el Líbano, pero no permitiremos que Hezbollah desarrolle su capacidad militar.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: El 7 de octubre, el General de División Yarun Finkleman, que dimitió de su cargo pero siguió prestando servicio en el ejército israelí principalmente mediante la realización de investigaciones a los habitantes de las zonas circundantes, pondrá fin a su servicio militar, y el 7 de octubre, el Teniente Coronel A, que se trasladó a otro puesto de inteligencia militar, será expulsado del servicio de reserva del cuartel general de la brigada de Gaza, que ha sido separado del ejército israelí.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: “Confio en que el ejército israelí seguirá trabajando para proteger a la población de la línea de enfrentamiento”. “Después de un año y medio de guerra en el norte, y cuando muchas familias regresen a sus hogares, tenemos la responsabilidad de velar por que se sientan seguras”.
+		Fecha/Hora: 2025-11-23 19:29:33
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Jefe de Estado Mayor de Israel: Nuestro objetivo es el comandante militar más alto de Hezbollah, y seguiremos golpeando cualquier amenaza mientras esté en proceso de formación.
+		Fecha/Hora: 2025-11-23 19:29:35
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes de seguridad libanesas: asesinato del comandante militar de Hizbollah Hitham Al-Tabrafiyah en la incursión israelí en el barrio
+		Fecha/Hora: 2025-11-23 19:29:37
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuente de seguridad libanesa para la isla: el asesinato del comandante militar del Partido de Dios Heathham Al-Tadami en la incursión israelí en el barrio.
+		Fecha/Hora: 2025-11-23 19:29:39
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ascensión del estudiante de la Universidad de Birzeit, el joven Bra ' t Khari Ma ' ili, a consecuencia de los disparos de las fuerzas de ocupación en su ciudad de Deir Greer, al noreste de Ramallah
+		Fecha/Hora: 2025-11-23 19:29:39
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El joven, Bra ' t Khairi Ma ' ali, murió de las balas de la ocupación durante los enfrentamientos con colonos en la aldea de Deir Greer, al noreste de Ramallah.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el momento en que el joven declaró inocente a Maaleh durante los enfrentamientos con los colonos en la aldea de Deir Greer, al noreste de Ramallah.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Los aplausos de la multitud tras el anuncio de la muerte del joven Bra ' t Khair Ma ' li, a consecuencia de las balas de la ocupación durante los enfrentamientos con los colonos en la aldea de Deir Greer, al noreste de Ramallah.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Frente Popular: Condenamos la agresión de la ocupación en el suburbio meridional y consideramos que es una peligrosa escalada de los Estados Unidos de América e Israel, cuyo objetivo es arrastrar la región hacia un enfrentamiento abierto e inclusivo. Afirmamos que la resistencia seguirá siendo el escudo de la soberanía libanesa y que la voluntad de resistirse y resistirse seguirá siendo más fuerte que la máquina de matar y aterrorizar.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Información hebrea: El Jefe de Estado Mayor ha decidido no destituir al actual Jefe de la División de Inteligencia Militar, General de División Shlomo Bender, que fue Jefe de Operaciones el 7 de octubre, y se ha limitado a advertirle de que el General Bender concluirá su mandato como Jefe de Inteligencia (normalmente cuatro años), es decir, terminará sus funciones según lo previsto, no seguirá ocupando ningún otro puesto en el ejército y se jubilará.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuente de seguridad libanesa para la isla: asesinato del comandante militar de Hezbolá Hitham Al-Tabraf en el ataque israelí contra el barrio.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Radio del ejército israelí: el Jefe de Estado Mayor, Ial Zamir, decide destituir al General de División de Inteligencia Militar, Teniente General de Brigada Aharon Haleva, ex Jefe de Inteligencia Operacional, Aidid Bassyuk, ex Comandante del Mando Sur, General de Brigada Yarun Finkelman, ex Comandante de la Unidad 8200, ex Comandante de Brigada de la División de Gaza, General de Brigada Avi Rosenfeld, ex Jefe de Estado Mayor del Mando Sur, Coronel Ariel Labowski, y al Comandante de la Brigada Norte de la División de Gaza, Coronel Haim Cohen, por su fracaso en los acontecimientos del 7 de...
+		Fecha/Hora: 2025-11-23 19:42:56
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos en la ciudad de Surif, al norte de Hebrón, y la ocupación lanza bombas de sonido.
+		Fecha/Hora: 2025-11-23 19:42:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El director de la oficina de Al-Jazeera en Palestina, Walid Al-Omri, dijo esta tarde que la información que circulaba indicaba que Israel tenía una clara cobertura estadounidense para seguir intensificando sus operaciones militares en el Líbano, a cambio de una reducción de las tensiones en la Franja de Gaza, y afirmó que la organización de seguridad israelí no esperaba una respuesta sustancial de Hizbollah al asesinato de un destacado dirigente en la zona meridional del Líbano.  [Enlace: https://www.alquds.com/ar/posts/211175]
+		Fecha/Hora: 2025-11-23 19:44:58
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, Netanyahu: esperamos que el gobierno libanés desmilitarice al Partido de Dios.
+		Fecha/Hora: 2025-11-23 20:18:04
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Netanyahu: Esperamos que el Gobierno del Líbano desmilitarice al Partido de Dios. - No permitiremos que el Partido de Dios vuelva a ser una amenaza y espero que el Gobierno del Líbano cumpla sus obligaciones y compromisos.
+		Fecha/Hora: 2025-11-23 20:18:05
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El cuerpo del mártir es un mártir de Ma ' li ' ar, que recibió disparos de la ocupación durante el enfrentamiento a los colonos en la aldea de Deir Greer, al noreste de Ramallah.
+		Fecha/Hora: 2025-11-23 20:28:10
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hamas: Condenamos la flagrante agresión contra el barrio meridional y la clara violación de la soberanía libanesa, con el objetivo de llevar al Líbano y a la región a un enfrentamiento que sólo sirve a los intereses de la ocupación, en el marco de la búsqueda de nuevas ecuaciones y de la presión sobre las fuerzas de resistencia.
+		Fecha/Hora: 2025-11-23 20:32:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ataque contra Beirut es una clara violación de la soberanía y tiene por objeto arrastrar al Líbano y a la región hacia un enfrentamiento que sólo sirve a los intereses de la ocupación.
+		Fecha/Hora: 2025-11-23 20:35:02
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Condenamos la agresión sionista contra el barrio meridional de Beirut y afirmamos que se trata de una agresión descontrolada y una clara violación de la soberanía libanesa, cuyo objetivo es arrastrar al Líbano y a la región a un enfrentamiento que sólo sirve a los intereses de la ocupación. - El ataque contra una zona densamente poblada a plena luz del día refleja la naturaleza del terrorismo organizado de la ocupación y de sus dirigentes criminales, así como la búsqueda de nuevas ecuaciones y la presión sobre las fuerzas de la resistencia.
+		Fecha/Hora: 2025-11-23 20:35:06
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico hebreo "Diakot Ahronut", el domingo, dijo que en Tel Aviv estaba preparado para lo que describió como “guerras renovadas” en la Franja de Gaza, el Líbano y el Irán, señalando que “Israel no está seguro de que los Estados Unidos entiendan esa disposición”. El periódico dijo: “En vista de la cesación del fuego con Hamas en la Franja de Gaza y el Líbano y el Partido de Dios en el Líbano, los soldados de Israel siguen manteniendo un alto el fuego en el Líbano, pero en la práctica se han producido grandes ataques en ambos lados, incluido el asesinato de un alto mando militar de Hama...  [Enlace: https://www.alquds.com/ar/posts/211196]
+		Fecha/Hora: 2025-11-23 22:20:31
+		Fuente: WEB www.alquds.com
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 70
+	• Principales áreas afectadas: Localización no especificada (64), Gaza City (6)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas masivas en Berlín, apoyo a Gaza y Palestina y condena los crímenes de ocupación.
+		Fecha/Hora: 2025-11-23 08:06:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Relaciones Exteriores del Irán: los Estados occidentales que exportan armas a la entidad sionista son responsables de la continuación de sus crímenes en Gaza
+		Fecha/Hora: 2025-11-23 10:02:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas constantes en París, en apoyo de Gaza y Palestina y condenando los crímenes de ocupación.
+		Fecha/Hora: 2025-11-23 11:04:36
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Protestas constantes en París, en apoyo de Gaza y Palestina y condenando los crímenes de ocupación.
+		Fecha/Hora: 2025-11-23 11:30:37
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí nos atacó ayer en toda la Franja de Gaza en respuesta a una violación del acuerdo
+		Fecha/Hora: 2025-11-23 11:50:36
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Ministerio de Salud de la Franja de Gaza anunció y publicó sus artículos en el Foro Al-Quds, domingo 23 de noviembre de 2025 a las 19.44 horas, hora de Al-Quds, "La salud de Gaza", en el que se anunciaba un aumento de los resultados de los mártires como consecuencia de la violación del acuerdo de cesación del fuego. El Ministerio de Salud de la Franja de Gaza anunció la última agresión israelí contra la Franja de Gaza en las últimas 24 horas, señalando que 23 mártires habían llegado a hospitales de la Franja, con 21 nuevos mártires, junto con dos mártires que habían sido rescatados bajo...  [Enlace: https://www.alquds.com/ar/posts/211077]
+		Fecha/Hora: 2025-11-23 13:46:20
+		Fuente: WEB www.alquds.com
+
+	• Localización: Gaza City
+		Breve descripción analítica: La fuente que prefirió no revelar su identidad dijo que el pistolero que figuraba en el vídeo de las fuerzas de ocupación, el sábado, había lanzado un arma de fuego en la ciudad de Deir el-Balah, en el centro de la Franja de Gaza, que trabajaba en la Franja de Gaza, y no tenía ninguna relación con ninguna facción palestina armada, y que estaba trabajando en la seguridad de los convoyes de ayuda.  [Enlace: https://www.alquds.com/ar/posts/211106]
+		Fecha/Hora: 2025-11-23 15:09:19
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgencia interna siria: Hemos impulsado refuerzos de seguridad al sur de Homs después de un asesinato para impedir su utilización para provocar la sedición.
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Medios de comunicación israelíes: En la actualidad no hay cambios en las instrucciones del frente interno en el norte de Israel tras el asesinato en Beirut
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Radio del ejército israelí: El Jefe de Estado Mayor fue convocado para supervisar el asesinato después de recibir información sobre la ubicación del objetivo en el suburbio meridional
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 de Israel, fuente de seguridad: estimaciones cada vez mayores del éxito del intento de asesinato en el barrio meridional de Beirut
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, Ahronot dice de una fuente de seguridad: estimaciones cada vez mayores del éxito del asesinato en Beirut
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 de Israel: sin cambios en las instrucciones para la población del norte de Israel tras el asesinato en el barrio meridional de Beirut
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Miembro de la Oficina Política de Hizbollah Mahmoud Al Qamati: agresión de hoy en día en violación de una nueva línea roja
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una incursión de una marcha israelí dirigida contra un vehículo del sur del Líbano, la ciudad de Ayta ash-Shaab, un nuevo asesinato en el sur del Líbano, mártir de un ataque aéreo israelí.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Ahora un gran asesinato en Beirut, en  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 14 Hebreo: El objetivo del asesinato en Beirut es el hombre número 2 de Hezbollah,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El objetivo del asesinato es Ali Tabbabi, el segundo hombre de Hezbollah.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal 14, sobre un oficial de seguridad: Hemos llevado a cabo un asesinato de gran importancia, un médico que ha estado dirigiendo y planeando ataques contra Israel.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Yenun Salam Wali - ejército y seguridad i24: El asesinato de Ali Tabradi se basó en información de inteligencia urgente, una serie de autorizaciones rápidas en el Estado Mayor General y en el nivel político, y varios cohetes lanzados contra el objetivo.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal fue un funcionario israelí: el asesinato en Beirut se llevó a cabo en coordinación con los estadounidenses. □ Canal Hebreo 12: Israel trató de matar a mi médico dos veces durante la guerra, y este es el tercer intento ahora.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 Hebreo: Después del intento de asesinato en Beirut, hasta la fecha no se ha producido ningún cambio en las instrucciones de los dirigentes del frente interno de los colonos.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En el ejército y los servicios de seguridad están preparados para la posibilidad de que Hezbollah opte por responder al asesinato.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: No hay confirmación del éxito o el fracaso del asesinato. Israel debe esperar al menos cuatro o seis horas para confirmar el ataque.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuevas escenas desde la escena del asesinato en el suburbio de Beirut,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 13 Hebreo: Israel informó a los Estados Unidos durante la ejecución del asesinato en Beirut y no por adelantado, debido a la falta de tiempo.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Canal de Campos del Sudeste de Beirut: 5 mártires y 25 heridos del lugar del asesinato en un balance inicial e inconcluso de la agresión y las actividades de socorro en curso .  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: El canal hebreo 12, hebreo Hebreo, ha cruzado la frontera con Life: tras el intento de asesinato en Beirut, hasta la fecha no se ha producido ningún cambio en las instrucciones de los dirigentes del frente interno de los colonos.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El objetivo del asesinato en Beirut es el hombre número 2 de Hezbolá.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El canal i24NEWS es el responsable: el objetivo del asesinato es Ali Tabbabi, el segundo hombre de Hezbolá.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Canal 14, un oficial de seguridad: hemos llevado a cabo un asesinato de gran importancia; mi médico ha estado dirigiendo y planeando ataques contra Israel
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ El canal de Leafe es un oficial israelí: el asesinato en Beirut se llevó a cabo en coordinación con los estadounidenses.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Urgentemente, Radio del Ejército de Israel: el Jefe de Estado Mayor fue convocado para supervisar el asesinato después de recibir información sobre la ubicación del objetivo en el suburbio meridional
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life Canal 13 Hebreo: Israel informó a los Estados Unidos durante la ejecución del asesinato en Beirut y no por adelantado, debido a la falta de tiempo.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Hebreo Life, canal hebreo 14: Llamar "Viernes Negro" al asesinato en el suburbio
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Urgente Ben Kaspit: El asesinato en el Líbano tuvo por objeto reducir el testimonio de Netanyahu en el juicio.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: La página de Nitzan Shabira de un oficial de seguridad ha pasado por la página de Life: " Existe una creciente creencia en el éxito del intento de asesinato del Jefe de Estado Mayor de Hezbollah".
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Hebreo Life, canal 12 hebreo: Fuentes de seguridad: El intento de asesinato en el suburbio sur de Beirut tuvo éxito.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - "Preparados para el escenario de que Hizbollah responda al asesinato".
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Transitorio de Life: Sabir Pekín - Canal 12, tras el intento de asesinato del Jefe de Estado Mayor de Hizbollah Ali Al-Tabrai, fuentes libanesas informaron de intensos incursiones de la Fuerza Aérea de Israel en el cielo de la zona.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ En hebreo, Life □ La página de Yannon está disponible en hebreo: es importante esperar los resultados del asesinato, que podrían determinar el alcance de la respuesta de Hezbolá
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: • El sitio web del blog Abu Ali Al-Habiri, que disparó ayer contra una posición del ejército israelí en Kisufim (violación que dio lugar a incursiones del ejército israelí en la Franja de Gaza), es Khalil Ali Naji, de Deir el-Balah, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Vista desde el lugar del asesinato en el suburbio sur de Beirut
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El asesinato en Beirut se llevó a cabo en coordinación con los estadounidenses.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El "jefe" fue considerado detrás del plan de ataque contra Galilea. Después de la reciente serie de asesinatos en la dirección del partido, se nombró a un jefe de estado mayor de Hezbollah y al segundo hombre en la organización.
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hemos llevado a cabo un asesinato de gran importancia. Mi médico estaba dirigiendo y planeando ataques contra Israel.
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El asesinato en Beirut se llevó a cabo en coordinación con los estadounidenses.
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El movimiento Yihad Islámica (Jihad Islámica): La agresión contra el barrio meridional de Beirut es un crimen de guerra y la escalada de los ataques contra el pueblo libanés y su soberanía; la agresión contra el barrio meridional se dirige contra una zona residencial densamente habitada por civiles, en violación de la cesación del fuego. Lo que ha ocurrido hoy es el contexto de la presión ejercida por Washington sobre el Gobierno del Líbano y el hecho de que el pueblo libanés siga siendo chantajeado.
+		Fecha/Hora: 2025-11-23 17:27:11
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hezbollah: Condenamos enérgicamente el asesinato perpetrado ayer por el enemigo israelí contra el concejal Hula, el mártir Hussein Hussein, en un nuevo ataque que se suma a la serie de crímenes cometidos en los últimos días por funcionarios y empleados municipales, en una carta directa de agresión dirigida al Estado libanés en un intento de paralizar el papel de los municipios y debilitar sus capacidades.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El bloguero hebreo Abu Ali: Fuentes procedentes de Gaza que dispararon ayer contra una posición del ejército israelí en Kisufim (violación que provocó incursiones del ejército israelí en la Franja de Gaza) son Khalil Ali Naji, de Deir el-Balah, en el centro de la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 12 hebreo: El objetivo del asesinato en Beirut es el hombre número 2 de Hezbolá.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal i24NEWS: El objetivo del asesinato es Ali Tababi, el segundo hombre de Hezbolá.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Oficial de seguridad: Se estima que el intento de asesinato en Beirut tuvo éxito.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Protestas masivas en Berlín, apoyo a Gaza y Palestina y condena los crímenes de ocupación.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Movimiento de la Jihad Islámica en Palestina (Jihad Islámica en Palestina): La ocupación de la zona meridional constituye un crimen de guerra y constituye una escalada de los ataques contra el pueblo libanés y su soberanía, y una violación constante del Acuerdo de Cesación del Fuego y de las leyes y normas internacionales. La agresión se enmarca en las presiones que ejerce Washington sobre el Gobierno del Líbano y el mantenimiento del pueblo libanés sometido a un continuo chantaje.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Condenamos enérgicamente la brutal agresión contra el barrio meridional, en flagrante violación de la soberanía libanesa, que forma parte de la guerra israelí abierta contra la nación. - El Gobierno de los Estados Unidos se hace cargo de la escalada de la agresión contra el Líbano y la Franja de Gaza, que le proporciona cobertura y apoyo para continuar su agresión.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El canal 12 israelí de la fuente: el asesinato con éxito del Jefe de Estado Mayor del Partido de Dios en el suburbio sur de Beirut
+		Fecha/Hora: 2025-11-23 19:29:31
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Oficial israelí: el asesinato en Beirut,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Canal 15 Hebreo: Tel Aviv informó al Comité de Supervisión de la Cesación del Fuego de que no subiría a menos que Hezbollah devolviera el asesinato en el corazón de las afueras de Beirut.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Todos los que están contentos con el asesinato de los médicos, su alegría demuestra su traición a su país y expresa su fracaso en su país y su gestión de la guerra.
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Este es el tercer Jefe de Estado Mayor asesinado por Israel a Hezbollah desde 7.10 , el asesinato de Hajj Fouad Shakar el 30.7.24 , el asesinato de Haj Ibrahim Aqel el 20.9.24 , el asesinato de Haitham Ali Tababi, hoy 23.11.25 .  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-11-23 19:29:32
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Transitorio de Life, canal 12 hebreo: la Fuerza Aérea de Israel utilizó ocho cohetes en un intento de asesinato de un médico.
+		Fecha/Hora: 2025-11-23 19:29:33
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Mohammed Muzaarah - Canal 12: Este asesinato, al igual que otros recientes, confirma que Hizbollah todavía no ha podido superar las deficiencias en materia de seguridad y ha sido violado por todos los medios por los servicios de inteligencia israelíes.
+		Fecha/Hora: 2025-11-23 19:29:33
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército enemigo israelí declara oficialmente el asesinato de un médico
+		Fecha/Hora: 2025-11-23 19:29:35
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército enemigo israelí anuncia oficialmente el asesinato del Jefe de Estado Mayor de la organización Hezbollah Tabbabi.
+		Fecha/Hora: 2025-11-23 19:29:39
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Información hebrea: en Israel, dicen que se han recibido indicios de éxito en el asesinato del Jefe de Estado Mayor de Hezbollah.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí anuncia oficialmente el asesinato de un médico
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Páginas israelíes en las páginas libanesas, una foto que dice que es del comandante del estado mayor de Hizbollah Haytham el Doctor después de su asesinato.
+		Fecha/Hora: 2025-11-23 20:06:05
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life, Canal 12 Hebreo, Oficial de los Estados Unidos: no hemos escuchado ninguna protesta del Gobierno del Líbano por el asesinato de Tababi
+		Fecha/Hora: 2025-11-23 20:18:05
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Un movimiento activo de máquinas y topadoras de ocupación al este del barrio de Al-Tuffah, precisamente al comienzo de la calle Shu ' af, que se espera que lleven a cabo operaciones de excavación, saturación o detonación de robots para su posterior detonación por la noche en las próximas horas.
+		Fecha/Hora: 2025-11-23 20:18:10
+		Fuente: @yaseenpress2004
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (6), Gaza City (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una mesa manchada de sangre de los niños de Gaza, una protesta con muñecas para funcionarios israelíes y estadounidenses, protestando por su complicidad en el genocidio y las violaciones en la Franja de Gaza.
+		Fecha/Hora: 2025-11-23 08:24:11
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Los miembros del Knesset de la coalición, incluidos Sama Rutman, Lemur Sun Har Milch y Ohad Tal, se manifestarán contra el gobierno durante su celebración, protestando por las medidas adoptadas para establecer un Estado palestino.
+		Fecha/Hora: 2025-11-23 08:29:12
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: "Contra el exterminio del pueblo palestino, cerramos todo"... activistas que anuncian una huelga pública en Roma el 28 de noviembre en protesta por la financiación del gobierno y de la empresa de exterminio Leonardo en Gaza.
+		Fecha/Hora: 2025-11-23 09:31:37
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El sábado, la policía británica detuvo al menos a 90 manifestantes en la plaza de Londres durante una protesta contra la prohibición por parte de las autoridades del grupo "Palestina Acción" en julio pasado. Activistas en la plaza Tavestock de Londres, protestando por el anuncio por parte de la junta palestina conocida por sus acciones contra las empresas comerciales de Israel, una organización proscrita.  [Enlace: https://www.alquds.com/ar/posts/211074]
+		Fecha/Hora: 2025-11-23 13:15:10
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fotografías de la intensa presencia de los mecanismos de ocupación en los alrededores de la protesta de los habitantes del campamento de Nur Shams para reclamar el regreso a sus hogares de los que fueron desplazados por la fuerza
+		Fecha/Hora: 2025-11-23 17:27:10
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Actitud ante las familias de los presos políticos de Salfit, los hermanos Abdurrahman y Massab al-Husraf y Abdullah Younis, en protesta por la detención de sus hijos desde hace un año y medio en las cárceles de seguridad del poder.
+		Fecha/Hora: 2025-11-23 17:27:12
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Movimiento estudiantil de la Universidad de Birzeit: lamentamos a nuestro mártir por la inocencia de Ma'aleh, cuyos sueños estaban en el camino de la ciencia, llevando a su país en el corazón, declarando una huelga total mañana, en luto por el espíritu del mártir y condenando la política israelí de matar a nuestro pueblo.
+		Fecha/Hora: 2025-11-23 19:29:41
+		Fuente: @yaseenpress2004
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 14
+	• Principales áreas afectadas: Localización no especificada (11), Gaza City (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Coordinador de Emergencia de Médicos sin Fronteras, Franz Love: La cesación del fuego en Gaza es extremadamente frágil; el dolor no ha terminado y un gran número de palestinos han perdido la vida como consecuencia de las violaciones israelíes; la asistencia humanitaria no está llegando a su fin; no hay ninguna instalación de salud que funcione a plena capacidad en la Franja de Gaza; en caso de que no se produzca una mejora significativa, los habitantes de Gaza volverán a hacer frente a las duras condiciones de invierno**
+		Fecha/Hora: 2025-11-23 08:27:26
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Condenamos en los términos más enérgicos los repetidos ataques físicos y psicológicos contra el comandante nacional y el prisionero Ahmad Saadat (72 años) en el aislamiento de Janut, donde fue trasladado recientemente desde el aislamiento de Majiddu y golpeado brutalmente inmediatamente por las unidades de represión sionistas. - Según testimonios documentados, el comandante Saadat sufrió repetidas incursiones en su celda, registros humillantes, una disminución considerable de su estado de salud y una clara caída de su peso, además de haber sido objeto de agresiones físicas directas en var...
+		Fecha/Hora: 2025-11-23 11:30:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Después de su destrucción, la salud de Gaza, hemos podido reactivar muchas pruebas del laboratorio de salud pública.
+		Fecha/Hora: 2025-11-23 11:42:36
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El prisionero Jamal Abu al-Hajja sufre un continuo deterioro de su estado de salud debido a su aislamiento constante en la prisión de Gunnut, a pesar de su enfermedad y edad.
+		Fecha/Hora: 2025-11-23 11:45:36
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Oficina de Información a los Prisioneros: La continuación de la ocupación en el aislamiento del prisionero Comandante Jamal Abu al-Hajja (de 66 años de edad), a pesar del deterioro de su estado de salud, es una clara insistencia en la lenta política de venganza y liquidación que aplica contra los símbolos del movimiento capturado. Al negarse a ser puesto en libertad en todos los acuerdos de intercambio, consideramos que la ocupación es plenamente responsable de su vida, e instamos a las instituciones humanitarias y de derechos internacionales a que intervengan con urgencia.
+		Fecha/Hora: 2025-11-23 11:55:36
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El 11 de octubre de 2023, el Ministerio de Salud de Palestina declaró que el número de víctimas del genocidio israelí en la Franja de Gaza había aumentado a 69,76 mártires, 170 y 946 heridos. El genocidio de dos años de duración entre Hamas e Israel había terminado con la cesación del fuego, que entró en vigor el 10 de octubre de 2025.  [Enlace: https://www.alquds.com/ar/posts/211084]
+		Fecha/Hora: 2025-11-23 14:39:10
+		Fuente: WEB www.alquds.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ministerio de Salud del Líbano: Shahid en una incursión israelí en la ciudad de Ayta al-Shaab, al sur del país
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ministerio de Salud del Líbano: Shaheed y 21 heridos en los resultados preliminares del ataque israelí en el barrio meridional
+		Fecha/Hora: 2025-11-23 17:27:08
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Programa Mundial de Alimentos (PMA) confirma que el suministro de alimentos a Gaza ha venido llegando desde la cesación del fuego en octubre, pero no cubre las enormes necesidades humanitarias. Las lluvias torrenciales han causado daños y el desembarco de algunos alimentos almacenados en las familias, lo que dificulta aún más la seguridad alimentaria para el invierno.
+		Fecha/Hora: 2025-11-23 17:27:09
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ha ' aretz: La fiscalía presentó hoy un auto de acusación contra un colono israelí, acusado de haber participado con docenas de colonos en el incendio deliberado de la aldea de Beit Lid a principios de este mes. Según la fiscalía, el objetivo de los atacantes era "aterrorizar a los habitantes de la aldea y poner en grave peligro sus vidas y bienes".
+		Fecha/Hora: 2025-11-23 19:49:54
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Ministerio Público presentó hoy un auto de acusación contra un colono israelí, acusado de haber participado con docenas de colonos en el incendio deliberado de la aldea de Beit Lid a principios de este mes. Según el fiscal, el objetivo de los atacantes era "aterrorizar a los habitantes de la aldea y poner en grave peligro sus vidas y bienes".
+		Fecha/Hora: 2025-11-23 19:50:56
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: Meteorología de Gaza lluviosa y tormentas eléctricas a medianoche.
+		Fecha/Hora: 2025-11-23 20:18:11
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se espera que el martes, por la voluntad de Dios, haya lluvias torrenciales con tormentas eléctricas, descargas eléctricas y polvorientas en muchas zonas. Antes de eso, en algunas zonas, las posibilidades de que se desplome un trueno radiador se multiplican en las últimas horas del lunes.
+		Fecha/Hora: 2025-11-23 20:20:08
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Se espera que el martes, por la voluntad de Dios, haya lluvias torrenciales con tormentas eléctricas, descargas eléctricas y polvorientas en muchas zonas. Antes de eso, en algunas zonas, las posibilidades de que se produzca una lluvia de truenos intermitentes aumentan en las últimas horas del lunes.
+		Fecha/Hora: 2025-11-23 20:47:45
+		Fuente: @yaseenpress2004
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 56 foco(s) – principales áreas: localización no especificada, Gaza City
+	• Conflicto Armado: 65 foco(s) – principales áreas: Rafah, localización no especificada, Gaza City
+	• Criminalidad: 70 foco(s) – principales áreas: localización no especificada, Gaza City
+	• Disturbios Civiles: 7 foco(s) – principales áreas: localización no especificada, Gaza City
+	• Hazards: 14 foco(s) – principales áreas: localización no especificada, Gaza City
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

@@ -1,0 +1,166 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: HAITI / Haiti
+	•	Fecha (día operativo): 2025-11-21
+	•	Hora de edición: 2025-11-24 00:02:58
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-21 – total incidentes SICU: 8)
+
+• Conflicto Armado: 2 incidente(s) registrado(s).
+• Criminalidad: 3 incidente(s) registrado(s).
+• Disturbios Civiles: 1 incidente(s) registrado(s).
+• Hazards: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Los Estados Unidos, unidos por varios países de la región y de la comunidad internacional, han lanzado un mensaje inequívoco: la espiral de violencia, de destrucción de destrucción y de destrucción y los enfrentamientos políticos internos deben cesar de inmediato poner fin de inmediato a su influencia y poder hasta el punto de poner en duda la autoridad misma del Estado; este aumento de violencia sume más a la población en el temor y agrava la urgencia de una respuesta coordinada; ante esta deriva, los Estados Unidos, unidos por varios países de la región y de la comunidad internacional, ha...  [Enlace: https://www.tripfoumi.com/blog/2025/11/20/washington-hausse-le-ton-face-a-lescalade-de-la-violence-en-haiti/]
+		Fecha/Hora: 2025-11-21 22:35:47
+		Fuente: WEB www.tripfoumi.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Rezo Nòdwès  Haiti: 2 estadounidenses detenido por planear la invavahila de la Gonâve y reducir a los habitantes en esclavila - Rezo Nòdwès  Haiti: 2 estadounidenses por planear la invavavahiririlila de la Gonâve y reducir a los habitantes en esclavos Dos tejans acusados por un proyecto de invasión sin sentido de una isla haitiana El caso parece irreal, pero ahora está en el centro de un procedimiento federal: dos jóvenes tejans fueron acusados de haber elaborado un proyecto de ataque armado contra la isla de Gonâve en Haití.  [Enlace: https://rezonodwes.com/?p=369550]
+		Fecha/Hora: 2025-11-22 02:53:56
+		Fuente: WEB rezonodwes.com
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: iciHaiti - FLASH: Aumento de hasta el 1.000 % de los casos de violación de niños  de los casos de violación de niños.html  [Enlace: https://www.icihaiti.com/en/news-46256-icihaiti-flash-up-to-1-000-increase-in-child-rape-cases.html]
+		Fecha/Hora: 2025-11-21 17:23:01
+		Fuente: @HaitiLibre
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: aquíHaití - FLASH: Hasta el 1,000% de aumento de los casos de violación infantil  [Enlace: https://www.icihaiti.com/article-46256-icihaiti-flash-jusqu-a-1-000-de-hausse-des-cas-de-viols-sur-enfants.html]
+		Fecha/Hora: 2025-11-21 17:23:02
+		Fuente: @HaitiNewsExpress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nan aks santo yo kote gang yo met barikad yo Yap fouye moun Yap fouye telf Yap vole kob moun Yap vole telf moun.. Se pa ti mizè non sivil yo ap pase anba men mesye ame sa yoo
+		Fecha/Hora: 2025-11-22 02:01:51
+		Fuente: @soidensinfoplus
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Rezo Nòdwès   Actividad social - Puerto Príncipe: servidores protestantes en giras humanitarias en los hospitales públicos - Rezo Nòdwès  Actividad social - Puerto Príncipe: servidores protestantes en giras humanitarias en los hospitales públicos - Rezo Nòdwès  Nòdwès  Nòdwès - Rezo Nòdwès: servidores protestantes en giras humanitarias en los hospitales públicos - Rezo Nòdwès Un grupo de sirvientes de varias asambleas protestantes de Port-au-Prince realizó, a principios de la mañana del martes, una visita a diversos hospitales públicos de la región metropolitana metropolitana. - La inicia...  [Enlace: https://rezonodwes.com/?p=369526]
+		Fecha/Hora: 2025-11-21 09:52:27
+		Fuente: WEB rezonodwes.com
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (2)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Trump acusa a los demócratas de sedición de un video recordando la prohibición de obedecer órdenes ilegales - Rezo Nòdwès  Trump acusa a los demócratas de sedición para un video recordando la prohibición de obedecer órdenes ilegales En Washington, el presidente Donald Trump deseno que desenó una nueva tormenta política el jueves acusando a seis legisladores demócratas de sedición punible de muerte a seis legisladores de sedición punible de muerte.  [Enlace: https://rezonodwes.com/?p=369536]
+		Fecha/Hora: 2025-11-21 18:45:32
+		Fuente: WEB rezonodwes.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El CONATEL saluda un medio en evolución y la histórica haz histórica de los Grenadiers - Rezo Nòdwès  Día Mundial de la Televisión: el CONATEL saluda un medio en evolución y la histórica haz de los Grenadiers Con motivo del Día Mundial de la Televisión, celebrado el 21 de noviembre, el CONATEL pone de relieve un medio que, a pesar de los cambios tecnológicos, sigue siendo un pilar de la vida nacional.  [Enlace: https://rezonodwes.com/?p=369552]
+		Fecha/Hora: 2025-11-22 03:08:44
+		Fuente: WEB rezonodwes.com
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Conflicto Armado: 2 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 3 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
+	• Hazards: 2 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

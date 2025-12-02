@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-25_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:03:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:03:51<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> La visita del Comandante General Adjunto de las Fuerzas Armadas, Teniente General Saddam Hafter, a Turquía, la tercera Directora del Centro de Control de Enfermedades, confirma que la situación es muy natural en lo que respecta a la propagación del virus en el país.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:05:19</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:05:19<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> La visita del Comandante General Adjunto de las Fuerzas Armadas, Teniente General Saddam Hafter, a Turquía, la tercera Directora del Centro de Control de Enfermedades, confirma que la situación es muy natural en lo que respecta a la propagación del virus en el país.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 11:58:58</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 11:58:58<br><b>Localización:</b> Janzour<br><b>Descripción:</b> Sheikh Saad, líder del movimiento de voluntad popular, durante una manifestación ante el cuartel general de la Misión de las Naciones Unidas en Ginebra: Exigimos que el Consejo de Representantes celebre una sesión urgente para examinar los expedientes de los candidatos a la presidencia del gobierno, de conformidad con los expedientes transmitidos por el Consejo de Estado. – La tarea de este primer gobierno debe ser unificar las instituciones militares y de seguridad y traer elecciones libres e imparciales, sin exclusión ni marginación.]]></description>
+      <Point>
+        <coordinates>13.017000,32.827000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 14:44:33</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 14:44:33<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> - La policía militar investigó las operaciones de seguridad y dijo que su amigo los había atropellado y dejado salir, a pesar de que mi hermano estaba en cuidados intensivos y murió tres días después. - Un fiscal también los investigó y los puso en libertad sobre la base de dos testigos que no lo habían atropellado.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-25 07:03:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-25 07:03:52<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Presidente de la República Árabe Siria, Donald Trump, firmó un decreto por el que se iniciaba el proceso de clasificación de la Hermandad Musulmana en la lista de organizaciones terroristas ... la misión de investigación criminal de Latif Al-Ashaf, la misión de investigación de Al-Ashfa &#x27; a, las organizaciones de seguridad de Al-Aswabi, las organizaciones no gubernamentales de Al-Asad, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de la Jamahiriya Árabe Libia, el nuevo grupo de seg...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-25 09:05:20</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-25 09:05:20<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Presidente de la República Árabe Siria, Donald Trump, firmó un decreto por el que se iniciaba el proceso de clasificación de la Hermandad Musulmana en la lista de organizaciones terroristas ... la misión de investigación criminal de Latif Al-Ashaf, la misión de investigación de Al-Ashfa &#x27; a, las organizaciones de seguridad de Al-Aswabi, las organizaciones no gubernamentales de Al-Asad, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de la Jamahiriya Árabe Libia, el nuevo grupo de seg...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 09:10:41</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 09:10:41<br><b>Localización:</b> Misrata<br><b>Descripción:</b> La Misión tiene una influencia cada vez mayor en la región oriental de Libia con una asociación económica y una estrategia cada vez mayor para detectar una red de tráfico ilícito de migrantes, controlar el envío de embarcaciones y detener a dos acusados de haber completado la elección de los alcaldes de 16 consejos municipales de la tercera serie, con penas de prisión de tres años contra el ex presidente de la Junta de Directores de Libana por el asesinato de la Sra.]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 11:59:39</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 11:59:39<br><b>Localización:</b> Misrata<br><b>Descripción:</b> La Misión tiene una influencia cada vez mayor en la región oriental de Libia con una asociación económica y una estrategia cada vez mayor para detectar una red de tráfico ilícito de migrantes, controlar el envío de embarcaciones y detener a dos acusados de haber completado la elección de los alcaldes de 16 consejos municipales de la tercera serie, con penas de prisión de tres años contra el ex presidente de la Junta de Directores de Libana por el asesinato de la Sra.]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 11:59:43</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 11:59:43<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> El Gobierno de Libia ha detenido a un traficante de drogas encubierta por posesión de especies extremadamente peligrosas en Benghazi. El informe de la Oficina de Investigación del Jefe de Estupefacientes y Sustancias Sicotrópicas derribó a los miembros de la Oficina del Jefe del Servicio de Lucha contra los Estupefacientes y las Toxicomanías, llamada M.P.A.A., en colaboración con el IDEA, organizó un taller para examinar las estrategias nacionales de lucha contra la información perjudicial.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

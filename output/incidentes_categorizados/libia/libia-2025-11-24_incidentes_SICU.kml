@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-24_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 12:41:02</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 12:41:02<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> – El asesinato de mujeres es un mensaje de que la tasa de disuasión y el mantenimiento de la seguridad ejercida por el Ministerio del Interior no ha alcanzado el nivel necesario y demuestra que el Estado no puede mantener la seguridad en las zonas occidentales de Trípoli. – El hecho de que el crimen se produzca a plena luz del día demuestra que los autores no se sienten amenazados por el enjuiciamiento y que se encuentran en un entorno seguro para cometer el delito.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:22:55</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:22:55<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:41:05</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:41:05<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:53:21</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:53:21<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-24 22:56:47</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-24 22:56:47<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Libia, periódico de las 24 Abokhoub: la expulsión de Al-Tarabalissi y sus elementos del interior garantiza el retorno de la seguridad a la capital. El analista político Ahmed Abu Akhroub describió el asesinato de la Sra.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-24 13:31:49</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-24 13:31:49<br><b>Localización:</b> Tripoli International Airport<br><b>Descripción:</b> Según fuentes, la Fuerza de Lucha contra el Terrorismo ha recibido recientemente aviones teledirigidos y suicidas de tipo ucraniano, suministrados a través de Abdussalam Zubi y en coordinación con el agregado militar ucraniano de Argelia, Coronel Andre Baiuk. Estas marchas se clasifican entre especies de alto riesgo, en medio de temores de que puedan ser utilizadas para ataques y asesinatos, y de advertencias sobre su posible acceso a organizaciones extremistas que podrían explotar su capacidad para poner en peligro la seguridad.]]></description>
+      <Point>
+        <coordinates>13.157000,32.676000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-24 14:06:53</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-24 14:06:53<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> En menos de 48 horas, los habitantes del municipio de Dedos despiertan tres incendios en diferentes casas del municipio, en medio del miedo y la tensión que viven las familias a diario. A pesar de que los incidentes se repiten, la gente sigue preguntando: ¿Cuánto tiempo dura el sufrimiento?]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

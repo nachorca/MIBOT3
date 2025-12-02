@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>haiti-2025-11-28_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 07:06:50</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 07:06:50<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 07:41:32</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 07:41:32<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder existente Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL La Francofonía promete contribuciones a la Fuerza de Represión de las Pandillas La Institución del Sagrado Corazón incendiada por las pandillas La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas Un nuevo...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 08:25:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 08:25:31<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder existente Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL El BID ha aprobado una cantidad de 243 millones de dólares para Haití La Francofonía25 promesas de contribuciones a la Fuerza de represión de las pandillas Acuerdo antidroga entre los Estados Unidos y la República Dominicana: Ives Marie Chanel llama a Haití a la prudencia Alix Didier Hij...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 08:30:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 08:30:31<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en su lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL El problema no es las elites: es el sistema que las fabrica La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis sobre la Fuerza de represión de las pandillas y las perspectivas de Alix Didier Fil-Aimée queda en el puesto, el CPT tiene un plan B?]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 08:36:30</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 08:36:30<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en su lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL Un nuevo director ejecutivo para conducir la transformación del hospital de Fort-Libertiberté en hospital universitario La Institución del Sagrado Corazón incendiada por las pandillas La Francofonía promete contribuciones a la Fuerza de Represión de las pandillas Alix Didier Fil-Aimée...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 08:52:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 08:52:31<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en su lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL La Institución del Sagrado Corazón incendiada por las pandillas La administración Trump revisará las tarjetas de residencia expedidas a los haitianos La Francofonía promete contribuciones a la Fuerza de Represión de las pandillas Alix Didier Fil-Aimé queda en el puesto, el CPT tiene un...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 08:57:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 08:57:31<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en su lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL Un nuevo director ejecutivo para conducir la transformación del hospital de Fort-Libertiberté en hospital universitario La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas de la administración Trump va...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 09:07:38</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 09:07:38<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder existente Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisionado del Gobierno al CERMICOL El BID ha aprobado una cantidad de 243 millones de dólares para Haití La quinta edición de la Mesa sectorial de seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas El problema no es las elites: es el sistema que las fabrica La Force Administration Tr...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 09:07:50</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 09:07:50<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 09:34:30</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 09:34:30<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en el lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL La Institución del Sagrado Corazón incendiada por las pandillas La BID ha aprobado una cantidad de 243 millones de dólares para Haití El problema no es las elites: es el sistema que las fabrica La Francofonía promete contribuciones a la Fuerza de Represión de las pandillas Un nuevo dir...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 11:03:35</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 11:03:35<br><b>Localización:</b> Fort-Liberté<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en el lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL El problema no es las elites: es el sistema que las fabrica La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas Un nuevo director ejecutivo para conducir la transformación del hospital de Fort-Libertez...]]></description>
+      <Point>
+        <coordinates>-71.836000,19.663000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 11:56:53</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 11:56:53<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 12:43:47</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 12:43:47<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder existente Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno en el CERMICOL L&#x27;Accord de Montana denuncia las acciones de los CPT blanco y critica la traición de Fritz Alphonse Jean La Francofonía promete contribuciones a la Fuerza de Represión de las Pandillas Acuerdo antidroga entre los Estados Unidos y la República Dominicana: Ives Marie Chanel pide a Haití...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 12:49:00</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 12:49:00<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en su lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisionado del Gobierno al CERMICOL La Institución del Sagrado Corazón incendiada por las pandillas La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas Un nuevo director ejecutivo para conducir la transformación del Hospital de Fort-Lib...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 13:32:03</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 13:32:03<br><b>Localización:</b> Fort-Liberté<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en el lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL El problema no es las elites: es el sistema que las fabrica La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas Un nuevo director ejecutivo para conducir la transformación del hospital de Fort-Libertez...]]></description>
+      <Point>
+        <coordinates>-71.836000,19.663000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 13:53:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 13:53:17<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder existente Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL El problema no es las elites: es el sistema que las fabrica La BID aprobó una cantidad de 243 millones de dólares para Haití La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las pandillas y las perspectivas de Alix Didier Hijo-Aimé qu...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 13:58:03</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 13:58:03<br><b>Localización:</b> Fort-Liberté<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en el lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL La Francofonía promete contribuciones a la Fuerza de Represión de las Pandillas Un nuevo director ejecutivo para conducir la transformación del hospital de Fort-Libertez en hospital universitario La BID aprobó una cantidad de 243 millones de dólares para Haití La BID administration Tru...]]></description>
+      <Point>
+        <coordinates>-71.836000,19.663000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 13:58:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 13:58:17<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 16:42:29</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 16:42:29<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-28 17:48:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-28 17:48:46<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Le BSA aboga por una alternativa al poder en su lugar Encuentro entre el canciller haitiano y el embajador francés en torno a la seguridad Haití elegida en el Consejo del Programa para el Desarrollo de la Comunicación de la UNESCO Visita del Comisario del Gobierno al CERMICOL La Institución del Sagrado Corazón incendiada por las pandillas Un nuevo director ejecutivo para conducir la transformación del hospital de Fort-Libertad en hospital universitario La quinta edición de la Mesa sectorial sobre la seguridad pone el énfasis en la Fuerza de represión de las...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-11-28 07:06:58</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-28 07:06:58<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Estados Unidos anuncia el fin del TPS para haitianos Estados Unidos anuncia el fin del TPS para haitianos Haití: Un incendio arrasa la Institución Sagrado Corazón de Turgeau Tensiones en Washington: Dos miembros de la Guardia Nacional mueren Crisis en el CPT: Laurent Saint-Cyr condena a Fritz Jean y rechaza cualquier ruptura con el primer ministro Augusto Heleno: el general de la ONU responsable de la “masacre” de Cité Soleil capturado por la justicia brasileña Acusados ​​por el líder de la banda “Lanmò san jou”, Apaid y Baker fueron interrogados por la BLTS Estados Unidos: El DOGE, símbolo...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-28 09:07:58</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-28 09:07:58<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Estados Unidos anuncia el fin del TPS para haitianos Estados Unidos anuncia el fin del TPS para haitianos Haití: Un incendio arrasa la Institución Sagrado Corazón de Turgeau Tensiones en Washington: Dos miembros de la Guardia Nacional mueren Crisis en el CPT: Laurent Saint-Cyr condena a Fritz Jean y rechaza cualquier ruptura con el primer ministro Augusto Heleno: el general de la ONU responsable de la “masacre” de Cité Soleil capturado por la justicia brasileña Acusados ​​por el líder de la banda “Lanmò san jou”, Apaid y Baker fueron interrogados por la BLTS Estados Unidos: El DOGE, símbolo...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazards — 2025-11-28 11:57:14</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-11-28 11:57:14<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Estados Unidos anuncia el fin del TPS para haitianos Estados Unidos anuncia el fin del TPS para haitianos Haití: Un incendio arrasa la Institución Sagrado Corazón de Turgeau Tensiones en Washington: Dos miembros de la Guardia Nacional mueren Crisis en el CPT: Laurent Saint-Cyr condena a Fritz Jean y rechaza cualquier ruptura con el primer ministro Augusto Heleno: el general de la ONU responsable de la “masacre” de Cité Soleil capturado por la justicia brasileña Acusados ​​por el líder de la banda “Lanmò san jou”, Apaid y Baker fueron interrogados por la BLTS Estados Unidos: El DOGE, símbolo...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 07:06:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 07:06:59<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> La Embajada de los Estados Unidos en El Salvador confirmó la transferencia de dos helicópteros militares Bell UHH-1N al contingente salvador Haitiria Our tin tin tirUTH en littles. Some compatriots rejoice when a foreign en el futuro, a Canadian, or a Frenchman, seccancels a Haitiitiantis informative NEWS site The FLME OF TRUTH is flickring near obliviion.  [Enlace: https://www.facebook.com/ninonfanpage/videos/1341884480189123/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 09:07:59</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 09:07:59<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> La Embajada de los Estados Unidos en El Salvador confirmó la transferencia de dos helicópteros militares Bell UHH-1N al contingente salvador Haitiria Our tin tin tirUTH en littles. Some compatriots rejoice when a foreign en el futuro, a Canadian, or a Frenchman, seccancels a Haitiitiantis informative NEWS site The FLME OF TRUTH is flickring near obliviion.  [Enlace: https://www.facebook.com/ninonfanpage/videos/1341884480189123/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 11:57:15</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 11:57:15<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> La Embajada de los Estados Unidos en El Salvador confirmó la transferencia de dos helicópteros militares Bell UHH-1N al contingente salvador Haitiria Our tin tin tirUTH en littles. Some compatriots rejoice when a foreign en el futuro, a Canadian, or a Frenchman, seccancels a Haitiitiantis informative NEWS site The FLME OF TRUTH is flickring near obliviion.  [Enlace: https://www.facebook.com/ninonfanpage/videos/1341884480189123/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 13:58:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 13:58:34<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> La Embajada de los Estados Unidos en El Salvador confirmó la transferencia de dos helicópteros militares Bell UHH-1N al contingente salvador Haitiria Our tin tin tirUTH en littles. Some compatriots rejoice when a foreign en el futuro, a Canadian, or a Frenchman, seccancels a Haitiitiantis informative NEWS site The FLME OF TRUTH is flickring near obliviion.  [Enlace: https://www.facebook.com/ninonfanpage/videos/1341884480189123/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-28 16:42:39</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-28 16:42:39<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> La Embajada de los Estados Unidos en El Salvador confirmó la transferencia de dos helicópteros militares Bell UHH-1N al contingente salvador Haitiria Our tin tin tirUTH en littles. Some compatriots rejoice when a foreign en el futuro, a Canadian, or a Frenchman, seccancels a Haitiitiantis informative NEWS site The FLME OF TRUTH is flickring near obliviion.  [Enlace: https://www.facebook.com/ninonfanpage/videos/1341884480189123/]]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

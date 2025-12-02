@@ -1,0 +1,206 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: LIBIA / Libia
+	•	Fecha (día operativo): 2025-11-25
+	•	Hora de edición: 2025-11-25 15:51:40
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-25 – total incidentes SICU: 16)
+
+• Terrorismo: 3 incidente(s) registrado(s).
+• Conflicto Armado: 9 incidente(s) registrado(s).
+• Criminalidad: 3 incidente(s) registrado(s).
+• Disturbios Civiles: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Tripoli (2), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Presidente de la República Árabe Siria, Donald Trump, firmó un decreto por el que se iniciaba el proceso de clasificación de la Hermandad Musulmana en la lista de organizaciones terroristas ... la misión de investigación criminal de Latif Al-Ashaf, la misión de investigación de Al-Ashfa ' a, las organizaciones de seguridad de Al-Aswabi, las organizaciones no gubernamentales de Al-Asad, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de la Jamahiriya Árabe Libia, el nuevo grupo de seg...
+		Fecha/Hora: 2025-11-25 07:03:52
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Tripoli
+		Breve descripción analítica: El Presidente de la República Árabe Siria, Donald Trump, firmó un decreto por el que se iniciaba el proceso de clasificación de la Hermandad Musulmana en la lista de organizaciones terroristas ... la misión de investigación criminal de Latif Al-Ashaf, la misión de investigación de Al-Ashfa ' a, las organizaciones de seguridad de Al-Aswabi, las organizaciones no gubernamentales de Al-Asad, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de Al-Asad Al-Asaf, las organizaciones no gubernamentales de la Jamahiriya Árabe Libia, el nuevo grupo de seg...
+		Fecha/Hora: 2025-11-25 09:05:20
+		Fuente: WEB https://www.alsaaa24.com/category/%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Masad Pablo, Asesor del Presidente de los Estados Unidos, Donald Trump, para los asuntos africanos: En muchos países se examinará la clasificación de los grupos relacionados con los hermanos. - Hay una vía administrativa y jurídica para las leyes estadounidenses sobre la clasificación de los grupos leales a los hermanos en la lista de terroristas.
+		Fecha/Hora: 2025-11-25 14:44:33
+		Fuente: @libyapress
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 9
+	• Principales áreas afectadas: Localización no especificada (5), Benghazi (3), Janzour (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Benghazi
+		Breve descripción analítica: La visita del Comandante General Adjunto de las Fuerzas Armadas, Teniente General Saddam Hafter, a Turquía, la tercera Directora del Centro de Control de Enfermedades, confirma que la situación es muy natural en lo que respecta a la propagación del virus en el país.
+		Fecha/Hora: 2025-11-25 07:03:51
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-25 07:03:53
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Benghazi
+		Breve descripción analítica: La visita del Comandante General Adjunto de las Fuerzas Armadas, Teniente General Saddam Hafter, a Turquía, la tercera Directora del Centro de Control de Enfermedades, confirma que la situación es muy natural en lo que respecta a la propagación del virus en el país.
+		Fecha/Hora: 2025-11-25 09:05:19
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-25 09:05:21
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Los vuelos de carga sospechosos de los Emiratos Árabes Unidos continúan llegando a Libia, que ahora se ha convertido en el principal centro para el transporte de suministros militares y combatientes extranjeros a las milicias de apoyo rápido, lo que alimenta el conflicto en el Sudán. - Los vuelos de carga de la cuenta de control de tráfico aéreo Rich Tedd continúan, mientras que las milicias de los Emiratos Árabes Unidos tratan de mejorar su reputación anunciando una tregua humanitaria de tres meses en el Sudán.
+		Fecha/Hora: 2025-11-25 09:28:04
+		Fuente: @gplusss
+
+	• Localización: Janzour
+		Breve descripción analítica: Sheikh Saad, líder del movimiento de voluntad popular, durante una manifestación ante el cuartel general de la Misión de las Naciones Unidas en Ginebra: Exigimos que el Consejo de Representantes celebre una sesión urgente para examinar los expedientes de los candidatos a la presidencia del gobierno, de conformidad con los expedientes transmitidos por el Consejo de Estado. – La tarea de este primer gobierno debe ser unificar las instituciones militares y de seguridad y traer elecciones libres e imparciales, sin exclusión ni marginación.
+		Fecha/Hora: 2025-11-25 11:58:58
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-25 11:59:47
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Benghazi
+		Breve descripción analítica: - La policía militar investigó las operaciones de seguridad y dijo que su amigo los había atropellado y dejado salir, a pesar de que mi hermano estaba en cuidados intensivos y murió tres días después. - Un fiscal también los investigó y los puso en libertad sobre la base de dos testigos que no lo habían atropellado.
+		Fecha/Hora: 2025-11-25 14:44:33
+		Fuente: @libyapress
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-11-25 14:47:28
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Misrata (2), Benghazi (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Misrata
+		Breve descripción analítica: La Misión tiene una influencia cada vez mayor en la región oriental de Libia con una asociación económica y una estrategia cada vez mayor para detectar una red de tráfico ilícito de migrantes, controlar el envío de embarcaciones y detener a dos acusados de haber completado la elección de los alcaldes de 16 consejos municipales de la tercera serie, con penas de prisión de tres años contra el ex presidente de la Junta de Directores de Libana por el asesinato de la Sra.
+		Fecha/Hora: 2025-11-25 09:10:41
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Misrata
+		Breve descripción analítica: La Misión tiene una influencia cada vez mayor en la región oriental de Libia con una asociación económica y una estrategia cada vez mayor para detectar una red de tráfico ilícito de migrantes, controlar el envío de embarcaciones y detener a dos acusados de haber completado la elección de los alcaldes de 16 consejos municipales de la tercera serie, con penas de prisión de tres años contra el ex presidente de la Junta de Directores de Libana por el asesinato de la Sra.
+		Fecha/Hora: 2025-11-25 11:59:39
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Benghazi
+		Breve descripción analítica: El Gobierno de Libia ha detenido a un traficante de drogas encubierta por posesión de especies extremadamente peligrosas en Benghazi. El informe de la Oficina de Investigación del Jefe de Estupefacientes y Sustancias Sicotrópicas derribó a los miembros de la Oficina del Jefe del Servicio de Lucha contra los Estupefacientes y las Toxicomanías, llamada M.P.A.A., en colaboración con el IDEA, organizó un taller para examinar las estrategias nacionales de lucha contra la información perjudicial.
+		Fecha/Hora: 2025-11-25 11:59:43
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Decenas de familiares de desaparecidos y detenidos egipcios en Libia se reunieron hoy, frente a la sede de la Embajada de Libia en Zamalek, para protestar contra la continuación de la detención de sus hijos. - Los manifestantes exigieron a las autoridades oficiales que intervinieran urgentemente para liberarlos, afirmando que su sufrimiento había continuado durante años sin una respuesta clara de las autoridades competentes de Libia.
+		Fecha/Hora: 2025-11-25 14:44:34
+		Fuente: @gplusss
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 3 foco(s) – principales áreas: Tripoli, localización no especificada
+	• Conflicto Armado: 9 foco(s) – principales áreas: Janzour, Benghazi, localización no especificada
+	• Criminalidad: 3 foco(s) – principales áreas: Benghazi, Misrata
+	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

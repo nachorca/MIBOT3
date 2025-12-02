@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-11-26_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 08:18:23</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 08:18:23<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Secretario General del Estado Mayor del Ejército de Libia participa en las actuaciones del Simposio Árabe para Jefes de Autoridades de Entrenamiento Militar en El Cairo El representante de EE.UU.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 09:04:09</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 09:04:09<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> En preparación de su inauguración en Benghazi, el Comandante en Jefe de las Fuerzas Armadas, Khalifa Haftter, realizó una gira de inspección en la que participaron la Universidad de Benghazi, el Hospital de Medicina y Cirugía Infantil y el Hospital de Mujeres ... de Rusia: el Tribunal de Roma perdió la confianza debido a la doble norma nacional.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 09:53:50</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 09:53:50<br><b>Localización:</b> Benghazi<br><b>Descripción:</b> El Gobernador General de las Fuerzas Armadas, el Mariscal Khalifa Hafter, realizó una gira de inspección en la Universidad de Benghazi, el Hospital de Medicina y Cirugía Infantil y el Hospital de la Mujer ... el Tribunal de Roma ha perdido la confianza debido a la doble norma nacional.]]></description>
+      <Point>
+        <coordinates>20.066000,32.116000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 09:58:01</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 09:58:01<br><b>Localización:</b> Tobruk<br><b>Descripción:</b> • Después de recibir información confirmada de que se encontraba en un hotel de la ciudad de Tabruk, fue vigilado en coordinación con la policía militar blanca y se llevó a cabo una emboscada que dio lugar a su incautación fraudulenta con la posesión de la cantidad incautada. • Según la declaración del organismo, las autoridades competentes iniciaron las actuaciones judiciales necesarias contra el acusado, con miras a su traslado a la justicia.]]></description>
+      <Point>
+        <coordinates>23.976000,32.083000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 13:18:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 13:18:22<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Secretario General del Estado Mayor del Ejército de Libia participa en las actuaciones del Simposio Árabe para Jefes de Autoridades de Entrenamiento Militar en El Cairo El representante de EE.UU.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 13:25:02</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 13:25:02<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> A pesar de que Ernie afirma estar vigilando e impidiendo el flujo de armas hacia Libia, la verdadera pregunta es: ¿dónde está su control desde los aviones teledirigidos ucranianos y las embarcaciones suicidas que cruzan de Argelia a Trípoli? Estos movimientos se producen en el marco de los entendimientos comunes entre el Subsecretario de Defensa del Gobierno de Dubai, Abdussalam Zubey, y el agregado militar ucraniano de Argelia, el Coronel André Baiuk...]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 17:41:17</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 17:41:17<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Ministerio está reorganizando la estructura de seguridad mediante la capacitación de nuevos oficiales y mandos de seguridad [efectivo]. La calle libia está presenciando a policías uniformados después de años en que la escena se basaba en formaciones tribales, políticas y militares.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 17:48:29</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 17:48:29<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Secretario General del Estado Mayor del Ejército de Libia participa en las actuaciones del Simposio Árabe para Jefes de Autoridades de Entrenamiento Militar en El Cairo El representante de EE.UU.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-26 17:48:31</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-26 17:48:31<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> Los informes mensuales y semanales sobre todos los acontecimientos ocurridos en Libia, tanto en el país como en el extranjero, y el seguimiento de todas las novedades en el gobierno libio “desterrado” examinan con Al-Haddad la evolución de la estructura de las instituciones militares en Trípoli. El periódico Al-Haddad combina noticias de última hora, análisis políticos e informes sobre asuntos políticos, así como su interés en vigilar y analizar todo lo relacionado con la salud, la cultura y el deporte en Libia.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 09:30:42</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 09:30:42<br><b>Localización:</b> Ain Zara<br><b>Descripción:</b> El Sr. Al-Muzighi, en la investigación criminal: la captura de acusados de prostitución, brujería y tráfico de drogas en un asistente del Servicio de Investigación Criminal, que había declarado una rama de ayuda, le permitió a la organización capturar a los acusados de prostitución, brujería, brujería y tráfico de drogas.]]></description>
+      <Point>
+        <coordinates>13.232000,32.788000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 17:41:16</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 17:41:16<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> - En el próximo período se presentarán cifras y estadísticas sobre los casos de asesinato descubiertos, se identificará a los autores y se los remitirá a las fiscalías para que completen las actuaciones judiciales. - ¿Quién dice que hemos gastado más de 5.000 millones, de los cuales no se da cuenta de que gran parte va a los sueldos y sólo trabajamos por la puerta de emergencia?]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 17:41:17</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 17:41:17<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> En su primer comentario sobre el crimen que sacudió a Trípoli, el Ministro del Interior encargado del gobierno de unidad nacional, el General Tarapelsi, confirma que está a punto de concluir la investigación del asesinato de las mujeres Mujahid, y promete que los autores pagarán, explicando que los autores siguieron su auto antes de que fuera asesinado a sangre fría, añadiendo que estaba tratando de instalar un sistema digital moderno de cámaras y desarrollar el sistema de seguridad en coordinación con el gobierno.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-26 14:16:30</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-26 14:16:30<br><b>Localización:</b> Qatrun<br><b>Descripción:</b> Durante la mayor parte de los últimos cinco años, las fuerzas de los mercados ilícitos se han utilizado estratégicamente como instrumento de gobierno, permitiendo a los grupos armados locales y a los combatientes continuar las actividades de contrabando o recibir sobornos de los contrabandistas para evitar disturbios o su oposición. – Esta restricción ha hecho estallar una situación de indignación y tensión entre los grupos de los halcones de Fazan, que dependen de esos fondos.]]></description>
+      <Point>
+        <coordinates>14.606000,24.856000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-11-26 17:41:17</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-11-26 17:41:17<br><b>Localización:</b> Misrata<br><b>Descripción:</b> El puente de los cetáceos cayó hace un momento en una pelea y una protesta en la carretera.]]></description>
+      <Point>
+        <coordinates>15.092000,32.375000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

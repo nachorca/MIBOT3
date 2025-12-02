@@ -1,0 +1,153 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: MALI / Mali
+	•	Fecha (día operativo): 2025-11-30
+	•	Hora de edición: 2025-11-30 22:47:20
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-30 – total incidentes SICU: 7)
+
+• Terrorismo: 6 incidente(s) registrado(s).
+• Hazards: 1 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 6
+	• Principales áreas afectadas: Diré (3), San (2), Bla (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia mediante una acción de grupo de usuarios en el stream musical Materias Primeras materias: la lango ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista: la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los la Incendio mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residencial El relato en vídeo de la persecución de los terroristas del 13-No novi...
+		Fecha/Hora: 2025-11-30 18:30:02
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Materias primeras materias primas: la lama ostra quiere volver a flotar Arthur Schoonderwoerd, pianista : la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios • El relato en vídeo de la persecución de los terroristas desde el 13 hasta noviembre hasta el 13 hasta el 31 de noviembre hasta el 31 de diciembre en Saint Denis más ochenta años después...
+		Fecha/Hora: 2025-11-30 18:33:34
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: San
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista : la música y la música de Europa corren el riesgo de perder la diversidad y la riqueza de sus directorios • El relato en vídeo de la persecución de los terroristas del 13 de noviembre hasta el día de la matanza de los terroristas del 13 de noviembre hasta el día de San Denis ¡¿Es ridículo?
+		Fecha/Hora: 2025-11-30 19:32:51
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Bla
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la lango ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista: La música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios de los terroristas desde el 13 de noviembre hasta el día de noviembre hasta el día de la matanza en Saint-Denis L.
+		Fecha/Hora: 2025-11-30 20:28:33
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: San
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias primeras materias primas: la lango ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista : la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas de los días 13 y noviembre hasta el día de la noche en San Denis ¿Cómo se han instalado los contenidos odiosos en los podcastos más escuchados de Francia L-Ucras Ucr...
+		Fecha/Hora: 2025-11-30 20:52:36
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la ostra quiere volver a flotar Arthur Schchoonderwoerd, pianista : la música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los la Incendio mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residencial El relato en vídeo de la persecución de los terroristas del 13-No noviemb...
+		Fecha/Hora: 2025-11-30 20:58:33
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Diré (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Diré
+		Breve descripción analítica: Le Monde Afri - Noticias, videos e infos en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia mediante una acción de grupo de usuarios en el stream musical Materias Primeras materias primas: la lactos quiere recuperarse Arthur Schchoonderwoerd, pianista: la Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios la Incendio mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residencial Más años después del juicio de Nuremberg, cómo las imágenes han revolu la justi...
+		Fecha/Hora: 2025-11-30 18:39:42
+		Fuente: WEB https://www.lemonde.fr/afrique/
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 6 foco(s) – principales áreas: San, Diré, Bla
+	• Hazards: 1 foco(s) – principales áreas: Diré
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

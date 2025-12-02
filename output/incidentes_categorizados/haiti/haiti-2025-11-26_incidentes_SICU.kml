@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>haiti-2025-11-26_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 08:16:49</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 08:16:49<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC y IJOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de puerta Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El consejero presidencial Frit...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 08:38:13</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 08:38:13<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Fritz Alphonse Jean, rechaza las acusaciones estadounidenses y denuncia presiones diplomáticas Cuando Berthony Raphaël relata su trayectoria junto a Dadou Pasquet Los funcionarios ha...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 08:52:24</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 08:52:24<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y LJSACOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Fritz Alphonse Jean rechaza las acusaciones estadounidenses y denuncia las presiones diplomáticas Cité Soleil: Cuando la lucha contra la malnutrición shöl invita al paso de p...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 08:56:25</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 08:56:25<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y la JSAC han lanzado una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Fritz Alphonse Jean rechaza las acusaciones estadounidenses y denuncia de las presiones diplomáticas Estatuto fiscal de los inmuebles situados en una zona de no-derecho Ciudad Sol: Cuando la lucha contra la malnutrición desnutrición desvió a un paso de pu...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 09:08:17</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 09:08:17<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard entrevista a la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición sin invitación invita al paso de puerta El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sancionados por l...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 09:13:10</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 09:13:10<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Cuando Berthony Raphaël relata su trayectoria junto a D...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 09:29:06</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 09:29:06<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no derecha Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquetque El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sanciona...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 09:35:22</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 09:35:22<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de puerta El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Estatuto fiscal de los inmuebles situados en una zona de no derecha Los funcionarios haitianos sancionado...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 09:52:14</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 09:52:14<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se reúne con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados del Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Ciudad Sol: Cuando la lucha contra la malnutrición es invitada al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cuando Berthony Raphaël relata su trayectoria junt...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 09:57:16</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 09:57:16<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y el JSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados del Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Ciudad Soleil: Cuando la lucha contra la malnutrición se invita al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no derecha Cuando Berthony Raphaël...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 13:16:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 13:16:52<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrida invita al paso de puerta Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Cuando Berthony...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 13:22:21</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 13:22:21<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard entrevista a la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición sin invitación invita al paso de puerta El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sancionados por l...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 13:43:23</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 13:43:23<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados de Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Ciudad Soleil: Cuando la lucha contra la m...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 13:49:31</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 13:49:31<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Rapha25el relata su trayectoria junto a Dadou Pasquet Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cité Soleil: Cuando la lucha contra la malnutrición se invita al...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 13:54:15</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 13:54:15<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se reúne con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados del Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Ciudad Sol: Cuando la lucha contra la malnutrición es invitada al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cuando Berthony Raphaël relata su trayectoria junt...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 14:17:45</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 14:17:45<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y la JSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Raphaël relata su trayectoria junto a Dadou Pasquetque El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cité Soleil: Cuando la lucha contra...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 14:27:03</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 14:27:03<br><b>Localización:</b> Pétion-Ville<br><b>Descripción:</b> La DCPJ revela los vínculos entre Louis Gerald Gilles y la coalición criminal terrorista de la coalición criminal terrorista de Louis Gerald Gilles y la coalición criminal terrorista la Viv Ansanmba - Rezo Nòdwès  Flashback, mayo 2025 .  [Enlace: https://rezonodwes.com/?p=369673]]]></description>
+      <Point>
+        <coordinates>-72.286000,18.516000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 14:42:38</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 14:42:38<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y LJSACOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Rapha25el narra su trayectoria junto a Dadou Pasquet Fritz Alphonse Jean rechaza las acusaciones estadounidenses y denuncia presiones diplomáticas Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Estatuto fiscal...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 14:47:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 14:47:32<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados por Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Fritz Alphtonse Jean rechaza las acusaciones americanas y denuncia presiones diplomáticas El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Estatuto fiscal de los inmuebles situados en una zona de no-derecho Los funcionarios haitianos san...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 14:58:03</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 14:58:03<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC y LJSACOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no derecha El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Cité Cité Soleil: Cuando la lucha contra l...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 17:42:29</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 17:42:29<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de la puerta Fritz Alphonse Jean rechaza las acusaciones americanas y denuncia presiones diplomáticas Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 C...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 17:46:54</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 17:46:54<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de puerta Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Estatuto fiscal de los inmuebles situados en...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 18:08:58</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 18:08:58<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia cometida contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición se invita al paso de puerta Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Fritz Alphonse Jean rechaza las acusaciones americ...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 18:20:05</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 18:20:05<br><b>Localización:</b> Cité Soleil<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Cité Soleil: Cuando la lucha contra la malnutrición s.a invita al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no derecha El consejero presidencial Fritz Alphonse Jean sa...]]></description>
+      <Point>
+        <coordinates>-72.353000,18.606000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 18:43:12</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 18:43:12<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados de Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Cuando Berthony Raphaël narra su trayectoria junto con Dadou Pasquetría Estatuto fiscal de los inmuebles situados en una zona de no-derecho Ciudad Sol: Cuando la lucha contra la malnutrición desvi...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 18:54:04</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 18:54:04<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Ciudad Sol: Cuando la lucha contra la malnutrición s latime invita al paso de puerta Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Cuando Berthony Raphaël narra su tray...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 18:59:11</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 18:59:11<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard entrevista a la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición sin invitación invita al paso de puerta El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sancionados por l...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-11-26 19:03:59</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-26 19:03:59<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Fritz Alphonse Jean, rechaza las acusaciones estadounidenses y denuncia presiones diplomáticas Cuando Berthony Raphaël relata su trayectoria junto a Dadou Pasquet Los funcionarios ha...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 08:17:09</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 08:17:09<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 13:17:09</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 13:17:09<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 17:42:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 17:42:46<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-26 20:28:08</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-26 20:28:08<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

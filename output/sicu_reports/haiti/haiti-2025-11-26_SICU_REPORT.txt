@@ -1,0 +1,346 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: HAITI / Haiti
+	•	Fecha (día operativo): 2025-11-26
+	•	Hora de edición: 2025-11-26 22:47:58
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-26 – total incidentes SICU: 44)
+
+• Terrorismo: 28 incidente(s) registrado(s).
+• Conflicto Armado: 8 incidente(s) registrado(s).
+• Criminalidad: 4 incidente(s) registrado(s).
+• Disturbios Civiles: 4 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 28
+	• Principales áreas afectadas: Port-au-Prince (17), Cité Soleil (10), Pétion-Ville (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC y IJOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de puerta Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El consejero presidencial Frit...
+		Fecha/Hora: 2025-11-26 08:16:49
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Fritz Alphonse Jean, rechaza las acusaciones estadounidenses y denuncia presiones diplomáticas Cuando Berthony Raphaël relata su trayectoria junto a Dadou Pasquet Los funcionarios ha...
+		Fecha/Hora: 2025-11-26 08:38:13
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y LJSACOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Fritz Alphonse Jean rechaza las acusaciones estadounidenses y denuncia las presiones diplomáticas Cité Soleil: Cuando la lucha contra la malnutrición shöl invita al paso de p...
+		Fecha/Hora: 2025-11-26 08:52:24
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y la JSAC han lanzado una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Fritz Alphonse Jean rechaza las acusaciones estadounidenses y denuncia de las presiones diplomáticas Estatuto fiscal de los inmuebles situados en una zona de no-derecho Ciudad Sol: Cuando la lucha contra la malnutrición desnutrición desvió a un paso de pu...
+		Fecha/Hora: 2025-11-26 08:56:25
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard entrevista a la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición sin invitación invita al paso de puerta El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sancionados por l...
+		Fecha/Hora: 2025-11-26 09:08:17
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Cuando Berthony Raphaël relata su trayectoria junto a D...
+		Fecha/Hora: 2025-11-26 09:13:10
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no derecha Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquetque El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sanciona...
+		Fecha/Hora: 2025-11-26 09:29:06
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de puerta El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Estatuto fiscal de los inmuebles situados en una zona de no derecha Los funcionarios haitianos sancionado...
+		Fecha/Hora: 2025-11-26 09:35:22
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se reúne con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados del Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Ciudad Sol: Cuando la lucha contra la malnutrición es invitada al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cuando Berthony Raphaël relata su trayectoria junt...
+		Fecha/Hora: 2025-11-26 09:52:14
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y el JSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados del Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Ciudad Soleil: Cuando la lucha contra la malnutrición se invita al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no derecha Cuando Berthony Raphaël...
+		Fecha/Hora: 2025-11-26 09:57:16
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrida invita al paso de puerta Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Cuando Berthony...
+		Fecha/Hora: 2025-11-26 13:16:52
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard entrevista a la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición sin invitación invita al paso de puerta El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sancionados por l...
+		Fecha/Hora: 2025-11-26 13:22:21
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados de Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Ciudad Soleil: Cuando la lucha contra la m...
+		Fecha/Hora: 2025-11-26 13:43:23
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Rapha25el relata su trayectoria junto a Dadou Pasquet Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cité Soleil: Cuando la lucha contra la malnutrición se invita al...
+		Fecha/Hora: 2025-11-26 13:49:31
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se reúne con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados del Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Ciudad Sol: Cuando la lucha contra la malnutrición es invitada al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cuando Berthony Raphaël relata su trayectoria junt...
+		Fecha/Hora: 2025-11-26 13:54:15
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y la JSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Raphaël relata su trayectoria junto a Dadou Pasquetque El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Estatuto fiscal de los inmuebles situados en una zona de no-derecho Cité Soleil: Cuando la lucha contra...
+		Fecha/Hora: 2025-11-26 14:17:45
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Pétion-Ville
+		Breve descripción analítica: La DCPJ revela los vínculos entre Louis Gerald Gilles y la coalición criminal terrorista de la coalición criminal terrorista de Louis Gerald Gilles y la coalición criminal terrorista la Viv Ansanmba - Rezo Nòdwès  Flashback, mayo 2025 .  [Enlace: https://rezonodwes.com/?p=369673]
+		Fecha/Hora: 2025-11-26 14:27:03
+		Fuente: WEB rezonodwes.com
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y LJSACOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Rapha25el narra su trayectoria junto a Dadou Pasquet Fritz Alphonse Jean rechaza las acusaciones estadounidenses y denuncia presiones diplomáticas Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Estatuto fiscal...
+		Fecha/Hora: 2025-11-26 14:42:38
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados por Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Fritz Alphtonse Jean rechaza las acusaciones americanas y denuncia presiones diplomáticas El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Estatuto fiscal de los inmuebles situados en una zona de no-derecho Los funcionarios haitianos san...
+		Fecha/Hora: 2025-11-26 14:47:32
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC y LJSACOIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no derecha El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Cité Cité Soleil: Cuando la lucha contra l...
+		Fecha/Hora: 2025-11-26 14:58:03
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de la puerta Fritz Alphonse Jean rechaza las acusaciones americanas y denuncia presiones diplomáticas Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 C...
+		Fecha/Hora: 2025-11-26 17:42:29
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití Cité Soleil: Cuando la lucha contra la malnutrición desnutrición invita al paso de puerta Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Estatuto fiscal de los inmuebles situados en...
+		Fecha/Hora: 2025-11-26 17:46:54
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados de Mariján alerta sobre la explosión de la violencia cometida contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición se invita al paso de puerta Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Fritz Alphonse Jean rechaza las acusaciones americ...
+		Fecha/Hora: 2025-11-26 18:08:58
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Cité Soleil
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y la OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Cuando Berthony Raphaël narra su trayectoria junto a Dadou Pasquet Cité Soleil: Cuando la lucha contra la malnutrición s.a invita al paso de puerta Estatuto fiscal de los inmuebles situados en una zona de no derecha El consejero presidencial Fritz Alphonse Jean sa...
+		Fecha/Hora: 2025-11-26 18:20:05
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI El MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados de Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Cuando Berthony Raphaël narra su trayectoria junto con Dadou Pasquetría Estatuto fiscal de los inmuebles situados en una zona de no-derecho Ciudad Sol: Cuando la lucha contra la malnutrición desvi...
+		Fecha/Hora: 2025-11-26 18:43:12
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Mariján alerta sobre la explosión de la violencia contra las mujeres en Haití El Consejero Presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Ciudad Sol: Cuando la lucha contra la malnutrición s latime invita al paso de puerta Los funcionarios haitianos sancionados por los Estados Unidos desde 2022 Cuando Berthony Raphaël narra su tray...
+		Fecha/Hora: 2025-11-26 18:54:04
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard entrevista a la Directora General Adjunta de la ONUDI MJSAC y LJSAC Una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití Estatuto fiscal de los inmuebles situados en una zona de no ley Ciudad Sol: Cuando la lucha contra la malnutrición sin invitación invita al paso de puerta El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Los funcionarios haitianos sancionados por l...
+		Fecha/Hora: 2025-11-26 18:59:11
+		Fuente: WEB https://lenouvelliste.com/
+
+	• Localización: Port-au-Prince
+		Breve descripción analítica: Desde 1898, la información en el diario Andy Apaid y Charles Henry Baker auditados por el BLTS James Monazard se encuentra con la Directora General Adjunta de la ONUDI MJSAC y LJSAC 20OIM lanzan una semana de solidaridad en favor de los jóvenes desplazados Marijàn alerta sobre la explosión de la violencia contra las mujeres en Haití El consejero presidencial Fritz Alphonse Jean sancionado por los Estados Unidos Fritz Alphonse Jean, rechaza las acusaciones estadounidenses y denuncia presiones diplomáticas Cuando Berthony Raphaël relata su trayectoria junto a Dadou Pasquet Los funcionarios ha...
+		Fecha/Hora: 2025-11-26 19:03:59
+		Fuente: WEB https://lenouvelliste.com/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 8
+	• Principales áreas afectadas: Localización no especificada (8)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Home INVESTIGATION AND ANALYSIS OF ORGANIZED CRIME The Pros and Cons of a US Intervention in Venezuela The world has been watching to see if the United States will escalate its militarized anti-drug mission in the Caribbean into a direct intervention aimed at toppling the regime of Venezuela’s President Nicolás Maduro, prompting intense debate about the wisdom and potential impacts of such an action.
+		Fecha/Hora: 2025-11-26 08:18:05
+		Fuente: WEB https://insightcrime.org
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-26 08:18:08
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Home INVESTIGATION AND ANALYSIS OF ORGANIZED CRIME The Pros and Cons of a US Intervention in Venezuela The world has been watching to see if the United States will escalate its militarized anti-drug mission in the Caribbean into a direct intervention aimed at toppling the regime of Venezuela’s President Nicolás Maduro, prompting intense debate about the wisdom and potential impacts of such an action.
+		Fecha/Hora: 2025-11-26 13:18:05
+		Fuente: WEB https://insightcrime.org
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-26 13:18:07
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Home INVESTIGATION AND ANALYSIS OF ORGANIZED CRIME The Pros and Cons of a US Intervention in Venezuela The world has been watching to see if the United States will escalate its militarized anti-drug mission in the Caribbean into a direct intervention aimed at toppling the regime of Venezuela’s President Nicolás Maduro, prompting intense debate about the wisdom and potential impacts of such an action.
+		Fecha/Hora: 2025-11-26 17:48:07
+		Fuente: WEB https://insightcrime.org
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-26 17:48:11
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Home INVESTIGATION AND ANALYSIS OF ORGANIZED CRIME The Pros and Cons of a US Intervention in Venezuela The world has been watching to see if the United States will escalate its militarized anti-drug mission in the Caribbean into a direct intervention aimed at toppling the regime of Venezuela’s President Nicolás Maduro, prompting intense debate about the wisdom and potential impacts of such an action.
+		Fecha/Hora: 2025-11-26 20:28:58
+		Fuente: WEB https://insightcrime.org
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-11-26 20:29:01
+		Fuente: WEB https://safeairspace.net
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Mirebalais Hospital (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-26 08:17:09
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-26 13:17:09
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-26 17:42:46
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-11-26 20:28:08
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Localización no especificada (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-26 08:18:05
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-26 13:18:05
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-26 17:48:08
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-11-26 20:28:58
+		Fuente: WEB https://acleddata.com
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 28 foco(s) – principales áreas: Pétion-Ville, Port-au-Prince, Cité Soleil
+	• Conflicto Armado: 8 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 4 foco(s) – principales áreas: Mirebalais Hospital
+	• Disturbios Civiles: 4 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

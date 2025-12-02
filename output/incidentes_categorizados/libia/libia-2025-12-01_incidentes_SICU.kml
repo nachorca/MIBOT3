@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>libia-2025-12-01_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-12-01 09:19:28</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-12-01 09:19:28<br><b>Localización:</b> Sirte<br><b>Descripción:</b> El Presidente del Comité de Seguridad Nacional de la ex Conferencia Nacional Abdul Moneim Al-Aliser, en sus declaraciones al canal de Al-Mesir, hizo una manifestación diaria para celebrar el lanzamiento por Dabba de un programa externo basado en la diplomacia cultural.]]></description>
+      <Point>
+        <coordinates>16.588000,31.205000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-12-01 09:31:31</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-12-01 09:31:31<br><b>Localización:</b> Suq al Jumaa<br><b>Descripción:</b> El Presidente del Comité Nacional de Seguridad invitó al Presidente del Consejo Nacional a que, en las declaraciones del canal de Al-Munam Al-Assir, se manifestara todos los días en la reunión del canal de Al-Tadawi, en la que el Dr. Al-Tadawi, en la reunión de Al-Taliba, participó en la reunión de Al-Tadawi, en la que la Ministra de Asuntos de la Mujer, en la reunión del Gobierno de Al-Hubayr, se centró en la diplomacia cultural, en la protesta de la Ministra de Cultura de Dabba, en la sesión de Al-Husbayr, en la puesta en marcha de un programa externo basado en la diplomacia cultural y en...]]></description>
+      <Point>
+        <coordinates>13.210000,32.874000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 09:42:54</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 09:42:54<br><b>Localización:</b> Qasr Bin Ghashir<br><b>Descripción:</b> • El equipo de la Oficina de Inspección de Seguridad y el desmantelamiento de explosivos del sistema de investigación criminal pueden manejar una bomba de vuelo sin detonar. • Según la declaración del dispositivo, la bomba fue encontrada en una granja de la zona de Qasr Bin Ghashir, tras recibir una notificación de la sala principal del aparato.]]></description>
+      <Point>
+        <coordinates>13.153000,32.683000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 13:59:33</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 13:59:33<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> • Según una declaración de la Oficina del Fiscal General, el jefe de la División de Lucha contra los Estupefacientes del sur de Trípoli sigue la actividad de un grupo de traficantes de drogas en las ciudades de Trípoli y Zawia. • Las investigaciones realizadas bajo la supervisión de la Fiscalía de Lucha contra los Estupefacientes y las Sustancias Sicotrópicas del sur de Trípoli dieron lugar a la detención de cuatro acusados en flagrante delito de posesión de la sustancia objeto de la investigación.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 15:58:35</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 15:58:35<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> El Ministerio Público ordena la detención de cuatro personas que fueron detenidas en flagrante delito por formar una banda de traficantes de drogas en Trípoli y Zawia.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 16:03:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 16:03:34<br><b>Localización:</b> Tripoli<br><b>Descripción:</b> • De conformidad con una declaración del Gobierno, la reunión trató el fortalecimiento de la cooperación militar entre Libia y los Estados Unidos, centrándose en los programas de adiestramiento, equipamiento y desarrollo de la capacidad.]]></description>
+      <Point>
+        <coordinates>13.191000,32.887000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

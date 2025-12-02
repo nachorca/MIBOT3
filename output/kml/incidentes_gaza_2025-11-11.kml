@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+  <name>Incidentes SICU</name>
+  <open>1</open>
+  
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+      </IconStyle>
+      <LabelStyle><color>ff000000</color><scale>0.9</scale></LabelStyle>
+    </Style>
+
+  <Folder><name>Otros</name>
+
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> El llamamiento internacional para que se preste asistencia a Israel continúa violando el acuerdo de cesación de la guerra en la Franja de Gaza, en el que la Oficina de Información Pública del Gobierno dijo que el número de violaciones cometidas desde el acuerdo alcanzado un mes antes de la fecha de la guerra de Gaza había llegado a 282, lo que había dado lugar a que 242 palestinos fueran asesin...]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> - Más de 16.000 pacientes en la Franja de Gaza que esperan ser evacuados para recibir tratamiento en el extranjero, en condiciones humanitarias catastróficas en el sector y en la destrucción de hospitales e instalaciones médicas durante los dos años de la guerra genocida israelí.]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> El analista militar israelí, Amir Bhubaut, comenta sobre las investigaciones presentadas por el ejército de ocupación sobre el fracaso del 7 de octubre: si cinco minutos después combatientes de las fronteras del Líbano, Egipto, Jordania, Siria o la Franja de Gaza se infiltran en los asentamientos de Sincronización, ¿quién es el Estado Mayor actual?]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> } Corresponsal de #Jazeera: Insal Jasmani Shahedin muerto a raíz de una incursión israelí en una casa en Khan Younis, al sur de la Franja de Gaza]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> La investigación del 7 de octubre revela que el ejército israelí era un prisionero de delirios y no estaba preparado para una guerra repentina. Al mismo tiempo, la fuerza del Irán, la intervención de Turquía en Gaza y las amenazas aumentan.]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> Los soldados israelíes hablan de abusos y violaciones en Gaza (https://www.alquds.com/ar/posts/207057). En el Foro de Jerusalén III, 11 de noviembre de 2025, 8.20 horas (hora de Jerusalén) hay soldados israelíes que hablan de excesos y violaciones en Gaza.]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> El mar asediado es la tragedia de los cazadores en Gaza después de la guerra]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> ▪ Algunos de los heridos mueren ante nuestros ojos por falta de medios para tratarlos. ▪ La ocupación no sólo impide la entrada de artículos médicos y alimentarios, sino también que los pacientes y los heridos viajen para recibir tratamiento fuera del sector. ▪ El retraso en el suministro de suministros médicos significa más sangre y pérdida de vidas; el tiempo en Gaza equivale a una vida.]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> El Gobierno de Turquía está finalizando sus preparativos para la formación de una brigada militar de las fuerzas internacionales en Gaza (https://www.alquds.com/ar/posts/207075), en un momento en que los Estados Unidos aún no han resuelto su posición, mientras que Israel se opone a la presencia de fuerzas turcas en el terreno, como lo reveló Middle East Aye.]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> La organización informó de la intención de celebrar una conferencia en la que los soldados de la guerra de Gaza participarían en la conferencia &quot;La experiencia adquirida&quot; (en las salas de Al Hadiram) dijo que se esperaba que el ejército de ocupación israelí celebrara su primera conferencia internacional la semana próxima, con la participación de representantes de los Estados árabes, a fin de pr...]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Otros — 2025-11-11</name>
+    <styleUrl>#otros</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Otros<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> Urgentemente, Ayatout Ahronut de una fuente israelí: los Estados Unidos planean establecer una base militar en la portada de Gaza en el marco de nuevos arreglos de seguridad]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  </Folder>
+
+  <Folder><name>Terrorismo</name>
+
+  <Placemark>
+    <name>Terrorismo — 2025-11-11</name>
+    <styleUrl>#terrorismo</styleUrl>
+    <visibility>1</visibility>
+    <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-11 <br><b>Localización:</b> Gaza City , Gaza City, Gaza, Gaza<br><b>Resumen:</b> Director de Programas de Salud de la Sociedad de la Media Luna Roja, Bashar Murad: el 80% del agua de la Franja de Gaza está totalmente contaminada, lo que ha dado lugar a un aumento de los casos de hepatitis B. Se han registrado más de 70.000 casos desde el comienzo de la guerra de exterminio.]]></description>
+    <Point>
+      <coordinates>34.450000,31.520000,0</coordinates>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Point>
+  </Placemark>
+  </Folder>
+</Document>
+</kml>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>haiti-2025-12-01_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 07:04:44</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 07:04:44<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente atacado por la pandilla de Savien Destabilizado, el CPT intenta mantener el rumbo hacia el final de su mandato La clase política dividida después de las amenazas de sanciones estadounidenses y...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 07:04:59</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 07:04:59<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 07:10:52</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 07:10:52<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio volvió a entrevistar a Pont-Sondé nuevamente a los Estados atacados por la pandilla de Savien Haití: Los miles de millones no salvarán las elecciones Desactivado, el CPT trata de mantener el rumbo hacia el final de su mandato Marguerite Rigaud: la historia de una fan conquistada po...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 07:16:42</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 07:16:42<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI ha concedido un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo audición Pont-Sondé nuevamente atacado por la pandilla de Savien Zelensky limoge su brazo derecho después de los registros anticorrupción Aviación: Sunrise Airways pide medidas inmediatas de seguridad La clase política dividida después de las amenazas de sanciones ame...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 07:47:40</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 07:47:40<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moisse: Joseph Félix Badio de nuevo audición Pont-Sondé nuevamente a los Estados atacados por la pandilla de Savien El 26 de julio pronto reconocido como el Día del Compas en Nueva York Haití: Los miles de millones después de salvar las elecciones de Zelensky limoge su brazo derecho después de los registros...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 08:04:41</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 08:04:41<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo entrevistado Pont-au-Prince, nuevamente atacado por la pandilla de Savien Aviation: Sunrise Airways pide medidas inmediatas de seguridad La clase política dividida después de las amenazas de sanciones americanas y canadienses Después del ataque en Washington, la administra...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 08:20:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 08:20:46<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo audición Pont-Sondé nuevamente agredido por la pandilla de Savien Destabillé, el CPT intenta mantener el rumbo hacia el final de su mandato Marguerite Rigaud: la historia de una fana conquistada por el saber hacer de Dadou Pasquet El 26 de julio pronto reconocido como el d...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 08:38:48</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 08:38:48<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente agredido por la pandilla de Savien Tras el ataque en Washington, la administración Trump endureció aún más su política migratoria Aviación: Sunrise Airways pide medidas inmediatas de seguridad Zelensky limoge su brazo derecho después de regis...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 08:49:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 08:49:46<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente agredido por la pandilla de Savien La clase política dividida después de las amenazas de sanciones americanas y canadienses Desestabilizado, el CPT trata de mantener el rumbo hacia el final de su mandato El 26 de julio pronto reconocido como...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 09:07:05</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 09:07:05<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 09:11:49</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 09:11:49<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Assassinato de Jovenel Moïse: Joseph Félix Badio de nuevo audición Pont-Sondé nuevamente atacado por la pandilla de Savien Tras el ataque en Washington, la administración Trump endureci aún más su política migratoria Haití: Los miles de millones no salvarán las elecciones Marguerite Rigaud: la historia de una fana conquistada p...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 09:17:46</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 09:17:46<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Assassinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente atacado por la pandilla de Savien La PNH está recuperando el control del centro de la ciudad de Puerto Príncipe, asegura Vladimir Paraison Zelensky limoge su brazo derecho después de los registros anticorrupción Después del ataque en Washin...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 09:40:47</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 09:40:47<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, el diario Balance de las actividades: el MCI ha concedido un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la CODEVI Firma de un acuerdo de asociación entre la .OIM y la UCLFBP Asesinato de Jovenel Moisse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente los Estados atacados por la gang de Savien los Estados miembros Después del ataque en Washington, la administración Trump endureci aún más su política migratoria Aviación: Sunrise Airways pide...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 09:45:57</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 09:45:57<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio volvió a entrevistar a Pont-Sondé nuevamente a los Estados atacados por la pandilla de Savien Haití: Los miles de millones no salvarán las elecciones Desactivado, el CPT trata de mantener el rumbo hacia el final de su mandato Marguerite Rigaud: la historia de una fan conquistada po...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 09:56:53</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 09:56:53<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moisse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente por la pandilla de Savien El 26 de julio pronto reconocido como el Día de la Compas en Nueva York La clase política dividida después de las amenazas de sanciones americanas y canadienses Desestabilizada, el CPT trata de mantener el rumbo hac...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 11:47:49</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 11:47:49<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moisse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente por la pandilla de Savien Marguerite Rigaud: la historia de una fan conquistada por el saber hacer de Dadou Pasquet Destallado, el CPT trata de mantener el rumbo hacia el final de su mandato La clase política dividida después de las amenazas...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 11:48:10</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 11:48:10<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 13:56:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 13:56:31<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio volvió a entrevistar a Pont-Sondé nuevamente a los Estados atacados por la pandilla de Savien Haití: Los miles de millones no salvarán las elecciones Desactivado, el CPT trata de mantener el rumbo hacia el final de su mandato Marguerite Rigaud: la historia de una fan conquistada po...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 13:56:57</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 13:56:57<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 15:59:42</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 15:59:42<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo audición Pont-Sondé nuevamente agredido por la pandilla de Savien Destabillé, el CPT intenta mantener el rumbo hacia el final de su mandato Marguerite Rigaud: la historia de una fana conquistada por el saber hacer de Dadou Pasquet El 26 de julio pronto reconocido como el d...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 16:00:04</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 16:00:04<br><b>Localización:</b> Mirebalais Hospital<br><b>Descripción:</b> El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.]]></description>
+      <Point>
+        <coordinates>-72.104000,18.834000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 16:05:37</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 16:05:37<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI ha concedido un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Assassinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente a los Estados atacados por la pandilla de Savien El 26 de julio pronto reconocido como el Día de la Compas en Nueva York Haití: Los miles de millones no salvarán las elecciones Desactivadas, el CPT trata de mantener el rumbo hacia el f...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 16:10:40</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 16:10:40<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un centro de formación técnica y profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Assassinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente agredido por la pandilla de Savien Zelensky limoge su brazo derecho después de los registros anticorrupción La PNH está recuperando el control del centro de la ciudad de Port-au-Prince, asegura Vladimir Parison Déstavé, el CPT intenta mante...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 16:16:29</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 16:16:29<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLBP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Punt-au-Prince, de nuevo a los Estados de Pont-Sondé nuevamente atacado por la pandilla de Savien Después del ataque en Washington, la administración Trump endureci aún más su política migratoria Marguerite Rigaud: la historia de una fan conquistada por los conoci...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 16:27:29</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 16:27:29<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI ha concedido un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Assassinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Pont-Sondé nuevamente atacado por la pandilla de Savien Aviation: Sunrise Airways pide medidas inmediatas de seguridad Marguerite Rigaud: la historia de una fan conquistada por el saber hacer de Dadou Pasquequet Desstallado, el CPT intenta mantener el rumbo...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 16:32:38</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 16:32:38<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo audición Pont-Sondé nuevamente atacado por la pandilla de Savien Tras el ataque en Washington, la administración Trump endureci aún más su política migratoria Haití después: Los miles de millones no salvarán las elecciones de Zelensky limoge su brazo derecho después de los...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 17:32:27</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 17:32:27<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> Desde 1898, la información diaria Balance de actividades: el MCI concede un plazo hasta el 31 de diciembre a las empresas Establecimiento de un Centro de Formación Técnica y Profesional en el seno de la CODEVI Firma de un acuerdo de asociación entre la OIM y la UCLFP Asesinato de Jovenel Moïse: Joseph Félix Badio de nuevo auditado Punt-Sondé nuevamente agredido por la pandilla de Savien La clase política dividida después de las amenazas de sanciones estadounidenses y canadienses Haití: Los miles de millones no salvarán las elecciones El 26 de julio pronto reconocido como el Día de la Compa...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 07:11:35</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 07:11:35<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> PORT-AU-PRINCE, lunes 1 de diciembre de 2025 (RHINEWS) - La Solidarite Fanm Ayisyèn (SOFA) lanzó, el 25 de noviembre, la campaña nacional de los 16 días de los 16 días de los combates contra... La SOFA lanza los 16 días de actividismo y alerta sobre el empeoramiento de los actos de violencia contra las mujeres...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 09:12:35</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 09:12:35<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> PORT-AU-PRINCE, lunes 1 de diciembre de 2025 (RHINEWS) - La Solidarite Fanm Ayisyèn (SOFA) lanzó, el 25 de noviembre, la campaña nacional de los 16 días de los 16 días de los combates contra... La SOFA lanza los 16 días de actividismo y alerta sobre el empeoramiento de los actos de violencia contra las mujeres...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 11:48:44</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 11:48:44<br><b>Localización:</b> Port-au-Prince<br><b>Descripción:</b> PORT-AU-PRINCE, lunes 1 de diciembre de 2025 (RHINEWS) - La Solidarite Fanm Ayisyèn (SOFA) lanzó, el 25 de noviembre, la campaña nacional de los 16 días de los 16 días de los combates contra... La SOFA lanza los 16 días de actividismo y alerta sobre el empeoramiento de los actos de violencia contra las mujeres...]]></description>
+      <Point>
+        <coordinates>-72.336000,18.539000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

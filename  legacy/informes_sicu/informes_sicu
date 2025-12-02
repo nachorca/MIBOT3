@@ -1,0 +1,146 @@
+# MIBOT3/informes_sicu/generar_pdf_sicu.py
+
+from pathlib import Path
+from textwrap import wrap
+
+from reportlab.pdfgen import canvas
+from reportlab.lib.pagesizes import A4
+from reportlab.lib.utils import ImageReader
+
+
+# === CONFIGURACIÓN BÁSICA (EDITABLE) ==============================
+
+# País / área
+PAIS = "Libia"
+AREA_SRM = "Nacional"
+
+# Día operativo y hora de edición
+FECHA_DIA = "23 de noviembre de 2025"
+HORA_EDICION = "14:41 h"
+
+# Fichero TXT que contiene el informe SICU (cuerpo)
+# ⚠️ AJUSTA ESTA RUTA A COMO LO GUARDA TU BOT
+NOMBRE_TXT = "libia-2025-11-23_SICU_REPORT.txt"
+
+# Nombre del PDF de salida
+NOMBRE_PDF = "Informe_SICU_Libia_23NOV2025.pdf"
+
+# ==================================================================
+
+
+def get_paths():
+    """
+    Devuelve rutas importantes relativas al proyecto MIBOT3.
+    Asume que este script vive en MIBOT3/informes_sicu/.
+    """
+    script_dir = Path(__file__).resolve().parent
+    project_root = script_dir.parent  # MIBOT3
+
+    logo_path = project_root / "assets" / "LOGO_SANTIAGOLEGALCONSULTING.png"
+    txt_path = project_root / "informes_sicu" / NOMBRE_TXT
+    pdf_path = project_root / "informes_sicu" / NOMBRE_PDF
+
+    return project_root, logo_path, txt_path, pdf_path
+
+
+def leer_cuerpo(txt_path: Path) -> str:
+    """
+    Lee el TXT del informe SICU.
+    Si no existe, devuelve un texto de aviso.
+    """
+    if not txt_path.exists():
+        return (
+            f"[AVISO] No se ha encontrado el archivo de informe TXT: {txt_path}\n"
+            "Edita NOMBRE_TXT en generar_pdf_sicu.py o genera primero el TXT con tu bot."
+        )
+    return txt_path.read_text(encoding="utf-8")
+
+
+def dibujar_portada(c: canvas.Canvas, logo_path: Path):
+    """
+    Dibuja portada con logo y encabezado SICU.
+    """
+    width, height = A4
+
+    # Logo
+    logo_size = 180
+    try:
+        c.drawImage(
+            ImageReader(str(logo_path)),
+            (width - logo_size) / 2,
+            height / 2,
+            width=logo_size,
+            height=logo_size,
+            preserveAspectRatio=True,
+            mask="auto",
+        )
+    except Exception:
+        # Si no puede cargar el logo, simplemente sigue sin él.
+        pass
+
+    # Texto portada
+    c.setFont("Helvetica-Bold", 18)
+    c.drawCentredString(width / 2, height / 2 - 60, "INFORME SICU – LIBIA")
+
+    c.setFont("Helvetica", 12)
+    c.drawCentredString(
+        width / 2, height / 2 - 80, f"{FECHA_DIA} – {HORA_EDICION}"
+    )
+    c.drawCentredString(
+        width / 2,
+        height / 2 - 100,
+        "SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU",
+    )
+
+    c.showPage()
+
+
+def dibujar_cuerpo(c: canvas.Canvas, cuerpo: str):
+    """
+    Imprime el cuerpo del informe en tantas páginas como sea necesario.
+    El TXT puede ser el informe completo en tu plantilla SICU.
+    """
+    width, height = A4
+    x_margin = 50
+    y = height - 50
+
+    c.setFont("Helvetica", 10)
+
+    for line in cuerpo.split("\n"):
+        # Línea en blanco → más espacio
+        if not line.strip():
+            y -= 10
+            continue
+
+        # Ajuste de línea (wrap) para no cortar texto
+        for fragment in wrap(line, 95):
+            if y < 60:  # margen inferior → nueva página
+                c.showPage()
+                c.setFont("Helvetica", 10)
+                y = height - 50
+
+            c.drawString(x_margin, y, fragment)
+            y -= 12
+
+    c.showPage()
+
+
+def generar_pdf():
+    _, logo_path, txt_path, pdf_path = get_paths()
+
+    cuerpo = leer_cuerpo(txt_path)
+
+    c = canvas.Canvas(str(pdf_path), pagesize=A4)
+
+    # Portada
+    dibujar_portada(c, logo_path)
+
+    # Cuerpo
+    dibujar_cuerpo(c, cuerpo)
+
+    c.save()
+    print(f"[OK] PDF generado en: {pdf_path}")
+
+
+if __name__ == "__main__":
+    generar_pdf()

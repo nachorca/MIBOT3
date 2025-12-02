@@ -1,0 +1,101 @@
+# botapp/services/channel_registry.py
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from typing import Dict, List
+
+
+class ChannelRegistry:
+    """
+    Registro sencillo de canales Telegram por país.
+
+    Estructura en JSON (data/channels.json):
+
+    {
+      "haiti": [
+        "@canal1",
+        "https://t.me/Canal2",
+        "t.me/joinchat/XXXX"
+      ],
+      "libia": [
+        "@otrocanal"
+      ]
+    }
+    """
+
+    def __init__(self, data_dir: str | Path):
+        self.data_dir = Path(data_dir)
+        self.path = self.data_dir / "channels.json"
+        self._data: Dict[str, List[str]] = {}
+        self._load()
+
+    # ----------------- Internos -----------------
+
+    def _load(self) -> None:
+        if self.path.exists():
+            try:
+                self._data = json.loads(self.path.read_text(encoding="utf-8"))
+            except Exception:
+                self._data = {}
+        else:
+            self._data = {}
+
+    def _save(self) -> None:
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        self.path.write_text(
+            json.dumps(self._data, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+
+    # ----------------- API pública -----------------
+
+    def add(self, country: str, channel: str) -> bool:
+        """
+        Añade un canal al país indicado.
+        Devuelve True si se añadió (no existía antes), False si ya estaba.
+        """
+        country = (country or "").lower().strip()
+        ch = (channel or "").strip()
+        if not country or not ch:
+            return False
+
+        chans = self._data.setdefault(country, [])
+        if ch in chans:
+            return False
+        chans.append(ch)
+        self._save()
+        return True
+
+    def remove(self, country: str, channel: str) -> bool:
+        """
+        Elimina un canal del país indicado.
+        Devuelve True si se eliminó, False si no estaba.
+        """
+        country = (country or "").lower().strip()
+        ch = (channel or "").strip()
+        if not country or not ch:
+            return False
+
+        chans = self._data.get(country, [])
+        if ch not in chans:
+            return False
+        chans.remove(ch)
+        if not chans:
+            # Si el país se queda vacío, lo quitamos
+            self._data.pop(country, None)
+        self._save()
+        return True
+
+    def list_channels(self, country: str) -> List[str]:
+        """
+        Devuelve la lista de canales para un país.
+        """
+        country = (country or "").lower().strip()
+        return list(self._data.get(country, []))
+
+    def list_countries(self) -> List[str]:
+        """
+        Devuelve la lista de países con canales.
+        """
+        return sorted(self._data.keys())

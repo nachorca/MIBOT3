@@ -1,0 +1,238 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-12-01
+	•	Hora de edición: 2025-12-01 20:36:20
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-01 – total incidentes SICU: 24)
+
+• Criminalidad: 18 incidente(s) registrado(s).
+• Disturbios Civiles: 6 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 18
+	• Principales áreas afectadas: Localización no especificada (18)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Detenido en Elda un hombre de 57 años por un robo con fuerza en un bar Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina El asesino de Miriam Vallejo sigue libre y el falso culpable reclama 127.000 euros de indemnización Mueren dos jóvenes de 17 y 21 años al chocar su coche contra un muro en Granada Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Amigos de las d...
+		Fecha/Hora: 2025-12-01 07:03:54
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Detenido en Elda un hombre de 57 años por un robo con fuerza en un bar Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de violaciones a...
+		Fecha/Hora: 2025-12-01 07:03:54
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante Un juzgado de Alicante ha acordado dejar en libertad sin fianza a un joven de 26 años que estaba encarcelado desde el pasado septiembre como presunto autor de delitos de robo con violencia e intimidación, estafa y lesiones tras haber cometido dos atracos con un arma de fuego simulada a parejas que paseaban por los accesos peatonales al Castillo de Santa Bárbara en Alicante. Dos de las víctimas resultaron heridas.  [Enlace: https://ift.tt/QEx1vgj]
+		Fecha/Hora: 2025-12-01 08:08:51
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Detenido en Elda un hombre de 57 años por un robo con fuerza en un bar Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina El asesino de Miriam Vallejo sigue libre y el falso culpable reclama 127.000 euros de indemnización Mueren dos jóvenes de 17 y 21 años al chocar su coche contra un muro en Granada Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Amigos de las d...
+		Fecha/Hora: 2025-12-01 09:05:54
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Detenido en Elda un hombre de 57 años por un robo con fuerza en un bar Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de violaciones a...
+		Fecha/Hora: 2025-12-01 09:05:54
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: https://www.informacion.es/elda/2025/12/01/detenido-elda-robo-bar-124290850.html?fbclid=IwZnRzaAOaKk5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEei8eM5igVk4AKnCpaxGIZS64ynh5LD7WmMFzwOPjCWMv9BchHG68jQeKEQpo_aem_naVIZ7DKrFqZrarx6ujTDw&utm_campaign=mrf-facebook-informacionelda&mrfcid=2025120169216d82a05f675fad986fc8  [Enlace: https://www.informacion.es/elda/2025/12/01/detenido-elda-robo-bar-124290850.html?fbclid=IwZnRzaAOaKk5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEei8eM5igVk4AKnCpaxGIZS64ynh5LD7WmMFzwOPjCWMv9BchHG68jQeKEQpo_aem_naVIZ7DKrFqZrarx6ujTDw&utm_campaign=mrf-facebook-informacionelda&mrfcid=2025120169216d82a05f675fad986fc8]
+		Fecha/Hora: 2025-12-01 11:46:51
+		Fuente: @alicanteprensapolicianacional
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un hombre mata presuntamente a su mujer y después se suicida en Madrid Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina El asesino de Miriam Vallejo sigue libre y el falso culpable reclama 127.000 euros de indemnización Mueren dos jóvenes de 17 y 21 años al chocar su coche contra un muro en Granada Herido un joven de 27 a...
+		Fecha/Hora: 2025-12-01 11:46:55
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de viol...
+		Fecha/Hora: 2025-12-01 11:46:56
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Detenido en Elda por estafar a extranjeros en situación irregular a los que ofrecía trabajo sin pagarles El CGPJ zanja el conflicto judicial en Alicante por los casos de viol...
+		Fecha/Hora: 2025-12-01 13:55:40
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Dos detenidos por 13 robos con violencia en Torrevieja mediante el método del tirón  [Enlace: https://diariodealicante.net/dos-detenidos-robos-violencia-torrevieja-metodo-tiron/]
+		Fecha/Hora: 2025-12-01 15:58:30
+		Fuente: @diarioAlicante
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm El misterio de la mujer desaparecida en Benicàssim: "Se dejó la ropa en la arena, pero no había llaves ni móvil" Los vecinos de la mujer presuntamente asesinada en Torrejón: "Se escucharon gritos de auxilio.
+		Fecha/Hora: 2025-12-01 15:58:37
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Dete...
+		Fecha/Hora: 2025-12-01 15:58:37
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela Los barracones se cronifican en Alicante tras ganar 18.000 nuevos alumnos en cinco años Sanidad convoca 709 plazas de personal médico y enfermero para reforzar la provincia de Alicante Orihuela instalará placas solares en 14 edificios municipales El tiempo...
+		Fecha/Hora: 2025-12-01 15:58:58
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: https://www.europapress.es/comunitat-valenciana/noticia-seis-detenidos-desmantelar-dos-puntos-venta-drogas-zona-mas-turistica-benidorm-alicante-20251201121537.html  [Enlace: https://www.europapress.es/comunitat-valenciana/noticia-seis-detenidos-desmantelar-dos-puntos-venta-drogas-zona-mas-turistica-benidorm-alicante-20251201121537.html]
+		Fecha/Hora: 2025-12-01 16:14:31
+		Fuente: @alicanteprensapolicianacional
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Un jardinero se cae de tres metros de altura mientras trabajaba en Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela Los barracones se cronifican en Alicante tras ganar 18.000 nuevos alumnos en cinco años Torrevieja licita de nuevo el servicio de bus urbano después de que lo tumbara un tribunal S...
+		Fecha/Hora: 2025-12-01 17:21:47
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de la Vega Baja | Actualidad y Noticias de la Vega Baja en INFORMACION Aparece un cadáver flotando en el río a la altura del Puente de Levante de Orihuela Un jardinero se cae de tres metros de altura mientras trabajaba en Orihuela Detenidos dos jóvenes en Torrevieja por 13 robos de joyas con el método del tirón Torrevieja licita de nuevo el servicio de bus urbano después de que lo tumbara un tribunal "Estamos helados de frío": en clase y con el abrigo puesto en el colegio Playas de Orihuela Sanidad convoca 709 plazas de personal médico y enfermero para reforzar la provincia de A...
+		Fecha/Hora: 2025-12-01 17:26:46
+		Fuente: WEB https://www.informacion.es/vega-baja/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm El misterio de la mujer desaparecida en Benicàssim: "Se dejó la ropa en la arena, pero no había llaves ni móvil" Los vecinos de la mujer presuntamente asesinada en Torrejón: "Se escucharon gritos de auxilio.
+		Fecha/Hora: 2025-12-01 17:59:34
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un sintecho muere ahogado tras caer al agua en el paseo del puerto en Alicante Seis detenidos al desmantelar dos puntos de venta de drogas en la "zona guiri" de Benidorm Detenido en Elda un hombre de 57 años por un robo con fuerza en un supermercado Libertad para un acusado de atracar a parejas junto al Castillo de Santa Bárbara en Alicante Roban casi medio millón en cremas en un tráiler en Alicante mientras el camionero dormía en la cabina Herido un joven de 27 años al ser atropellado cuando circulaba en patinete por Alicante Dete...
+		Fecha/Hora: 2025-12-01 17:59:35
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 6
+	• Principales áreas afectadas: Localización no especificada (6)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Muere en Monóvar un hombre de 46 años atropellado por su tractor Ha ocurrido hacia las 14:00 horas de este sábado Se han instalado tambié...
+		Fecha/Hora: 2025-12-01 07:04:12
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Noticias Comunitat Valenciana Matinal 01/12/2025 A las 07:20 Nacho Reig te informa de todo lo que sucede en la Comunitat Valenciana.
+		Fecha/Hora: 2025-12-01 09:06:12
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido Diciembre empieza invernal en la Comunitat Valenciana, con cielo nuboso y más frío La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Interinos de la consellería de Educación se movilizan por impagos de nómina con deudas de hasta 8.000 euros Hay más de 600 trabajadores afect...
+		Fecha/Hora: 2025-12-01 11:47:13
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido Diciembre empieza invernal en la Comunitat Valenciana, con cielo nuboso y más frío La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana En ‘A mesa puesta’, Mateo Marco no quita razón "a quienes dispuestos a comer, despotrican contra platos que para saborearlos exigen trajín” 🎤...
+		Fecha/Hora: 2025-12-01 13:55:53
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante En plena campaña para exigir el aumento salarial de los profesores para salir de la cola de los peor retribuidos del país, con una huelga convocada el próximo 11 de diciembre en los centros educativos, docentes de la Comunidad Valenciana han denunciado ahora retrasos en el cobro de la nómina. via Información - Alicante  [Enlace: https://ift.tt/JNAEer3]
+		Fecha/Hora: 2025-12-01 15:58:31
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Sindicat de Vivenda de Zona Nord convoca una protesta en Alicante para frenar un desalojo que considera irregular  [Enlace: https://diariodealicante.net/protesta-desalojo-alicante-virgen-remedio/]
+		Fecha/Hora: 2025-12-01 16:29:31
+		Fuente: @diarioAlicante
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Criminalidad: 18 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 6 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

@@ -1,0 +1,520 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: GAZA / Gaza
+	•	Fecha (día operativo): 2025-12-01
+	•	Hora de edición: 2025-12-01 20:36:12
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-01 – total incidentes SICU: 78)
+
+• Terrorismo: 19 incidente(s) registrado(s).
+• Conflicto Armado: 52 incidente(s) registrado(s).
+• Criminalidad: 1 incidente(s) registrado(s).
+• Disturbios Civiles: 4 incidente(s) registrado(s).
+• Hazards: 2 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 19
+	• Principales áreas afectadas: Localización no especificada (11), Gaza City (5), Khan Younis (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Khan Younis
+		Breve descripción analítica: } Corresponsal # Al-Jazeera: bombardeo de artillería israelí contra las zonas orientales de Khan Younis, dentro de la línea amarilla
+		Fecha/Hora: 2025-12-01 07:08:52
+		Fuente: @AjaNews | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: – Cinco meses después de la campaña contra Irán, miles de familias cuyos apartamentos sufrieron daños como consecuencia del bombardeo de misiles siguen en suspenso y necesitan ser rehabilitadas. - La Asociación de Renovadores afirma que los funcionarios del impuesto sobre la propiedad de la Autoridad Tributaria están retrasando la aprobación de las ofertas de precios, lo que impide el inicio de las obras.
+		Fecha/Hora: 2025-12-01 08:46:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En un desafío a la ocupación y en un intento de ganarse la vida, los agricultores vuelven a cultivar sus tierras al este de Janjunis después de haber sido bombardeadas repetidamente por la ocupación durante la guerra de exterminio.
+		Fecha/Hora: 2025-12-01 11:46:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Tres niños fueron ejecutados y las violaciones de Al-Aqsa y los asentamientos en la escalada de Israel supuestamente mataron a 40 combatientes de Hamas en Rafah durante la semana de la muerte de un mártir israelí en Gaza y un bombardeo masivo al este de la Franja de Al-Fataya. El paso al este de la Franja de Al-Fatah es un ataque contra los soldados de la ocupación.
+		Fecha/Hora: 2025-12-01 11:47:44
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ejecución de tres niños y las violaciones de Al-Aqsa y los asentamientos en la escalada israelí de la escalada de Israel afirman haber matado a 40 combatientes de Hamas en Rafah durante la semana de los bombardeos israelíes en Gaza y el bombardeo masivo de Al-Sahaf al este de la Franja de Gaza por los soldados de la ocupación. ¿Ha tenido éxito el intento israelí de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-12-01 11:53:36
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Las autoridades ucranianas de Dnipro: 3 civiles muertos y 8 heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Las autoridades ucranianas de Dnipro: el número de víctimas de los bombardeos rusos aumentó a 4 y 22
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Emergencia* *La isla: las fuerzas de ocupación lanzan bombas de sonido y gas contra jóvenes palestinos en la cerveza
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes locales: Las fuerzas de ocupación lanzan bombas de gas después de entrar en la ciudad de Tarmisa, al norte de Ramallah.
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Presidencia palestina: Condenamos los ataques terroristas perpetrados ayer, domingo por los colonos, contra cuatro simpatizantes extranjeros, en la reunión de Ain al-Diuk en Jericó, a los que golpearon y agredieron a tres simpatizantes italianos y a otro canadiense, y robaron el contenido de la casa, los pasaportes y los teléfonos móviles de los simpatizantes.
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Bani Suheila
+		Breve descripción analítica: A pesar de los bombardeos de la ocupación en repetidas ocasiones, la población repara las tierras y las cultiva en los hijos de Sihila, al este de Khanyonis.
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La organización no palestina Arge, con sede en Jordania, anunció durante la guerra que había apoyado a periodistas en Gaza después del comienzo de la guerra: había proporcionado equipo profesional (teléfonos, computadoras, dinero) a quienes habían perdido sus equipos o los habían destruido durante el bombardeo o el desplazamiento.
+		Fecha/Hora: 2025-12-01 15:58:32
+		Fuente: @hamza20300
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: un avión israelí lanzó una bomba acústica en el barrio este de Mays al-Jabal, al sur del Líbano.
+		Fecha/Hora: 2025-12-01 15:58:33
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes libanesas: un avión israelí lanza una bomba en las afueras de la ciudad de Rumaysh, en el sector central
+		Fecha/Hora: 2025-12-01 15:58:33
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación siguen a niños y lanzan una bomba de sonido en la ciudad de Tubas.
+		Fecha/Hora: 2025-12-01 15:58:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están disparando una bomba de humo mientras penetran en la ciudad de Qabatiya, al sur de Jenin
+		Fecha/Hora: 2025-12-01 16:35:32
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: El periódico Al-Quds Newaid publicó sus artículos en el Foro Al-Quds con imágenes de detención de un grupo de resistencia herido en Rafah que sacuden las plataformas de violencia en el interior del territorio ocupado: 240 víctimas desde principios de año, con un aumento del 12% de la demanda estadounidense de recuperar una bomba bombardeada por Israel contra el Líbano, que incendió las plataformas del Presidente palestino, con el apoyo de la provincia de Tubas y alabando la “spiración mito” ante los ataques de la prensa mundial: condiciones duras para la amnistía de Netanyahu y una gran ret...
+		Fecha/Hora: 2025-12-01 16:48:28
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico Al-Quds es nuevo y publica sus artículos en el Foro Al-Quds Gaza utilizando la realidad virtual para tratar los traumas de los niños frente a los ataques contra la prensa mundial: 240 víctimas desde el comienzo del año, con un aumento del 12% de la demanda de los Estados Unidos de recuperar una bomba bombardeada por Israel contra el Líbano, que enfurece las plataformas del Presidente palestino, con el apoyo de la prefectura de Tubas y Wichid, el "supercono" contra los ataques contra la prensa mundial: condiciones duras para la amnistía de Netanyahu y una gran retirada de la pob...
+		Fecha/Hora: 2025-12-01 17:22:21
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército de ocupación está disparando y bombardeando intensamente las casas de los ciudadanos en el perímetro de la encrucijada de los pitufos, al este del barrio de Tuffah, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-12-01 17:57:32
+		Fuente: @hamza20300
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 52
+	• Principales áreas afectadas: Localización no especificada (34), Gaza City (15), Jabalia (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos palestinos resultaron heridos por disparos del ejército israelí a miles de marroquíes que protestaban en solidaridad con Palestina y pedían que se pusiera fin al genocidio de Gaza. Los colonos israelíes que atacaban al ejército de ocupación afirman haber matado a más de 40 opositores de Hamás en los túneles de Rafah de las fuerzas de ocupación declaran haber matado a 40 opositores en Rafah en días.
+		Fecha/Hora: 2025-12-01 07:04:39
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos palestinos resultaron heridos por los disparos del ejército israelí de miles de marroquíes que protestaban en solidaridad con Palestina para poner fin al genocidio de Gaza. El ejército de ocupación afirma que más de 40 opositores de Hamas fueron asesinados en los túneles de Rafah por las fuerzas de ocupación y declaran que 40 militantes fueron asesinados en Rafah durante los días de los colonos que irrumpieron en Al-Aqsa y las fuerzas de ocupación siguen demoliendo casas en la Ribera Occidental en la 28a Conferencia de la Unión de Arqueólogos Árabes celebrada en Gaza.
+		Fecha/Hora: 2025-12-01 07:47:36
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una vez más, la ocupación está llevando a cabo una incursión masiva en la ciudad de Tubas, al norte de la Ribera Occidental, cerrando nuevas carreteras con cortinas de tierra, transformando casas en cuarteles militares, esparciendo por varios barrios en medio de un toque de queda, las escuelas han aplazado la permanencia hasta que la ocupación se retire, y los soldados de ocupación están irrumpiendo en las casas y destruyendo su contenido.
+		Fecha/Hora: 2025-12-01 07:52:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * El bombardeo de la artillería israelí y los disparos de helicópteros y tanques israelíes al este de la ciudad de Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-12-01 08:03:51
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí tiene una escasez de unos 1.300 oficiales en todas las unidades de combate, desde teniente hasta capitán.
+		Fecha/Hora: 2025-12-01 08:17:52
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí: hay una escasez estimada de 300 oficiales de mando en las distintas unidades de combate
+		Fecha/Hora: 2025-12-01 08:17:52
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgentemente, el ejército israelí: el 30% de los altos mandos militares abandonarán el ejército a partir del próximo año.
+		Fecha/Hora: 2025-12-01 08:17:52
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ejército de Israel: 70% de las familias de reserva de los soldados están en crisis debido al largo servicio militar
+		Fecha/Hora: 2025-12-01 08:18:51
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Urgencia del ejército israelí: sólo el 37% de los oficiales han estado dispuestos a continuar su servicio militar este año, frente al 58% en 2018.
+		Fecha/Hora: 2025-12-01 08:22:52
+		Fuente: @AjaNews | @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación israelí está llevando a cabo operaciones de desembarco de soldados de un helicóptero militar en la localidad de Yabba, al norte de Tubas.
+		Fecha/Hora: 2025-12-01 08:31:52
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *La reportera # Al-Jazeera: Las fuerzas de ocupación irrumpieron junto con una topadora militar en el pueblo de Rentis, al oeste de Ramallah, en el centro de la Ribera Occidental
+		Fecha/Hora: 2025-12-01 08:37:52
+		Fuente: @AjaNews
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ocupación está transformando casas de castigo en cuarteles y llevando a cabo una amplia campaña de detenciones en la Ribera Occidental, en la que el hijo de un líder de Hamas murió en los túneles de Rafah. Dos palestinos resultaron heridos por disparos del ejército israelí contra miles de marroquíes que protestaban en solidaridad con Palestina y pedían que se pusiera fin al genocidio de Gaza.
+		Fecha/Hora: 2025-12-01 08:38:43
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ocupación convierte a las casas de "jabba" en cuarteles y lleva a cabo una amplia campaña de detenciones en la Ribera Occidental en la que el hijo del líder de Hamás fue asesinado por un intenso bombardeo de Gaza en los túneles de Rafah. Dos palestinos resultaron heridos por disparos del ejército israelí de miles de marroquíes que protestaban por la solidaridad con Palestina y pedían que se pusiera fin al genocidio de Gaza.
+		Fecha/Hora: 2025-12-01 08:43:37
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Urgencia Hebrea Life, canal 12 israelí: unos 1.600 oficiales en todas las unidades de combate del ejército, incluidos 300 oficiales con rango de comandante
+		Fecha/Hora: 2025-12-01 08:45:52
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ocupación está transformando casas de castigo en barracones y llevando a cabo una amplia campaña de detenciones en la Ribera Occidental, en la que el hijo de un líder de Hamas fue asesinado por los túneles de Rafah. Dos palestinos resultaron heridos por disparos del ejército israelí, miles de marroquíes, protestando por la solidaridad con Palestina y pidiendo que se pusiera fin al exterminio de Gaza.
+		Fecha/Hora: 2025-12-01 09:00:45
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Gobernador de Tubas en la isla: la operación militar israelí afecta a los aspectos vitales de Tubas
+		Fecha/Hora: 2025-12-01 09:16:52
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación vuelve a entrar en Tubas y lo convierte en una zona militar cerrada.
+		Fecha/Hora: 2025-12-01 09:22:51
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El periódico israelí Ma ' aref: el analista militar Avi Ashkenazi: Hay un clima de gran tensión en el sistema de seguridad ocho días después del asesinato de un médico.
+		Fecha/Hora: 2025-12-01 09:33:52
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están empujando nuevos refuerzos militares hacia la ciudad de Tubas.
+		Fecha/Hora: 2025-12-01 09:50:52
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La pesadilla de la ocupación en el ciberespacio es una de las principales fuerzas activas en la guerra cibernética contra Israel, donde tiene un amplio historial de ciberataques, en particular durante la escalada del enfrentamiento entre Israel y el Irán. El grupo también siguió atacando a la empresa estadounidense Aerodreams, responsable del desarrollo de los sistemas de marchas y de la adquisición de 400 gigabytes de sus datos internos, además de robar más de 2 terabytes de datos cifrados, amenazar con desactivar las estaciones de combustible y detener el suministro de combustible a los a...
+		Fecha/Hora: 2025-12-01 11:46:52
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El objetivo es que todos los que no sirven en el ejército no puedan votar por el Knesset (Ha ' aretz, 10/11) a través de esta petición, que fue recogida en la propuesta de Afegdor Lieberman y apoyada por él, los líderes de la oposición querían transformar a Israel de un Estado democrático liberal, donde los derechos y deberes de los ciudadanos estaban definidos por la ley, en un modelo republicano en el que los derechos civiles estaban condicionados por obligaciones como el servicio militar. Se trata de una tendencia peligrosa, porque el público separatista que se niega a unirse, pero tambi...
+		Fecha/Hora: 2025-12-01 11:46:52
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una intensa actividad militar israelí en la ciudad de Tubas desde las primeras horas del amanecer.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-01 11:46:52
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí cuenta con tres tanques y dos vehículos de combate que se adentran en la colina de Abu Qabis, al norte de la aldea de Ayn Ziwan, en la zona meridional de Quneitra (Siriastán) y hacen todo lo posible por entrar en Damasco (  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-01 11:46:52
+		Fuente: @Almustashaar
+
+	• Localización: Jabalia
+		Breve descripción analítica: Canal 12 Hebreo: Los medios de comunicación asociados a Hamas: los activistas del ala militar de Hamas y la Cruz Roja también trabajan hoy en el campamento de refugiados de Jabaliya para buscar el cuerpo de un soldado.
+		Fecha/Hora: 2025-12-01 11:46:52
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: El joven Mohamed Nasr Siam fue muerto por disparos de un avión de ocupación al este de Zeitoun, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-01 11:46:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército de ocupación tiene una casa en la localidad de Al-Adda, al oeste de Salfit, y la convierte en un cuartel militar.
+		Fecha/Hora: 2025-12-01 11:46:53
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Disparos de las máquinas estacionadas al este de Gaza hacia las casas de los ciudadanos del barrio de Taffah @Warlife3
+		Fecha/Hora: 2025-12-01 13:55:33
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ejército enemigo israelí: - Una escasez estimada de 300 oficiales de mando en las distintas unidades de combate - 30% de los comandantes militares de alto rango que abandonarán el ejército a partir del año próximo - 70% de las familias de reserva de los soldados están en crisis debido al largo servicio militar - crisis de escasez de personal en el ejército que afecta a la seguridad nacional - 37% de los oficiales que están dispuestos a continuar su servicio militar este año, frente al 58% en 2018 - nuestra estimación es que el 30% de los soldados de reserva y de servicio permanente no se...
+		Fecha/Hora: 2025-12-01 13:55:33
+		Fuente: @Warlife3
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El ejército israelí tiene una escasez estimada de unos 1.300 oficiales en todas las unidades de combate, desde el rango de teniente hasta el de capitán del ejército israelí: unos 300 oficiales de mando en las distintas unidades de combate del ejército israelí: el 30% de los comandantes militares de alto rango abandonarán el ejército a partir del año próximo: el 70% de las familias de reserva de los soldados están en crisis debido al largo servicio militar israelí: la crisis de escasez de personal en el ejército afecta a la seguridad nacional del ejército israelí: sólo el 37% de los oficiale...
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos entre jóvenes y fuerzas de ocupación en la ciudad de Al-Bireh.
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Media Luna Roja: Dos niños resultaron heridos por balas de goma durante los enfrentamientos en el barrio de la azotea de la ciudad de Al-Bireh.
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Zaytoun
+		Breve descripción analítica: El joven Mohamed Nasr Siam fue muerto por disparos de un avión israelí en la marcha al este del barrio de Zeitoun
+		Fecha/Hora: 2025-12-01 13:55:34
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El 10 de octubre pasado, los mecanismos de ocupación atacaron la Franja de Gaza con fuego intenso, que continúa violando el Acuerdo de Cesación del Fuego en la Franja de Gaza, que entró en vigor el 10 de octubre pasado, en el que se produjo un tiroteo en zonas de Janjuns, donde se produjo un choque en Gaza, como si todo lo que los palestinos habían vivido antes del 10 de octubre hubiera entrado en la zona de ejecución del Acuerdo de Cesación del Fuego de la Franja de Gaza, pero los palestinos seguían sufriendo las consecuencias de la guerra.
+		Fecha/Hora: 2025-12-01 13:56:29
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Las fuerzas de ocupación continúan bloqueando y cerrando la ciudad, lo que ha impedido el regreso de algunos residentes a la ciudad, además de impedir la entrada de alimentos y mercancías. - Las fuerzas de ocupación se han apoderado de la casa de un ciudadano y la han convertido en un cuartel militar, por razones de seguridad, y han prohibido el paso de vehículos y camiones desde esa zona.
+		Fecha/Hora: 2025-12-01 15:58:33
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Thomas Brack informó al Iraq de que Israel está a punto de llevar a cabo una operación militar contra Hizbollah que continúa hasta su desmilitarización, amenazando a las facciones iraquíes con intervenir y atacar al Iraq desde Israel*  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-01 15:58:34
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: El 10 de octubre pasado, los mecanismos de ocupación atacaron la Franja de Gaza con fuego intenso, que continúa violando el Acuerdo de Cesación del Fuego en la Franja de Gaza, que entró en vigor el 10 de octubre pasado, en el que se produjo un tiroteo en zonas de Janjuns, donde se produjo un choque en Gaza, como si todo lo que los palestinos habían vivido antes del 10 de octubre hubiera entrado en la zona de ejecución del Acuerdo de Cesación del Fuego de la Franja de Gaza, pero los palestinos seguían sufriendo las consecuencias de la guerra.
+		Fecha/Hora: 2025-12-01 15:59:39
+		Fuente: WEB https://www.alaraby.co.uk/news/palestine
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Incidencia de enfrentamientos en el interior de la ciudad de Qabatiya, al sur de Jenin. La ocupación lanza bombas de gas y sonido.
+		Fecha/Hora: 2025-12-01 16:02:33
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: # Video # La ocupación impulsa refuerzos militares desde la ciudad de Tubas hacia el valle de Fara ' a
+		Fecha/Hora: 2025-12-01 16:08:32
+		Fuente: @GazaNewsNow
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: Compañías Al-Quds, batallón de Yenín: en una compañía de Qabati, pudimos detonar un artefacto explosivo de tipo Sagel en la ruta de los vehículos militares que irrumpieron en la ciudad, investigando una herida confirmada en un vehículo enemigo. Nuestros héroes siguen luchando contra las fuerzas enemigas que entran en la ciudad en varios ejes, según las circunstancias y los datos del terreno
+		Fecha/Hora: 2025-12-01 16:09:34
+		Fuente: @muthanapress84
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Las compañías de Jerusalén y el batallón de Yenín: Nuestros combatientes de la compañía de Qabatiya han podido detonar un artefacto explosivo dirigido al tipo Sagel en el camino de los vehículos militares que penetran en la ciudad, investigando una herida confirmada en uno de los mecanismos del enemigo. Nuestros héroes también siguen atacando a las fuerzas enemigas que entran en la ciudad en varios ejes, según las circunstancias y los datos del terreno.
+		Fecha/Hora: 2025-12-01 16:13:32
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico Al-Quds Newaid publicó sus artículos en el Foro de Al-Quds, en los que el ejército de ocupación ha intensificado su agresión militar al norte de la Ribera Occidental y ha vuelto a entrar en Tubas para rescatar a nueve mártires en Gaza. El resultado supera los 70.000 desde el comienzo del genocidio ha sido el de las detenciones de un miembro de la resistencia herido en Rafah que sacudió las plataformas de los jefes de la Shabak y de la inteligencia egipcia, que investigan el expediente de Gaza y la segunda fase de la violencia en el interior ocupado.
+		Fecha/Hora: 2025-12-01 16:16:24
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El estallido de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la localidad de Al-Adda, al oeste de Salfit.
+		Fecha/Hora: 2025-12-01 16:35:33
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los mártires que aún no han llegado a sus tumbas y los que buscan el derecho a la apacibilidad del ejército de ocupación aumentan su agresión militar al norte de la Ribera Occidental y vuelven a entrar en Tubas para rescatar a nueve mártires en Gaza, con un resultado de más de 70.000 desde el comienzo del genocidio, con imágenes de arresto de un grupo de resistencia herido en Rafah que sacuden las plataformas de los jefes de la Shabak y de la inteligencia egipcia, buscando el expediente de Gaza y la segunda fase.
+		Fecha/Hora: 2025-12-01 16:38:23
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Nuestros combatientes de la compañía de Qabatiya siguen haciendo frente a la incursión de las fuerzas enemigas en las condiciones y los datos del campo y atacan a una fuerza de infantería a pie en los alrededores de la rotonda de Jerusalén con una serie de artefactos antipersonal y granadas de mano. Nuestros héroes también han podido detonar un artefacto explosivo terrestre de tipo diluvio en una máquina militar, investigando las bajas confirmadas.
+		Fecha/Hora: 2025-12-01 16:41:32
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Disparos intensos desde barcos de guerra hacia la costa del mar de Khanyonis
+		Fecha/Hora: 2025-12-01 16:42:32
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una solución o iniciativa que no implique el desmantelamiento y desmilitarización de las milicias rebeldes es totalmente inaceptable.
+		Fecha/Hora: 2025-12-01 17:08:32
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Incidencia inmediata de enfrentamientos durante la incursión en la ciudad de Siload, al noreste de Ramallah, y ocupación que dispara con fuego real contra los jóvenes.
+		Fecha/Hora: 2025-12-01 17:20:32
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico Al-Quds Al-Jazeera ha registrado y publicado sus artículos en el Foro Al-Quds Gaza utilizando la realidad virtual para tratar los traumas de los niños del ejército de ocupación, aumentando su agresión militar al norte de la Ribera Occidental y volviendo a entrar en Tubas con imágenes de detención de un grupo de resistencia herido en Rafah que sacuden las plataformas de violencia en el territorio ocupado: 240 víctimas desde principios del año, con un aumento del 12%, de la demanda estadounidense de que se restablezca una bomba bombardeada por Israel contra el Líbano, que está pr...
+		Fecha/Hora: 2025-12-01 17:27:22
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Apariciones de vehículos militares de nuevo tipo del ejército israelí en la provincia de Tubas
+		Fecha/Hora: 2025-12-01 17:34:33
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Al-Quds Al-Quds Al-Quds Al-Ahmad informa al embajador ruso de los últimos acontecimientos políticos y de las agresiones israelíes que se han intensificado tras el apoyo a Trump. Bashar Behrah revela la política estadounidense y la liberación del prisionero estadounidense Beit Mal Al-Quds está ejecutando el proyecto “Apoyo médico a los hospitales árabes de Jerusalén” en Gaza, que utiliza la realidad virtual para curar los traumas de los niños del ejército de ocupación para aumentar su agresión militar al norte de la Ribera Occidental.
+		Fecha/Hora: 2025-12-01 17:37:19
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Fuentes sirias: Cuatro vehículos militares y dos tanques se adentraron en la colina de Al-Hamra, en el campo de Quneitra
+		Fecha/Hora: 2025-12-01 17:53:32
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Disparos de artillería al este del barrio de Al-Tuffah y los alrededores de la calle Sekah al este de Gaza
+		Fecha/Hora: 2025-12-01 17:58:32
+		Fuente: @hamza20300
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Gaza City (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: "Estoy orgullosa personalmente de la destrucción de Gaza y el asesinato de todos los niños, incluso después de 80 años, les dirán a sus nietos lo que hicieron los judíos".
+		Fecha/Hora: 2025-12-01 15:58:33
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Gaza City (3), Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Gaza City
+		Breve descripción analítica: Un grupo de dos palestinos que atacan a miles de marroquíes protestan en solidaridad con Palestina y piden que se ponga fin al exterminio de Gaza por parte del ejército de ocupación, el ejército de ocupación afirma que más de 40 opositores de Hamas fueron asesinados en los túneles de Rafah. ¿Atacan con éxito los intentos israelíes de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-12-01 09:23:41
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Al-Haramaem revela un capítulo oscuro del sufrimiento de las mujeres en Gaza en la escalada de la “guerra de agua”, colonos que atacan un pozo al este de Ramallah y cortan los suministros en varias ciudades para eliminar el nombre de “Hertsog” de un parque irlandés que explota la ira de la ocupación. El General Tasim Al-Hams advierte de la “crisis más grave” del ejército de ocupación que rodea a miles de marroquíes que protestan en solidaridad con Palestina y piden que se ponga fin al genocidio de las fuerzas de ocupación declarando la muerte de 40 opositores en Rafah durante los días de la...
+		Fecha/Hora: 2025-12-01 09:29:42
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: * Hebreo Life: Amit Segal: Una manifestación contra la nueva ley de reclutamiento: hay que cortarla
+		Fecha/Hora: 2025-12-01 11:46:52
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: El Presidente palestino, con el apoyo de la provincia de Tubas y Wichid, dirige una campaña de protesta contra los ataques de la prensa mundial: "Las duras condiciones de la amnistía de Netanyahu y la gran retirada de la popularidad de Trump dos años después de la interrupción de los estudiantes de Gaza regresan a la base de la Universidad Islámica de la Ribera Occidental. ¿Ha tenido éxito el intento israelí de anexar la Ribera Occidental en 2025?
+		Fecha/Hora: 2025-12-01 16:27:24
+		Fuente: WEB https://www.alquds.com/ar/home
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 2
+	• Principales áreas afectadas: Localización no especificada (1), Gaza City (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Meteorología: Inundación y lluvias dispersas; los observatorios aéreos esperan que el día de hoy el clima sea parcial y relativamente frío, y que la temperatura se reduzca ligeramente, por debajo de su promedio anual general de dos grados centígrados.
+		Fecha/Hora: 2025-12-01 07:08:51
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Certificado de un prisionero liberador de Gaza para el menor: violación de perros, electrocución e incendio con agua caliente  [Enlace: https://www.alhadath.ps/article/199122]
+		Fecha/Hora: 2025-12-01 13:55:32
+		Fuente: @muthanapress84
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 19 foco(s) – principales áreas: Rafah, localización no especificada, Bani Suheila, Khan Younis, Gaza City
+	• Conflicto Armado: 52 foco(s) – principales áreas: localización no especificada, Al-Quds Hospital, Zaytoun, Jabalia, Gaza City
+	• Criminalidad: 1 foco(s) – principales áreas: Gaza City
+	• Disturbios Civiles: 4 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Hazards: 2 foco(s) – principales áreas: Gaza City, localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

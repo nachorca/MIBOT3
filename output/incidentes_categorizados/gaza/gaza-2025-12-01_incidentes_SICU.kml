@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-12-01_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 07:04:39</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 07:04:39<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dos palestinos resultaron heridos por disparos del ejército israelí a miles de marroquíes que protestaban en solidaridad con Palestina y pedían que se pusiera fin al genocidio de Gaza. Los colonos israelíes que atacaban al ejército de ocupación afirman haber matado a más de 40 opositores de Hamás en los túneles de Rafah de las fuerzas de ocupación declaran haber matado a 40 opositores en Rafah en días.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 07:47:36</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 07:47:36<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Dos palestinos resultaron heridos por los disparos del ejército israelí de miles de marroquíes que protestaban en solidaridad con Palestina para poner fin al genocidio de Gaza. El ejército de ocupación afirma que más de 40 opositores de Hamas fueron asesinados en los túneles de Rafah por las fuerzas de ocupación y declaran que 40 militantes fueron asesinados en Rafah durante los días de los colonos que irrumpieron en Al-Aqsa y las fuerzas de ocupación siguen demoliendo casas en la Ribera Occidental en la 28a Conferencia de la Unión de Arqueólogos Árabes celebrada en Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 08:03:51</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 08:03:51<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> * El bombardeo de la artillería israelí y los disparos de helicópteros y tanques israelíes al este de la ciudad de Khan Younis, al sur de la Franja de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 08:38:43</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 08:38:43<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La ocupación está transformando casas de castigo en cuarteles y llevando a cabo una amplia campaña de detenciones en la Ribera Occidental, en la que el hijo de un líder de Hamas murió en los túneles de Rafah. Dos palestinos resultaron heridos por disparos del ejército israelí contra miles de marroquíes que protestaban en solidaridad con Palestina y pedían que se pusiera fin al genocidio de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 08:43:37</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 08:43:37<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La ocupación convierte a las casas de &quot;jabba&quot; en cuarteles y lleva a cabo una amplia campaña de detenciones en la Ribera Occidental en la que el hijo del líder de Hamás fue asesinado por un intenso bombardeo de Gaza en los túneles de Rafah. Dos palestinos resultaron heridos por disparos del ejército israelí de miles de marroquíes que protestaban por la solidaridad con Palestina y pedían que se pusiera fin al genocidio de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 09:00:45</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 09:00:45<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La ocupación está transformando casas de castigo en barracones y llevando a cabo una amplia campaña de detenciones en la Ribera Occidental, en la que el hijo de un líder de Hamas fue asesinado por los túneles de Rafah. Dos palestinos resultaron heridos por disparos del ejército israelí, miles de marroquíes, protestando por la solidaridad con Palestina y pidiendo que se pusiera fin al exterminio de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 11:46:52</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 11:46:52<br><b>Localización:</b> Jabalia<br><b>Descripción:</b> Canal 12 Hebreo: Los medios de comunicación asociados a Hamas: los activistas del ala militar de Hamas y la Cruz Roja también trabajan hoy en el campamento de refugiados de Jabaliya para buscar el cuerpo de un soldado.]]></description>
+      <Point>
+        <coordinates>34.495000,31.534000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 11:46:53</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 11:46:53<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El joven Mohamed Nasr Siam fue muerto por disparos de un avión de ocupación al este de Zeitoun, al este de la ciudad de Gaza.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 13:55:33</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 13:55:33<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Disparos de las máquinas estacionadas al este de Gaza hacia las casas de los ciudadanos del barrio de Taffah @Warlife3]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 13:55:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 13:55:34<br><b>Localización:</b> Zaytoun<br><b>Descripción:</b> El joven Mohamed Nasr Siam fue muerto por disparos de un avión israelí en la marcha al este del barrio de Zeitoun]]></description>
+      <Point>
+        <coordinates>34.457000,31.492000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 13:56:29</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 13:56:29<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El 10 de octubre pasado, los mecanismos de ocupación atacaron la Franja de Gaza con fuego intenso, que continúa violando el Acuerdo de Cesación del Fuego en la Franja de Gaza, que entró en vigor el 10 de octubre pasado, en el que se produjo un tiroteo en zonas de Janjuns, donde se produjo un choque en Gaza, como si todo lo que los palestinos habían vivido antes del 10 de octubre hubiera entrado en la zona de ejecución del Acuerdo de Cesación del Fuego de la Franja de Gaza, pero los palestinos seguían sufriendo las consecuencias de la guerra.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 15:59:39</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 15:59:39<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El 10 de octubre pasado, los mecanismos de ocupación atacaron la Franja de Gaza con fuego intenso, que continúa violando el Acuerdo de Cesación del Fuego en la Franja de Gaza, que entró en vigor el 10 de octubre pasado, en el que se produjo un tiroteo en zonas de Janjuns, donde se produjo un choque en Gaza, como si todo lo que los palestinos habían vivido antes del 10 de octubre hubiera entrado en la zona de ejecución del Acuerdo de Cesación del Fuego de la Franja de Gaza, pero los palestinos seguían sufriendo las consecuencias de la guerra.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 16:09:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 16:09:34<br><b>Localización:</b> Al-Quds Hospital<br><b>Descripción:</b> Compañías Al-Quds, batallón de Yenín: en una compañía de Qabati, pudimos detonar un artefacto explosivo de tipo Sagel en la ruta de los vehículos militares que irrumpieron en la ciudad, investigando una herida confirmada en un vehículo enemigo. Nuestros héroes siguen luchando contra las fuerzas enemigas que entran en la ciudad en varios ejes, según las circunstancias y los datos del terreno]]></description>
+      <Point>
+        <coordinates>34.447000,31.496000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 16:16:24</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 16:16:24<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El periódico Al-Quds Newaid publicó sus artículos en el Foro de Al-Quds, en los que el ejército de ocupación ha intensificado su agresión militar al norte de la Ribera Occidental y ha vuelto a entrar en Tubas para rescatar a nueve mártires en Gaza. El resultado supera los 70.000 desde el comienzo del genocidio ha sido el de las detenciones de un miembro de la resistencia herido en Rafah que sacudió las plataformas de los jefes de la Shabak y de la inteligencia egipcia, que investigan el expediente de Gaza y la segunda fase de la violencia en el interior ocupado.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 16:38:23</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 16:38:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Los mártires que aún no han llegado a sus tumbas y los que buscan el derecho a la apacibilidad del ejército de ocupación aumentan su agresión militar al norte de la Ribera Occidental y vuelven a entrar en Tubas para rescatar a nueve mártires en Gaza, con un resultado de más de 70.000 desde el comienzo del genocidio, con imágenes de arresto de un grupo de resistencia herido en Rafah que sacuden las plataformas de los jefes de la Shabak y de la inteligencia egipcia, buscando el expediente de Gaza y la segunda fase.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 17:27:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 17:27:22<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El periódico Al-Quds Al-Jazeera ha registrado y publicado sus artículos en el Foro Al-Quds Gaza utilizando la realidad virtual para tratar los traumas de los niños del ejército de ocupación, aumentando su agresión militar al norte de la Ribera Occidental y volviendo a entrar en Tubas con imágenes de detención de un grupo de resistencia herido en Rafah que sacuden las plataformas de violencia en el territorio ocupado: 240 víctimas desde principios del año, con un aumento del 12%, de la demanda estadounidense de que se restablezca una bomba bombardeada por Israel contra el Líbano, que está pr...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 17:37:19</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 17:37:19<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Al-Quds Al-Quds Al-Quds Al-Ahmad informa al embajador ruso de los últimos acontecimientos políticos y de las agresiones israelíes que se han intensificado tras el apoyo a Trump. Bashar Behrah revela la política estadounidense y la liberación del prisionero estadounidense Beit Mal Al-Quds está ejecutando el proyecto “Apoyo médico a los hospitales árabes de Jerusalén” en Gaza, que utiliza la realidad virtual para curar los traumas de los niños del ejército de ocupación para aumentar su agresión militar al norte de la Ribera Occidental.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 17:58:32</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 17:58:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> :: Disparos de artillería al este del barrio de Al-Tuffah y los alrededores de la calle Sekah al este de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 07:08:52</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 07:08:52<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> } Corresponsal # Al-Jazeera: bombardeo de artillería israelí contra las zonas orientales de Khan Younis, dentro de la línea amarilla]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 11:47:44</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 11:47:44<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Tres niños fueron ejecutados y las violaciones de Al-Aqsa y los asentamientos en la escalada de Israel supuestamente mataron a 40 combatientes de Hamas en Rafah durante la semana de la muerte de un mártir israelí en Gaza y un bombardeo masivo al este de la Franja de Al-Fataya. El paso al este de la Franja de Al-Fatah es un ataque contra los soldados de la ocupación.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 11:53:36</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 11:53:36<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La ejecución de tres niños y las violaciones de Al-Aqsa y los asentamientos en la escalada israelí de la escalada de Israel afirman haber matado a 40 combatientes de Hamas en Rafah durante la semana de los bombardeos israelíes en Gaza y el bombardeo masivo de Al-Sahaf al este de la Franja de Gaza por los soldados de la ocupación. ¿Ha tenido éxito el intento israelí de anexar la Ribera Occidental en 2025?]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 13:55:34</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 13:55:34<br><b>Localización:</b> Bani Suheila<br><b>Descripción:</b> A pesar de los bombardeos de la ocupación en repetidas ocasiones, la población repara las tierras y las cultiva en los hijos de Sihila, al este de Khanyonis.]]></description>
+      <Point>
+        <coordinates>34.329000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 15:58:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 15:58:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La organización no palestina Arge, con sede en Jordania, anunció durante la guerra que había apoyado a periodistas en Gaza después del comienzo de la guerra: había proporcionado equipo profesional (teléfonos, computadoras, dinero) a quienes habían perdido sus equipos o los habían destruido durante el bombardeo o el desplazamiento.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 16:48:28</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 16:48:28<br><b>Localización:</b> Rafah<br><b>Descripción:</b> El periódico Al-Quds Newaid publicó sus artículos en el Foro Al-Quds con imágenes de detención de un grupo de resistencia herido en Rafah que sacuden las plataformas de violencia en el interior del territorio ocupado: 240 víctimas desde principios de año, con un aumento del 12% de la demanda estadounidense de recuperar una bomba bombardeada por Israel contra el Líbano, que incendió las plataformas del Presidente palestino, con el apoyo de la provincia de Tubas y alabando la “spiración mito” ante los ataques de la prensa mundial: condiciones duras para la amnistía de Netanyahu y una gran ret...]]></description>
+      <Point>
+        <coordinates>34.245000,31.291000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 17:22:21</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 17:22:21<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El periódico Al-Quds es nuevo y publica sus artículos en el Foro Al-Quds Gaza utilizando la realidad virtual para tratar los traumas de los niños frente a los ataques contra la prensa mundial: 240 víctimas desde el comienzo del año, con un aumento del 12% de la demanda de los Estados Unidos de recuperar una bomba bombardeada por Israel contra el Líbano, que enfurece las plataformas del Presidente palestino, con el apoyo de la prefectura de Tubas y Wichid, el &quot;supercono&quot; contra los ataques contra la prensa mundial: condiciones duras para la amnistía de Netanyahu y una gran retirada de la pob...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 17:57:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 17:57:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército de ocupación está disparando y bombardeando intensamente las casas de los ciudadanos en el perímetro de la encrucijada de los pitufos, al este del barrio de Tuffah, al este de la ciudad de Gaza]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Disturbios Civiles</name>
+
+    <Placemark>
+      <name>Disturbios Civiles — 2025-12-01 09:23:41</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-12-01 09:23:41<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Un grupo de dos palestinos que atacan a miles de marroquíes protestan en solidaridad con Palestina y piden que se ponga fin al exterminio de Gaza por parte del ejército de ocupación, el ejército de ocupación afirma que más de 40 opositores de Hamas fueron asesinados en los túneles de Rafah. ¿Atacan con éxito los intentos israelíes de anexar la Ribera Occidental en 2025?]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-12-01 09:29:42</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-12-01 09:29:42<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Al-Haramaem revela un capítulo oscuro del sufrimiento de las mujeres en Gaza en la escalada de la “guerra de agua”, colonos que atacan un pozo al este de Ramallah y cortan los suministros en varias ciudades para eliminar el nombre de “Hertsog” de un parque irlandés que explota la ira de la ocupación. El General Tasim Al-Hams advierte de la “crisis más grave” del ejército de ocupación que rodea a miles de marroquíes que protestan en solidaridad con Palestina y piden que se ponga fin al genocidio de las fuerzas de ocupación declarando la muerte de 40 opositores en Rafah durante los días de la...]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disturbios Civiles — 2025-12-01 16:27:24</name>
+      <styleUrl>#disturbios_civiles</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Disturbios Civiles<br><b>Fecha:</b> 2025-12-01 16:27:24<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El Presidente palestino, con el apoyo de la provincia de Tubas y Wichid, dirige una campaña de protesta contra los ataques de la prensa mundial: &quot;Las duras condiciones de la amnistía de Netanyahu y la gran retirada de la popularidad de Trump dos años después de la interrupción de los estudiantes de Gaza regresan a la base de la Universidad Islámica de la Ribera Occidental. ¿Ha tenido éxito el intento israelí de anexar la Ribera Occidental en 2025?]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hazards</name>
+
+    <Placemark>
+      <name>Hazards — 2025-12-01 13:55:32</name>
+      <styleUrl>#hazards</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Hazards<br><b>Fecha:</b> 2025-12-01 13:55:32<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> Certificado de un prisionero liberador de Gaza para el menor: violación de perros, electrocución e incendio con agua caliente  [Enlace: https://www.alhadath.ps/article/199122]]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-12-01 15:58:33</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-12-01 15:58:33<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> &quot;Estoy orgullosa personalmente de la destrucción de Gaza y el asesinato de todos los niños, incluso después de 80 años, les dirán a sus nietos lo que hicieron los judíos&quot;.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

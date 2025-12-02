@@ -1,0 +1,9 @@
+.venv/
+venv/
+.venv311/
+.venv*/
+__pycache__/
+*.log
+.session/
+data/
+.env

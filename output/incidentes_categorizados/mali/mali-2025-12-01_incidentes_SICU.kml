@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>mali-2025-12-01_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 07:39:33</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 07:39:33<br><b>Localización:</b> San<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e información en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia mediante una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: ¡Cianista: ¡L-Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios • El relato en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta noviembre hasta el 31 de noviembre en San Denis ¿Cómo los c...]]></description>
+      <Point>
+        <coordinates>-4.900000,13.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 07:49:25</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 07:49:25<br><b>Localización:</b> Bla<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e información en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la chica que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schooonderwoerd, pianista: la música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios... Cómo los contenidos odiosos se establecieron entre los podcasts más escuchados de Francia El relato en vídeo de la persecución de los terroristas del 13-Noviembr...]]></description>
+      <Point>
+        <coordinates>-5.733000,12.967000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 07:55:39</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 07:55:39<br><b>Localización:</b> Bla<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e información en vivo En Londres, las granjas de caracoles sirven para eludir el fisc Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la hija que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: ¡Uno Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus repertorios de los terroristas ¡ , , , ¡es ridículo! , Vladimir Putin afirma que su país no tiene la intención de atacar a Europa Hace ochenta años después del juicio de Nure...]]></description>
+      <Point>
+        <coordinates>-5.733000,12.967000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 08:01:46</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 08:01:46<br><b>Localización:</b> San<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo El crepúsculo de las radios independientes locales Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: , , su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios • El relato en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta el 13 de noviembre hasta el día más tarde hasta el día en el día en San Denis Incendia mortífera en H...]]></description>
+      <Point>
+        <coordinates>-4.900000,13.300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 08:06:39</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 08:06:39<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo El crepúsculo de las radios independientes locales Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: la música, la música y los músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los terroristas del 13 de noviembre al día siguiente de la lucha del mundo l&#x27;incendie mortífero en Hong Kong: un video muestra la rápida evolución del fuego en el complejo residenc...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 08:22:39</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 08:22:39<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo El crepúsculo de las radios independientes locales Apple apuntado en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente desviada por su hermano Arthur Schchoonderwoerd, pianista: &quot;L.A Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios de los países de Europa El relato en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta el juicio de Nuremberg, cómo las imágenes revoluron la justicia intern...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 09:25:32</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 09:25:32<br><b>Localización:</b> Diré<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e infos en vivo Materias Primeras materias: la ostra quiere volver a flotar Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente evitada por su hermano Arthur Schchoonderwoerd, pianista: , , su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios , , , la historia en vídeo de la persecución de los terroristas desde el 13 de noviembre hasta el día 13 de noviembre hasta el fin de noviembre en el día en que la asalto en Saint-De...]]></description>
+      <Point>
+        <coordinates>-3.417000,16.283000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrorismo — 2025-12-01 16:01:57</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-12-01 16:01:57<br><b>Localización:</b> Bla<br><b>Descripción:</b> Le Monde Afri - Noticias, videos e información en vivo Black Friday en los Estados Unidos de América: - Las ventas en Internet han sido donadas por un nuevo actor, la inteligencia artificial - Apple dirigido en Francia por una acción de grupo de usuarios en el stream musical Cuando la niña que aceptó el seguro de vida es fraudulentamente evitada por su hermano Arthur Schoonderwoerd, pianista: - Menos Europa, su música y sus músicos corren el riesgo de perder la diversidad y la riqueza de sus directorios - El relato en vídeo de la persecución de los terroristas del 13 al noviembre hasta el a...]]></description>
+      <Point>
+        <coordinates>-5.733000,12.967000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-12-01 16:01:54</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-12-01 16:01:54<br><b>Localización:</b> Bamako<br><b>Descripción:</b> - Noticias en Malí en tiempo real e información en vivo Bamako : Un convoy de materiales de la ingeniería militar suscita la curiosidad y fervor patriótico Transiweb.net - Noticias en Malí en tiempo real e información en vivo Bamako : Un convoy de materiales de la ingeniería militar suscita la curiosidad y el fervor patriótico Transición y reforma del Estado: ¿Qué se ha convertido en la refundación? - A pesar de las afirmaciones públicas, todavía hay países, todavía hay hombres de otros pueblos que no pueden pa...]]></description>
+      <Point>
+        <coordinates>-8.002000,12.639000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>

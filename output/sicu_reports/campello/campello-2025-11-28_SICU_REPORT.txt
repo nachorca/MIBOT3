@@ -1,0 +1,275 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-11-28
+	•	Hora de edición: 2025-11-28 16:50:28
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-28 – total incidentes SICU: 29)
+
+• Terrorismo: 1 incidente(s) registrado(s).
+• Conflicto Armado: 4 incidente(s) registrado(s).
+• Criminalidad: 8 incidente(s) registrado(s).
+• Disturbios Civiles: 9 incidente(s) registrado(s).
+• Hazards: 7 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 1
+	• Principales áreas afectadas: Localización no especificada (1)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION El PSOE vuelve a acusar a Ruz de impagos a funcionarios y de facturas irregulares por 2,4 millones Dátiles: al mal tiempo, buena cara y una nueva variedad en marcha Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans Polémica suspensión: "Un atentado contra la libertad" Elche será la sede provincial del voluntariado: apúntate la fecha Aena resetea el proceso de tutela al proyecto de ampliación del aeropuerto Alicante-Elche La Generalitat invierte 84.000 euros para proteger el yac...
+		Fecha/Hora: 2025-11-28 16:09:58
+		Fuente: WEB https://www.informacion.es/elche/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Localización no especificada (4)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Detenido en Benidorm a un exmilitar por apropiarse de 850 millones de pesos colombianos  [Enlace: https://diariodealicante.net/detenido-benidorm-exmilitar-apropiarse-millones-pesos-colombianos/]
+		Fecha/Hora: 2025-11-28 13:07:56
+		Fuente: @diarioAlicante
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: https://www.abc.es/espana/comunidad-valenciana/descubren-benidorm-exmilitar-colombiano-fugado-tras-quedarse-20251128115328-nt.html  [Enlace: https://www.abc.es/espana/comunidad-valenciana/descubren-benidorm-exmilitar-colombiano-fugado-tras-quedarse-20251128115328-nt.html]
+		Fecha/Hora: 2025-11-28 15:47:41
+		Fuente: @alicanteprensapolicianacional
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Capturan en Benidorm a un exmilitar colombiano condenado en su país por robar 200.000 € Prisión preventiva para el principal sospechoso del asesinato de Helena Jubany Desmantelan desde Alicante una granja de móviles que enviaba 2,5 millones de SMS al día para ciberestafas INFORMACIÓN lanza su campaña ‘Súper Black Friday’ con descuentos de hasta el 60% en sus planes de suscripción La Audiencia Nacional absuelve al asesino del sacristán de Algeciras y descarta el terrorismo: ingresará en un psiquiátrico Controlado un incendio en una empresa de r...
+		Fecha/Hora: 2025-11-28 16:09:58
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Capturan en Benidorm a un exmilitar colombiano condenado en su país por robar 200.000 € Desmantelan desde Alicante una granja de móviles que enviaba 2,5 millones de SMS al día para ciberestafas INFORMACIÓN lanza su campaña ‘Súper Black Friday’ con descuentos de hasta el 60% en sus planes de suscripción Dos heridos en un accidente en la CV-80 en Biar al alcanzar un coche a otro eléctrico y acabar incendiado Piden excarcelar a un joven detenido en Dénia al no resolver su extradición en el plazo legal de sesenta días Una "santera" est...
+		Fecha/Hora: 2025-11-28 16:09:58
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 8
+	• Principales áreas afectadas: Localización no especificada (8)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Generalitat tiene en Elche proyectos por 34 millones de euros pendientes de pago o de ejecución El Museo del Agua de Elche abre a colegios e institutos y está en el aire cómo se gestionarán las visitas a partir de diciembre Elche revalida su título de ciudad educadora dándole voz a los niños: "Queremos que se nos tenga en cuenta" Siete elegidos para recibir la Medalla de Plata del Bimil·lenari Exoesqueletos, robots y realidad virtual para rehabilitación neurológica: la avanzada oferta de la clínica de una spin-off de la UM...
+		Fecha/Hora: 2025-11-28 07:05:47
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un accidente entre dos vehículos en la CV-80 en Biar acaba con uno de ellos volcado e incendiado Piden excarcelar a un joven detenido en Dénia al no resolver su extradición en el plazo legal de sesenta días Una "santera" estafa casi 13.000 € a una mujer en Alicante que pagó por curar a su marido enfermo Agreden a una mujer para robarle 5.800 € en Alicante y detienen al ladrón a la carrera Detenido tras ser localizado por la geolocalización por el robo de dos teléfonos en un local de ocio de Alicante Dolor por la muerte de Cristina,...
+		Fecha/Hora: 2025-11-28 07:05:48
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Generalitat tiene en Elche proyectos por 34 millones de euros pendientes de pago o de ejecución El Museo del Agua de Elche abre a colegios e institutos y está en el aire cómo se gestionarán las visitas a partir de diciembre Elche revalida su título de ciudad educadora dándole voz a los niños: "Queremos que se nos tenga en cuenta" Siete elegidos para recibir la Medalla de Plata del Bimil·lenari Exoesqueletos, robots y realidad virtual para rehabilitación neurológica: la avanzada oferta de la clínica de una spin-off de la UM...
+		Fecha/Hora: 2025-11-28 09:06:49
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un accidente entre dos vehículos en la CV-80 en Biar acaba con uno de ellos volcado e incendiado Piden excarcelar a un joven detenido en Dénia al no resolver su extradición en el plazo legal de sesenta días Una "santera" estafa casi 13.000 € a una mujer en Alicante que pagó por curar a su marido enfermo Agreden a una mujer para robarle 5.800 € en Alicante y detienen al ladrón a la carrera Detenido tras ser localizado por la geolocalización por el robo de dos teléfonos en un local de ocio de Alicante Dolor por la muerte de Cristina,...
+		Fecha/Hora: 2025-11-28 09:06:50
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Generalitat tiene en Elche proyectos por 34 millones de euros pendientes de pago o de ejecución El Museo del Agua de Elche abre a colegios e institutos y está en el aire cómo se gestionarán las visitas a partir de diciembre Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans Elche revalida su título de ciudad educadora dándole voz a los niños: "Queremos que se nos tenga en cuenta" Exoesqueletos, robots y realidad virtual para rehabilitación neurológica: la avanzada oferta de l...
+		Fecha/Hora: 2025-11-28 11:55:50
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Un accidente entre dos vehículos en la CV-80 en Biar acaba con uno de ellos volcado e incendiado Piden excarcelar a un joven detenido en Dénia al no resolver su extradición en el plazo legal de sesenta días Una "santera" estafa casi 13.000 € a una mujer en Alicante que pagó por curar a su marido enfermo Agreden a una mujer para robarle 5.800 € en Alicante y detienen al ladrón a la carrera Detenido tras ser localizado por la geolocalización por el robo de dos teléfonos en un local de ocio de Alicante Dolor por la muerte de Cristina,...
+		Fecha/Hora: 2025-11-28 11:55:50
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Generalitat tiene en Elche proyectos por 34 millones de euros pendientes de pago o de ejecución El Museo del Agua de Elche abre a colegios e institutos y está en el aire cómo se gestionarán las visitas a partir de diciembre Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans El Museo Mariano Benlliure de Crevillent estrecha lazos con Valencia en torno a la figura del escultor Exoesqueletos, robots y realidad virtual para rehabilitación neurológica: la avanzada oferta de la clí...
+		Fecha/Hora: 2025-11-28 12:59:02
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION La Generalitat tiene en Elche proyectos por 34 millones de euros pendientes de pago o de ejecución Dátiles: al mal tiempo, buena cara y una nueva variedad en marcha Dimove acusa a PP y Vox de censurarles su primera gala solidaria en Elche en apoyo a menores trans El Museo Mariano Benlliure de Crevillent estrecha lazos con Valencia en torno a la figura del escultor Exoesqueletos, robots y realidad virtual para rehabilitación neurológica: la avanzada oferta de la clínica de una spin-off de la UMH INFORMACIÓN lanza su campaña ‘S...
+		Fecha/Hora: 2025-11-28 13:36:03
+		Fuente: WEB https://www.informacion.es/elche/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 9
+	• Principales áreas afectadas: Localización no especificada (9)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Pérez Llorca colma su discurso de guiños a Vox cuyo apoyo es imprescindible para su investidura Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado La factura de la comida de Mazón y Vilaplana en El Ventorro el día de la dana: 165 euros y receptor, el PP de la Comunitat Valenciana Víctimas de la dana ven el perdón de Llorca "papel mojado" y reclaman a Mazón que deje su acta La Brújula Comunitat Valenciana 27/11/2025 Toda la información de la Comunitat Valencia que ha ocurrido a lo la...
+		Fecha/Hora: 2025-11-28 07:06:01
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Pérez Llorca colma su discurso de guiños a Vox cuyo apoyo es imprescindible para su investidura Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado La factura de la comida de Mazón y Vilaplana en El Ventorro el día de la dana: 165 euros y receptor, el PP de la Comunitat Valenciana Víctimas de la dana ven el perdón de Llorca "papel mojado" y reclaman a Mazón que deje su acta Noticias Comunitat Valenciana Matinal 28/11/2025 A las 07:20 Nacho Reig te informa de todo lo que sucede en la...
+		Fecha/Hora: 2025-11-28 09:07:07
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Pérez Llorca colma su discurso de guiños a Vox cuyo apoyo es imprescindible para su investidura Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo Víctimas de la dana ven el perdón de Llorca "papel mojado" y reclaman a Mazón que deje su acta El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo Este viernes tendremos viento flojo de dirección variable , con interva...
+		Fecha/Hora: 2025-11-28 11:56:08
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Pérez Llorca colma su discurso de guiños a Vox cuyo apoyo es imprescindible para su investidura Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo Víctimas de la dana ven el perdón de Llorca "papel mojado" y reclaman a Mazón que deje su acta Suben hasta un 177 % los precios de materias primas en el sector de fritas y esmaltes, según ANFFECC El óxido de cobalto, el dióxido de titanio y el carbonato...
+		Fecha/Hora: 2025-11-28 13:04:21
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Pérez Llorca colma su discurso de guiños a Vox cuyo apoyo es imprescindible para su investidura Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo Víctimas de la dana ven el perdón de Llorca "papel mojado" y reclaman a Mazón que deje su acta Andrés Perelló en Más de uno Alicante: "Casa Mediterráneo impulsa a Alicante como punto clave del diálogo mediterráneo" El director general de la institución...
+		Fecha/Hora: 2025-11-28 13:15:19
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Pérez Llorca colma su discurso de guiños a Vox cuyo apoyo es imprescindible para su investidura Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo Víctimas de la dana ven el perdón de Llorca "papel mojado" y reclaman a Mazón que deje su acta El Orihuela CF recibe al Alcalá en Los Arcos este domingo con el objetivo de regresar a la victoria Pese a la última derrota, Pato cree que el equipo está atr...
+		Fecha/Hora: 2025-11-28 13:57:21
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante Los Técnicos en Cuidados Auxiliares de Enfermería (TCAE) de los hospitales de la provincia de Alicante, como los del resto del país, están convocados este viernes a una jornada de huelga para exigir al Ministerio de Sanidad su reclasificación profesional al subgrupo C1, tras más de treinta años de "discriminación laboral". También a movilizarse como protesta a las puertas de hospitales y residencias.  [Enlace: https://ift.tt/aOkIg1Y]
+		Fecha/Hora: 2025-11-28 15:47:41
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante La Hermandad Obrera de Acción Católica (HOAC) de la diócesis de Orihuela-Alicante ha decidido activar su Fondo de Solidaridad Diocesano para ayudar a pagar las multas de 601 euros impuestas a las personas que participaron el pasado 10 de abril en la protesta para tratar de frenar el desahucio de una pareja vulnerable en Juan XXIII. via Información - Alicante  [Enlace: https://ift.tt/G0NqZ28]
+		Fecha/Hora: 2025-11-28 15:47:41
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana Juanfran Pérez Llorca, presidente electo de la Generalitat Valenciana, presenta su renuncia como alcalde en Finestrat La manifestación con el lema 'Mazón a presó' convocada para este sábado modifica el recorrido El fin de semana arranca con tiempo estable, pero dejará chubascos y viento el domingo La jueza de la DANA descarta "por el momento" volver a citar a la periodista Vilaplana Almassora inaugura una Fira de Sant Andreu que convierte la Vila en un escenario medieval único repleto de actividades La feria ofrece du...
+		Fecha/Hora: 2025-11-28 16:43:41
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (7)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un hombre hospitalizado en Burgos tras recibir un disparo Una persona muere en A Coruña en un incendio en un edificio Un accidente entre dos vehículos en la CV-80 en Biar acaba con uno de ellos volcado e incendiado La IA en los juzgados: de anonimizar sentencias a tramitar procedimientos Piden excarcelar a un joven detenido en Dénia al no resolver su extradición en el plazo legal de sesenta días Una "santera" estafa casi 13.000 € a una mujer en Alicante que pagó por curar a su marido enfermo La Policía investiga si los sicarios del crimen de j...
+		Fecha/Hora: 2025-11-28 07:05:47
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un hombre hospitalizado en Burgos tras recibir un disparo Una persona muere en A Coruña en un incendio en un edificio Un accidente entre dos vehículos en la CV-80 en Biar acaba con uno de ellos volcado e incendiado La IA en los juzgados: de anonimizar sentencias a tramitar procedimientos Piden excarcelar a un joven detenido en Dénia al no resolver su extradición en el plazo legal de sesenta días Una "santera" estafa casi 13.000 € a una mujer en Alicante que pagó por curar a su marido enfermo La Policía investiga si los sicarios del crimen de j...
+		Fecha/Hora: 2025-11-28 09:06:49
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN La secta de Vistabella pretendía construir un complejo turístico con el dinero de los miembros Qué pasó en la clínica dental de Alzira: las cuatro horas bajo la lupa policial y sanitaria Un hombre hospitalizado en Burgos tras recibir un disparo Una persona muere en A Coruña en un incendio en un edificio Un accidente entre dos vehículos en la CV-80 en Biar acaba con uno de ellos volcado e incendiado La IA en los juzgados: de anonimizar sentencias a tramitar procedimientos Piden excarcelar a un joven detenido en Dénia al no resolver su extradici...
+		Fecha/Hora: 2025-11-28 11:02:50
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El vuelco e incendio de un coche en la CV-80 con otros tres vehículos implicados deja un conductor herido en Biar  [Enlace: https://diariodealicante.net/accidente-cv80-biar-herido-vuelco-incendio/]
+		Fecha/Hora: 2025-11-28 11:55:44
+		Fuente: @diarioAlicante
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Una niña de 9 años revela tras una charla del 25N en un colegio de Palma que su tío la violaba La secta de Vistabella pretendía construir un complejo turístico con el dinero de los miembros Qué pasó en la clínica dental de Alzira: las cuatro horas bajo la lupa policial y sanitaria Un hombre hospitalizado en Burgos tras recibir un disparo Una persona muere en A Coruña en un incendio en un edificio Dos heridos en un accidente en la CV-80 en Biar al alcanzar un coche a otro eléctrico y acabar volcándose y incendiándose La IA en los juzgados: de a...
+		Fecha/Hora: 2025-11-28 11:55:49
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El aterrador time lapse del incendio a gran escala en Hong Kong que ha dejado más de un centenar de muertos  El aterrador time lapse del incendio a gran escala en Hong Kong que ha dejado más de un centenar de muertos El número de fallecidos en el incendio del complejo residencial Wang Fuk Court de Hong Kong, ocurrido el pasado miércoles 26 de noviembre- ya supera los 120 muertos, mientras se desconoce el paradero de unas 200 personas.  [Enlace: https://www.ondacero.es/noticias/mundo/aterrador-time-lapse-incendio-gran-escala-hong-kong-que-dejado-mas-centenar-muertos_202511286929706a6e5e5012dcd1ff0c.html]
+		Fecha/Hora: 2025-11-28 12:42:59
+		Fuente: WEB www.ondacero.es
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Absuelven e internan en un centro psiquiátrico al asesino del sacristán de Algeciras Controlado un incendio en una empresa de reciclaje de Barcelona que ha dejado tres heridos graves Dos detenidos por el incendio mortal en A Coruña Una niña de 9 años revela tras una charla del 25N en un colegio de Palma que su tío la violaba La secta de Vistabella pretendía construir un complejo turístico con el dinero de los miembros Qué pasó en la clínica dental de Alzira: las cuatro horas bajo la lupa policial y sanitaria Un hombre hospitalizado en Burgos t...
+		Fecha/Hora: 2025-11-28 13:15:01
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 1 foco(s) – principales áreas: localización no especificada
+	• Conflicto Armado: 4 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 8 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 9 foco(s) – principales áreas: localización no especificada
+	• Hazards: 7 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

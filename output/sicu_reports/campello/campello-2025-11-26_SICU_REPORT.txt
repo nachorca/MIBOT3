@@ -1,0 +1,236 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: CAMPELLO / Campello
+	•	Fecha (día operativo): 2025-11-26
+	•	Hora de edición: 2025-11-26 23:00:24
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-11-26 – total incidentes SICU: 22)
+
+• Terrorismo: 3 incidente(s) registrado(s).
+• Criminalidad: 9 incidente(s) registrado(s).
+• Disturbios Civiles: 3 incidente(s) registrado(s).
+• Hazards: 7 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La Inteligencia israelí detecta que fondos de la UE y de España financian los 'sueldos por matar' que la ANP paga a terroristas  Mahmud Abbas, presidente de la ANP, y miembros de Hamás, junto al extracto de un informe de la Inteligencia israelí.  [Enlace: https://www.elespanol.com/espana/politica/20251126/inteligencia-israeli-detecta-fondos-ue-espana-financian-sueldos-matar-anp-paga-terroristas/1003744022274_0.html?utm_cmp_rs=trends]
+		Fecha/Hora: 2025-11-26 14:25:44
+		Fuente: WEB www.elespanol.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION El Consejo Social de la UMH de Elche demanda autonomía para seguir siendo motor de progreso El Consell indemniza con 24.000 euros a una víctima del atentado terrorista de Santa Pola en 2002 Mas-Coma alerta en la UMH de episodios “anómalos” aún sin explicación en la dana: nubes inmóviles y un extraño polvo blanco días después Elche, lista para la Navidad con todas estas actividades Esta es la nota que los niños de Elche le dan a su barrio El PSOE plantea facilitar la venta telemática de entradas para el Gran Teatro en Elche Qu...
+		Fecha/Hora: 2025-11-26 18:24:45
+		Fuente: WEB https://www.informacion.es/elche/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Última Hora de Elche | Noticias y Sucesos de Elche en INFORMACION El Consejo Social de la UMH de Elche demanda autonomía para seguir siendo motor de progreso El Consell indemniza con 24.000 euros a una víctima del atentado terrorista de Santa Pola en 2002 Mas-Coma alerta en la UMH de episodios “anómalos” aún sin explicación en la dana: nubes inmóviles y un extraño polvo blanco días después Elche, lista para la Navidad con todas estas actividades Esta es la nota que los niños de Elche le dan a su barrio La petición de un pintor de Elche al Papa León XIV Quirónsalud Torrevieja celebra su 25 a...
+		Fecha/Hora: 2025-11-26 20:26:30
+		Fuente: WEB https://www.informacion.es/elche/
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 9
+	• Principales áreas afectadas: Localización no especificada (9)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN La policía interroga en un asilo al sospechoso de matar a Mari Trini y su bebé en 1987 Justicia mantiene la implantación de los tribunales de instancia en Alicante pese a las dudas Fallece una agente medioambiental al caer de 40 metros en una cala de Moraira Detenido en Sevilla un influencer por incitar al odio contra las mujeres en sus redes sociales Cuatro muertos por inhalación de gas en una vivienda de Málaga Acompañada por un familiar y con la cara tapada: así salió Triana Martínez de prisión 11 años después del asesinato de Isabel Carras...
+		Fecha/Hora: 2025-11-26 08:09:34
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Fallece una agente medioambiental al caer de 40 metros en una cala de Moraira Robaba en empresas de Almansa y vendía el material en centros de reciclado de Elda y San Vicente del Raspeig Muerde a un policía local de Albatera para evitar su arresto por drogas en un control Cuatro detenidos en Benidorm y l'Alfàs del Pi por prostituir a una mujer La lacra de la violencia de género en Alicante: ligero descenso de denuncias pero más casos de alto riesgo Desmantelan un punto de venta de drogas al menudeo en San Vicente tras una denuncia...
+		Fecha/Hora: 2025-11-26 08:09:35
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN La Policía Nacional registra la clínica dental de Valencia donde fue tratada la niña fallecida tras un tratamiento dental Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un fugitivo buscado en Montenegro por asesinato y tráfico de armas Muere el policía nacional al que un ladrón machacó la cabeza con una piedra en Valencia Un gran incendio en el Hospital Santa Lucía de Cartagena afecta a varias plantas y deja varios intoxicados por humo Javier Ayala / Adrián González / Ana García La autopsi...
+		Fecha/Hora: 2025-11-26 12:51:01
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un fugitivo buscado en Montenegro por asesinato y tráfico de armas Fallece una agente medioambiental al caer de 40 metros en una cala de Moraira Robaba en empresas de Almansa y vendía el material en centros de reciclado de Elda y San Vicente del Raspeig Muerde a un policía local de Albatera para evitar su arresto por drogas en un control Cuatro detenidos en Benidorm y l'Alfàs del Pi por prostituir a una mujer La lacra de la violenc...
+		Fecha/Hora: 2025-11-26 12:51:02
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Detenidos los trabajadores de una empresa por el robo de cobre  [Enlace: https://diariodealicante.net/detenidos-trabajadores-empresa-robo-cobre/]
+		Fecha/Hora: 2025-11-26 13:14:57
+		Fuente: @diarioAlicante | @noticias_alicante
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Un incendio controlado en media hora: así frenaron los bomberos de Cartagena las llamas en el hospital Santa Lucía La Policía Nacional registra la clínica dental de Valencia donde fue tratada la niña fallecida Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un fugitivo buscado en Montenegro por asesinato y tráfico de armas Muere el policía nacional al que un ladrón machacó la cabeza con una piedra en Valencia Un gran incendio en el Hospital Santa Lucía de Cartagena afecta a varias plantas y...
+		Fecha/Hora: 2025-11-26 13:15:08
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Investigan si una colilla mal apagada fue el origen del incendio del hospital de Cartagena Un incendio controlado en media hora: así frenaron los bomberos de Cartagena las llamas en el hospital Santa Lucía La Policía Nacional registra la clínica dental de Valencia donde fue tratada la niña fallecida Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un fugitivo buscado en Montenegro por asesinato y tráfico de armas Mu...
+		Fecha/Hora: 2025-11-26 14:40:47
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un fugitivo buscado en Montenegro por asesinato y tráfico de armas Fallece una agente medioambiental al caer de 40 metros en una cala de Moraira Robaba en empresas de Almansa y vendía el material en centros de reciclado de Elda y San Vicente del Raspeig Muerde a un policía local de Albatera para evitar su arresto por drogas en un control Cuatro detenidos e...
+		Fecha/Hora: 2025-11-26 14:56:52
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Sucesos locales | Noticias de Sucesos locales - Información Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en Sant Joan a un agente judicial incluido entre los fugitivos más buscados en Montenegro Fallece una agente medioambiental al caer de 40 metros en una cala de Moraira Robaba en empresas de Almansa y vendía el material en centros de reciclado de Elda y San Vicente del Raspeig Muerde a un policía local de Albatera para evitar su arresto por drogas en un control Cuatro det...
+		Fecha/Hora: 2025-11-26 17:41:19
+		Fuente: WEB https://www.informacion.es/sucesos/sucesos-en-alicante/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Alicante Nueva protesta educativa contra el Consell. Alumnos de la Escuela de Arte y Superior y Diseño de Alicante (Easda) han vuelto a salir a la calle para reclamar con urgencia su reubicación.  [Enlace: https://ift.tt/wi2kHe0]
+		Fecha/Hora: 2025-11-26 17:41:12
+		Fuente: @AlicanteDirectoNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana La factura de la comida de Mazón y Vilaplana en El Ventorro el día de la dana: 165 euros y receptor, el PP de la Comunitat Valenciana Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El jefe de Gabinete de Mazón dice que fue él quien agendó la comida con Vilaplana y que no conserva los whatsapps porque cambió de móvil Carlos Mazón desmiente que Vilaplana le acompañase en coche al Palau: "Este asunto más parece de 'Sálvame' que otra cosa" Programa sobre toda la actualidad del depor...
+		Fecha/Hora: 2025-11-26 17:41:40
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Últimas Noticias de Comunidad Valenciana | Onda Cero Comunidad Valenciana La factura de la comida de Mazón y Vilaplana en El Ventorro el día de la dana: 165 euros y receptor, el PP de la Comunitat Valenciana Una nueva manifestación en València reclamará a Mazón que entregue su acta de diputado El jefe de Gabinete de Mazón dice que fue él quien agendó la comida con Vilaplana y que no conserva los whatsapps porque cambió de móvil Carlos Mazón desmiente que Vilaplana le acompañase en coche al Palau: "Este asunto más parece de 'Sálvame' que otra cosa" Programa sobre toda la actualidad del depor...
+		Fecha/Hora: 2025-11-26 20:27:05
+		Fuente: WEB https://www.ondacero.es/emisoras/comunidad-valenciana/
+
+⸻
+2.5. HAZARDS
+
+	• Incidentes registrados: 7
+	• Principales áreas afectadas: Localización no especificada (7)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Evacuan a pacientes y trabajadores del hospital de Santa Lucía en Cartagena por un grave incendio La autopsia a la niña de 6 años fallecida en Valencia no detecta ninguna causa directa de la muerte La policía interroga en un asilo al sospechoso de matar a Mari Trini y su bebé en 1987 Justicia mantiene la implantación de los tribunales de instancia en Alicante pese a las dudas Fallece una agente medioambiental al caer de 40 metros en una cala de Moraira Detenido en Sevilla un influencer por incitar al odio contra las mujeres en sus redes social...
+		Fecha/Hora: 2025-11-26 09:28:03
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de la Comunidad Valenciana | ESdiario Mazón desmiente que Vilaplana le llevara en coche: "Esto parece el Sálvame" El presidente de la Generalitat se detiene ante la prensa para negar rotundamente los últimos detalles difundidos sobre su comida el día de la riada del 29 de octubre Mazón conocía la inundación de Utiel el 29-O mientras estaba en el Ventorro: su jefe de Gabinete le informó por WhatsApp José Manuel Cuenca declara en sede judicial como testigo y desvela toda la información que el presidente obtenía a través de él sobre las inundaciones mientras estaba de comida El Rey Fe...
+		Fecha/Hora: 2025-11-26 13:15:36
+		Fuente: WEB https://www.esdiario.com/comunidad-valenciana
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Hallan el cadáver de una mujer con signos de violencia en una vivienda de Málaga Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Investigan si una colilla mal apagada fue el origen del incendio del hospital de Cartagena Un incendio controlado en media hora: así frenaron los bomberos de Cartagena las llamas en el hospital Santa Lucía La Policía Nacional registra la clínica dental de Valencia donde fue tratada la niña fallecida Cae en Dénia un punto de venta de droga enmascarado como asociación cannábica Capturan en...
+		Fecha/Hora: 2025-11-26 17:41:18
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de la Comunidad Valenciana | ESdiario Mazón desmiente que Vilaplana le llevara en coche: "Esto parece el Sálvame" El presidente de la Generalitat se detiene ante la prensa para negar rotundamente los últimos detalles difundidos sobre su comida el día de la riada del 29 de octubre Mazón conocía la inundación de Utiel el 29-O mientras estaba en el Ventorro: su jefe de Gabinete le informó por WhatsApp José Manuel Cuenca declara en sede judicial como testigo y desvela toda la información que el presidente obtenía a través de él sobre las inundaciones mientras estaba de comida A la izqu...
+		Fecha/Hora: 2025-11-26 17:41:39
+		Fuente: WEB https://www.esdiario.com/comunidad-valenciana
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN El director de una oficina de CaixaBank en Tarragona, herido tras ser apuñalado por un cliente Hallan el cadáver de una mujer con signos de violencia en una vivienda de Málaga Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Investigan si una colilla mal apagada fue el origen del incendio del hospital de Cartagena Un incendio controlado en media hora: así frenaron los bomberos de Cartagena las llamas en el hospital Santa Lucía La Policía Nacional registra la clínica dental de Valencia donde fue tratada la niña falle...
+		Fecha/Hora: 2025-11-26 18:35:44
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de Sucesos y Tribunales en INFORMACIÓN Dolor por la muerte de Cristina, la agente medioambiental que se precipitó al vacío en Moraira: "Tenía gran vocación y era fuerte y luchadora" El director de una oficina de CaixaBank en Tarragona, herido tras ser apuñalado por un cliente Hallan el cadáver de una mujer con signos de violencia en una vivienda de Málaga Diez consejos de la Policía Nacional para no ser estafado en el Black Friday Investigan si una colilla mal apagada fue el origen del incendio del hospital de Cartagena Un incendio controlado en media hora: así frenaron los bombero...
+		Fecha/Hora: 2025-11-26 18:52:42
+		Fuente: WEB https://www.informacion.es/sucesos/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Noticias de la Comunidad Valenciana | ESdiario Sánchez tiembla: Ábalos tira ya de la manta y este jueves tiene cita en el Supremo Mazón desmiente que Vilaplana le llevara en coche: "Esto parece el Sálvame" El presidente de la Generalitat se detiene ante la prensa para negar rotundamente los últimos detalles difundidos sobre su comida el día de la riada del 29 de octubre Mazón conocía la inundación de Utiel el 29-O mientras estaba en el Ventorro: su jefe de Gabinete le informó por WhatsApp José Manuel Cuenca declara en sede judicial como testigo y desvela toda la información que el president...
+		Fecha/Hora: 2025-11-26 20:27:03
+		Fuente: WEB https://www.esdiario.com/comunidad-valenciana
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Terrorismo: 3 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 9 foco(s) – principales áreas: localización no especificada
+	• Disturbios Civiles: 3 foco(s) – principales áreas: localización no especificada
+	• Hazards: 7 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

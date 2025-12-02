@@ -1,0 +1,182 @@
+🧱 INFORME SICU – VERSIÓN AUTOMÁTICA
+⸻
+0. ENCABEZADO
+	•	País / Área SRM: HAITI / Haiti
+	•	Fecha (día operativo): 2025-12-02
+	•	Hora de edición: 2025-12-02 13:38:03
+	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
+	•	Fuentes abiertas + incidentes SICU del día
+
+⸻
+🌤 METEOROLOGÍA
+
+(OWM / AEMET según país)
+	•	Temp / ST: [por integrar]
+	•	Viento: [por integrar]
+	•	Presión: [por integrar]
+	•	Visibilidad: [por integrar]
+	•	Nubosidad: [por integrar]
+	•	Probabilidad precipitación: [por integrar]
+	•	Mini-pronóstico 6–12 h: [por integrar]
+	•	Impacto operativo: [pendiente de análisis específico]
+
+⸻
+1. RESUMEN EJECUTIVO
+
+(Día operativo 2025-12-02 – total incidentes SICU: 12)
+
+• Conflicto Armado: 3 incidente(s) registrado(s).
+• Criminalidad: 6 incidente(s) registrado(s).
+• Disturbios Civiles: 3 incidente(s) registrado(s).
+
+➤ Análisis cualitativo: [Por integrar manualmente]
+
+⸻
+2. DESGLOSE DE EVENTOS POR CATEGORÍAS SICU
+
+(En cada subapartado se añade: Descripción general + incidentes con formato obligatorio)
+
+⸻
+2.1. TERRORISMO
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+2.2. CONFLICTO ARMADO
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-12-02 07:02:24
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-12-02 09:08:26
+		Fuente: WEB https://safeairspace.net
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Safe Airspace - Conflict Zone & Risk Database La base de datos Conflict Zone & Risk Database proporciona un recurso único, independiente y eternamente libre para todas las advertencias de riesgo del espacio aéreo, de modo que las aerolíneas y los operadores de aeronaves puedan ver fácilmente la imagen de riesgo actual para el espacio aéreo desconocido. Safe Airspace es una iniciativa de OPSGROUP , una organización independiente de miembros con 7000 miembros, compuesta por aerolíneas, departamentos de vuelos corporativos, operadores privados, operadores charter, militares y gubernamentales.
+		Fecha/Hora: 2025-12-02 11:11:12
+		Fuente: WEB https://safeairspace.net
+
+⸻
+2.3. CRIMINALIDAD
+
+	• Incidentes registrados: 6
+	• Principales áreas afectadas: Mirebalais Hospital (3), Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-12-02 07:01:27
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Las últimas noticias de hoy del Secretario de Seguridad Nacional de Al Jazeera Noem determinan que es seguro que los haitianos regresen a casa, a pesar de la violencia generalizada de las pandillas.
+		Fecha/Hora: 2025-12-02 07:01:28
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-12-02 09:07:30
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Las últimas noticias de hoy del Secretario de Seguridad Nacional de Al Jazeera Noem determinan que es seguro que los haitianos regresen a casa, a pesar de la violencia generalizada de las pandillas.
+		Fecha/Hora: 2025-12-02 09:07:31
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+	• Localización: Mirebalais Hospital
+		Breve descripción analítica: El asesinato del Presidente Jovenel Moïse en 2021 agravó la crisis constitucional de Haití.
+		Fecha/Hora: 2025-12-02 11:10:13
+		Fuente: WEB https://www.hrw.org/americas/haiti
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Haití Haití Las últimas noticias de hoy del Secretario de Seguridad Nacional de Al Jazeera Noem determinan que es seguro que los haitianos regresen a casa, a pesar de la violencia generalizada de las pandillas.
+		Fecha/Hora: 2025-12-02 11:10:14
+		Fuente: WEB https://www.aljazeera.com/where/haiti/
+
+⸻
+2.4. DISTURBIOS CIVILES
+
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
+	• Descripción general: Ver bloque 1.
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-12-02 07:02:22
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-12-02 09:08:24
+		Fuente: WEB https://acleddata.com
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ACLED ACLED es un monitor de conflictos independiente e imparcial que proporciona datos y análisis en tiempo real sobre conflictos violentos y protestas en todos los países y territorios del mundo.
+		Fecha/Hora: 2025-12-02 11:11:10
+		Fuente: WEB https://acleddata.com
+
+⸻
+2.5. HAZARDS
+
+	No se registraron incidentes en esta categoría durante el día operativo.
+
+⸻
+3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
+
+Focos de hoy (24 h):
+	• Conflicto Armado: 3 foco(s) – principales áreas: localización no especificada
+	• Criminalidad: 6 foco(s) – principales áreas: localización no especificada, Mirebalais Hospital
+	• Disturbios Civiles: 3 foco(s) – principales áreas: localización no especificada
+
+Proyección 24–72 h: [Por integrar manualmente]
+
+⸻
+4. AVIACIÓN, MOVILIDAD Y CAMBIO
+
+Aviación:
+	• Estado de aeropuertos / helipuertos / corredores aéreos: [por integrar]
+	• NOTAM relevantes: [por integrar]
+	• Actividad aérea militar (UAV, artillería, jets): [por integrar]
+	• Impacto meteorológico en vuelos / evacuaciones: [por integrar]
+
+Movilidad:
+	• MSR activas / cerradas: [por integrar]
+	• Chequeos, bloqueos, focos de violencia: [por integrar]
+	• Riesgos de convoyes (UXO/MUSE, bandas, facciones armadas): [por integrar]
+	• Corredores recomendados: [por integrar]
+	• Zonas a restringir o prohibir: [por integrar]
+
+Cambio (Exchange / Mercado Negro / Liquidez):
+	• Cambio oficial del país → USD y EUR: [por integrar]
+	• Cambio real de calle / mercado negro: [por integrar]
+	• Disponibilidad de efectivo / colapsos bancarios / restricciones: [por integrar]
+	• Impacto operativo: coste para convoyes, capacidad de compra de personal ONU/INGO, inflación y deterioro económico local.
+
+⸻
+5. SITUACIÓN MISIÓN ONU / AUTORIDADES / FUERZA MULTINACIONAL
+	• Postura de seguridad UNDSS / SIOC: [por integrar]
+	• Riesgos para instalaciones y personal ONU: [por integrar]
+	• Estado del despliegue multinacional (ISF, BINUH, MINUSMA, etc.): [por integrar]
+	• Decisiones recientes del CSNU / Gobierno / Alianzas: [por integrar]
+	• Actividad hostil contra personal ONU o INGO: [por integrar]
+	• Cambios en reglas de movimiento / niveles de alerta: [por integrar]
+	• Evaluación estratégica del día: [por integrar]
+
+⸻
+6. RECOMENDACIONES
+
+6.1 Seguridad y Movilidad
+	• [Por completar manualmente]
+
+6.2 Humanitario / Hazards
+	• [Por completar manualmente]
+
+6.3 Marco Político–Estratégico / ONU / Fuerza Multinacional
+	• [Por completar manualmente]

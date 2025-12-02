@@ -1,0 +1,40 @@
+
+
+# =========================
+# Configuración SICU - YAML
+# =========================
+
+# País por defecto para afinar geocodificación (añadir al final de cada búsqueda si no aparece ya en el texto)
+default_country: "Libya"
+
+# Nombres de columnas tal y como están en tu CSV
+columns:
+  location: "Localización"
+  category: "Categoría SICU"
+  description: "Breve descripción"
+  date: "Fecha"                 # opcional
+  time: "Hora"                  # opcional
+  severity: "Nivel de severidad"  # opcional
+  subcategory: "Subcategoría"     # opcional
+
+# Mapa de colores por categoría SICU
+category_colors:
+  "Conflicto Armado": "red"
+  "Terrorismo": "darkred"
+  "Delincuencia": "orange"
+  "Disturbios Civiles": "blue"
+  "Hazards": "green"
+
+# Parámetros del mapa
+map:
+  center_lat: 32.8872   # Trípoli
+  center_lng: 13.1913
+  zoom_start: 6
+
+# Archivo de caché de geocodificación
+cache_file: "cache_geocoding.sqlite"
+
+# Proveedor de tiles
+tiles:
+  provider: "OpenStreetMap"   # Alternativas: "CartoDB positron", "Stamen Terrain", "Mapbox"
+  mapbox_style: "light-v11"   # Solo usado si provider == "Mapbox"

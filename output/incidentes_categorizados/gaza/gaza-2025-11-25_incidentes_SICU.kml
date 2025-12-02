@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gaza-2025-11-25_incidentes_SICU</name>
+    <open>1</open>
+    
+    <Style id="conflicto_armado">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="terrorismo">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="criminalidad">
+      <IconStyle>
+        <color>ff00a5ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="disturbios_civiles">
+      <IconStyle>
+        <color>ffff0000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="hazards">
+      <IconStyle>
+        <color>ff008000</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="otros">
+      <IconStyle>
+        <color>ff808080</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.9</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Conflicto Armado</name>
+
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:02:13</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:02:13<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:08:20</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:08:20<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:25:18</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:25:18<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:30:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:30:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:35:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:35:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:41:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:41:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:47:13</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:47:13<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:53:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:53:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 07:59:13</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 07:59:13<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:05:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:05:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:10:02</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:10:02<br><b>Localización:</b> Khan Younis<br><b>Descripción:</b> :: Complejo médico Nasser: mártir de disparos de ocupación en la localidad de Beni Suhila, dentro de la línea amarilla al este de Khan Younis]]></description>
+      <Point>
+        <coordinates>34.303000,31.343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:11:10</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:11:10<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:16:11</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:16:11<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:21:13</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:21:13<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:27:19</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:27:19<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:33:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:33:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:38:25</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:38:25<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:43:15</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:43:15<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:49:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:49:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 08:54:14</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 08:54:14<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:00:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:00:22<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:06:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:06:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:12:23</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:12:23<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:18:22</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:18:22<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:24:19</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:24:19<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:29:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:29:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:35:18</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:35:18<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:41:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:41:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:47:21</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:47:21<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:52:12</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:52:12<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 09:58:16</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 09:58:16<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> La orden militar del ejército de ocupación israelí de apoderarse de más de 77 dunums del territorio de la ciudad de Al-Issawiya es una peligrosa escalada de la &quot;jahad&quot; en la que se encuentran los restos mortales de uno de los tres prisioneros que quedan en Gaza. &quot;La Fundación Humanitaria de Gaza&quot; declara el fin de su misión en la Franja.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conflicto Armado — 2025-11-25 11:19:34</name>
+      <styleUrl>#conflicto_armado</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Conflicto Armado<br><b>Fecha:</b> 2025-11-25 11:19:34<br><b>Localización:</b> Al-Quds Hospital<br><b>Descripción:</b> Saraya Al-Quds, batallón de Yenín: Nuestros combatientes están librando intensos combates con las fuerzas enemigas que asedian una casa en la aldea de Marka, al sur de Jenin, al norte de la Ribera Occidental.]]></description>
+      <Point>
+        <coordinates>34.447000,31.496000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Terrorismo</name>
+
+    <Placemark>
+      <name>Terrorismo — 2025-11-25 11:25:33</name>
+      <styleUrl>#terrorismo</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Terrorismo<br><b>Fecha:</b> 2025-11-25 11:25:33<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> A pesar del acuerdo de cesación del fuego anunciado hace unos dos meses, Israel ha seguido disparando indiscriminadamente y bombardeando constantemente a la población. Hace unos días, el ejército de ocupación desplazó los cubos amarillos a 300 metros más hacia el interior, lo que provocó una nueva ola de desplazamientos bajo el bombardeo, en un momento en que la población no tenía otra alternativa o un lugar seguro al que acudir debido a la falta de alojamiento y al elevado costo del desplazamiento al sur.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+    <Folder>
+      <name>Criminalidad</name>
+
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 11:59:26</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 11:59:26<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> El ejército de ocupación israelí ha declarado el asesinato de dos palestinos en las últimas horas, después de haber bloqueado dos casas en Yenín y Naplusa al norte de la Ribera Occidental ocupada.]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Criminalidad — 2025-11-25 14:44:31</name>
+      <styleUrl>#criminalidad</styleUrl>
+      <visibility>1</visibility>
+      <description><![CDATA[<b>Categoría:</b> Criminalidad<br><b>Fecha:</b> 2025-11-25 14:44:31<br><b>Localización:</b> Gaza City<br><b>Descripción:</b> • Oficina de Información Pública del Gobierno de Gaza: la Fundación Humanitaria de Gaza era una falsa cobertura humanitaria y transformó sus centros de pesca de muerte y asesinatos en masa]]></description>
+      <Point>
+        <coordinates>34.450000,31.520000,0</coordinates>
+      </Point>
+    </Placemark>
+    </Folder>
+  </Document>
+</kml>
