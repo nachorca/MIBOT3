@@ -31,5 +31,4 @@ telethon==1.36.0
 # OpenAI client (optional features)
 openai>=1.44.0
 
-python -m pip install python-telegram-bot telethon snscrape lxml requests beautifulsoup4
 # y las demás librerías que sepas que usas (stanza, argostranslate, etc.)
