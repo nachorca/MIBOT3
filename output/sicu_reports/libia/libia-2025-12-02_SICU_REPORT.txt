@@ -3,7 +3,7 @@
 0. ENCABEZADO
 	•	País / Área SRM: LIBIA / Libia
 	•	Fecha (día operativo): 2025-12-02
-	•	Hora de edición: 2025-12-02 18:45:11
+	•	Hora de edición: 2025-12-02 23:29:43
 	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
 	•	Fuentes abiertas + incidentes SICU del día
 
@@ -23,12 +23,12 @@
 ⸻
 1. RESUMEN EJECUTIVO
 
-(Día operativo 2025-12-02 – total incidentes SICU: 23)
+(Día operativo 2025-12-02 – total incidentes SICU: 39)
 
 • Terrorismo: 3 incidente(s) registrado(s).
-• Conflicto Armado: 15 incidente(s) registrado(s).
-• Criminalidad: 3 incidente(s) registrado(s).
-• Disturbios Civiles: 2 incidente(s) registrado(s).
+• Conflicto Armado: 27 incidente(s) registrado(s).
+• Criminalidad: 4 incidente(s) registrado(s).
+• Disturbios Civiles: 5 incidente(s) registrado(s).
 
 ➤ Análisis cualitativo: [Por integrar manualmente]
 
@@ -62,8 +62,8 @@
 ⸻
 2.2. CONFLICTO ARMADO
 
-	• Incidentes registrados: 15
-	• Principales áreas afectadas: Tripoli (7), Localización no especificada (5), Misrata (2)
+	• Incidentes registrados: 27
+	• Principales áreas afectadas: Tripoli (11), Localización no especificada (8), Benghazi (5)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Localización no especificada
@@ -141,11 +141,71 @@
 		Fecha/Hora: 2025-12-02 17:54:58
 		Fuente: @almasartvlibya
 
+	• Localización: Benghazi
+		Breve descripción analítica: Parte de la reunión del Comandante Adjunto del Ejército Nacional con el Comandante del Mando Militar de los Estados Unidos en África ( Teniente General Adjunto del Ejército Nacional en Libia, y con la delegación de las instalaciones en la ciudad de Benghazi. La reunión fue testigo de un debate sobre la evolución internacional y regional y un examen de los esfuerzos conjuntos para hacer frente a las amenazas transfronterizas, promoviendo así la cooperación regional y contribuyendo a la estabilidad de la región.
+		Fecha/Hora: 2025-12-02 19:07:07
+		Fuente: @almasartvlibya
+
+	• Localización: Tripoli
+		Breve descripción analítica: Informes de inteligencia: Se acusa al Gobierno de Dabba de importar vehículos militares ucranianos “ilegalmente” a través del agregado militar ucranio de Argelia, Coronel Andrey Baiuk, algunos de los cuales van más allá, señalando la posibilidad de que se suministren paquetes de vehículos equipados con municiones o productos químicos que puedan causar graves daños a la salud a largo plazo, en particular el aumento de la incidencia del cáncer. Todo ello en medio de una total falta de atención de la Corte Penal Internacional, que hace caso omiso de esas violaciones, mientras que siguen emitie...
+		Fecha/Hora: 2025-12-02 19:07:08
+		Fuente: @jraimalmlyshyat
+
+	• Localización: Tripoli
+		Breve descripción analítica: La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro de los principales consumidores de electricidad de Egipto, rechazando los “cargos de invierno” y advirtiendo que no se cierren las fábricas centrales que venden divisas a los bancos, y dedica aproximadamente 2.000 millones de dólares de cooperación militar a las conversaciones sobre el afrikom en Trípoli para vender combustible en contravención. El responsable de la empresa internacional Al-Haraqah tras las rejas declara oficialmente que la inmigración ha...
+		Fecha/Hora: 2025-12-02 19:09:49
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 19:09:55
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Benghazi
+		Breve descripción analítica: • La Embajada de los Estados Unidos, a través de su página en la plataforma X, ha dejado claro que los debates se centraron en la importancia de mantener la estabilidad regional y fortalecer las vías comunes de coordinación en materia de seguridad. • La Embajada confirmó que los Estados Unidos siguen manteniendo contactos y colaborando con los comandantes militares libios en todo el país en apoyo de la unidad y la paz.
+		Fecha/Hora: 2025-12-02 20:28:46
+		Fuente: @gplusss
+
+	• Localización: Benghazi
+		Breve descripción analítica: El Comandante Adjunto de las Fuerzas Armadas se reunió con el Teniente General de las Fuerzas Armadas, Teniente General Saddam Hafter, en el cuartel general de la ciudad de Benghazi, con el Comandante de ... la iniciativa de establecer una asociación de administraciones electorales en los Estados del Magreb en el marco de las actividades de promoción de la cooperación regional y el desarrollo de la gobernanza democrática nacional.
+		Fecha/Hora: 2025-12-02 20:31:12
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Por invitación de su homólogo egipcio, el Jefe de Estado Mayor del Ejército Nacional, el primer rincón de Khaled-Khalifa-Fifter visita El Cairo y participa en las actividades de la Feria Internacional de Industrias de Defensa y Militares (Edicus-2025).
+		Fecha/Hora: 2025-12-02 20:32:57
+		Fuente: @almasartvlibya
+
+	• Localización: Tripoli
+		Breve descripción analítica: 9 Newsletter de la televisión de la ruta } Mister Hafter y Africom están buscando el fortalecimiento de la cooperación militar y de seguridad conjunta } Tarapelsi: 3 millones de inmigrantes ilegales } Delitos internacionales, en los que se fija la fecha de comparecencia de Hisshari ante la Sala de Cuestiones Preliminares  Televisión de la ruta HD: horizontal: HD 11373  [Enlace: https://youtube.com/live/HMgJAmbcbbs]
+		Fecha/Hora: 2025-12-02 22:13:28
+		Fuente: @almasartvlibya
+
+	• Localización: Brega
+		Breve descripción analítica: Senoussi: El jefe de Al-Bureqa vende petróleo a las torres militares turcas y a los habitantes de Fazan sufren restricciones.
+		Fecha/Hora: 2025-12-02 22:13:28
+		Fuente: @gplusss
+
+	• Localización: Tripoli
+		Breve descripción analítica: La salud niega la existencia de indicadores epidemiológicos del dólar en efectivo y en el banco que siguen aumentando en el mercado negro, los grandes consumidores de electricidad de Egipto rechazan los “cargos de invierno” y advierten de que no se cierren las fábricas centrales que venden divisas a los bancos y de que aproximadamente 2.000 millones de dólares de los EE.UU. se destinan a la frontera marítima de la fachada, mientras que la cooperación militar de Atenas está a la vanguardia de las conversaciones sobre la venta de combustible en Trípoli.
+		Fecha/Hora: 2025-12-02 22:16:22
+		Fuente: WEB https://libyaalahrar.tv/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataforma libia: seguridad y militar. Comuníquese con nosotros por correo electrónico@almenassa.ly
+		Fecha/Hora: 2025-12-02 22:16:30
+		Fuente: WEB https://almenassa.ly/%D8%A7%D9%84%D8%AA%D8%B5%D9%86%D9%8A%D9%81%D8%A7%D8%AA/%d8%a3%d9%85%d9%86%d9%8a-%d9%88%d8%b9%d8%b3%d9%83%d8%b1%d9%8a/
+
+	• Localización: Benghazi
+		Breve descripción analítica: El Comandante Adjunto de las Fuerzas Armadas se reunió con el Teniente General de las Fuerzas Armadas, Teniente General Saddam Hafter, en el cuartel general de la ciudad de Benghazi, con el Comandante de ... la iniciativa de establecer una asociación de administraciones electorales en los Estados del Magreb en el marco de las actividades de promoción de la cooperación regional y el desarrollo de la gobernanza democrática nacional.
+		Fecha/Hora: 2025-12-02 22:36:46
+		Fuente: WEB https://www.alwatan-ly.com/libya/
+
 ⸻
 2.3. CRIMINALIDAD
 
-	• Incidentes registrados: 3
-	• Principales áreas afectadas: Suq al Jumaa (1), Tripoli (1), Tobruk (1)
+	• Incidentes registrados: 4
+	• Principales áreas afectadas: Tripoli (2), Suq al Jumaa (1), Tobruk (1)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Suq al Jumaa
@@ -163,11 +223,16 @@
 		Fecha/Hora: 2025-12-02 17:54:19
 		Fuente: WEB https://lywitness.com/category/%d8%a3%d8%ae%d8%a8%d8%a7%d8%b1-%d9%84%d9%8a%d8%a8%d9%8a%d8%a7/
 
+	• Localización: Tripoli
+		Breve descripción analítica: El Fiscal General ordena la detención de dos miembros de la formación de un grupo que comenzó a transportar drogas de cannabis y cocaína a través de tierra, desde lápida hasta Trípoli y luego hasta ácaros. El Fiscal General está vigilando el movimiento de sustancias prohibidas y siguiendo los acuerdos de tráfico, lo que ha dado lugar a la incautación de sospechosos en flagrante delito con 118 kilogramos de cannabis; y 24 kilogramos de cocaína.
+		Fecha/Hora: 2025-12-02 19:07:07
+		Fuente: @libyapress
+
 ⸻
 2.4. DISTURBIOS CIVILES
 
-	• Incidentes registrados: 2
-	• Principales áreas afectadas: Localización no especificada (1), Benghazi (1)
+	• Incidentes registrados: 5
+	• Principales áreas afectadas: Localización no especificada (2), Benghazi (2), Tripoli (1)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Localización no especificada
@@ -180,6 +245,21 @@
 		Fecha/Hora: 2025-12-02 17:25:28
 		Fuente: WEB https://libyareview.com/
 
+	• Localización: Tripoli
+		Breve descripción analítica: Un testigo de la protesta de los pacientes con atrofia muscular frente al edificio de la presidencia de los ministros cerró la carretera de la ciudad de Trípoli.
+		Fecha/Hora: 2025-12-02 20:28:46
+		Fuente: @sefr0ly
+
+	• Localización: Benghazi
+		Breve descripción analítica: Inicio X Capital Libia ve manifestación por falta de apoyo médico El PNUD lanza un laboratorio de innovación juvenil para la justicia en Libia El funcionario de la prisión de Libia entregado a la Corte Penal Internacional por crímenes de guerra acusa al fiscal libio Brega de vender 22 millones de litros de combustible subvencionado a Turquía La Corte Penal Internacional condena los crímenes sistemáticos en los centros de detención de Libia Níger abre nuevos consulados en Benghazi y Sebha Libia y Turquía avanzan la asociación de energía renovable La UE tiene como objetivo aumentar la capacid...
+		Fecha/Hora: 2025-12-02 20:31:01
+		Fuente: WEB https://libyareview.com/
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: • El Vicepresidente del Partido Umma creía que si se le presionaba a través de los Estados Unidos de América, tal vez excluyendo a todos los opositores, los intentos de los Estados Unidos de resolver las elecciones presidenciales tendrían éxito. • Las conversaciones tuvieron lugar en un momento en que las protestas en Libia para exigir elecciones presidenciales se intensificaron, lo que puso a los equipos en una prueba política y física muy importante.
+		Fecha/Hora: 2025-12-02 22:13:28
+		Fuente: @gplusss
+
 ⸻
 2.5. HAZARDS
 
@@ -190,9 +270,9 @@
 
 Focos de hoy (24 h):
 	• Terrorismo: 3 foco(s) – principales áreas: Tripoli
-	• Conflicto Armado: 15 foco(s) – principales áreas: localización no especificada, Benghazi, Misrata, Tripoli
-	• Criminalidad: 3 foco(s) – principales áreas: Tobruk, Suq al Jumaa, Tripoli
-	• Disturbios Civiles: 2 foco(s) – principales áreas: localización no especificada, Benghazi
+	• Conflicto Armado: 27 foco(s) – principales áreas: Misrata, Tripoli, Brega, localización no especificada, Benghazi
+	• Criminalidad: 4 foco(s) – principales áreas: Tripoli, Suq al Jumaa, Tobruk
+	• Disturbios Civiles: 5 foco(s) – principales áreas: Tripoli, Benghazi, localización no especificada
 
 Proyección 24–72 h: [Por integrar manualmente]
 

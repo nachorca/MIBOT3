@@ -3,7 +3,7 @@
 0. ENCABEZADO
 	•	País / Área SRM: GAZA / Gaza
 	•	Fecha (día operativo): 2025-12-02
-	•	Hora de edición: 2025-12-02 13:44:37
+	•	Hora de edición: 2025-12-02 22:13:13
 	•	Unidad emisora: SANTIAGOLEGALCONSULTING – Unidad de Análisis SICU
 	•	Fuentes abiertas + incidentes SICU del día
 
@@ -23,13 +23,13 @@
 ⸻
 1. RESUMEN EJECUTIVO
 
-(Día operativo 2025-12-02 – total incidentes SICU: 43)
+(Día operativo 2025-12-02 – total incidentes SICU: 133)
 
-• Terrorismo: 18 incidente(s) registrado(s).
-• Conflicto Armado: 17 incidente(s) registrado(s).
-• Criminalidad: 5 incidente(s) registrado(s).
-• Disturbios Civiles: 1 incidente(s) registrado(s).
-• Hazards: 2 incidente(s) registrado(s).
+• Terrorismo: 58 incidente(s) registrado(s).
+• Conflicto Armado: 56 incidente(s) registrado(s).
+• Criminalidad: 13 incidente(s) registrado(s).
+• Disturbios Civiles: 3 incidente(s) registrado(s).
+• Hazards: 3 incidente(s) registrado(s).
 
 ➤ Análisis cualitativo: [Por integrar manualmente]
 
@@ -41,8 +41,8 @@
 ⸻
 2.1. TERRORISMO
 
-	• Incidentes registrados: 18
-	• Principales áreas afectadas: Gaza City (7), Localización no especificada (7), Khan Younis (2)
+	• Incidentes registrados: 58
+	• Principales áreas afectadas: Gaza City (32), Localización no especificada (19), Khan Younis (3)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Bani Suheila
@@ -135,11 +135,211 @@
 		Fecha/Hora: 2025-12-02 11:58:56
 		Fuente: @muthanapress84
 
+	• Localización: Localización no especificada
+		Breve descripción analítica: Seguimiento: El periodista Mohamed Salahih, hermano del mártir, resultó herido por el bombardeo israelí contra dos fotógrafos en el centro de Khanyonis
+		Fecha/Hora: 2025-12-02 14:14:57
+		Fuente: @muthanapress84
+
+	• Localización: Khan Younis
+		Breve descripción analítica: En la continuación de las violaciones de la tregua por la ocupación, el fotógrafo del periodista Mahmoud Issam Wade fue muerto por un bombardeo israelí en el centro de Khan Younis esta mañana.
+		Fecha/Hora: 2025-12-02 14:14:58
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ∙ Autoridades ucranianas de Donetsk: 3 civiles muertos y otros heridos en un bombardeo ruso en la provincia
+		Fecha/Hora: 2025-12-02 14:14:59
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El fotógrafo de prensa Mahmoud Wade, que acaba de citar el bombardeo de un avión de avance para la ocupación en Khanyonis.
+		Fecha/Hora: 2025-12-02 14:14:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las escenas de la retirada de las fuerzas de ocupación después de la explosión de la casa del prisionero Abdelkarim Anubir en Zoata, en Naplusa.
+		Fecha/Hora: 2025-12-02 14:14:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación irrumpieron en la ciudad ocupada de Abu Dis, al este de Jerusalén, en medio del lanzamiento de bombas de sonido y gas.
+		Fecha/Hora: 2025-12-02 14:14:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El periodista Mahmoud Wade fue muerto por un bombardeo de un avión de ocupación en Khanyonis.
+		Fecha/Hora: 2025-12-02 14:14:59
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Urgente Netanyahu: insisten en impedir que los terroristas y los actos hostiles se encuentren cerca de nuestras fronteras
+		Fecha/Hora: 2025-12-02 14:52:57
+		Fuente: @EabriLive | @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación israelíes continuaron su agresión contra la ciudad de Tulkarem y sus campamentos en el día 310, respectivamente, y contra el campamento de Nur Shams en el día 297 en el que continuaron las demoliciones y los bombardeos dentro de los campamentos, mientras que las fuerzas de ocupación israelíes continuaron sus incursiones, las detenciones y los ataques contra los asentamientos. Durante el mes pasado, las fuerzas de ocupación israelíes y sus campamentos continuaron con una grave escalada de la agresión contra la ciudad de Tulkarem y sus campamentos en la ciudad de Al-Q...
+		Fecha/Hora: 2025-12-02 14:54:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico Al-Quds Al-Jabayr informó y publicó sus artículos en el Foro Al-Jazeera de Egipto: Coordinamos con Washington la presidencia conjunta de la Conferencia de Reconstrucción de Gaza y la próxima muerte de un periodista tras el bombardeo de una marcha de ocupación en el centro de Janice Qatar: estamos trabajando con los mediadores para llegar a la segunda fase del Acuerdo de Gaza en Gran Bretaña, instando a un escritor estadounidense a que acceda sin trabas a la Franja de Gaza: esta historia del fracaso histórico de los demócratas en el expediente de Gaza Palestina: el cierre por Is...
+		Fecha/Hora: 2025-12-02 14:55:53
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La posición hebrea de Mfzaki Raim: Ayer, el miembro de Hezbollah Ali Fadi Mohsen fue asesinado a consecuencia de las heridas sufridas en el bombardeo de su vehículo en la aldea de Tul, en Nabatiya, en el Líbano meridional, el 13 de noviembre de 2025.
+		Fecha/Hora: 2025-12-02 15:03:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Bombardeo de artillería israelí contra las zonas orientales de la manzana al este de Gaza
+		Fecha/Hora: 2025-12-02 15:16:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La artillería de ocupación bombardea zonas al este del barrio de Tuffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 15:31:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: * Cuatro heridos llegaron al hospital de Al-Baddani como consecuencia de un bombardeo de artillería cerca del cruce de Sinafor, en el barrio de Tuffah, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-12-02 16:09:56
+		Fuente: @hamza20300 | @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fotografías de la despedida del mártir fotógrafo Mahmud Wade, que se levantó en el bombardeo de la marcha de ocupación en el centro de Khanyonis, al sur de la Faja de Gaza
+		Fecha/Hora: 2025-12-02 16:16:56
+		Fuente: @GazaNewsNow | @gazaalanar
+
+	• Localización: Gaza City
+		Breve descripción analítica: El ejército israelí está llevando a cabo una operación de bombardeo en la línea amarilla al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 16:25:56
+		Fuente: @gazaalanar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación dispara bombas de gas y sonido contra los jóvenes después de la incursión en la ciudad de Zabababad, al sur de Jenin
+		Fecha/Hora: 2025-12-02 16:30:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Cuatro heridos por el bombardeo de la artillería de ocupación en el perímetro de la intersección de los Sanafour, al este del barrio de Tuffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 16:37:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La ocupación está llevando a cabo una explosión en el campamento de Jenin.
+		Fecha/Hora: 2025-12-02 16:47:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Rafah
+		Breve descripción analítica: El Club Al-Assara está tratando de borrar el campeonato de Al-Sinair a través de los túneles de Rafah. Un periodista, después del bombardeo de una marcha de ocupación en el centro de Janjuns, a pesar de la cesación del fuego y la garantía de Trump.
+		Fecha/Hora: 2025-12-02 16:50:39
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Las fuerzas de ocupación están llevando a cabo una explosión en el campamento de Jenin, al norte de la Ribera Occidental, durante la invasión.
+		Fecha/Hora: 2025-12-02 17:14:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: # Una gran explosión al este de la ciudad de Gaza, causada por la agresión israelí #
+		Fecha/Hora: 2025-12-02 17:19:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periodista Mahmoud Wade, que fue abatido por el bombardeo de la ocupación, se despidió en Khan Younis, al sur de la Franja de Gaza.
+		Fecha/Hora: 2025-12-02 17:31:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: El transporte de nuevas víctimas; el bombardeo de viviendas cerca de la encrucijada de los Sanfur, al este del barrio de Tuffah, al este de la ciudad de Gaza, por la artillería de ocupación.
+		Fecha/Hora: 2025-12-02 17:48:58
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico Al-Quds Al-Jadidah ha registrado y publicado sus artículos en el Foro del Ejército de Jerusalén, en los que cuatro palestinos han sido bombardeados por la artillería del ejército israelí al este de Gaza, en los que se ha impuesto un toque de queda en la ciudad de Qabatiya al sur de Jenin, Israel. El movimiento Hamas ha recibido muestras de restos mortales de prisioneros israelíes que anuncian una escalada de los restos mortales de un prisionero de la Franja de Gaza que es probable que reciba muestras de restos mortales.
+		Fecha/Hora: 2025-12-02 17:52:44
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los últimos acontecimientos sobre el terreno en el barrio de Al-Tuffah, al este de la ciudad de Gaza, tras el bombardeo de la ocupación, se produjeron varias bajas desde la zona de Sinafor, en el barrio de Al-Tuffah, al este de la ciudad de Gaza, después de que varios obuses de artillería de ocupación cayeran sobre las casas de los ciudadanos. - Varios proyectiles cayeron sobre una casa habitada perteneciente a la familia Al-Shiqi.
+		Fecha/Hora: 2025-12-02 17:54:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ocupación continúa con los bombardeos de artillería en los alrededores de la intersección de Sinafor, en el barrio de Tuffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: La defensa civil, en el último balance, dos mártires, entre ellos un niño, y más de 15 heridos como consecuencia del bombardeo de la artillería israelí contra una casa de la familia Al-Skani, en el barrio de Taffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: En el momento en que se trasladó a uno de los niños heridos por el bombardeo de la ocupación, al este del barrio de Tuffa, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 19:07:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Una persona resultó gravemente herida como consecuencia del bombardeo de la artillería de ocupación de la escuela Al-Raf, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 19:07:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ocupación está lanzando bombas de sonido en los alrededores de la plaza Shua y la escuela de manzanas al este de Gaza.
+		Fecha/Hora: 2025-12-02 19:17:03
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: - Los Estados Unidos proporcionaron a Israel enormes cantidades de armas para bombardear la Franja de Gaza, utilizaron el veto contra la cesación del fuego, defendieron a Netanyahu ante la Corte Penal Internacional e hicieron caso omiso de sus propias políticas sobre unidades acusadas de crímenes de guerra. - Esta política reveló la “invertir” de los demócratas y sus contradicciones con su discurso sobre el sistema basado en normas, los principios de igualdad y justicia, debilitaron su posición ante los jóvenes votantes y permitieron que Netanyahu invirtiera el apoyo de los Estados Unidos a...
+		Fecha/Hora: 2025-12-02 19:17:04
+		Fuente: @GazaNewsNow
+
+	• Localización: Beit Lahia
+		Breve descripción analítica: Explosión de un robot bomba en Beit Lahiya, al norte del sector
+		Fecha/Hora: 2025-12-02 19:18:05
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos mártires, entre ellos un niño, y más de 20 heridos, a consecuencia del bombardeo de la artillería de la ocupación en la zona de los manantiales y en la escuela de Daily, al este de Gaza.
+		Fecha/Hora: 2025-12-02 20:28:43
+		Fuente: @gazaalanar | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Una madre despedía a su hijo, que citó el bombardeo de la ocupación, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 20:28:43
+		Fuente: @gazaalanar | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: El portavoz de la defensa civil Mahmoud Basal sigue los últimos acontecimientos sobre el terreno tras el bombardeo de la ocupación al este de la ciudad de Gaza y la continuación de las violaciones del acuerdo de cesación del fuego
+		Fecha/Hora: 2025-12-02 20:28:43
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Gaza no se detiene o se despedía de su hijo, que había ascendido a un mártir en el bombardeo de la ocupación y en la violación del acuerdo de cesación del fuego en Gaza
+		Fecha/Hora: 2025-12-02 20:28:43
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Aceleró el bombardeo de la artillería israelí y el fuego intenso y continuo en los alrededores del cruce de Sinafor, en el barrio de Tuffah, al este de la ciudad de Gaza
+		Fecha/Hora: 2025-12-02 20:28:43
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: La ocupación está disparando y bombardeando con artillería la zona de los Sanafour, al este del barrio de Tuffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 20:28:44
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Dos mártires, entre ellos un niño, y más de 15 heridos como resultado del bombardeo de la artillería israelí contra una casa perteneciente a la familia Al-Skani, en la zona de Sinafor, en el barrio de Taffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 20:28:44
+		Fuente: @yaseenpress2004
+
 ⸻
 2.2. CONFLICTO ARMADO
 
-	• Incidentes registrados: 17
-	• Principales áreas afectadas: Localización no especificada (13), Gaza City (3), Bureij (1)
+	• Incidentes registrados: 56
+	• Principales áreas afectadas: Localización no especificada (39), Gaza City (14), Bureij (1)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Gaza City
@@ -227,11 +427,206 @@
 		Fecha/Hora: 2025-12-02 11:34:57
 		Fuente: @yaseenpress2004
 
+	• Localización: Gaza City
+		Breve descripción analítica: En lugar de tratar de llegar a acuerdos, Israel prefiere mantener los frentes en el Líbano y la República Árabe Siria: Ha ' aretz, por un lado, a Tesfiel, que en los últimos días ha sido testigo de varias operaciones militares israelíes que han puesto en tela de juicio las verdaderas intenciones de Israel en el Líbano y Siria; el asesinato del Jefe de Estado Mayor de Hizbollah, Haytham Ali Tabababi, y los ataques diarios contra "objetivos" en el Líbano, así como la preparación para una gran campaña terrestre, así como la detención de activistas sirios en el Golán sirio, que han dado lugar a...
+		Fecha/Hora: 2025-12-02 14:14:58
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El reportero militar del canal hebreo Kaan: "Lo que pasó esta mañana en el proceso de apuñalamiento en el asentamiento de Attite muestra que las tropas carecen de profesionalidad en el tratamiento de los acontecimientos, donde los soldados llevan cuatro meses en la Ribera Occidental y se supone que deben saber cómo detenerse en los puestos de control y los puestos de control".
+		Fecha/Hora: 2025-12-02 14:14:58
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Línea Hebrea Sharon, canal hebreo: estos soldados llevan cuatro meses en la Ribera Occidental, tiempo suficiente para entrenarse en el control del puesto de control y llevar a cabo todas las tareas. Sin embargo, las tropas carecen totalmente de profesionalidad por parte de la FPNUL, como lo demuestra la operación Gush Etzion, que tuvo lugar hace dos semanas, si el experto militar estratégico hubiera prestado servicio durante un minuto en el ejército, se habría dado cuenta de ello.
+		Fecha/Hora: 2025-12-02 14:14:58
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Envío de vehículos militares entregados por Rusia al Irán en la actualidad: 40 camiones con vehículos desconocidos,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-02 14:14:58
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: □ Urgente Netanyahu: Queremos crear una zona desmilitarizada desde Damasco hasta el monte Sheikh
+		Fecha/Hora: 2025-12-02 14:52:57
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Durante el mes pasado, las fuerzas de ocupación llevaron a cabo importantes obras de refuerzo militar, al tiempo que comenzaron a arrasar las calles y las carreteras que habían abierto en los campamentos de Tulkarem y Nursem. - La ocupación trató de imponer el statu quo para poner fin a los campamentos y convertirlos en barrios de la ciudad e impedir la reconstrucción de viviendas destruidas dentro del campamento, que hasta la fecha han dado lugar a la demolición de unas 1440 viviendas.
+		Fecha/Hora: 2025-12-02 15:03:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Principios de Netanyahu para llegar a un acuerdo con Siria: - Protección de las fronteras de Israel (1967): prevención de la colocación de terroristas y de las operaciones hostiles contra Israel (1967); protección de los drusos (1963); garantía de que Israel esté a salvo de una operación terrestre o de otro tipo (1976); zonas desmilitarizadas desde Damasco hasta Jabal el-Sheikh
+		Fecha/Hora: 2025-12-02 15:09:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: *Vídeo que documenta la llegada de refuerzos militares a la ciudad de Qabatiya, al sur de Jenin; en paralelo con un toque de queda total en la ciudad
+		Fecha/Hora: 2025-12-02 15:38:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: El líder del movimiento de resistencia de la Ribera Occidental, que murió ayer por la mañana del lunes 01 de diciembre de 2025, cuenta con el ala militar de Al-Quds Al-Quds al-Ŷihad Islámica en Palestina, su hijo Al-Hajahid, y con el prisionero libertador, el Jeque Ahmed Abdurrahman Abu al-Jayir "Abu Saleh", uno de los líderes de la resistencia más prominentes de la Ribera Occidental, quien murió en Al-Alaa ayer por la mañana, el lunes 01 de diciembre de 2025, después de una marcha a gran escala de la Yihad Islámica en la ciudad de Sila al-Harethiya y de una antorcha de la resistencia en Je...
+		Fecha/Hora: 2025-12-02 15:43:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El estallido de enfrentamientos entre los jóvenes y las fuerzas de ocupación en la localidad de Zababad, al sur de Jenin.
+		Fecha/Hora: 2025-12-02 15:47:57
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Antenaho: Espero que el Golán cree una zona desmilitarizada en el sur de Siriastán , que se haya desmilitarizado .  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-02 16:04:58
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: La oficina del Primer Ministro de Israel recibió, a través de la Cruz Roja, los restos de los que fueron trasladados de la Franja de Gaza y entregados a las fuerzas del ejército israelí y a la Shabak dentro del territorio de la Franja de Gaza, donde serán recibidos en una ceremonia militar en presencia de un rabino militar, después de lo cual serán trasladados a Israel, al Instituto Nacional de Medicina Forense del Ministerio de Salud.
+		Fecha/Hora: 2025-12-02 16:05:56
+		Fuente: @hamza20300
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes del hospital bautista: heridos por disparos del ejército de ocupación en el barrio de Tuffah, al noreste de la ciudad de Gaza
+		Fecha/Hora: 2025-12-02 16:30:57
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Plataformas de colonos: la población informa de aviones de muy baja altitud en el norte, de sobrevuelos pesados en el centro y el norte del país, de lanzamientos masivos de aviones de combate israelíes en las bases del ejército del país,  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-02 16:30:57
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Un helicóptero militar que desembarque por aire a soldados del ejército israelí en la ciudad de Tubas.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-02 16:52:57
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Una fuente de seguridad siria para la Autoridad de Radiodifusión de Israel: Después del último incidente en Beit Jin, el acuerdo de seguridad con Israel sigue sobre la mesa y la respuesta militar no está en marcha. No hay obstáculo para establecer una base estadounidense en la zona de Damasco a fin de garantizar la estabilidad en el sur de [Siriastán]  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-02 16:53:57
+		Fuente: @Almustashaar
+
+	• Localización: Gaza City
+		Breve descripción analítica: En respuesta a las advertencias de Trump, el periódico Al-Quds Al-Jazeera publicó sus artículos con nosotros en el Foro Al-Quds Netanyahu: Queremos que Damasco meridional sea una zona desmilitarizada ocupada que confirme que se han recibido muestras de cadáveres de la Franja de Gaza para verificar su identidad con ocasión del Día Mundial de la Diabetidad ... el Banco de Palestina, las Razas de Palestina y el Hospital Al-Mashar terminan la campaña de protección contra la diabetes en una academia israelí que se está llevando a cabo después de haber sido detenida para describir a Netanyahu com...
+		Fecha/Hora: 2025-12-02 17:01:51
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Israel está atrapado entre un gran plan regional y un sueño de la normalización de distancia, y un primer ministro que cree en la casualidad: la historia de Anna Barski, que se extiende recientemente desde la oficina del Jefe de Gobierno hasta las historias bien coordinadas de enfrentamientos entre el Ministro del Ejército y el Jefe de Estado Mayor, es un medio de información sobre una comisión de investigación que debe y otra que se rechaza, incluso en la fase del proyecto, es mucho más amplia: la brecha cada vez mayor entre los grandes planes que se nos han puesto en el papel con una letr...
+		Fecha/Hora: 2025-12-02 17:10:57
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: El periódico Al-Quds Al-Jazeera ha registrado y publicado sus artículos en el Foro Al-Quds un sindicato tunecino que busca un juicio de prensa sin ser detenido por “razones de salud” Netanyahu en respuesta a las advertencias de Trump: “Al sur de Damasco queremos una zona desmilitarizada que confirme que se han recibido muestras de cadáveres de la Franja de Gaza para verificar su identidad con ocasión del Día Mundial de la Diabetes. ...
+		Fecha/Hora: 2025-12-02 17:12:42
+		Fuente: WEB https://www.alquds.com/ar/home
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes de los hospitales de Gaza: 5 mártires muertos por disparos del ejército de ocupación israelí en varias zonas del sector desde esta mañana
+		Fecha/Hora: 2025-12-02 17:37:57
+		Fuente: @AjaNews | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Movimientos activos y intensivos de aviación militar y de tráfico aéreo sobre Beirut
+		Fecha/Hora: 2025-12-02 17:37:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Fuentes médicas de Gaza: esta mañana, cinco mártires han sido asesinados por disparos de ocupación en zonas dispersas del sector.
+		Fecha/Hora: 2025-12-02 17:39:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Dos mártires y varios heridos por disparos de artillería.
+		Fecha/Hora: 2025-12-02 17:51:56
+		Fuente: @muthanapress84
+
+	• Localización: Gaza City
+		Breve descripción analítica: *Aceleró los disparos de la ocupación en la zona de cementerios, al oeste de la ciudad de Khan Yunis, al sur de la Franja de Gaza
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @GazaNewsNow | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Ha ' aretz sobre un documento militar: el ejército israelí tiene la intención de construir un muro de separación en Al-Aghwar para separar los asentamientos de las aldeas palestinas y aislar las aldeas palestinas entre sí. El muro previsto tiene una longitud de 22 kilómetros y una anchura de 50 metros.
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @Warlife3 | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Según un documento militar, el ejército israelí tiene previsto construir un muro de separación en Al-Awwar para separar los asentamientos de las aldeas palestinas y aislar las aldeas palestinas entre sí. ▪ El muro previsto tiene 22 kilómetros de largo y 50 metros de ancho y el ejército destruirá todas las viviendas y edificios palestinos en su camino
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @EabriLive
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Hebreo Life - Canal 14 Hebreo: “La súbita mediación entre Israel y Hezbollah” revela esta tarde que Egipto está tratando de mediar entre Israel y Hezbollah para evitar un enfrentamiento generalizado en el Líbano.
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @EabriLive | @Almustashaar
+
+	• Localización: Rafah
+		Breve descripción analítica: Raoei Kayes - El hebreo era: el líder de Hamas Ghazi Hamad, en su primer comentario sobre el asesinato de su hijo en los túneles de Rafah: "Abdullah era un activista del ala militar de Hamas, y tenemos el honor de que nuestros hijos sean activistas de esta organización".
+		Fecha/Hora: 2025-12-02 19:07:05
+		Fuente: @EabriLive
+
+	• Localización: Gaza City
+		Breve descripción analítica: Los detalles de la muerte de un niño y de varias heridas causadas por la ocupación de ciudadanos de la zona de Sinafor, al este de la ciudad de Gaza, son un mártir y varias heridas causadas por disparos de artillería contra la casa de la familia de Al-Habiya, en el barrio de Taffah, al este de la ciudad de Gaza.
+		Fecha/Hora: 2025-12-02 19:07:06
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: El Pentágono: Cualquier decisión que se adopte sobre determinadas operaciones militares en el hemisferio occidental será competencia exclusiva del Presidente.
+		Fecha/Hora: 2025-12-02 19:07:06
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Ha ' aretz, en relación con un documento militar: el muro previsto tiene una longitud de 22 kilómetros y una anchura de 50 metros, y el ejército destruirá todas las casas y edificios palestinos situados en su camino
+		Fecha/Hora: 2025-12-02 19:11:07
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Si bien es oficialmente un instrumento de rescate marítimo y extracción de recursos, su posible uso militar, especialmente cerca de zonas estratégicas como Guam, ha suscitado la preocupación de los expertos militares de todo el mundo. La capacidad de utilizar el dispositivo clandestinamente a través de vehículos submarinos es un logro tecnológico y una amenaza estratégica.
+		Fecha/Hora: 2025-12-02 19:11:07
+		Fuente: @yaseenpress2004
+
+	• Localización: Gaza City
+		Breve descripción analítica: Apurado... disparos de aviones en el puente de la mezquita de Ibeke y la escuela de Yava en el barrio de Tuffa, al este de Gaza, y varios heridos en el lugar.
+		Fecha/Hora: 2025-12-02 20:28:42
+		Fuente: @hamza20300 | @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - El estallido de enfrentamientos entre las fuerzas de ocupación y los jóvenes durante la incursión en la aldea de Silwad, al noreste de Ramallah.
+		Fecha/Hora: 2025-12-02 20:28:43
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: En este momento, se ha producido una incursión masiva en los helipuertos con la participación de helicópteros y disparos de helicópteros.  [Enlace: https://t.me/Almustashaar]
+		Fecha/Hora: 2025-12-02 20:28:44
+		Fuente: @Almustashaar
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: - Vicepresidente de la Duma rusa de la isla: los europeos se dirigen al enfrentamiento con Rusia y no confiamos en ellos después de todo lo que ha pasado.
+		Fecha/Hora: 2025-12-02 20:28:44
+		Fuente: @AjaNews
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Incidencia inmediata de enfrentamientos durante la incursión en la ciudad de Siload, al noreste de Ramallah, y ocupación que dispara con fuego real contra los jóvenes.
+		Fecha/Hora: 2025-12-02 20:28:44
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La zona este del barrio de Al-Tuffah es un campo de guerra, la zona se supone que está dentro de la zona verde segura, lo que podría calificarse de la mayor violación de la cesación del fuego, el bombardeo de artillería, el lanzamiento de bombas de cuádruple, los intensos disparos y los grandes avances de las máquinas. ¿Hay un brote de enfermedad, lesiones y miles de desplazados que se han visto obligados a salir de la zona bajo fuego?
+		Fecha/Hora: 2025-12-02 20:28:44
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Helicópteros del ejército de ocupación renovando los disparos de gran calibre contra zonas abiertas de la ciudad de Tubas.
+		Fecha/Hora: 2025-12-02 20:31:58
+		Fuente: @yaseenpress2004
+
 ⸻
 2.3. CRIMINALIDAD
 
-	• Incidentes registrados: 5
-	• Principales áreas afectadas: Localización no especificada (4), Gaza City (1)
+	• Incidentes registrados: 13
+	• Principales áreas afectadas: Localización no especificada (10), Gaza City (2), Al-Quds Hospital (1)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Localización no especificada
@@ -259,11 +654,51 @@
 		Fecha/Hora: 2025-12-02 11:12:57
 		Fuente: @GazaNewsNow
 
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Hebreo Life - Oficial de Seguridad de Israel - Canal 14 Hebreo: Los servicios de seguridad de Israel estiman que el asesinato de Al-Shara ' a por opositores en Siria es "muy probable".
+		Fecha/Hora: 2025-12-02 14:14:58
+		Fuente: @EabriLive | @hamza20300
+
+	• Localización: Al-Quds Hospital
+		Breve descripción analítica: El tribunal central de ocupación condena a siete años de prisión al joven Al-Quds Hamza Abu Nab acusado de planear el asesinato del llamado "Ministro de Seguridad Nacional".
+		Fecha/Hora: 2025-12-02 14:59:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: Activistas a favor de Palestina interrumpen una conferencia de mujeres para el senador estadounidense Mark Warner, protestando por su apoyo financiero al asesinato de mujeres palestinas y denunciando lo que él llamó "feminismo selectivo" apoyado por el dinero de Epak.
+		Fecha/Hora: 2025-12-02 15:25:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: :: Nombre: Mustapha Said Ibrahim Masood (de 39 años de edad): asesinato del Jeque Mohammed Abu Mustafa ▪ Trabajo actual: elemento mercenario del agente Hussam Al-Astal .
+		Fecha/Hora: 2025-12-02 15:31:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: La seguridad de la resistencia revela la participación de un agente mercenario en el asesinato del Jeque Mohammed Abu Mustapha, tras el asesinato del Jeque Mohammed Mahmoud Abu Mustafa (Khanyunis-40 años) el 2 de noviembre de 2025 en la zona de Mawasi Khaniunes, que los servicios de seguridad comenzaron a reunir pruebas y pruebas en la escena del crimen y a realizar amplias investigaciones sobre los motivos del asesinato y las personas sospechosas. - En los detalles figuran grabaciones de una motocicleta de tipo "Dion" del 2 de noviembre de 2025 en las inmediaciones de la capilla de Aisha,...
+		Fecha/Hora: 2025-12-02 15:52:56
+		Fuente: @GazaNewsNow
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: "Tu hermano por el macho y la oración fue condenado hoy a siete años de cárcel por planear el asesinato del llamado Ministro de Seguridad Nacional, Etmar Ben Gfier".
+		Fecha/Hora: 2025-12-02 16:37:57
+		Fuente: @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: :: Nombre: Mustapha Said Ibrahim Masood (de 39 años de edad): asesinato del Jeque Mohammed Abu Mustafa ▪ Trabajo actual: elemento mercenario del agente Hussam Al-Astal .
+		Fecha/Hora: 2025-12-02 17:20:57
+		Fuente: @yaseenpress2004
+
+	• Localización: Localización no especificada
+		Breve descripción analítica: ASESINATO DE LA ISLA: Voy a ir a la cárcel de buena fe y estoy seguro de que este precio no será en vano.
+		Fecha/Hora: 2025-12-02 20:52:52
+		Fuente: @AjaNews
+
 ⸻
 2.4. DISTURBIOS CIVILES
 
-	• Incidentes registrados: 1
-	• Principales áreas afectadas: Localización no especificada (1)
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (2), Gaza City (1)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Localización no especificada
@@ -271,11 +706,21 @@
 		Fecha/Hora: 2025-12-02 11:08:57
 		Fuente: @AjaNews
 
+	• Localización: Localización no especificada
+		Breve descripción analítica: Decenas de colonos protestan frente a la casa del jefe de ocupación rechazando la petición de perdón de Netanyahu.
+		Fecha/Hora: 2025-12-02 14:14:59
+		Fuente: @yaseenpress2004 | @GazaNewsNow
+
+	• Localización: Gaza City
+		Breve descripción analítica: Activistas que irrumpieron en Lockheed Martin, en Newcastle Australia, protestaron por la participación de la empresa en la fabricación de componentes de aviones F-35 que participaron en el exterminio de Gaza.
+		Fecha/Hora: 2025-12-02 16:09:57
+		Fuente: @yaseenpress2004
+
 ⸻
 2.5. HAZARDS
 
-	• Incidentes registrados: 2
-	• Principales áreas afectadas: Localización no especificada (2)
+	• Incidentes registrados: 3
+	• Principales áreas afectadas: Localización no especificada (3)
 	• Descripción general: Ver bloque 1.
 
 	• Localización: Localización no especificada
@@ -288,15 +733,20 @@
 		Fecha/Hora: 2025-12-02 09:12:32
 		Fuente: @GazaNewsNow
 
+	• Localización: Localización no especificada
+		Breve descripción analítica: • Defensa civil: Nuestros grupos se dirigieron a un incendio en el edificio de Dalay, en la región del país, la encrucijada del conocimiento, y cuando la tripulación llegó al lugar fueron atacados por grupos de las fuerzas ocupantes.
+		Fecha/Hora: 2025-12-02 19:11:07
+		Fuente: @yaseenpress2004
+
 ⸻
 3. MAPA DE FOCOS (24 h) Y PROYECCIÓN 24–72 h
 
 Focos de hoy (24 h):
-	• Terrorismo: 18 foco(s) – principales áreas: Al-Quds Hospital, localización no especificada, Bani Suheila, Gaza City, Khan Younis
-	• Conflicto Armado: 17 foco(s) – principales áreas: localización no especificada, Gaza City, Bureij
-	• Criminalidad: 5 foco(s) – principales áreas: localización no especificada, Gaza City
-	• Disturbios Civiles: 1 foco(s) – principales áreas: localización no especificada
-	• Hazards: 2 foco(s) – principales áreas: localización no especificada
+	• Terrorismo: 58 foco(s) – principales áreas: Khan Younis, Bani Suheila, Al-Quds Hospital, Gaza City, Rafah, localización no especificada, Beit Lahia
+	• Conflicto Armado: 56 foco(s) – principales áreas: Al-Quds Hospital, Gaza City, Rafah, localización no especificada, Bureij
+	• Criminalidad: 13 foco(s) – principales áreas: Al-Quds Hospital, Gaza City, localización no especificada
+	• Disturbios Civiles: 3 foco(s) – principales áreas: Gaza City, localización no especificada
+	• Hazards: 3 foco(s) – principales áreas: localización no especificada
 
 Proyección 24–72 h: [Por integrar manualmente]
 
